@@ -1,0 +1,354 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745922224107520,
+    "id_str": "1256745922224107520",
+    "text": "RT @Urbanbouy01: I can sleep peacefully now,  the job is done #NBSSNL \u2764\ud83d\udc4f https://t.co/JXpLOgpeY9",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    62,
+                    69
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Urbanbouy01",
+                "name": "Urban Bouy",
+                "id": 1041558047552954368,
+                "id_str": "1041558047552954368",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745034742927360,
+                "id_str": "1256745034742927360",
+                "indices": [
+                    73,
+                    96
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDa81kWkAA2GoC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDa81kWkAA2GoC.jpg",
+                "url": "https://t.co/JXpLOgpeY9",
+                "display_url": "pic.twitter.com/JXpLOgpeY9",
+                "expanded_url": "https://twitter.com/Urbanbouy01/status/1256745046717730816/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 720,
+                        "h": 1125,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 435,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 1125,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256745046717730816,
+                "source_status_id_str": "1256745046717730816",
+                "source_user_id": 1041558047552954368,
+                "source_user_id_str": "1041558047552954368"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745034742927360,
+                "id_str": "1256745034742927360",
+                "indices": [
+                    73,
+                    96
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDa81kWkAA2GoC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDa81kWkAA2GoC.jpg",
+                "url": "https://t.co/JXpLOgpeY9",
+                "display_url": "pic.twitter.com/JXpLOgpeY9",
+                "expanded_url": "https://twitter.com/Urbanbouy01/status/1256745046717730816/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 720,
+                        "h": 1125,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 435,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 1125,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256745046717730816,
+                "source_status_id_str": "1256745046717730816",
+                "source_user_id": 1041558047552954368,
+                "source_user_id_str": "1041558047552954368"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1256710560961507328,
+        "id_str": "1256710560961507328",
+        "name": "Future",
+        "screen_name": "Future01115849",
+        "location": "",
+        "description": "am maself",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 59,
+        "listed_count": 0,
+        "created_at": "Sat May 02 22:22:50 +0000 2020",
+        "favourites_count": 32,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256711296399130625/onYc42J3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256711296399130625/onYc42J3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256710560961507328/1588460808",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:39:02 +0000 2020",
+        "id": 1256745046717730816,
+        "id_str": "1256745046717730816",
+        "text": "I can sleep peacefully now,  the job is done #NBSSNL \u2764\ud83d\udc4f https://t.co/JXpLOgpeY9",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        45,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256745034742927360,
+                    "id_str": "1256745034742927360",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDa81kWkAA2GoC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDa81kWkAA2GoC.jpg",
+                    "url": "https://t.co/JXpLOgpeY9",
+                    "display_url": "pic.twitter.com/JXpLOgpeY9",
+                    "expanded_url": "https://twitter.com/Urbanbouy01/status/1256745046717730816/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 1125,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 435,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 1125,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256745034742927360,
+                    "id_str": "1256745034742927360",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDa81kWkAA2GoC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDa81kWkAA2GoC.jpg",
+                    "url": "https://t.co/JXpLOgpeY9",
+                    "display_url": "pic.twitter.com/JXpLOgpeY9",
+                    "expanded_url": "https://twitter.com/Urbanbouy01/status/1256745046717730816/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 1125,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 435,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 1125,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1041558047552954368,
+            "id_str": "1041558047552954368",
+            "name": "Urban Bouy",
+            "screen_name": "Urbanbouy01",
+            "location": "Uganda",
+            "description": "I'm a certified hustler |Digital Marketer & Promoter| [UK Used Phones] Available. Contact: 0701847221 Man United die hard #MUFC #GGMU",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 37136,
+            "friends_count": 4112,
+            "listed_count": 10,
+            "created_at": "Mon Sep 17 05:22:44 +0000 2018",
+            "favourites_count": 241148,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 63251,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256330274507456520/PgC_as5r_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256330274507456520/PgC_as5r_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 58,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

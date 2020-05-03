@@ -1,0 +1,268 @@
+{
+    "created_at": "Sun May 03 00:42:39 +0000 2020",
+    "id": 1256745956839694336,
+    "id_str": "1256745956839694336",
+    "text": "RT @Rmznkokk: Bu davan\u0131n sahibi Hak\u2019t\u0131r. Hak olan davada zafer muhakkakt\u0131r.\n\n\u00a0Necip Faz\u0131l K\u0131sak\u00fcrek\n\n#BuYoldanD\u00f6nmeyece\u011fiz https://t.co/JwO\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    101,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Rmznkokk",
+                "name": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7 Ramazan K\u00f6k \ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+                "id": 949781606285430784,
+                "id_str": "949781606285430784",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1239630635465150465,
+        "id_str": "1239630635465150465",
+        "name": "\ud83c\uddf9\ud83c\uddf7 M\u0130RZA. \ud83c\uddf9\ud83c\uddf7#EvdeKal\ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "02YAMAN3",
+        "location": " \ud83e\udd81Reis'in Aslanlar\u0131\ud83e\udd81",
+        "description": "RTE SEVDASI",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1570,
+        "friends_count": 1895,
+        "listed_count": 0,
+        "created_at": "Mon Mar 16 19:13:03 +0000 2020",
+        "favourites_count": 6415,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6171,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256350927210110978/kl443R9X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256350927210110978/kl443R9X_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239630635465150465/1588150092",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:31:03 +0000 2020",
+        "id": 1256697735517962242,
+        "id_str": "1256697735517962242",
+        "text": "Bu davan\u0131n sahibi Hak\u2019t\u0131r. Hak olan davada zafer muhakkakt\u0131r.\n\n\u00a0Necip Faz\u0131l K\u0131sak\u00fcrek\n\n#BuYoldanD\u00f6nmeyece\u011fiz https://t.co/JwOoRMrKB4",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        87,
+                        108
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256697732644909061,
+                    "id_str": "1256697732644909061",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCv7fhWsAUny-k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCv7fhWsAUny-k.jpg",
+                    "url": "https://t.co/JwOoRMrKB4",
+                    "display_url": "pic.twitter.com/JwOoRMrKB4",
+                    "expanded_url": "https://twitter.com/Rmznkokk/status/1256697735517962242/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 535,
+                            "h": 319,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 535,
+                            "h": 319,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 535,
+                            "h": 319,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256697732644909061,
+                    "id_str": "1256697732644909061",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCv7fhWsAUny-k.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCv7fhWsAUny-k.jpg",
+                    "url": "https://t.co/JwOoRMrKB4",
+                    "display_url": "pic.twitter.com/JwOoRMrKB4",
+                    "expanded_url": "https://twitter.com/Rmznkokk/status/1256697735517962242/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 535,
+                            "h": 319,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 535,
+                            "h": 319,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 535,
+                            "h": 319,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 949781606285430784,
+            "id_str": "949781606285430784",
+            "name": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7 Ramazan K\u00f6k \ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+            "screen_name": "Rmznkokk",
+            "location": "Bayrakl\u0131, \u0130zmir",
+            "description": "Ne ibrettir k\u0131zarmak bilmeyen \u00e7ehren.                                      B\u0131rak karde\u015fim tahsili; Git \u00f6nce, edep haya \u00f6\u011fren!              Mehmet Akif Ersoy",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 647,
+            "friends_count": 296,
+            "listed_count": 0,
+            "created_at": "Sat Jan 06 23:15:55 +0000 2018",
+            "favourites_count": 11712,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1331,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1241817925486608391/dsi7eNyq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241817925486608391/dsi7eNyq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/949781606285430784/1584907472",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 17,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

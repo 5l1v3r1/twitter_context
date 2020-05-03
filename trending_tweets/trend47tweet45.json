@@ -1,0 +1,213 @@
+{
+    "created_at": "Sun May 03 00:35:56 +0000 2020",
+    "id": 1256744263485882370,
+    "id_str": "1256744263485882370",
+    "text": "RT @TeamLouisNews: #TeamAlwaysYou, are you still with us?\n\u00a0\nKeep tweeting \"IT WAS ALWAYS YOU\" to trend it!! And don't forget to tag your ar\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    19,
+                    33
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TeamLouisNews",
+                "name": "Team Louis News",
+                "id": 41494279,
+                "id_str": "41494279",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 272777660,
+        "id_str": "272777660",
+        "name": "Tania L.",
+        "screen_name": "Niamrar",
+        "location": "",
+        "description": "Directioner. Fujoshi. Harry girl. Louis girl || TMH Tour || Premios Telehit || Harry Styles Live On Tour || Flicker World Tour",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 488,
+        "friends_count": 709,
+        "listed_count": 2,
+        "created_at": "Sun Mar 27 04:53:03 +0000 2011",
+        "favourites_count": 1544,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11992,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204982028531159040/hR6q3Kck_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204982028531159040/hR6q3Kck_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/272777660/1563241510",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:40:55 +0000 2020",
+        "id": 1256715320380792834,
+        "id_str": "1256715320380792834",
+        "text": "#TeamAlwaysYou, are you still with us?\n\u00a0\nKeep tweeting \"IT WAS ALWAYS YOU\" to trend it!! And don't forget to tag yo\u2026 https://t.co/JcXJTGjs6U",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TeamAlwaysYou",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JcXJTGjs6U",
+                    "expanded_url": "https://twitter.com/i/web/status/1256715320380792834",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 41494279,
+            "id_str": "41494279",
+            "name": "Team Louis News",
+            "screen_name": "TeamLouisNews",
+            "location": "",
+            "description": "LT Team here to provide timely updates and promote singer, songwriter @Louis_Tomlinson \u25df\u033d\u25de\u033d",
+            "url": "https://t.co/J1mSEH2jLQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/J1mSEH2jLQ",
+                            "expanded_url": "https://www.louis-tomlinson.com/",
+                            "display_url": "louis-tomlinson.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 36299,
+            "friends_count": 44,
+            "listed_count": 334,
+            "created_at": "Thu May 21 00:56:54 +0000 2009",
+            "favourites_count": 7970,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10358,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250153012854743045/z6pJQPpP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250153012854743045/z6pJQPpP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41494279/1586894683",
+            "profile_link_color": "D63125",
+            "profile_sidebar_border_color": "0048FF",
+            "profile_sidebar_fill_color": "001C29",
+            "profile_text_color": "2799D6",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 89,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

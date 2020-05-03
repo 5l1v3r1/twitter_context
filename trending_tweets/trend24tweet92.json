@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:14 +0000 2020",
+    "id": 1256745851361415171,
+    "id_str": "1256745851361415171",
+    "text": "RT @infamous_tweep: Serena influencers waiting for us to sleep so that they can trend #NBSSNL https://t.co/bgCkrDeVoh",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    86,
+                    93
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "infamous_tweep",
+                "name": "Infamous tweep \ud83c\uddfa\ud83c\uddec\ud83c\uddfa\ud83c\uddf8",
+                "id": 1251448728822722561,
+                "id_str": "1251448728822722561",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256743803471486976,
+                "id_str": "1256743803471486976",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZ1KuXYAADMgO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZ1KuXYAADMgO.jpg",
+                "url": "https://t.co/bgCkrDeVoh",
+                "display_url": "pic.twitter.com/bgCkrDeVoh",
+                "expanded_url": "https://twitter.com/infamous_tweep/status/1256743814489874438/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 607,
+                        "h": 489,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 607,
+                        "h": 489,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 607,
+                        "h": 489,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743814489874438,
+                "source_status_id_str": "1256743814489874438",
+                "source_user_id": 1251448728822722561,
+                "source_user_id_str": "1251448728822722561"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256743803471486976,
+                "id_str": "1256743803471486976",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZ1KuXYAADMgO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZ1KuXYAADMgO.jpg",
+                "url": "https://t.co/bgCkrDeVoh",
+                "display_url": "pic.twitter.com/bgCkrDeVoh",
+                "expanded_url": "https://twitter.com/infamous_tweep/status/1256743814489874438/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 607,
+                        "h": 489,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 607,
+                        "h": 489,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 607,
+                        "h": 489,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743814489874438,
+                "source_status_id_str": "1256743814489874438",
+                "source_user_id": 1251448728822722561,
+                "source_user_id_str": "1251448728822722561"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1135446336852152321,
+        "id_str": "1135446336852152321",
+        "name": "LegitBoss",
+        "screen_name": "AgabaAziz",
+        "location": "Kampala, Uganda",
+        "description": "A lateral thinker. Statistician.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5836,
+        "friends_count": 5386,
+        "listed_count": 1,
+        "created_at": "Mon Jun 03 07:21:17 +0000 2019",
+        "favourites_count": 17008,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6891,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254870629662232577/qXn-biAj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254870629662232577/qXn-biAj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135446336852152321/1563378147",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:34:09 +0000 2020",
+        "id": 1256743814489874438,
+        "id_str": "1256743814489874438",
+        "text": "Serena influencers waiting for us to sleep so that they can trend #NBSSNL https://t.co/bgCkrDeVoh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        66,
+                        73
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256743803471486976,
+                    "id_str": "1256743803471486976",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDZ1KuXYAADMgO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDZ1KuXYAADMgO.jpg",
+                    "url": "https://t.co/bgCkrDeVoh",
+                    "display_url": "pic.twitter.com/bgCkrDeVoh",
+                    "expanded_url": "https://twitter.com/infamous_tweep/status/1256743814489874438/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 607,
+                            "h": 489,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 607,
+                            "h": 489,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 607,
+                            "h": 489,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256743803471486976,
+                    "id_str": "1256743803471486976",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDZ1KuXYAADMgO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDZ1KuXYAADMgO.jpg",
+                    "url": "https://t.co/bgCkrDeVoh",
+                    "display_url": "pic.twitter.com/bgCkrDeVoh",
+                    "expanded_url": "https://twitter.com/infamous_tweep/status/1256743814489874438/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 607,
+                            "h": 489,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 607,
+                            "h": 489,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 607,
+                            "h": 489,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1251448728822722561,
+            "id_str": "1251448728822722561",
+            "name": "Infamous tweep \ud83c\uddfa\ud83c\uddec\ud83c\uddfa\ud83c\uddf8",
+            "screen_name": "infamous_tweep",
+            "location": "",
+            "description": "old account locked , follow me here ..remember my tweets can help you waste your time \ud83d\ude02\u270c\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3177,
+            "friends_count": 536,
+            "listed_count": 0,
+            "created_at": "Sat Apr 18 09:53:59 +0000 2020",
+            "favourites_count": 8402,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2168,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256548691026067465/Lcoba2M3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256548691026067465/Lcoba2M3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251448728822722561/1588257125",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 29,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

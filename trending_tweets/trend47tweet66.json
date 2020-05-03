@@ -1,0 +1,229 @@
+{
+    "created_at": "Sun May 03 00:32:52 +0000 2020",
+    "id": 1256743493751508994,
+    "id_str": "1256743493751508994",
+    "text": "RT @louistbr: #WALLSOLYMPICS \nFaltam apenas 15 minutos! Comentem aqui Louis Tomlinson letra por letra usando #TeamAlwaysYou e IT WAS ALWAYS\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WALLSOLYMPICS",
+                "indices": [
+                    14,
+                    28
+                ]
+            },
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    109,
+                    123
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "louistbr",
+                "name": "Louis Tomlinson Brasil \ud83c\udfe1",
+                "id": 890314075531595776,
+                "id_str": "890314075531595776",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 973585160674344960,
+        "id_str": "973585160674344960",
+        "name": "\ud835\udc1d\ud835\udc2e\ud835\udc1d\ud835\udc1a nsfr",
+        "screen_name": "lwtgirl91",
+        "location": "\ud835\udc43\ud835\udc5f\ud835\udc56\ud835\udc5b\ud835\udc50\ud835\udc52\ud835\udc60\ud835\udc60 \ud835\udc43\ud835\udc4e\ud835\udc5f\ud835\udc58",
+        "description": "#LIAM: \ud835\udc2d\ud835\udc22\ud835\udc26\ud835\udc1e \ud835\udc1e\ud835\udc27\ud835\udc23\ud835\udc28\ud835\udc32\ud835\udc1e\ud835\udc1d \ud835\udc30\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc1d\ud835\udc2c \ud835\udc27\ud835\udc28\ud835\udc2d \ud835\udc30\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc1d \ud835\udc2d\ud835\udc22\ud835\udc26\ud835\udc1e. fan account",
+        "url": "https://t.co/0X3Pyq6X3i",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/0X3Pyq6X3i",
+                        "expanded_url": "http://inzayn.com/",
+                        "display_url": "inzayn.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4270,
+        "friends_count": 3544,
+        "listed_count": 4,
+        "created_at": "Tue Mar 13 15:42:45 +0000 2018",
+        "favourites_count": 128240,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 57925,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252439338371018752/VkB-auHT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252439338371018752/VkB-auHT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/973585160674344960/1587439781",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:46:03 +0000 2020",
+        "id": 1256731712081592325,
+        "id_str": "1256731712081592325",
+        "text": "#WALLSOLYMPICS \nFaltam apenas 15 minutos! Comentem aqui Louis Tomlinson letra por letra usando #TeamAlwaysYou e IT WAS ALWAYS YOU.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WALLSOLYMPICS",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "text": "TeamAlwaysYou",
+                    "indices": [
+                        95,
+                        109
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 890314075531595776,
+            "id_str": "890314075531595776",
+            "name": "Louis Tomlinson Brasil \ud83c\udfe1",
+            "screen_name": "louistbr",
+            "location": "contatolouistbr@gmail.com",
+            "description": "Seu melhor e mais atualizado f\u00e3-site sobre o cantor e compositor Louis Tomlinson no Brasil!",
+            "url": "https://t.co/BrxriNenG6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BrxriNenG6",
+                            "expanded_url": "http://louistomlinsonbrasil.com",
+                            "display_url": "louistomlinsonbrasil.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 24783,
+            "friends_count": 173,
+            "listed_count": 210,
+            "created_at": "Wed Jul 26 20:53:11 +0000 2017",
+            "favourites_count": 7057,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 16162,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246085291326259200/dVe96oWn_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246085291326259200/dVe96oWn_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/890314075531595776/1585924883",
+            "profile_link_color": "4C4952",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 46,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

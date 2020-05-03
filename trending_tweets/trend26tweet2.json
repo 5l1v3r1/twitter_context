@@ -1,0 +1,112 @@
+{
+    "created_at": "Sun May 03 00:42:59 +0000 2020",
+    "id": 1256746036795543552,
+    "id_str": "1256746036795543552",
+    "text": "#OSegredoNaFloresta Lembrando q o Arthur eh um civil cm 8 de HP max e provavelmente vai morrer em algum boss",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    0,
+                    19
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 958474977627557888,
+        "id_str": "958474977627557888",
+        "name": "6 dias para Siren!! - Hanna Tsunari",
+        "screen_name": "HannaTsunari",
+        "location": "INTP",
+        "description": "\u2728 Ela\ud83d\udd3814\ud83d\udd38Pt-Eng\ud83d\udd38Fa\u00e7o desenhos\ud83d\udd38 Multifandom\ud83d\udd38Refugiada do G+\ud83d\udd38Rock Lee \u00e9 o melhor personagem\ud83d\udd38 #LDA \u2728\n\n\u2728 Meu Oc's: https://t.co/RzWbINabyI",
+        "url": "https://t.co/ez5BMwQWh6",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ez5BMwQWh6",
+                        "expanded_url": "https://www.deviantart.com/hannatsunari",
+                        "display_url": "deviantart.com/hannatsunari",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/RzWbINabyI",
+                        "expanded_url": "http://refsheet.net/HannaTsunari",
+                        "display_url": "refsheet.net/HannaTsunari",
+                        "indices": [
+                            111,
+                            134
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1498,
+        "friends_count": 1385,
+        "listed_count": 13,
+        "created_at": "Tue Jan 30 23:00:17 +0000 2018",
+        "favourites_count": 29998,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17719,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248613923240075273/XEixYZ0A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248613923240075273/XEixYZ0A_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/958474977627557888/1586137572",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

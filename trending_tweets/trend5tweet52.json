@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:42:15 +0000 2020",
+    "id": 1256745855010340866,
+    "id_str": "1256745855010340866",
+    "text": "RT @emtothea: Murder Hornets, but with the right lawyer, Manslaughter Bees",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "emtothea",
+                "name": "Emily Andras",
+                "id": 90472293,
+                "id_str": "90472293",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 15949610,
+        "id_str": "15949610",
+        "name": "Jeremy Caverly",
+        "screen_name": "JeremyCee",
+        "location": "Motown",
+        "description": "#Product-Focused Solution Architect Driving Value for Innovative, Global Clients | #FinTech + #Payments | #JTBD Disciple | #UX+#CX advocate since the 80s, baby.",
+        "url": "https://t.co/m96KCVIQHH",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/m96KCVIQHH",
+                        "expanded_url": "http://about.me/JeremyCee",
+                        "display_url": "about.me/JeremyCee",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2998,
+        "friends_count": 4999,
+        "listed_count": 305,
+        "created_at": "Fri Aug 22 20:14:16 +0000 2008",
+        "favourites_count": 27422,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20310,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1101173419297656833/jHVeB-qw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101173419297656833/jHVeB-qw_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15949610/1462643050",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:27:38 +0000 2020",
+        "id": 1256711976643956738,
+        "id_str": "1256711976643956738",
+        "text": "Murder Hornets, but with the right lawyer, Manslaughter Bees",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 90472293,
+            "id_str": "90472293",
+            "name": "Emily Andras",
+            "screen_name": "emtothea",
+            "location": "Toronto, Ontario...probably.",
+            "description": "Did some #LostGirl now I #WynonnaEarp. I will not bake bread no matter how long this thing lasts.",
+            "url": "https://t.co/1nROgDa9zc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1nROgDa9zc",
+                            "expanded_url": "http://www.imdb.com/name/nm0028118/?ref_=fn_al_nm_1",
+                            "display_url": "imdb.com/name/nm0028118\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 78450,
+            "friends_count": 1696,
+            "listed_count": 680,
+            "created_at": "Mon Nov 16 20:08:17 +0000 2009",
+            "favourites_count": 43435,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 38691,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1007122426789056512/ppzd9NCX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007122426789056512/ppzd9NCX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90472293/1584495833",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 345,
+        "favorite_count": 1882,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 345,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

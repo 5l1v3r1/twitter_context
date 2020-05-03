@@ -1,0 +1,391 @@
+{
+    "created_at": "Sun May 03 00:42:17 +0000 2020",
+    "id": 1256745861679325184,
+    "id_str": "1256745861679325184",
+    "text": "RT @jooaojacob: O meme vem pronto #OrePorBolsonaro https://t.co/3HDJXRmZbG",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jooaojacob",
+                "name": "JACOB DO TWITER",
+                "id": 620636208,
+                "id_str": "620636208",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256681166012284929,
+                "id_str": "1256681166012284929",
+                "indices": [
+                    51,
+                    74
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCg3MAWAAEw9MX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCg3MAWAAEw9MX.jpg",
+                "url": "https://t.co/3HDJXRmZbG",
+                "display_url": "pic.twitter.com/3HDJXRmZbG",
+                "expanded_url": "https://twitter.com/jooaojacob/status/1256681169204260865/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 713,
+                        "h": 421,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 402,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 713,
+                        "h": 421,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256681169204260865,
+                "source_status_id_str": "1256681169204260865",
+                "source_user_id": 620636208,
+                "source_user_id_str": "620636208"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256681166012284929,
+                "id_str": "1256681166012284929",
+                "indices": [
+                    51,
+                    74
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCg3MAWAAEw9MX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCg3MAWAAEw9MX.jpg",
+                "url": "https://t.co/3HDJXRmZbG",
+                "display_url": "pic.twitter.com/3HDJXRmZbG",
+                "expanded_url": "https://twitter.com/jooaojacob/status/1256681169204260865/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 713,
+                        "h": 421,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 402,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 713,
+                        "h": 421,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256681169204260865,
+                "source_status_id_str": "1256681169204260865",
+                "source_user_id": 620636208,
+                "source_user_id_str": "620636208"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2867923819,
+        "id_str": "2867923819",
+        "name": "FELIPE. \ud83c\uddea\ud83c\uddea",
+        "screen_name": "falconob10",
+        "location": "Cachoeirinha - RS ",
+        "description": "Gremista em 1\u00b0 lugar. Criado no Ol\u00edmpico, o Velho Casar\u00e3o da Azenha; com objetivo em ser jornalista. Aqui falo de tudo um pouco e, compartilho de tudo um pouco.",
+        "url": "https://t.co/JpDP8ar93h",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/JpDP8ar93h",
+                        "expanded_url": "http://medium.com/@felipefalcon",
+                        "display_url": "medium.com/@felipefalcon",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 655,
+        "friends_count": 2712,
+        "listed_count": 1,
+        "created_at": "Mon Oct 20 18:19:14 +0000 2014",
+        "favourites_count": 84263,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 35375,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1146204109785239553/SGxnNmOH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146204109785239553/SGxnNmOH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2867923819/1543832659",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:25:13 +0000 2020",
+        "id": 1256681169204260865,
+        "id_str": "1256681169204260865",
+        "text": "O meme vem pronto #OrePorBolsonaro https://t.co/3HDJXRmZbG",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OrePorBolsonaro",
+                    "indices": [
+                        18,
+                        34
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256681166012284929,
+                    "id_str": "1256681166012284929",
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCg3MAWAAEw9MX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCg3MAWAAEw9MX.jpg",
+                    "url": "https://t.co/3HDJXRmZbG",
+                    "display_url": "pic.twitter.com/3HDJXRmZbG",
+                    "expanded_url": "https://twitter.com/jooaojacob/status/1256681169204260865/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 713,
+                            "h": 421,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 402,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 713,
+                            "h": 421,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256681166012284929,
+                    "id_str": "1256681166012284929",
+                    "indices": [
+                        35,
+                        58
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCg3MAWAAEw9MX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCg3MAWAAEw9MX.jpg",
+                    "url": "https://t.co/3HDJXRmZbG",
+                    "display_url": "pic.twitter.com/3HDJXRmZbG",
+                    "expanded_url": "https://twitter.com/jooaojacob/status/1256681169204260865/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 713,
+                            "h": 421,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 402,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 713,
+                            "h": 421,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 620636208,
+            "id_str": "620636208",
+            "name": "JACOB DO TWITER",
+            "screen_name": "jooaojacob",
+            "location": "New York, NY",
+            "description": "https://t.co/UXYzMMZawt",
+            "url": "https://t.co/4BfVxQ2xxq",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4BfVxQ2xxq",
+                            "expanded_url": "http://joaojacob.com",
+                            "display_url": "joaojacob.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UXYzMMZawt",
+                            "expanded_url": "http://instagram.com/jooaojacob",
+                            "display_url": "instagram.com/jooaojacob",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 15810,
+            "friends_count": 4045,
+            "listed_count": 293,
+            "created_at": "Thu Jun 28 02:27:56 +0000 2012",
+            "favourites_count": 75527,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 49401,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1244386000509550593/U5zjxu_S_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244386000509550593/U5zjxu_S_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/620636208/1585519718",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 391,
+        "favorite_count": 1720,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 391,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

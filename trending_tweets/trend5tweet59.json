@@ -1,0 +1,456 @@
+{
+    "created_at": "Sun May 03 00:42:13 +0000 2020",
+    "id": 1256745843752919043,
+    "id_str": "1256745843752919043",
+    "text": "RT @SportsNation: When you hear \"murder hornets\" have arrived in America \ud83d\ude33\n\n(via @thecheckdown) \nhttps://t.co/mni2RIgRwO",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SportsNation",
+                "name": "SportsNation",
+                "id": 21254264,
+                "id_str": "21254264",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "thecheckdown",
+                "name": "The Checkdown",
+                "id": 67133275,
+                "id_str": "67133275",
+                "indices": [
+                    81,
+                    94
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256635810842984453,
+                "id_str": "1256635810842984453",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256635810842984453/pu/img/cZ413I-LQFBui4ow.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256635810842984453/pu/img/cZ413I-LQFBui4ow.jpg",
+                "url": "https://t.co/mni2RIgRwO",
+                "display_url": "pic.twitter.com/mni2RIgRwO",
+                "expanded_url": "https://twitter.com/thecheckdown/status/1256636020054876161/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256636020054876161,
+                "source_status_id_str": "1256636020054876161",
+                "source_user_id": 67133275,
+                "source_user_id_str": "67133275"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256635810842984453,
+                "id_str": "1256635810842984453",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256635810842984453/pu/img/cZ413I-LQFBui4ow.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256635810842984453/pu/img/cZ413I-LQFBui4ow.jpg",
+                "url": "https://t.co/mni2RIgRwO",
+                "display_url": "pic.twitter.com/mni2RIgRwO",
+                "expanded_url": "https://twitter.com/thecheckdown/status/1256636020054876161/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256636020054876161,
+                "source_status_id_str": "1256636020054876161",
+                "source_user_id": 67133275,
+                "source_user_id_str": "67133275",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 6473,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256635810842984453/pu/pl/OOElpBNrVKR9Mzxu.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256635810842984453/pu/vid/720x720/XAkqZwR9XMxnnjdK.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256635810842984453/pu/vid/320x320/VtNNsRo5Zd9mtiHz.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256635810842984453/pu/vid/480x480/AYR3ItG3F_6E_mJ-.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2784638156,
+        "id_str": "2784638156",
+        "name": "Badmon Jozif",
+        "screen_name": "jcost32",
+        "location": "Rhode Island, USA",
+        "description": "videographer and video editor| RIC Alumn \u2693\ufe0f",
+        "url": "https://t.co/9HBM803DEz",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/9HBM803DEz",
+                        "expanded_url": "https://ctbolt32.wixsite.com/portfolio",
+                        "display_url": "ctbolt32.wixsite.com/portfolio",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 496,
+        "friends_count": 512,
+        "listed_count": 3,
+        "created_at": "Mon Sep 01 20:13:13 +0000 2014",
+        "favourites_count": 109607,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 83782,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1222486118303748096/79k4kuXl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222486118303748096/79k4kuXl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2784638156/1573506109",
+        "profile_link_color": "8AD173",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:52:35 +0000 2020",
+        "id": 1256657858847965186,
+        "id_str": "1256657858847965186",
+        "text": "When you hear \"murder hornets\" have arrived in America \ud83d\ude33\n\n(via @thecheckdown) \nhttps://t.co/mni2RIgRwO",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "thecheckdown",
+                    "name": "The Checkdown",
+                    "id": 67133275,
+                    "id_str": "67133275",
+                    "indices": [
+                        63,
+                        76
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256635810842984453,
+                    "id_str": "1256635810842984453",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256635810842984453/pu/img/cZ413I-LQFBui4ow.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256635810842984453/pu/img/cZ413I-LQFBui4ow.jpg",
+                    "url": "https://t.co/mni2RIgRwO",
+                    "display_url": "pic.twitter.com/mni2RIgRwO",
+                    "expanded_url": "https://twitter.com/thecheckdown/status/1256636020054876161/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1256636020054876161,
+                    "source_status_id_str": "1256636020054876161",
+                    "source_user_id": 67133275,
+                    "source_user_id_str": "67133275"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256635810842984453,
+                    "id_str": "1256635810842984453",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256635810842984453/pu/img/cZ413I-LQFBui4ow.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256635810842984453/pu/img/cZ413I-LQFBui4ow.jpg",
+                    "url": "https://t.co/mni2RIgRwO",
+                    "display_url": "pic.twitter.com/mni2RIgRwO",
+                    "expanded_url": "https://twitter.com/thecheckdown/status/1256636020054876161/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1256636020054876161,
+                    "source_status_id_str": "1256636020054876161",
+                    "source_user_id": 67133275,
+                    "source_user_id_str": "67133275",
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 6473,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256635810842984453/pu/pl/OOElpBNrVKR9Mzxu.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256635810842984453/pu/vid/720x720/XAkqZwR9XMxnnjdK.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256635810842984453/pu/vid/320x320/VtNNsRo5Zd9mtiHz.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256635810842984453/pu/vid/480x480/AYR3ItG3F_6E_mJ-.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 21254264,
+            "id_str": "21254264",
+            "name": "SportsNation",
+            "screen_name": "SportsNation",
+            "location": "",
+            "description": "Following the fun in sports!",
+            "url": "https://t.co/horNO8l3ce",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/horNO8l3ce",
+                            "expanded_url": "http://www.facebook.com/sportsnation",
+                            "display_url": "facebook.com/sportsnation",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5596905,
+            "friends_count": 1025,
+            "listed_count": 11978,
+            "created_at": "Wed Feb 18 23:19:07 +0000 2009",
+            "favourites_count": 3209,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 24079,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/841833707199578112/mS34WwbX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/841833707199578112/mS34WwbX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21254264/1473974451",
+            "profile_link_color": "E51D27",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "49B9CF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 280,
+        "favorite_count": 1640,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 280,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,0 +1,105 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745927290880001,
+    "id_str": "1256745927290880001",
+    "text": "\u02dc\u201d*\u00b0\u2022.\u02dc\u201d*\u00b0\u2022\u00b0\u2022\u00b0\u2022\u00b0\u2022\u00b0\u2022\u00b0\u00b0\u2022\u00b0\u2022\u00b0\u2022\u00b0\u2022\u00b0\u2022\u00b0*\u201d\u02dc.\u2022\u00b0*\u201d\u02dc\n\n      Kim Taehyung'un a\u00e7t\u0131\u011f\u0131 her kap\u0131 Jeon Jungkook'a ula\u015f\u0131yordu\n\n\u02dc\u201d*\u00b0\u2022.\u02dc\u2026 https://t.co/8tSvlMJASB",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/8tSvlMJASB",
+                "expanded_url": "https://twitter.com/i/web/status/1256745927290880001",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 915656125940453377,
+        "id_str": "915656125940453377",
+        "name": "Nepenthe",
+        "screen_name": "Esmanurbuyukta3",
+        "location": "k\u0131smetse uzay bo\u015flu\u011funda",
+        "description": "Fan Account",
+        "url": "https://t.co/k29lDqq3EB",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/k29lDqq3EB",
+                        "expanded_url": "https://curiouscat.me/Nepenthe2",
+                        "display_url": "curiouscat.me/Nepenthe2",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2339,
+        "friends_count": 338,
+        "listed_count": 27,
+        "created_at": "Wed Oct 04 19:13:27 +0000 2017",
+        "favourites_count": 67845,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21922,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244957917230620672/1EOZUM-u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244957917230620672/1EOZUM-u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/915656125940453377/1585656113",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

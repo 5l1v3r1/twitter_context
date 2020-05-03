@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:41:06 +0000 2020",
+    "id": 1256745562893844484,
+    "id_str": "1256745562893844484",
+    "text": "RT @luvingherron: noah seriously doesn\u2019t deserve this. HES 15. he\u2019s not \u201cdefending a racist person.\u201d when did he ever say \u201cyo it\u2019s ok ur ra\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luvingherron",
+                "name": "nairobi | applying for mutuals",
+                "id": 1167114867557507072,
+                "id_str": "1167114867557507072",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1100901124536786944,
+        "id_str": "1100901124536786944",
+        "name": "vicki \ud83d\udc95\ud83d\udc95",
+        "screen_name": "_skinnylegend",
+        "location": "",
+        "description": "I\u2019m rarely on here so \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9,
+        "friends_count": 29,
+        "listed_count": 0,
+        "created_at": "Wed Feb 27 23:30:56 +0000 2019",
+        "favourites_count": 133,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256728871132631041/icdO_i3I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256728871132631041/icdO_i3I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100901124536786944/1562529633",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:11:49 +0000 2020",
+        "id": 1256707997583265793,
+        "id_str": "1256707997583265793",
+        "text": "noah seriously doesn\u2019t deserve this. HES 15. he\u2019s not \u201cdefending a racist person.\u201d when did he ever say \u201cyo it\u2019s ok\u2026 https://t.co/lJMHpwtSk6",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lJMHpwtSk6",
+                    "expanded_url": "https://twitter.com/i/web/status/1256707997583265793",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1167114867557507072,
+            "id_str": "1167114867557507072",
+            "name": "nairobi | applying for mutuals",
+            "screen_name": "luvingherron",
+            "location": "honeymoon avenue \u2765",
+            "description": "#HARRY: we\u2019ll be alright | \u201ci love you\u201d -zdh | tpwk",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 473,
+            "friends_count": 641,
+            "listed_count": 7,
+            "created_at": "Thu Aug 29 16:40:53 +0000 2019",
+            "favourites_count": 6130,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3490,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256010046594592773/B_pTrL77_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256010046594592773/B_pTrL77_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167114867557507072/1588355826",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 25,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

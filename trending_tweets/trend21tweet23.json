@@ -1,0 +1,179 @@
+{
+    "created_at": "Sun May 03 00:42:36 +0000 2020",
+    "id": 1256745940251222024,
+    "id_str": "1256745940251222024",
+    "text": "Congratulations @kelvynboymusic_ \ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe #3musicawards20 @ West Legon, Accra https://t.co/fOfvJhYX22",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3musicawards20",
+                "indices": [
+                    40,
+                    55
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kelvynboymusic_",
+                "name": "AFROBEATS BAD MAN",
+                "id": 887986538268831744,
+                "id_str": "887986538268831744",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/fOfvJhYX22",
+                "expanded_url": "https://www.instagram.com/p/B_tLvp7pqn6/?igshid=1oletb088op2b",
+                "display_url": "instagram.com/p/B_tLvp7pqn6/\u2026",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1025490955305144320,
+        "id_str": "1025490955305144320",
+        "name": "Official GhKasa",
+        "screen_name": "officialghkasa",
+        "location": "Ghana",
+        "description": "We are Ghana's Fact Hub Blog! Just Enter https://t.co/q9xZqlJ3EP | Instagram @yekasatv || Publicist for @kwamedame_ \ud83c\uddec\ud83c\udded & @victor_adere \ud83c\uddf3\ud83c\uddec",
+        "url": "https://t.co/UqfVYBR1k4",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/UqfVYBR1k4",
+                        "expanded_url": "https://ghkasa.com",
+                        "display_url": "ghkasa.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/q9xZqlJ3EP",
+                        "expanded_url": "http://ghkasa.com",
+                        "display_url": "ghkasa.com",
+                        "indices": [
+                            41,
+                            64
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 452,
+        "friends_count": 617,
+        "listed_count": 0,
+        "created_at": "Fri Aug 03 21:17:51 +0000 2018",
+        "favourites_count": 4393,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5474,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198921831106912256/gTwlQAQC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198921831106912256/gTwlQAQC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025490955305144320/1533331282",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            5.65378691,
+            -0.2096995
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -0.2096995,
+            5.65378691
+        ]
+    },
+    "place": {
+        "id": "003e299707d0375b",
+        "url": "https://api.twitter.com/1.1/geo/id/003e299707d0375b.json",
+        "place_type": "city",
+        "name": "Accra",
+        "full_name": "Accra, Ghana",
+        "country_code": "GH",
+        "country": "Ghana",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -0.3470252,
+                        5.51713
+                    ],
+                    [
+                        -0.0215619,
+                        5.51713
+                    ],
+                    [
+                        -0.0215619,
+                        5.7292666
+                    ],
+                    [
+                        -0.3470252,
+                        5.7292666
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

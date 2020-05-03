@@ -1,0 +1,91 @@
+{
+    "created_at": "Sun May 03 00:41:59 +0000 2020",
+    "id": 1256745788916432896,
+    "id_str": "1256745788916432896",
+    "text": "\u4eca\u65e5\u306e\u8a71\u3082\u3081\u3063\u3061\u3083\u30aa\u30e2\u30ed\u304b\u3063\u305f\u306a\uff01\n\u6ec5\u4ea1\u8fc5\u96f7net\u5b8c\u5168\u5fa9\u6d3b\u304b\uff01ZAIA\u30b9\u30da\u30c3\u30af\u304c\u30cf\u30c3\u30ad\u30f3\u30b0\u3055\u308c\u3066\u4eba\u304c\u66b4\u8d70\u3068\u304b(\u7b11)ZAIA\u306e\u5b58\u5728\u306f\u5b8c\u5168\u306a\u565b\u307e\u305b\u72ac\u3060\u3063\u305f\u3063\u3066\u4e8b\u304b\uff1f\u5f8c\u534a\u6226\u3082\u9762\u767d\u304f\u306a\u308a\u305d\u3046\u3060\u306a\ud83d\ude01\n\u3063\u3066\u304a\u3044\u3001\u307e\u3066\uff01\u6ec5\u4ea1\u8fc5\u96f7vs\u98db\u96fb\u88fd\u4f5c\u6240\u306b\u2026 https://t.co/MEpGW69zCL",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/MEpGW69zCL",
+                "expanded_url": "https://twitter.com/i/web/status/1256745788916432896",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 454729219,
+        "id_str": "454729219",
+        "name": "\u3053\u30fc\u3058",
+        "screen_name": "y_koji_s15",
+        "location": "",
+        "description": "\u601d\u3063\u305f\u3053\u3068\u3092\u3059\u3050tweet\u3057\u3061\u3083\u3046\u8e0a\u308c\u308b\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u3067\u3059\u3002\n\u8eca\u597d\u304d\uff01\u30d0\u30a4\u30af\u597d\u304d\uff01\u3088\u3055\u3053\u3044\u8e0a\u308b\u306e\u3059\u304d\uff01 \u3069\u3046\u305e\u3088\u308d\u3057\u304f\uff5e(\u2267\u2207\u2266*)\n\u30ad\u30fc\u30ef\u30fc\u30c9\uff1a\u3044\u3061\u3054/15S/\u3088\u3055\u3053\u3044/\u307b\u306b\u3084/\u3084\u3044\u308d/\u308a\u3050\u308b/\u4f0a\u52e2\u5929\u7167\u9023/\u30ac\u30f3\u30c0\u30e0/\u4eee\u9762\u30e9\u30a4\u30c0\u30fc/Ninja250/Kawasaki/NISSAN/\u30ea\u30fc\u30d5/GLAY",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 116,
+        "friends_count": 149,
+        "listed_count": 0,
+        "created_at": "Wed Jan 04 09:39:25 +0000 2012",
+        "favourites_count": 2576,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1831,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/911244515523964928/E9V_BHcT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/911244515523964928/E9V_BHcT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/454729219/1588381998",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

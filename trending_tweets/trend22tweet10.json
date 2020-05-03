@@ -1,0 +1,225 @@
+{
+    "created_at": "Sun May 03 00:42:51 +0000 2020",
+    "id": 1256746003111133185,
+    "id_str": "1256746003111133185",
+    "text": "RT @dodona777: I've been vindicated. Didn't watch #insiders today because of the way #Speers treated Kristina K last week. Now reading all\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "insiders",
+                "indices": [
+                    50,
+                    59
+                ]
+            },
+            {
+                "text": "Speers",
+                "indices": [
+                    85,
+                    92
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dodona777",
+                "name": "\ud83d\udca7Stavros\u2122= \u03a3\u03c4\u03b1\u03cd\u03c1\u03bf\u03c2\u00a9 is staying home for now.",
+                "id": 448692159,
+                "id_str": "448692159",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3109350722,
+        "id_str": "3109350722",
+        "name": "\ud83d\udca7Jude Nunga",
+        "screen_name": "BigVapingNunga",
+        "location": "",
+        "description": "Vaper, vaping advocate, gardener, dog lover, age is but a measure of time, not of life, love or mind.\ud83d\udca7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2751,
+        "friends_count": 2215,
+        "listed_count": 221,
+        "created_at": "Fri Mar 27 06:00:48 +0000 2015",
+        "favourites_count": 348976,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 273912,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1028284182953218050/vI4ryp6Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028284182953218050/vI4ryp6Q_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:48:18 +0000 2020",
+        "id": 1256732277146480640,
+        "id_str": "1256732277146480640",
+        "text": "I've been vindicated. Didn't watch #insiders today because of the way #Speers treated Kristina K last week. Now rea\u2026 https://t.co/K3QmidhSGf",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "insiders",
+                    "indices": [
+                        35,
+                        44
+                    ]
+                },
+                {
+                    "text": "Speers",
+                    "indices": [
+                        70,
+                        77
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/K3QmidhSGf",
+                    "expanded_url": "https://twitter.com/i/web/status/1256732277146480640",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 448692159,
+            "id_str": "448692159",
+            "name": "\ud83d\udca7Stavros\u2122= \u03a3\u03c4\u03b1\u03cd\u03c1\u03bf\u03c2\u00a9 is staying home for now.",
+            "screen_name": "dodona777",
+            "location": "Illulung Country Australia",
+            "description": "Retired Teacher \n\u2039(\u2022\u00bf\u2022)\u203a \"Minds are like parachutes, they only work when they are open.\"\u2039(\u2022\u00bf\u2022)\u203a \nPlaying with Astrology at spot bw sanity & insanity. \nSJW & ALP",
+            "url": "https://t.co/75Pr28V6e7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/75Pr28V6e7",
+                            "expanded_url": "http://dodona777.wordpress.com/",
+                            "display_url": "dodona777.wordpress.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6983,
+            "friends_count": 6338,
+            "listed_count": 172,
+            "created_at": "Wed Dec 28 08:09:18 +0000 2011",
+            "favourites_count": 57265,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 184814,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "001329",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1162730931490156547/Wm6oxOfX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162730931490156547/Wm6oxOfX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/448692159/1572997393",
+            "profile_link_color": "004358",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "000B17",
+            "profile_text_color": "448668",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

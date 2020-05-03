@@ -1,0 +1,104 @@
+{
+    "created_at": "Sun May 03 00:41:39 +0000 2020",
+    "id": 1256745701544951810,
+    "id_str": "1256745701544951810",
+    "text": "No s\u00e9 ni qu\u00e9 ha pasado pero si le defendeis con el ht lo que hac\u00e9is es seguir subiendolo en tendencias, hacerle otr\u2026 https://t.co/ts5bf727EM",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/ts5bf727EM",
+                "expanded_url": "https://twitter.com/i/web/status/1256745701544951810",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 456512391,
+        "id_str": "456512391",
+        "name": "ester\ud83c\udf3f",
+        "screen_name": "estergutierrezr",
+        "location": "central perk",
+        "description": "21. \u00aba veces solo basta con creer\u00bb",
+        "url": "https://t.co/TtzllnRD4Q",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/TtzllnRD4Q",
+                        "expanded_url": "https://www.instagram.com/estergutierrezr/",
+                        "display_url": "instagram.com/estergutierrez\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5832,
+        "friends_count": 4147,
+        "listed_count": 40,
+        "created_at": "Fri Jan 06 10:10:54 +0000 2012",
+        "favourites_count": 38898,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 161422,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236781606758690816/YHy_d5Vd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236781606758690816/YHy_d5Vd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/456512391/1582417860",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

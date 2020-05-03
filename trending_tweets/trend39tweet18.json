@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:42:57 +0000 2020",
+    "id": 1256746031544492035,
+    "id_str": "1256746031544492035",
+    "text": "RT @claudia39781391: \"Miente, miente que algo quedar\u00e1\" los llev\u00f3 una vez a ser gobierno.\nYa sabemos que todo lo que dicen es una mentira.\n#\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "claudia39781391",
+                "name": "claudia valentini",
+                "id": 813914858865512448,
+                "id_str": "813914858865512448",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2966823279,
+        "id_str": "2966823279",
+        "name": "Azucena",
+        "screen_name": "beta733",
+        "location": "",
+        "description": "La memoria y la libertad deben ser ejercicios cotidianos de todos para evitar un nuevo holocausto y violaciones a los derechos humanos            CFK",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 805,
+        "friends_count": 833,
+        "listed_count": 0,
+        "created_at": "Wed Jan 07 22:50:24 +0000 2015",
+        "favourites_count": 11653,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15777,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140466444175597569/UvqAuHOr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140466444175597569/UvqAuHOr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966823279/1566951727",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:03:42 +0000 2020",
+        "id": 1256721053696622592,
+        "id_str": "1256721053696622592",
+        "text": "\"Miente, miente que algo quedar\u00e1\" los llev\u00f3 una vez a ser gobierno.\nYa sabemos que todo lo que dicen es una mentira.\n#TodosContraLaMentiraM",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        117,
+                        139
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 813914858865512448,
+            "id_str": "813914858865512448",
+            "name": "claudia valentini",
+            "screen_name": "claudia39781391",
+            "location": "",
+            "description": "Soy Profesora.Tengo el mejor trabajo!\n Todo es alegr\u00eda con ellos y aprendemos mucho.Amo a los ni\u00f1os, a los animales y a la vida.100% Peronista!CFK y Alberto.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1482,
+            "friends_count": 1473,
+            "listed_count": 1,
+            "created_at": "Wed Dec 28 01:09:58 +0000 2016",
+            "favourites_count": 4828,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5595,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158791857578696704/F2B9MQ0J_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158791857578696704/F2B9MQ0J_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/813914858865512448/1586566222",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 114,
+        "favorite_count": 113,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 114,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

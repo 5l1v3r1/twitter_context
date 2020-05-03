@@ -1,0 +1,327 @@
+{
+    "created_at": "Sun May 03 00:42:07 +0000 2020",
+    "id": 1256745818758893568,
+    "id_str": "1256745818758893568",
+    "text": "RT @mana_kailani: #insiders",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "insiders",
+                "indices": [
+                    18,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mana_kailani",
+                "name": "\ud83d\udca7Kailani Mana",
+                "id": 3233032387,
+                "id_str": "3233032387",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 257276137,
+        "id_str": "257276137",
+        "name": "\ud83d\udc28\ud83d\udc28\ud83e\udd98\ud83e\udd98Robyn Bonser\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "screen_name": "Bloss55",
+        "location": "Adelaide South Australia",
+        "description": "PAFC \ud83c\udfc8\ud83d\udc99\u26ab\u26aa\n\u2665\ufe0f\ud83d\udda4\ud83d\udc9b\ud83d\udc63ANTI CORRUPTION. Fighting for justice & the global environment. Im privileged & honored to live on Kaurna Land",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1883,
+        "friends_count": 1328,
+        "listed_count": 5,
+        "created_at": "Fri Feb 25 02:45:04 +0000 2011",
+        "favourites_count": 95895,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 156126,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1216142875492110336/vjKszzth_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216142875492110336/vjKszzth_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:59:34 +0000 2020",
+        "id": 1256735111933919232,
+        "id_str": "1256735111933919232",
+        "text": "#insiders https://t.co/jYXeaUoFOg",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "insiders",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/jYXeaUoFOg",
+                    "expanded_url": "https://twitter.com/natashainoz/status/1256558991712284672",
+                    "display_url": "twitter.com/natashainoz/st\u2026",
+                    "indices": [
+                        10,
+                        33
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3233032387,
+            "id_str": "3233032387",
+            "name": "\ud83d\udca7Kailani Mana",
+            "screen_name": "mana_kailani",
+            "location": "",
+            "description": "I think you can work it out \ud83d\ude09",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6406,
+            "friends_count": 3177,
+            "listed_count": 78,
+            "created_at": "Mon Jun 01 23:48:14 +0000 2015",
+            "favourites_count": 69770,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 67423,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/706217707541127168/RUm1nivA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/706217707541127168/RUm1nivA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3233032387/1585608024",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256558991712284672,
+        "quoted_status_id_str": "1256558991712284672",
+        "quoted_status": {
+            "created_at": "Sat May 02 12:19:44 +0000 2020",
+            "id": 1256558991712284672,
+            "id_str": "1256558991712284672",
+            "text": "Newspoll survey showed 75 per cent of people are satisfied with \u2066@DanielAndrewsMP\u2069 handling of the #CovidCrisis  https://t.co/ZcejkYyGXG",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CovidCrisis",
+                        "indices": [
+                            99,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DanielAndrewsMP",
+                        "name": "Dan Andrews",
+                        "id": 228535666,
+                        "id_str": "228535666",
+                        "indices": [
+                            65,
+                            81
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/ZcejkYyGXG",
+                        "expanded_url": "https://www.afr.com/politics/federal/does-daniel-andrews-deserve-his-record-popularity-20200428-p54nw6",
+                        "display_url": "afr.com/politics/feder\u2026",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 216616711,
+                "id_str": "216616711",
+                "name": "Natasha Moore",
+                "screen_name": "natashainoz",
+                "location": "Melbourne, Victoria",
+                "description": "\u2018The very concept of objective truth is fading out of the world. Lies will pass into history.\u2019 George Orwell",
+                "url": "https://t.co/nCzvI5PBWc",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/nCzvI5PBWc",
+                                "expanded_url": "http://educatorinoz.blogspot.com.au/",
+                                "display_url": "educatorinoz.blogspot.com.au",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3709,
+                "friends_count": 3362,
+                "listed_count": 313,
+                "created_at": "Wed Nov 17 07:27:29 +0000 2010",
+                "favourites_count": 54036,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 44299,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E6EAEB",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1243364166972215297/HDEiJBHo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243364166972215297/HDEiJBHo_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/216616711/1504233964",
+                "profile_link_color": "2B94A6",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "ECD6F0",
+                "profile_text_color": "3B223D",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 83,
+            "favorite_count": 213,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 5,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256558991712284672,
+    "quoted_status_id_str": "1256558991712284672",
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

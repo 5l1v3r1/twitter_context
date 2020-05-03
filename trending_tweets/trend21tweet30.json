@@ -1,0 +1,231 @@
+{
+    "created_at": "Sun May 03 00:42:30 +0000 2020",
+    "id": 1256745916956106760,
+    "id_str": "1256745916956106760",
+    "text": "RT @Ebenezer_Peegah: OB Amponsah and Clemento Suarez as President and his interpreter\n\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n#3MusicAwards20\n@OBAmponsah_ @clementoSuarez\n@\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3MusicAwards20",
+                "indices": [
+                    93,
+                    108
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ebenezer_Peegah",
+                "name": "Maiestas \u24c2\ufe0f",
+                "id": 3580342402,
+                "id_str": "3580342402",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "OBAmponsah_",
+                "name": "OB Amponsah",
+                "id": 184959105,
+                "id_str": "184959105",
+                "indices": [
+                    109,
+                    121
+                ]
+            },
+            {
+                "screen_name": "clementoSuarez",
+                "name": "Clemento Suarez",
+                "id": 2325931906,
+                "id_str": "2325931906",
+                "indices": [
+                    122,
+                    137
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2164716909,
+        "id_str": "2164716909",
+        "name": "kofi Lothbrok\ud83d\udde1\ufe0f\ud83d\uddff",
+        "screen_name": "Ge_baff",
+        "location": "Kumasi, Ghana",
+        "description": "\ud83c\uddec\ud83c\uddedproudly Ghanaian \ud83d\udcaa\ud83c\udffe\ud83c\uddec\ud83c\udded",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2274,
+        "friends_count": 2203,
+        "listed_count": 1,
+        "created_at": "Sat Nov 02 11:30:46 +0000 2013",
+        "favourites_count": 34171,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12452,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1172608687493517312/NSDzjOHX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172608687493517312/NSDzjOHX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2164716909/1560940237",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:57:23 +0000 2020",
+        "id": 1256689264856911872,
+        "id_str": "1256689264856911872",
+        "text": "OB Amponsah and Clemento Suarez as President and his interpreter\n\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n#3MusicAwards20\n@OBAmponsah_\u2026 https://t.co/a3azLlDk7w",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3MusicAwards20",
+                    "indices": [
+                        72,
+                        87
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "OBAmponsah_",
+                    "name": "OB Amponsah",
+                    "id": 184959105,
+                    "id_str": "184959105",
+                    "indices": [
+                        88,
+                        100
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/a3azLlDk7w",
+                    "expanded_url": "https://twitter.com/i/web/status/1256689264856911872",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        102,
+                        125
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3580342402,
+            "id_str": "3580342402",
+            "name": "Maiestas \u24c2\ufe0f",
+            "screen_name": "Ebenezer_Peegah",
+            "location": "Global",
+            "description": "Global Citizen | Northerner | PR | Advocate for human rights | Humanity First. Fellow Ghanaians",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 925,
+            "friends_count": 3514,
+            "listed_count": 6,
+            "created_at": "Mon Sep 07 20:11:14 +0000 2015",
+            "favourites_count": 10457,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4939,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256739104869449729/hagN8Mfk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256739104869449729/hagN8Mfk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3580342402/1585167053",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 423,
+        "favorite_count": 1357,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 423,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

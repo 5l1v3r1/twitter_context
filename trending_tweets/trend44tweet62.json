@@ -1,0 +1,91 @@
+{
+    "created_at": "Sun May 03 00:35:58 +0000 2020",
+    "id": 1256744272780500996,
+    "id_str": "1256744272780500996",
+    "text": "Pero una vez te vi partir...no lo pude evitar, me qued\u00e9 en el intento\nDejaste de regar el jard\u00edn y en \u00e9l no quedan\u2026 https://t.co/760rTmNRNw",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/760rTmNRNw",
+                "expanded_url": "https://twitter.com/i/web/status/1256744272780500996",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 166244888,
+        "id_str": "166244888",
+        "name": "\u00a1Winston!, no Wilson, ni Walton",
+        "screen_name": "jimenezwinston",
+        "location": "Cartagena, Colombia",
+        "description": "Administrador  de empresas /\nT\u00edo de Maripau \u2764\ufe0f/\nTeletrabajo Mode On \ud83c\udfe7 / \nGano el m\u00ednimo/ From Magangu\u00e9 \ud83d\udd25",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 277,
+        "friends_count": 328,
+        "listed_count": 1,
+        "created_at": "Tue Jul 13 17:57:09 +0000 2010",
+        "favourites_count": 937,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1206,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247317863087648770/PqrhMnsY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247317863087648770/PqrhMnsY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/166244888/1584497002",
+        "profile_link_color": "CC3300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7DA93",
+        "profile_text_color": "DB151F",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

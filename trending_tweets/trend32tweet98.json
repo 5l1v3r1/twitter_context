@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:40:46 +0000 2020",
+    "id": 1256745479200628736,
+    "id_str": "1256745479200628736",
+    "text": "\u5317\u671d\u9bae\u306e\u6307\u5c0e\u8005\u306e\u751f\u5b58\u306b\u89e6\u308c\u308b\u306e\u304b\uff1f#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    17,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 201145907,
+        "id_str": "201145907",
+        "name": "\u30a2\u30c0\u30e0",
+        "screen_name": "shide02",
+        "location": "",
+        "description": "\u545f\u304f\u6687\u4eba\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 26,
+        "friends_count": 4,
+        "listed_count": 0,
+        "created_at": "Mon Oct 11 05:26:03 +0000 2010",
+        "favourites_count": 3883,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6040,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102018139594743809/xKER32SX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102018139594743809/xKER32SX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/201145907/1560894844",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

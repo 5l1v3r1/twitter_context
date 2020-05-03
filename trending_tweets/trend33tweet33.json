@@ -1,0 +1,211 @@
+{
+    "created_at": "Sun May 03 00:43:06 +0000 2020",
+    "id": 1256746067313508352,
+    "id_str": "1256746067313508352",
+    "text": "RT @EUPHORIAJJK1997: retweet to save a life\n#KCA2020 \nhttps://t.co/AsABwx3Crs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KCA2020",
+                "indices": [
+                    44,
+                    52
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EUPHORIAJJK1997",
+                "name": "\u2077",
+                "id": 872970052307308544,
+                "id_str": "872970052307308544",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/AsABwx3Crs",
+                "expanded_url": "https://www.pscp.tv/w/cXysTzFEWktvWXBXTk1HRWF8MWxQS3FWVkJMTmJHYnsCMN44TjxduKx4lxxkXGRq00KsFNqqfUis8ugv6bqS",
+                "display_url": "pscp.tv/w/cXysTzFEWktv\u2026",
+                "indices": [
+                    54,
+                    77
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1130268545642913795,
+        "id_str": "1130268545642913795",
+        "name": "vi",
+        "screen_name": "rmincel",
+        "location": "\uc288\uc9d0 \u2661 ",
+        "description": "\u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 67,
+        "friends_count": 62,
+        "listed_count": 1,
+        "created_at": "Mon May 20 00:26:35 +0000 2019",
+        "favourites_count": 2258,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10364,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253149382008082434/r3tcdB5a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253149382008082434/r3tcdB5a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130268545642913795/1585533070",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:47:11 +0000 2020",
+        "id": 1256731995113050113,
+        "id_str": "1256731995113050113",
+        "text": "retweet to save a life\n#KCA2020 \nhttps://t.co/AsABwx3Crs",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KCA2020",
+                    "indices": [
+                        23,
+                        31
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/AsABwx3Crs",
+                    "expanded_url": "https://www.pscp.tv/w/cXysTzFEWktvWXBXTk1HRWF8MWxQS3FWVkJMTmJHYnsCMN44TjxduKx4lxxkXGRq00KsFNqqfUis8ugv6bqS",
+                    "display_url": "pscp.tv/w/cXysTzFEWktv\u2026",
+                    "indices": [
+                        33,
+                        56
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 872970052307308544,
+            "id_str": "872970052307308544",
+            "name": "\u2077",
+            "screen_name": "EUPHORIAJJK1997",
+            "location": "",
+            "description": "#JUNGKOOK: yeehaw | multi fan acc",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12741,
+            "friends_count": 7476,
+            "listed_count": 98,
+            "created_at": "Fri Jun 09 00:14:14 +0000 2017",
+            "favourites_count": 43760,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 5016,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256042925093339141/9ErmcI3v_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256042925093339141/9ErmcI3v_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/872970052307308544/1588298885",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 237,
+        "favorite_count": 226,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 237,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

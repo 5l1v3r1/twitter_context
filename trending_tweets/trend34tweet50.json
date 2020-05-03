@@ -1,0 +1,263 @@
+{
+    "created_at": "Sun May 03 00:37:45 +0000 2020",
+    "id": 1256744720904028160,
+    "id_str": "1256744720904028160",
+    "text": "\u79c1\u306e\u6b63\u4f53\u2026\n\n\u5b9f\u306f\u624b\u3060\u3051\u306a\u3093\u3067\u3059\u3088\u306d\u2026\n\n #\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c https://t.co/BsOxvNV2u1",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    22,
+                    35
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744675760672769,
+                "id_str": "1256744675760672769",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDan8QUEAEHoHF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDan8QUEAEHoHF.jpg",
+                "url": "https://t.co/BsOxvNV2u1",
+                "display_url": "pic.twitter.com/BsOxvNV2u1",
+                "expanded_url": "https://twitter.com/mata_line/status/1256744720904028160/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 230,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 230,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 230,
+                        "h": 225,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744675760672769,
+                "id_str": "1256744675760672769",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDan8QUEAEHoHF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDan8QUEAEHoHF.jpg",
+                "url": "https://t.co/BsOxvNV2u1",
+                "display_url": "pic.twitter.com/BsOxvNV2u1",
+                "expanded_url": "https://twitter.com/mata_line/status/1256744720904028160/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 230,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 230,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 230,
+                        "h": 225,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1256744675701972992,
+                "id_str": "1256744675701972992",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDan8CUYAAqp-z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDan8CUYAAqp-z.jpg",
+                "url": "https://t.co/BsOxvNV2u1",
+                "display_url": "pic.twitter.com/BsOxvNV2u1",
+                "expanded_url": "https://twitter.com/mata_line/status/1256744720904028160/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1708,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 567,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1001,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1256744675769061378,
+                "id_str": "1256744675769061378",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDan8SUEAIPija.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDan8SUEAIPija.jpg",
+                "url": "https://t.co/BsOxvNV2u1",
+                "display_url": "pic.twitter.com/BsOxvNV2u1",
+                "expanded_url": "https://twitter.com/mata_line/status/1256744720904028160/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 557,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1678,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 983,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 881025416856653825,
+        "id_str": "881025416856653825",
+        "name": "mata@\u30ab\u30ef\u30a4\u30a4\u7d75\u6587\u5b57\uff08\uff09\u306b\u624b\u304c\u751f\u3048\u305f",
+        "screen_name": "mata_line",
+        "location": "",
+        "description": "LINE\u7d75\u6587\u5b57\u30af\u30ea\u30fc\u30a8\u30fc\u30bf\u30fcmata\u3067\u3059\uff01\ud83c\udf8aLINE\u7d75\u6587\u5b57\u30b0\u30e9\u30f3\u30d7\u30ea\ud83c\udf8a\u3000  \u30a2\u30a4\u30c7\u30a2\u8cde\ud83c\udfc6\u53d7\u8cde \ud83d\ude00\u300c\u66b4\u308c\u6587\u5b57\u300d \nhttps://t.co/EGdwGAgN2s\nmata\u5b8c\u5168\u30aa\u30ea\u30b8\u30ca\u30eb \ud83d\ude00\u300c()\u306b\u624b\u304c\u751f\u3048\u305f\u30b7\u30ea\u30fc\u30ba\u300d\u306f\ud83d\udd3d\ud83d\udd3d\u3088\u308a",
+        "url": "https://t.co/q8cTmXOAkI",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/q8cTmXOAkI",
+                        "expanded_url": "https://store.line.me/emojishop/author/628511",
+                        "display_url": "store.line.me/emojishop/auth\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/EGdwGAgN2s",
+                        "expanded_url": "https://store.line.me/emojishop/product/5c137a4d031a670084d9171b/ja",
+                        "display_url": "store.line.me/emojishop/prod\u2026",
+                        "indices": [
+                            56,
+                            79
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 489,
+        "friends_count": 407,
+        "listed_count": 2,
+        "created_at": "Sat Jul 01 05:43:22 +0000 2017",
+        "favourites_count": 210,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1918,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093049909144518656/W8-HKCl9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093049909144518656/W8-HKCl9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/881025416856653825/1549438431",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

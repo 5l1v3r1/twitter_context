@@ -1,0 +1,566 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745919313215488,
+    "id_str": "1256745919313215488",
+    "text": "RT @DaisysBlackSwan: Saving all the SS I'm seeing on the TL cause yeah this Jeon Jungkook is IT https://t.co/PTu2ruN8pF",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DaisysBlackSwan",
+                "name": "Daisy \u221e\u2077 \uc2dc\ucc28\ud83c\udf3c\ud83d\udc99",
+                "id": 1045780416265940992,
+                "id_str": "1045780416265940992",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256694804064411649,
+                "id_str": "1256694804064411649",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCtRBtWoAEUhZ-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCtRBtWoAEUhZ-.jpg",
+                "url": "https://t.co/PTu2ruN8pF",
+                "display_url": "pic.twitter.com/PTu2ruN8pF",
+                "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 519,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1500,
+                        "h": 1966,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 916,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256694856279302144,
+                "source_status_id_str": "1256694856279302144",
+                "source_user_id": 1045780416265940992,
+                "source_user_id_str": "1045780416265940992"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256694804064411649,
+                "id_str": "1256694804064411649",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCtRBtWoAEUhZ-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCtRBtWoAEUhZ-.jpg",
+                "url": "https://t.co/PTu2ruN8pF",
+                "display_url": "pic.twitter.com/PTu2ruN8pF",
+                "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 519,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1500,
+                        "h": 1966,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 916,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256694856279302144,
+                "source_status_id_str": "1256694856279302144",
+                "source_user_id": 1045780416265940992,
+                "source_user_id_str": "1045780416265940992"
+            },
+            {
+                "id": 1256694817800798209,
+                "id_str": "1256694817800798209",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCtR04XQAE6rZG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCtR04XQAE6rZG.jpg",
+                "url": "https://t.co/PTu2ruN8pF",
+                "display_url": "pic.twitter.com/PTu2ruN8pF",
+                "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 922,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1500,
+                        "h": 1952,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 523,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256694856279302144,
+                "source_status_id_str": "1256694856279302144",
+                "source_user_id": 1045780416265940992,
+                "source_user_id_str": "1045780416265940992"
+            },
+            {
+                "id": 1256694830606028800,
+                "id_str": "1256694830606028800",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCtSklXkAAo7DG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCtSklXkAAo7DG.jpg",
+                "url": "https://t.co/PTu2ruN8pF",
+                "display_url": "pic.twitter.com/PTu2ruN8pF",
+                "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256694856279302144,
+                "source_status_id_str": "1256694856279302144",
+                "source_user_id": 1045780416265940992,
+                "source_user_id_str": "1045780416265940992"
+            },
+            {
+                "id": 1256694841800626176,
+                "id_str": "1256694841800626176",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCtTOSXkAApGjP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCtTOSXkAApGjP.jpg",
+                "url": "https://t.co/PTu2ruN8pF",
+                "display_url": "pic.twitter.com/PTu2ruN8pF",
+                "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256694856279302144,
+                "source_status_id_str": "1256694856279302144",
+                "source_user_id": 1045780416265940992,
+                "source_user_id_str": "1045780416265940992"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1206249977640562693,
+        "id_str": "1206249977640562693",
+        "name": "Btsarmypage",
+        "screen_name": "Btsarmypage1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14,
+        "friends_count": 41,
+        "listed_count": 0,
+        "created_at": "Sun Dec 15 16:29:57 +0000 2019",
+        "favourites_count": 1903,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3212,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:19:36 +0000 2020",
+        "id": 1256694856279302144,
+        "id_str": "1256694856279302144",
+        "text": "Saving all the SS I'm seeing on the TL cause yeah this Jeon Jungkook is IT https://t.co/PTu2ruN8pF",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256694804064411649,
+                    "id_str": "1256694804064411649",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCtRBtWoAEUhZ-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCtRBtWoAEUhZ-.jpg",
+                    "url": "https://t.co/PTu2ruN8pF",
+                    "display_url": "pic.twitter.com/PTu2ruN8pF",
+                    "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 519,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1500,
+                            "h": 1966,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 916,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256694804064411649,
+                    "id_str": "1256694804064411649",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCtRBtWoAEUhZ-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCtRBtWoAEUhZ-.jpg",
+                    "url": "https://t.co/PTu2ruN8pF",
+                    "display_url": "pic.twitter.com/PTu2ruN8pF",
+                    "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 519,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1500,
+                            "h": 1966,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 916,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256694817800798209,
+                    "id_str": "1256694817800798209",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCtR04XQAE6rZG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCtR04XQAE6rZG.jpg",
+                    "url": "https://t.co/PTu2ruN8pF",
+                    "display_url": "pic.twitter.com/PTu2ruN8pF",
+                    "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 922,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1500,
+                            "h": 1952,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 523,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256694830606028800,
+                    "id_str": "1256694830606028800",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCtSklXkAAo7DG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCtSklXkAAo7DG.jpg",
+                    "url": "https://t.co/PTu2ruN8pF",
+                    "display_url": "pic.twitter.com/PTu2ruN8pF",
+                    "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256694841800626176,
+                    "id_str": "1256694841800626176",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCtTOSXkAApGjP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCtTOSXkAApGjP.jpg",
+                    "url": "https://t.co/PTu2ruN8pF",
+                    "display_url": "pic.twitter.com/PTu2ruN8pF",
+                    "expanded_url": "https://twitter.com/DaisysBlackSwan/status/1256694856279302144/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1045780416265940992,
+            "id_str": "1045780416265940992",
+            "name": "Daisy \u221e\u2077 \uc2dc\ucc28\ud83c\udf3c\ud83d\udc99",
+            "screen_name": "DaisysBlackSwan",
+            "location": "Magic Shop",
+            "description": "She lost her Heart to BTS @BTS_twt . \ud83d\udcab\n|fan account\n|Part of the 0.01% world population \ud83e\udd74\n\nWaiting for JJK1, SUGA1 \u270a\ud83d\ude14",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 849,
+            "friends_count": 460,
+            "listed_count": 1,
+            "created_at": "Fri Sep 28 21:00:55 +0000 2018",
+            "favourites_count": 56881,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 39894,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245380497477435393/O3yNcNEz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245380497477435393/O3yNcNEz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045780416265940992/1585756822",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 162,
+        "favorite_count": 746,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 162,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

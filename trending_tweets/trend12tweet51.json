@@ -1,0 +1,91 @@
+{
+    "created_at": "Sun May 03 00:41:23 +0000 2020",
+    "id": 1256745636705169408,
+    "id_str": "1256745636705169408",
+    "text": "\u5ddd\u5d0e\u306e25\u6b73\u306d\u3047\u2026\u82e5\u3044\u5b50\u3070\u3063\u304b\u8a71\u984c\u306b\u306a\u308b\u3051\u3069\u6ecb\u8cc0\u3082\u5c90\u961c\u304b\u3089\u6765\u305f80\u4ee3\u306e\u304a\u3058\u3044\u3055\u3093\u304c2\u4eba\u3082\u906d\u96e3\u3057\u3066\u308b\u3088",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 994112901026742272,
+        "id_str": "994112901026742272",
+        "name": "\u3082\u305f\u5b50",
+        "screen_name": "motako0103",
+        "location": "",
+        "description": "\u304a\u7d75\u63cf\u304d\u5927\u597d\u304d\u30de\u30f3\uff01\u7279\u306b\u59b9\u7d05\u3061\u3083\u3093\u304c\u597d\u304d\u3067\u3059\u3002\u30b5\u30fc\u30af\u30eb\u300e\u5929\u8272\u30de\u30ab\u30ed\u30f3\u300f\u3067\u6d3b\u52d5\u4e2d\u3067\u3059\u263a\n\u307b\u3057\u3044\u7269\u30ea\u30b9\u30c8\ud83c\udf6chttps://t.co/BYGF7WUpmg",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BYGF7WUpmg",
+                        "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/UVY3N3R7ICJ4?ref_=wl_share",
+                        "display_url": "amazon.jp/hz/wishlist/ls\u2026",
+                        "indices": [
+                            51,
+                            74
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 5049,
+        "friends_count": 280,
+        "listed_count": 105,
+        "created_at": "Wed May 09 07:12:40 +0000 2018",
+        "favourites_count": 5096,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9493,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994113665518321664/4EmtPdR-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994113665518321664/4EmtPdR-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/994112901026742272/1525852414",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

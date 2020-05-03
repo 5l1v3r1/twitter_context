@@ -1,0 +1,394 @@
+{
+    "created_at": "Sun May 03 00:42:59 +0000 2020",
+    "id": 1256746038607720448,
+    "id_str": "1256746038607720448",
+    "text": "RT @hebertlou43: Moi quand je vois les personnes qui critiquent Noah  #noahschnappisoverparty https://t.co/g3YuFBeoo3",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "noahschnappisoverparty",
+                "indices": [
+                    70,
+                    93
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "hebertlou43",
+                "name": "+=+",
+                "id": 751866455709319168,
+                "id_str": "751866455709319168",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256740488692072449,
+                "id_str": "1256740488692072449",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDW0ONXgAEhWTG.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDW0ONXgAEhWTG.jpg",
+                "url": "https://t.co/g3YuFBeoo3",
+                "display_url": "pic.twitter.com/g3YuFBeoo3",
+                "expanded_url": "https://twitter.com/hebertlou43/status/1256740496975806467/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740496975806467,
+                "source_status_id_str": "1256740496975806467",
+                "source_user_id": 751866455709319168,
+                "source_user_id_str": "751866455709319168"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256740488692072449,
+                "id_str": "1256740488692072449",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDW0ONXgAEhWTG.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDW0ONXgAEhWTG.jpg",
+                "url": "https://t.co/g3YuFBeoo3",
+                "display_url": "pic.twitter.com/g3YuFBeoo3",
+                "expanded_url": "https://twitter.com/hebertlou43/status/1256740496975806467/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740496975806467,
+                "source_status_id_str": "1256740496975806467",
+                "source_user_id": 751866455709319168,
+                "source_user_id_str": "751866455709319168",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDW0ONXgAEhWTG.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 995668631458603008,
+        "id_str": "995668631458603008",
+        "name": "\ud835\ude34\ud835\ude35\ud835\ude26\ud835\ude2d\ud835\ude2d\ud835\ude22 \u272e",
+        "screen_name": "stxllatrn",
+        "location": "Aix-en-Provence, France",
+        "description": "cOuCoU",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 324,
+        "friends_count": 288,
+        "listed_count": 0,
+        "created_at": "Sun May 13 14:14:35 +0000 2018",
+        "favourites_count": 7457,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5514,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251254951441043456/YdcuzxfR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251254951441043456/YdcuzxfR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/995668631458603008/1588282743",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:20:58 +0000 2020",
+        "id": 1256740496975806467,
+        "id_str": "1256740496975806467",
+        "text": "Moi quand je vois les personnes qui critiquent Noah  #noahschnappisoverparty https://t.co/g3YuFBeoo3",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "noahschnappisoverparty",
+                    "indices": [
+                        53,
+                        76
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256740488692072449,
+                    "id_str": "1256740488692072449",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDW0ONXgAEhWTG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDW0ONXgAEhWTG.jpg",
+                    "url": "https://t.co/g3YuFBeoo3",
+                    "display_url": "pic.twitter.com/g3YuFBeoo3",
+                    "expanded_url": "https://twitter.com/hebertlou43/status/1256740496975806467/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256740488692072449,
+                    "id_str": "1256740488692072449",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDW0ONXgAEhWTG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDW0ONXgAEhWTG.jpg",
+                    "url": "https://t.co/g3YuFBeoo3",
+                    "display_url": "pic.twitter.com/g3YuFBeoo3",
+                    "expanded_url": "https://twitter.com/hebertlou43/status/1256740496975806467/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "medium": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 270,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXDW0ONXgAEhWTG.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 751866455709319168,
+            "id_str": "751866455709319168",
+            "name": "+=+",
+            "screen_name": "hebertlou43",
+            "location": "",
+            "description": "insta : hbtlouu millie ? ma vie . \u00ab thank you! \u00bb- Noah schnapp. Alors oui je d\u00e9fend Noah un pb?",
+            "url": "https://t.co/TQrYZwuHIS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TQrYZwuHIS",
+                            "expanded_url": "https://www.instagram.com/hbtlouu/",
+                            "display_url": "instagram.com/hbtlouu/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11,
+            "friends_count": 86,
+            "listed_count": 0,
+            "created_at": "Sat Jul 09 19:51:46 +0000 2016",
+            "favourites_count": 1332,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 145,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1162168919311958016/NlA4YKA5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162168919311958016/NlA4YKA5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/751866455709319168/1565918199",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "fr"
+}

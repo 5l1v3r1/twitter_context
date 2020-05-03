@@ -1,0 +1,123 @@
+{
+    "created_at": "Sun May 03 00:38:08 +0000 2020",
+    "id": 1256744818228826113,
+    "id_str": "1256744818228826113",
+    "text": "Qu\u00e9 buena din\u00e1mica @CervezaAguila felicidades por la idea @juandacaribeco y tremendo vozarr\u00f3n @ElderDiaz01 \ud83c\udfb6\ud83e\udd29\ud83c\udf7b\u2026 https://t.co/MBuOFecnmA",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CervezaAguila",
+                "name": "Cerveza Aguila",
+                "id": 95684520,
+                "id_str": "95684520",
+                "indices": [
+                    19,
+                    33
+                ]
+            },
+            {
+                "screen_name": "juandacaribeco",
+                "name": "JUANDA CARIBE",
+                "id": 127951739,
+                "id_str": "127951739",
+                "indices": [
+                    58,
+                    73
+                ]
+            },
+            {
+                "screen_name": "ElderDiaz01",
+                "name": "Elder Dayan",
+                "id": 182488284,
+                "id_str": "182488284",
+                "indices": [
+                    94,
+                    106
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/MBuOFecnmA",
+                "expanded_url": "https://twitter.com/i/web/status/1256744818228826113",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 291757678,
+        "id_str": "291757678",
+        "name": "\u24b8\u24c1\u24b6\u24ca \u264f",
+        "screen_name": "claufonseca28",
+        "location": "Barranquilla, Colombia",
+        "description": "Hakuna Matata \u270c\ud83c\udffe\nJuniorista 100% de coraz\u00f3n \ud83d\udd34\u26aa\n\ud83d\udcda\ud83c\udfbc\u26bd\u2708",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 78,
+        "friends_count": 450,
+        "listed_count": 0,
+        "created_at": "Mon May 02 15:29:27 +0000 2011",
+        "favourites_count": 10877,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5568,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235743906823839744/yV_7NmkZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235743906823839744/yV_7NmkZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/291757678/1577414633",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

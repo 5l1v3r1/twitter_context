@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:35:03 +0000 2020",
+    "id": 1256744040499986438,
+    "id_str": "1256744040499986438",
+    "text": "@KurtSchlichter @MPosey76 \ud83d\ude4f\ud83c\uddfa\ud83c\uddf8\ud83d\ude4f https://t.co/U0MnVW7M4k",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "KurtSchlichter",
+                "name": "Kurt Schlichter",
+                "id": 18089606,
+                "id_str": "18089606",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "MPosey76",
+                "name": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8OneToughMama\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+                "id": 574784221,
+                "id_str": "574784221",
+                "indices": [
+                    16,
+                    25
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744024851001344,
+                "id_str": "1256744024851001344",
+                "indices": [
+                    31,
+                    54
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaCDbWsAAQ_lR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaCDbWsAAQ_lR.jpg",
+                "url": "https://t.co/U0MnVW7M4k",
+                "display_url": "pic.twitter.com/U0MnVW7M4k",
+                "expanded_url": "https://twitter.com/deplorable_Geno/status/1256744040499986438/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744024851001344,
+                "id_str": "1256744024851001344",
+                "indices": [
+                    31,
+                    54
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaCDbWsAAQ_lR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaCDbWsAAQ_lR.jpg",
+                "url": "https://t.co/U0MnVW7M4k",
+                "display_url": "pic.twitter.com/U0MnVW7M4k",
+                "expanded_url": "https://twitter.com/deplorable_Geno/status/1256744040499986438/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1256705224502210561,
+    "in_reply_to_status_id_str": "1256705224502210561",
+    "in_reply_to_user_id": 18089606,
+    "in_reply_to_user_id_str": "18089606",
+    "in_reply_to_screen_name": "KurtSchlichter",
+    "user": {
+        "id": 1041684415103946754,
+        "id_str": "1041684415103946754",
+        "name": "\u274c\ud83c\uddfa\ud83c\uddf8\u274c Deplorable Geno www.armyfortrump.com/",
+        "screen_name": "deplorable_Geno",
+        "location": "Texas, USA",
+        "description": "Jesus is Lord \ud83d\ude4f#QAnon LightSeeker #truckerfortrump #2a #KAG #MOLONLABE Support @stjude My Father WW2 part of America\u2019s life blood #ProLife #WWG1WGA \ud83c\uddfa\ud83c\uddf8\ud83d\ude4f\ud83c\uddee\ud83c\uddf1",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3858,
+        "friends_count": 4975,
+        "listed_count": 0,
+        "created_at": "Mon Sep 17 13:44:52 +0000 2018",
+        "favourites_count": 40947,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30490,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253833982741024768/f2zTqO0J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253833982741024768/f2zTqO0J_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1041684415103946754/1586706497",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

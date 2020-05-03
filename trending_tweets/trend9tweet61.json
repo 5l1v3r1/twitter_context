@@ -1,0 +1,206 @@
+{
+    "created_at": "Sun May 03 00:42:38 +0000 2020",
+    "id": 1256745952691576832,
+    "id_str": "1256745952691576832",
+    "text": "RT @mariacoments: o felipe podia responder a gnt com a tag n\u00e9? vem aqui @felipeprior TE AMAMOS FELIPE PRIOR",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mariacoments",
+                "name": "maria antoniazzi \ud83c\udf7a",
+                "id": 1178468138041708545,
+                "id_str": "1178468138041708545",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "felipeprior",
+                "name": "Felipe Prior \ud83c\udf7a \ud83e\uddd9\u200d\u2642\ufe0f",
+                "id": 58612615,
+                "id_str": "58612615",
+                "indices": [
+                    72,
+                    84
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1242628617487646720,
+        "id_str": "1242628617487646720",
+        "name": "Didaefifi",
+        "screen_name": "didaefifi",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9,
+        "friends_count": 31,
+        "listed_count": 0,
+        "created_at": "Wed Mar 25 01:45:43 +0000 2020",
+        "favourites_count": 1949,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1353,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:36:17 +0000 2020",
+        "id": 1256744354636587009,
+        "id_str": "1256744354636587009",
+        "text": "o felipe podia responder a gnt com a tag n\u00e9? vem aqui @felipeprior TE AMAMOS FELIPE PRIOR",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "felipeprior",
+                    "name": "Felipe Prior \ud83c\udf7a \ud83e\uddd9\u200d\u2642\ufe0f",
+                    "id": 58612615,
+                    "id_str": "58612615",
+                    "indices": [
+                        54,
+                        66
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1178468138041708545,
+            "id_str": "1178468138041708545",
+            "name": "maria antoniazzi \ud83c\udf7a",
+            "screen_name": "mariacoments",
+            "location": "",
+            "description": "fan account \u2022 realitys \u2022 \ud83c\udf7a\u2600\ufe0f",
+            "url": "https://t.co/JLfWkFSezQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JLfWkFSezQ",
+                            "expanded_url": "https://instagram.com/trevodoprior?igshid=l1tyivd3svae",
+                            "display_url": "instagram.com/trevodoprior?i\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2430,
+            "friends_count": 888,
+            "listed_count": 1,
+            "created_at": "Mon Sep 30 00:34:43 +0000 2019",
+            "favourites_count": 4579,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7530,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256446546251599872/DOBlhuOb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256446546251599872/DOBlhuOb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178468138041708545/1588297818",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

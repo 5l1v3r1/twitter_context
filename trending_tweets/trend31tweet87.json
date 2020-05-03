@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:40:44 +0000 2020",
+    "id": 1256745470996680705,
+    "id_str": "1256745470996680705",
+    "text": "@filmfics Could it be that jimin pushed jk into the elevator on purpose and called the police so that they\u2019d catch\u2026 https://t.co/bkUDp5Ti46",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "filmfics",
+                "name": "\u200e\u064b",
+                "id": 1004122823554732032,
+                "id_str": "1004122823554732032",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/bkUDp5Ti46",
+                "expanded_url": "https://twitter.com/i/web/status/1256745470996680705",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1256738806201540608,
+    "in_reply_to_status_id_str": "1256738806201540608",
+    "in_reply_to_user_id": 1004122823554732032,
+    "in_reply_to_user_id_str": "1004122823554732032",
+    "in_reply_to_screen_name": "filmfics",
+    "user": {
+        "id": 711506900878278656,
+        "id_str": "711506900878278656",
+        "name": "\ud835\ude78\ud81a\uddf5\u2077",
+        "screen_name": "israative",
+        "location": "\u2661 Kierra \u2661",
+        "description": "Love yourself so no one has to. #ENDviolence #BLM #FreePalestine",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 156,
+        "friends_count": 650,
+        "listed_count": 3,
+        "created_at": "Sun Mar 20 10:57:19 +0000 2016",
+        "favourites_count": 32527,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21909,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253248995838832640/hOdtofdW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253248995838832640/hOdtofdW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/711506900878278656/1587632820",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

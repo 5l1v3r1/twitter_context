@@ -1,0 +1,198 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745986107379713,
+    "id_str": "1256745986107379713",
+    "text": "RT @mana_kailani: #insiders. So the talking points decided for Tehan by Morrison &amp; his pathetic marketing team was go after Dan Andrews. Mo\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "insiders",
+                "indices": [
+                    18,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mana_kailani",
+                "name": "\ud83d\udca7Kailani Mana",
+                "id": 3233032387,
+                "id_str": "3233032387",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 935076858592243712,
+        "id_str": "935076858592243712",
+        "name": "Kezt33",
+        "screen_name": "KerrieT35027863",
+        "location": "Newcastle, New South Wales",
+        "description": "Expert Retiree. I can do whatever, whenever I like. Rejects timetables, schedules and commitments other than lunch, dinner and social occasions.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 386,
+        "friends_count": 1390,
+        "listed_count": 1,
+        "created_at": "Mon Nov 27 09:24:30 +0000 2017",
+        "favourites_count": 45394,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26211,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/940804202892316673/1WhVG4iQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/940804202892316673/1WhVG4iQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:40:24 +0000 2020",
+        "id": 1256730288027086848,
+        "id_str": "1256730288027086848",
+        "text": "#insiders. So the talking points decided for Tehan by Morrison &amp; his pathetic marketing team was go after Dan Andre\u2026 https://t.co/wgjyo9dcFp",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "insiders",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wgjyo9dcFp",
+                    "expanded_url": "https://twitter.com/i/web/status/1256730288027086848",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3233032387,
+            "id_str": "3233032387",
+            "name": "\ud83d\udca7Kailani Mana",
+            "screen_name": "mana_kailani",
+            "location": "",
+            "description": "I think you can work it out \ud83d\ude09",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6406,
+            "friends_count": 3177,
+            "listed_count": 78,
+            "created_at": "Mon Jun 01 23:48:14 +0000 2015",
+            "favourites_count": 69770,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 67423,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/706217707541127168/RUm1nivA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/706217707541127168/RUm1nivA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3233032387/1585608024",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 24,
+        "favorite_count": 56,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

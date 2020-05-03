@@ -1,0 +1,188 @@
+{
+    "created_at": "Sun May 03 00:42:50 +0000 2020",
+    "id": 1256746002414997506,
+    "id_str": "1256746002414997506",
+    "text": "RT @PrimasPelaRafa: Melhor pessoa. Melhor adm. #RafaADMXand",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RafaADMXand",
+                "indices": [
+                    47,
+                    59
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PrimasPelaRafa",
+                "name": "PRIMAS PELA RAFA \u2728",
+                "id": 1218746781149868032,
+                "id_str": "1218746781149868032",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 888886507175649281,
+        "id_str": "888886507175649281",
+        "name": "Vava",
+        "screen_name": "CardVava",
+        "location": "",
+        "description": "As duas maiores riquezas da vida: ter sa\u00fade e estar com quem a gente ama!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 289,
+        "friends_count": 352,
+        "listed_count": 0,
+        "created_at": "Sat Jul 22 22:20:32 +0000 2017",
+        "favourites_count": 20320,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17154,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096496436831809537/7FS_pL0I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096496436831809537/7FS_pL0I_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:39:12 +0000 2020",
+        "id": 1256745084588097536,
+        "id_str": "1256745084588097536",
+        "text": "Melhor pessoa. Melhor adm. #RafaADMXand",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "RafaADMXand",
+                    "indices": [
+                        27,
+                        39
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1218746781149868032,
+            "id_str": "1218746781149868032",
+            "name": "PRIMAS PELA RAFA \u2728",
+            "screen_name": "PrimasPelaRafa",
+            "location": "",
+            "description": "Let\u00edcia e Karol do insta @fc_primas_pela_rf \u2728\ud83d\udc99\u2764 #TeamRafa\nRedes da Rafa \nInstagram @Rafakalimann\nTwitter @rafakalimann_",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 859,
+            "friends_count": 56,
+            "listed_count": 1,
+            "created_at": "Sun Jan 19 04:08:11 +0000 2020",
+            "favourites_count": 3516,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3761,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253077564345716736/XJIw0yJF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253077564345716736/XJIw0yJF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1218746781149868032/1587592066",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

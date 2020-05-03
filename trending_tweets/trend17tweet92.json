@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:41:37 +0000 2020",
+    "id": 1256745696285405184,
+    "id_str": "1256745696285405184",
+    "text": "#yagmur \nMay\u0131s s\u00fcr\u00fcm\u00fc de y\u00fckleniyor.. https://t.co/KDax1TlS4b",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "yagmur",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745511584960513,
+                "id_str": "1256745511584960513",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745511584960513/pu/img/mN_JZNpisN3KXcZV.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745511584960513/pu/img/mN_JZNpisN3KXcZV.jpg",
+                "url": "https://t.co/KDax1TlS4b",
+                "display_url": "pic.twitter.com/KDax1TlS4b",
+                "expanded_url": "https://twitter.com/Merveince06/status/1256745696285405184/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745511584960513,
+                "id_str": "1256745511584960513",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745511584960513/pu/img/mN_JZNpisN3KXcZV.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745511584960513/pu/img/mN_JZNpisN3KXcZV.jpg",
+                "url": "https://t.co/KDax1TlS4b",
+                "display_url": "pic.twitter.com/KDax1TlS4b",
+                "expanded_url": "https://twitter.com/Merveince06/status/1256745696285405184/video/1",
+                "type": "video",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 11300,
+                    "variants": [
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745511584960513/pu/vid/640x640/fEM0wy9FwP9QAZy4.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745511584960513/pu/vid/320x320/trzcJCmbV7dcgpx1.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745511584960513/pu/pl/VCTHECAhy47Auvrc.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745511584960513/pu/vid/480x480/9QTqCl7nYez2QmrG.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1060166823998558208,
+        "id_str": "1060166823998558208",
+        "name": "Merve \u0130nce",
+        "screen_name": "Merveince06",
+        "location": "Erzurum, T\u00fcrkiye",
+        "description": "Atat\u00fcrk \u00dcniversitesi",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 25,
+        "friends_count": 38,
+        "listed_count": 0,
+        "created_at": "Wed Nov 07 13:47:22 +0000 2018",
+        "favourites_count": 405,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246764507952799744/aReW11gV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246764507952799744/aReW11gV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060166823998558208/1573833792",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun May 03 00:42:41 +0000 2020",
+    "id": 1256745962523045888,
+    "id_str": "1256745962523045888",
+    "text": "RT @SkullBlondie: Hoje o tempo voa amor...escorre pelas m\u00e3os #LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    61,
+                    70
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SkullBlondie",
+                "name": "clarentena",
+                "id": 1069723735,
+                "id_str": "1069723735",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 40083740,
+        "id_str": "40083740",
+        "name": "Pati",
+        "screen_name": "pati_rsss",
+        "location": " Brasil",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 901,
+        "friends_count": 2390,
+        "listed_count": 3,
+        "created_at": "Thu May 14 21:03:06 +0000 2009",
+        "favourites_count": 83578,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 47556,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245005010930466817/Jg9EGa_7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245005010930466817/Jg9EGa_7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40083740/1585275877",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:41:48 +0000 2020",
+        "id": 1256745740136783872,
+        "id_str": "1256745740136783872",
+        "text": "Hoje o tempo voa amor...escorre pelas m\u00e3os #LiveLulu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveLulu",
+                    "indices": [
+                        43,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1069723735,
+            "id_str": "1069723735",
+            "name": "clarentena",
+            "screen_name": "SkullBlondie",
+            "location": "Brazil",
+            "description": "Dj and YouTuber | Contato profissional: fabricia@thebeat.com.br",
+            "url": "https://t.co/yvusX3j7lu",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/yvusX3j7lu",
+                            "expanded_url": "http://youtube.com/canalclaraaguilar",
+                            "display_url": "youtube.com/canalclaraagui\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 311861,
+            "friends_count": 1576,
+            "listed_count": 575,
+            "created_at": "Tue Jan 08 01:53:32 +0000 2013",
+            "favourites_count": 6550,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 40216,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1240799866114228224/ZfgFL9fC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240799866114228224/ZfgFL9fC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069723735/1584996814",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

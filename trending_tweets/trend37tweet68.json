@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:41:38 +0000 2020",
+    "id": 1256745697493336067,
+    "id_str": "1256745697493336067",
+    "text": "VOC\u00ca TA COM ELA\nAINDA GOSTA DELA \nVOLTOU A FALAR COM ELAAAAA\n#liveeduardaalves https://t.co/8qy5QXu2Bp",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "liveeduardaalves",
+                "indices": [
+                    61,
+                    78
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745631672131590,
+                "id_str": "1256745631672131590",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbflTXYAY7FUD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbflTXYAY7FUD.jpg",
+                "url": "https://t.co/8qy5QXu2Bp",
+                "display_url": "pic.twitter.com/8qy5QXu2Bp",
+                "expanded_url": "https://twitter.com/1keyl4/status/1256745697493336067/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 328,
+                        "h": 290,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 328,
+                        "h": 290,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 328,
+                        "h": 290,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745631672131590,
+                "id_str": "1256745631672131590",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbflTXYAY7FUD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbflTXYAY7FUD.jpg",
+                "url": "https://t.co/8qy5QXu2Bp",
+                "display_url": "pic.twitter.com/8qy5QXu2Bp",
+                "expanded_url": "https://twitter.com/1keyl4/status/1256745697493336067/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 328,
+                        "h": 290,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 328,
+                        "h": 290,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 328,
+                        "h": 290,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2408121710,
+        "id_str": "2408121710",
+        "name": "mana walter",
+        "screen_name": "1keyl4",
+        "location": "",
+        "description": "O peso de votar em Bozo eu n\u00e3o carrego",
+        "url": "https://t.co/rU0EaaZZ7h",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/rU0EaaZZ7h",
+                        "expanded_url": "https://www.instagram.com/p/B9KEjVbgKQ1t1l4T0rpMLuBBbpVXFPUptMZaDI0/?igshid=18ujxun2iy6f9",
+                        "display_url": "instagram.com/p/B9KEjVbgKQ1t\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 233,
+        "friends_count": 504,
+        "listed_count": 1,
+        "created_at": "Mon Mar 24 01:35:16 +0000 2014",
+        "favourites_count": 2720,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2972,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254509454474780674/uAVOv-FQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254509454474780674/uAVOv-FQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2408121710/1588443035",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

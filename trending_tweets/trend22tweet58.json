@@ -1,0 +1,298 @@
+{
+    "created_at": "Sun May 03 00:42:12 +0000 2020",
+    "id": 1256745842142146561,
+    "id_str": "1256745842142146561",
+    "text": "My mood after reading Twitter for a bit and seeing fragments of #insiders https://t.co/8OenvZNAnO",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "insiders",
+                "indices": [
+                    64,
+                    73
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/8OenvZNAnO",
+                "expanded_url": "https://twitter.com/gifs/status/1256745298312888322",
+                "display_url": "twitter.com/gifs/status/12\u2026",
+                "indices": [
+                    74,
+                    97
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 14243154,
+        "id_str": "14243154",
+        "name": "Tara Poole",
+        "screen_name": "TeeKayP",
+        "location": "Ballarat, Victoria",
+        "description": "Creative City strategist, Ballarat, regional Vic, Aust. Using creativity to help make better cities & people. I like to learn things from clever people.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 525,
+        "friends_count": 1317,
+        "listed_count": 19,
+        "created_at": "Fri Mar 28 12:21:15 +0000 2008",
+        "favourites_count": 5283,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7075,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/424443144625614848/O9puRy-L_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/424443144625614848/O9puRy-L_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14243154/1572562033",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256745298312888322,
+    "quoted_status_id_str": "1256745298312888322",
+    "quoted_status": {
+        "created_at": "Sun May 03 00:40:02 +0000 2020",
+        "id": 1256745298312888322,
+        "id_str": "1256745298312888322",
+        "text": "https://t.co/HhkUZY2ZAC https://t.co/Movy5FXSGw",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/HhkUZY2ZAC",
+                    "expanded_url": "https://giphy.com/gifs/KZBI0eCH2mPt1Df7I1",
+                    "display_url": "giphy.com/gifs/KZBI0eCH2\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1256745297092292608,
+                    "id_str": "1256745297092292608",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDbMG5UMAAlupu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDbMG5UMAAlupu.jpg",
+                    "url": "https://t.co/Movy5FXSGw",
+                    "display_url": "pic.twitter.com/Movy5FXSGw",
+                    "expanded_url": "https://twitter.com/GIFs/status/1256745298312888322/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256745297092292608,
+                    "id_str": "1256745297092292608",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDbMG5UMAAlupu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDbMG5UMAAlupu.jpg",
+                    "url": "https://t.co/Movy5FXSGw",
+                    "display_url": "pic.twitter.com/Movy5FXSGw",
+                    "expanded_url": "https://twitter.com/GIFs/status/1256745298312888322/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXDbMG5UMAAlupu.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://ministryofgifs.org\" rel=\"nofollow\">GIFs Daemon</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1019188722,
+            "id_str": "1019188722",
+            "name": "Ministry of GIFs",
+            "screen_name": "GIFs",
+            "location": "The Internet",
+            "description": "Purveyors of fine animated GIFs since 2012",
+            "url": "https://t.co/Eh3uH2tWTF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Eh3uH2tWTF",
+                            "expanded_url": "http://ministryofgifs.org",
+                            "display_url": "ministryofgifs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 46353,
+            "friends_count": 56,
+            "listed_count": 842,
+            "created_at": "Tue Dec 18 07:07:54 +0000 2012",
+            "favourites_count": 283,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 21435,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1149897289709654016/OU_gnEnO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149897289709654016/OU_gnEnO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019188722/1384327436",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,0 +1,210 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745922043707393,
+    "id_str": "1256745922043707393",
+    "text": "RT @mansuryavas06: Altaylardan Tuna'ya, Malazgirt'ten Kurtulu\u015f'a bu milleti k\u00f6klerinden koparmayan atalar\u0131m\u0131z\u0131n ruhu \u015fad, #3May\u0131sT\u00fcrk\u00e7\u00fclerG\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mansuryavas06",
+                "name": "Mansur Yava\u015f",
+                "id": 246181702,
+                "id_str": "246181702",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 970623830745116673,
+        "id_str": "970623830745116673",
+        "name": "Derin\ud83d\udc30",
+        "screen_name": "naberceku",
+        "location": "Antalya, T\u00fcrkiye",
+        "description": "nolmu\u015f olmu\u015f",
+        "url": "https://t.co/IepXLPqQkd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/IepXLPqQkd",
+                        "expanded_url": "http://Instagram.com/derintekemen",
+                        "display_url": "Instagram.com/derintekemen",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1544,
+        "friends_count": 583,
+        "listed_count": 2,
+        "created_at": "Mon Mar 05 11:35:29 +0000 2018",
+        "favourites_count": 29068,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4571,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254587846180114432/Ip34alWM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254587846180114432/Ip34alWM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/970623830745116673/1587055994",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:07:52 +0000 2020",
+        "id": 1256691901065039872,
+        "id_str": "1256691901065039872",
+        "text": "Altaylardan Tuna'ya, Malazgirt'ten Kurtulu\u015f'a bu milleti k\u00f6klerinden koparmayan atalar\u0131m\u0131z\u0131n ruhu \u015fad,\u2026 https://t.co/lyQ8Pw3WYf",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lyQ8Pw3WYf",
+                    "expanded_url": "https://twitter.com/i/web/status/1256691901065039872",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        104,
+                        127
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 246181702,
+            "id_str": "246181702",
+            "name": "Mansur Yava\u015f",
+            "screen_name": "mansuryavas06",
+            "location": "Ankara",
+            "description": "Ankara B\u00fcy\u00fck\u015fehir Belediye Ba\u015fkan\u0131 | Mayor of Ankara Metropolitan Municipality | For tweets in English: @mansuryavas_en",
+            "url": "https://t.co/jDFpbTtH9w",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/jDFpbTtH9w",
+                            "expanded_url": "http://www.mansuryavas.com.tr",
+                            "display_url": "mansuryavas.com.tr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3461659,
+            "friends_count": 344,
+            "listed_count": 1146,
+            "created_at": "Wed Feb 02 09:17:09 +0000 2011",
+            "favourites_count": 1476,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5758,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1146093835052867589/SenfDHqj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146093835052867589/SenfDHqj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/246181702/1587217405",
+            "profile_link_color": "1B853C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9058,
+        "favorite_count": 46656,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9058,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

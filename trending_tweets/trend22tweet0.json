@@ -1,0 +1,221 @@
+{
+    "created_at": "Sun May 03 00:42:58 +0000 2020",
+    "id": 1256746032899092480,
+    "id_str": "1256746032899092480",
+    "text": "RT @iMusing: #BreakingNews Dan Andrews has just announced a school needs to be closed due to coronavirus. Karvelas says \u201cthis changes every\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BreakingNews",
+                "indices": [
+                    13,
+                    26
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "iMusing",
+                "name": "Ingrid M",
+                "id": 171699484,
+                "id_str": "171699484",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2316819728,
+        "id_str": "2316819728",
+        "name": "Steve Carey",
+        "screen_name": "SteveCarey17",
+        "location": "Southern Highlands NSW",
+        "description": "Retired. Former State Govt. Administrator.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 126,
+        "friends_count": 140,
+        "listed_count": 0,
+        "created_at": "Wed Jan 29 09:18:17 +0000 2014",
+        "favourites_count": 41145,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11014,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:02:33 +0000 2020",
+        "id": 1256735864723390464,
+        "id_str": "1256735864723390464",
+        "text": "#BreakingNews Dan Andrews has just announced a school needs to be closed due to coronavirus. Karvelas says \u201cthis ch\u2026 https://t.co/mMJQwdGc8E",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BreakingNews",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/mMJQwdGc8E",
+                    "expanded_url": "https://twitter.com/i/web/status/1256735864723390464",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1256735234827018241,
+        "in_reply_to_status_id_str": "1256735234827018241",
+        "in_reply_to_user_id": 171699484,
+        "in_reply_to_user_id_str": "171699484",
+        "in_reply_to_screen_name": "iMusing",
+        "user": {
+            "id": 171699484,
+            "id_str": "171699484",
+            "name": "Ingrid M",
+            "screen_name": "iMusing",
+            "location": "Western Sydney, Australia",
+            "description": "on unceded Darug lands| law, ethics, political economy| casualised, single mum, feminist, union| cover art by EvaClaire Matthews| https://t.co/Rcb1hZ2JjP",
+            "url": "https://t.co/f32un4rtdd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/f32un4rtdd",
+                            "expanded_url": "https://imatthewsblog.com/",
+                            "display_url": "imatthewsblog.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Rcb1hZ2JjP",
+                            "expanded_url": "http://PayPal.Me/IngridMM",
+                            "display_url": "PayPal.Me/IngridMM",
+                            "indices": [
+                                130,
+                                153
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 9654,
+            "friends_count": 2378,
+            "listed_count": 91,
+            "created_at": "Tue Jul 27 23:38:59 +0000 2010",
+            "favourites_count": 79529,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 103383,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1239552631585927170/JiW5Gu9E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239552631585927170/JiW5Gu9E_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/171699484/1583832152",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 37,
+        "favorite_count": 102,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

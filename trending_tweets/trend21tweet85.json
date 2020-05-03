@@ -1,0 +1,350 @@
+{
+    "created_at": "Sun May 03 00:41:44 +0000 2020",
+    "id": 1256745724986916870,
+    "id_str": "1256745724986916870",
+    "text": "RT @krakyeGeng_: The Energy alone go fi give Nigeria  light \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 @kwekusmoke_ X @bosom_pyung \ud83d\udcaa\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\n#3MUSICAWARDS20 https://t.\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3MUSICAWARDS20",
+                "indices": [
+                    113,
+                    128
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "krakyeGeng_",
+                "name": "Krakye GENG",
+                "id": 1246787603510300678,
+                "id_str": "1246787603510300678",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "kwekusmoke_",
+                "name": "#Yedin",
+                "id": 1334200147,
+                "id_str": "1334200147",
+                "indices": [
+                    66,
+                    78
+                ]
+            },
+            {
+                "screen_name": "bosom_pyung",
+                "name": "AwiesU",
+                "id": 1325060347,
+                "id_str": "1325060347",
+                "indices": [
+                    81,
+                    93
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 848650104189972482,
+        "id_str": "848650104189972482",
+        "name": "Kobby",
+        "screen_name": "Godwinasank",
+        "location": "Accra_Ghana",
+        "description": "Those u see shining today didn't start polishing yesterday.. A Sarknative and a believer\u2764",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 480,
+        "friends_count": 392,
+        "listed_count": 2,
+        "created_at": "Sun Apr 02 21:35:26 +0000 2017",
+        "favourites_count": 16588,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4205,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251565640999198720/f89bhvSm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251565640999198720/f89bhvSm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/848650104189972482/1576505190",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:38:51 +0000 2020",
+        "id": 1256699699689598977,
+        "id_str": "1256699699689598977",
+        "text": "The Energy alone go fi give Nigeria  light \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 @kwekusmoke_ X @bosom_pyung \ud83d\udcaa\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\n#3MUSICAWARDS20 https://t.co/05Qcp38ODb",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3MUSICAWARDS20",
+                    "indices": [
+                        96,
+                        111
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kwekusmoke_",
+                    "name": "#Yedin",
+                    "id": 1334200147,
+                    "id_str": "1334200147",
+                    "indices": [
+                        49,
+                        61
+                    ]
+                },
+                {
+                    "screen_name": "bosom_pyung",
+                    "name": "AwiesU",
+                    "id": 1325060347,
+                    "id_str": "1325060347",
+                    "indices": [
+                        64,
+                        76
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256699516490825729,
+                    "id_str": "1256699516490825729",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256699516490825729/pu/img/9rOSRk9e39MZQgz9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256699516490825729/pu/img/9rOSRk9e39MZQgz9.jpg",
+                    "url": "https://t.co/05Qcp38ODb",
+                    "display_url": "pic.twitter.com/05Qcp38ODb",
+                    "expanded_url": "https://twitter.com/krakyeGeng_/status/1256699699689598977/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256699516490825729,
+                    "id_str": "1256699516490825729",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256699516490825729/pu/img/9rOSRk9e39MZQgz9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256699516490825729/pu/img/9rOSRk9e39MZQgz9.jpg",
+                    "url": "https://t.co/05Qcp38ODb",
+                    "display_url": "pic.twitter.com/05Qcp38ODb",
+                    "expanded_url": "https://twitter.com/krakyeGeng_/status/1256699699689598977/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 21784,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256699516490825729/pu/vid/640x360/r5gxhsapGQAs4H0i.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256699516490825729/pu/vid/480x270/gW7lVsdLfZgJGdDq.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256699516490825729/pu/vid/1280x720/owQdBQ_he1_hJzxw.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256699516490825729/pu/pl/sA7EWamBp3TE6UCL.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1246787603510300678,
+            "id_str": "1246787603510300678",
+            "name": "Krakye GENG",
+            "screen_name": "krakyeGeng_",
+            "location": "",
+            "description": "Fan page of @kwekusmoke_ \ud83e\udd85\u2764 It's all love here\ud83e\udd1d\ud83d\ude0a\u2764\n#Yedin \nhttps://t.co/jREUSpVsgD",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/jREUSpVsgD",
+                            "expanded_url": "https://www.youtube.com/channel/UCxZYPC1BAGhpqXaVl1_q_jA",
+                            "display_url": "youtube.com/channel/UCxZYP\u2026",
+                            "indices": [
+                                58,
+                                81
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 98,
+            "friends_count": 22,
+            "listed_count": 0,
+            "created_at": "Sun Apr 05 13:13:01 +0000 2020",
+            "favourites_count": 253,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 340,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246789195827462144/4_hBEa08_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246789195827462144/4_hBEa08_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246787603510300678/1586092799",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 99,
+        "favorite_count": 744,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 99,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

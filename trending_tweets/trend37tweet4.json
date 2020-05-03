@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:43:00 +0000 2020",
+    "id": 1256746044894961664,
+    "id_str": "1256746044894961664",
+    "text": "Primeiro lugar voc\u00ea someee, segundo lugar vira homeemmmm! Voc\u00ea \u00e9 o terceiro que me perdeeuuu #liveeduardaalves Eduarda Alves",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "liveeduardaalves",
+                "indices": [
+                    93,
+                    110
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 38451236,
+        "id_str": "38451236",
+        "name": "Bruno Freire \ud83c\udf38\u2728",
+        "screen_name": "BrunoHenriqueff",
+        "location": "Santa Rita, Paraiba",
+        "description": "",
+        "url": "https://t.co/Un58xfrjvM",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Un58xfrjvM",
+                        "expanded_url": "http://Instagram.com/brunofreiree",
+                        "display_url": "Instagram.com/brunofreiree",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3773,
+        "friends_count": 1479,
+        "listed_count": 14,
+        "created_at": "Thu May 07 15:26:05 +0000 2009",
+        "favourites_count": 13556,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26126,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "A58EBA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253357391544045569/RZ2qQBWB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253357391544045569/RZ2qQBWB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38451236/1586284164",
+        "profile_link_color": "6A10B3",
+        "profile_sidebar_border_color": "665461",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "882B99",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

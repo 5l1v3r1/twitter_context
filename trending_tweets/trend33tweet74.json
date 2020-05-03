@@ -1,0 +1,192 @@
+{
+    "created_at": "Sun May 03 00:43:04 +0000 2020",
+    "id": 1256746061059756032,
+    "id_str": "1256746061059756032",
+    "text": "RT @dailycamilabra: QUE ORGULHO!!!\n\nCamila e Shawn Mendes ganharam na categoria \u201cFavorite Music Collaboration\u201d por \u201cSe\u00f1orita\u201d no #KCA2020.\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KCA2020",
+                "indices": [
+                    129,
+                    137
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dailycamilabra",
+                "name": "Daily Camila Brasil",
+                "id": 1140033198166085632,
+                "id_str": "1140033198166085632",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1173340827910848513,
+        "id_str": "1173340827910848513",
+        "name": "diniz",
+        "screen_name": "millxmendz",
+        "location": "",
+        "description": "\u2022 \u0299\u1d00\u0299\u028f \u0299\u1d1c\u1d1b \u026as \u0274\u1d0f\u1d1b \u1d0a\u1d00\u1d04\u1d0b\u1d07\u1d05 \u029f\u026a\u1d0b\u1d07 \u028f\u1d0f\u1d1c \u2022",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 614,
+        "friends_count": 988,
+        "listed_count": 2,
+        "created_at": "Sun Sep 15 21:00:40 +0000 2019",
+        "favourites_count": 19089,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6412,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256405532115599361/grIWlhbj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256405532115599361/grIWlhbj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173340827910848513/1585932700",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:16:33 +0000 2020",
+        "id": 1256739386735157256,
+        "id_str": "1256739386735157256",
+        "text": "QUE ORGULHO!!!\n\nCamila e Shawn Mendes ganharam na categoria \u201cFavorite Music Collaboration\u201d por \u201cSe\u00f1orita\u201d no\u2026 https://t.co/veFAvSxdBc",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/veFAvSxdBc",
+                    "expanded_url": "https://twitter.com/i/web/status/1256739386735157256",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        110,
+                        133
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1140033198166085632,
+            "id_str": "1140033198166085632",
+            "name": "Daily Camila Brasil",
+            "screen_name": "dailycamilabra",
+            "location": "Miami, FL",
+            "description": "Bem-vindo ao mundo do Daily Camila Brasil, seu portal de informa\u00e7\u00f5es sobre a cantora e compositora Camila Cabello \ud83d\udddd\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4132,
+            "friends_count": 494,
+            "listed_count": 18,
+            "created_at": "Sat Jun 15 23:07:50 +0000 2019",
+            "favourites_count": 6697,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14033,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1235001733342015488/N8YlrC_6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235001733342015488/N8YlrC_6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140033198166085632/1577852202",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 113,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

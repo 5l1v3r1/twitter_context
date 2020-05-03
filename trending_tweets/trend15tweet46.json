@@ -1,0 +1,193 @@
+{
+    "created_at": "Sun May 03 00:42:21 +0000 2020",
+    "id": 1256745880146845697,
+    "id_str": "1256745880146845697",
+    "text": "RT @OguzhanUgur: Kimisi hak aramak diyor,kimisi m\u00fccadele\u2026 Da\u011fda bomba ta\u015f\u0131yan katilin su\u00e7u,\u015fehirde \u00e7i\u00e7ek ta\u015f\u0131yan destek\u00e7isiyle sempatikle\u015fi\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "OguzhanUgur",
+                "name": "O\u011fuzhan U\u011fur",
+                "id": 104306851,
+                "id_str": "104306851",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 903162980992475136,
+        "id_str": "903162980992475136",
+        "name": "\u0130smail Se\u00e7ik \ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "IsmailSecik",
+        "location": "Tarsus, T\u00fcrkiye",
+        "description": "Marmara \u00dcniversitesi    | uA UNI.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 132,
+        "friends_count": 181,
+        "listed_count": 0,
+        "created_at": "Thu Aug 31 07:50:09 +0000 2017",
+        "favourites_count": 9211,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 283,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255377724841046016/vUfz6ffP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255377724841046016/vUfz6ffP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/903162980992475136/1580080231",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:19:50 +0000 2020",
+        "id": 1256679814024527874,
+        "id_str": "1256679814024527874",
+        "text": "Kimisi hak aramak diyor,kimisi m\u00fccadele\u2026 Da\u011fda bomba ta\u015f\u0131yan katilin su\u00e7u,\u015fehirde \u00e7i\u00e7ek ta\u015f\u0131yan destek\u00e7isiyle sempa\u2026 https://t.co/6bFcqhGB28",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6bFcqhGB28",
+                    "expanded_url": "https://twitter.com/i/web/status/1256679814024527874",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 104306851,
+            "id_str": "104306851",
+            "name": "O\u011fuzhan U\u011fur",
+            "screen_name": "OguzhanUgur",
+            "location": "",
+            "description": "Sahip-\u00fcl \ud83d\udc49\ud83c\udffb Babala TV \ud83c\uddf9\ud83c\uddf7 (Her RT onaylad\u0131\u011f\u0131m anlam\u0131na gelir ama ba\u015f\u0131m belaya girmesin diye gelmez diyeyim) - https://t.co/Lp2XU4txnP",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Lp2XU4txnP",
+                            "expanded_url": "https://www.instagram.com/oguzhanugur_/?hl=tr",
+                            "display_url": "instagram.com/oguzhanugur_/?\u2026",
+                            "indices": [
+                                109,
+                                132
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1222536,
+            "friends_count": 915,
+            "listed_count": 291,
+            "created_at": "Tue Jan 12 23:29:37 +0000 2010",
+            "favourites_count": 6826,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2739,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1243217230701215744/PF40Q9T8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243217230701215744/PF40Q9T8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/104306851/1566421828",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "E89F00",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2596,
+        "favorite_count": 20325,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2596,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:42:36 +0000 2020",
+    "id": 1256745940733452290,
+    "id_str": "1256745940733452290",
+    "text": "RT @julie070188: PH twitter trends dominates by no other than the King of Twitter himself JEON JUNGKOOK.\nHis power. \ud83d\udd25\ud83d\udd25\ud83d\udd25\n\n1 JEON JUNGKOOK\n3\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "julie070188",
+                "name": "Julz \ud83d\udc96 \u02b2\u1d4f \ud83d\udc30 \u2077",
+                "id": 835053420813799425,
+                "id_str": "835053420813799425",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1087009679274700802,
+        "id_str": "1087009679274700802",
+        "name": "MyTime\u02b2\u1d4f\u23f0JKookieSeagull",
+        "screen_name": "JKingly0901",
+        "location": "",
+        "description": "Talent...  Passion...  Visual...                                           #AlwaysWithJK  \ud83d\udc8bJJK1\ud83d\udc8b  Worldwide IT Boy\ud83c\udfc6     \n   \ud83d\udc30Begin\ud83c\udf4eEuphoria\ud83d\udc07My Time\u23f0",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 298,
+        "friends_count": 622,
+        "listed_count": 3,
+        "created_at": "Sun Jan 20 15:31:17 +0000 2019",
+        "favourites_count": 98338,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 93462,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254633396996730880/XxOwXak5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254633396996730880/XxOwXak5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087009679274700802/1583620174",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:36:59 +0000 2020",
+        "id": 1256744527152312320,
+        "id_str": "1256744527152312320",
+        "text": "PH twitter trends dominates by no other than the King of Twitter himself JEON JUNGKOOK.\nHis power. \ud83d\udd25\ud83d\udd25\ud83d\udd25\n\n1 JEON JUNG\u2026 https://t.co/fTMG5db9Ma",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/fTMG5db9Ma",
+                    "expanded_url": "https://twitter.com/i/web/status/1256744527152312320",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 835053420813799425,
+            "id_str": "835053420813799425",
+            "name": "Julz \ud83d\udc96 \u02b2\u1d4f \ud83d\udc30 \u2077",
+            "screen_name": "julie070188",
+            "location": "",
+            "description": "You are my Euphoria, Jeon Jungkook...\ud83d\udc9b\ud83d\udc9c\ud83d\udc9b\n\n''Part of GOLDENATION''",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 648,
+            "friends_count": 476,
+            "listed_count": 1,
+            "created_at": "Fri Feb 24 09:07:04 +0000 2017",
+            "favourites_count": 66525,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 110156,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1204048482253692928/ybC8vWMm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204048482253692928/ybC8vWMm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/835053420813799425/1570160513",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

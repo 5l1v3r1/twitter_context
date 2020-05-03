@@ -1,0 +1,180 @@
+{
+    "created_at": "Sun May 03 00:42:55 +0000 2020",
+    "id": 1256746021360734209,
+    "id_str": "1256746021360734209",
+    "text": "RT @gasparzilanches: Teve uns jovens hoje que gostaram e aprovaram o cacetinho do Let\u00edcio, acho que comeram uns 10, \u00e9 bom mesmo gente \n#OSe\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gasparzilanches",
+                "name": "Gasparzinho Lanches",
+                "id": 1243244699835662337,
+                "id_str": "1243244699835662337",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1240744325903986695,
+        "id_str": "1240744325903986695",
+        "name": "Kelly",
+        "screen_name": "Kelly69139006",
+        "location": "Chernobyl",
+        "description": "I don't need anyone who didn't want to be with me",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 20,
+        "listed_count": 0,
+        "created_at": "Thu Mar 19 20:58:21 +0000 2020",
+        "favourites_count": 729,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 71,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240744479256121350/A19l1Dny_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240744479256121350/A19l1Dny_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:41:22 +0000 2020",
+        "id": 1256745632989143042,
+        "id_str": "1256745632989143042",
+        "text": "Teve uns jovens hoje que gostaram e aprovaram o cacetinho do Let\u00edcio, acho que comeram uns 10, \u00e9 bom mesmo gente \n#OSegredoNaFloresta",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        114,
+                        133
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1243244699835662337,
+            "id_str": "1243244699835662337",
+            "name": "Gasparzinho Lanches",
+            "screen_name": "gasparzilanches",
+            "location": "Carpazinha ",
+            "description": "Gasparzinho Lanches, some com a sua fome \nTemos \u00f3timos cacetinhos \nVenha n\u00f3s visitar\nCarpazinha - RS",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6,
+            "friends_count": 9,
+            "listed_count": 0,
+            "created_at": "Thu Mar 26 18:33:36 +0000 2020",
+            "favourites_count": 14,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256740229374980099/aUo0BrS3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256740229374980099/aUo0BrS3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243244699835662337/1588465193",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

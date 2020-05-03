@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:42:39 +0000 2020",
+    "id": 1256745954553798657,
+    "id_str": "1256745954553798657",
+    "text": "RT @nihll1919: Kadiri tarikat\u0131na mensup ki\u015filerin her cuma g\u00fcn\u00fc \u015eanl\u0131urfa Suru\u00e7'taki Ko\u015fan dergah\u0131nda zikir yapt\u0131\u011f\u0131 ortaya \u00e7\u0131kt\u0131! Bu ne yah\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nihll1919",
+                "name": "ATA KIZI",
+                "id": 1707324073,
+                "id_str": "1707324073",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2773944859,
+        "id_str": "2773944859",
+        "name": "ha\u015fim yigit",
+        "screen_name": "hyigit641",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 18,
+        "friends_count": 297,
+        "listed_count": 0,
+        "created_at": "Wed Aug 27 17:16:05 +0000 2014",
+        "favourites_count": 2448,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1105,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255064431563849728/RIbMvb7O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255064431563849728/RIbMvb7O_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 13:09:31 +0000 2020",
+        "id": 1256571523378425858,
+        "id_str": "1256571523378425858",
+        "text": "Kadiri tarikat\u0131na mensup ki\u015filerin her cuma g\u00fcn\u00fc \u015eanl\u0131urfa Suru\u00e7'taki Ko\u015fan dergah\u0131nda zikir yapt\u0131\u011f\u0131 ortaya \u00e7\u0131kt\u0131!\u2026 https://t.co/vOITF7StwO",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/vOITF7StwO",
+                    "expanded_url": "https://twitter.com/i/web/status/1256571523378425858",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1707324073,
+            "id_str": "1707324073",
+            "name": "ATA KIZI",
+            "screen_name": "nihll1919",
+            "location": "\u0130stanbul, T\u00fcrkiye",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 27155,
+            "friends_count": 1821,
+            "listed_count": 28,
+            "created_at": "Wed Aug 28 13:25:51 +0000 2013",
+            "favourites_count": 402664,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 155640,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1230892310050877440/TR55b2RS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230892310050877440/TR55b2RS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707324073/1577380860",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 588,
+        "favorite_count": 2040,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 588,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

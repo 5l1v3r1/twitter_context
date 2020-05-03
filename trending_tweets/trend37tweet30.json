@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:42:25 +0000 2020",
+    "id": 1256745897289043970,
+    "id_str": "1256745897289043970",
+    "text": "VOC\u00ca TA COM ELA\nAINDA GOSTA DELA\nVOLTOU A FALAR COM ELA \ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\n#liveeduardaalves",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "liveeduardaalves",
+                "indices": [
+                    65,
+                    82
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 73946633,
+        "id_str": "73946633",
+        "name": "carentona",
+        "screen_name": "alinemv",
+        "location": "recife",
+        "description": "uma milf - m\u00e3e insuport\u00e1vel lascada faminta",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 198,
+        "friends_count": 244,
+        "listed_count": 1,
+        "created_at": "Sun Sep 13 18:51:52 +0000 2009",
+        "favourites_count": 27859,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8989,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3FF5AC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252269877995462656/hf1ZxAKP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252269877995462656/hf1ZxAKP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73946633/1586738478",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "324D4B",
+        "profile_text_color": "0ACC58",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

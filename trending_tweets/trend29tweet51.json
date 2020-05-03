@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:44 +0000 2020",
+    "id": 1256745977203109888,
+    "id_str": "1256745977203109888",
+    "text": "Esse homem \u00e9 tudo pra mim! #LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    27,
+                    36
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 840296612,
+        "id_str": "840296612",
+        "name": "nati",
+        "screen_name": "natiluisat",
+        "location": "Jundia\u00ed, Brasil",
+        "description": "oi n\u00e9",
+        "url": "https://t.co/adJyaBypgK",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/adJyaBypgK",
+                        "expanded_url": "https://www.instagram.com/nathalialuisa_/",
+                        "display_url": "instagram.com/nathalialuisa_/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 314,
+        "friends_count": 213,
+        "listed_count": 0,
+        "created_at": "Sat Sep 22 19:18:22 +0000 2012",
+        "favourites_count": 2618,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250843584925962247/hHxPgqMr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250843584925962247/hHxPgqMr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/840296612/1587490440",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,364 @@
+{
+    "created_at": "Sun May 03 00:42:35 +0000 2020",
+    "id": 1256745937738829826,
+    "id_str": "1256745937738829826",
+    "text": "RT @Romi_vito: Todos estos delincuentes libres y nadie cacerolea #TodosContraLaMentiraM",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TodosContraLaMentiraM",
+                "indices": [
+                    65,
+                    87
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Romi_vito",
+                "name": "Romi - Vito - Loli",
+                "id": 1009515450378616833,
+                "id_str": "1009515450378616833",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 187638203,
+        "id_str": "187638203",
+        "name": "Esperando Con Memoria",
+        "screen_name": "gdelcar",
+        "location": "",
+        "description": "El hombre de hace viejo muy pronto y sabio demasiado tarde.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2872,
+        "friends_count": 3255,
+        "listed_count": 2,
+        "created_at": "Mon Sep 06 19:35:58 +0000 2010",
+        "favourites_count": 5254,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18551,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195386810718920704/X_gSWCN8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195386810718920704/X_gSWCN8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187638203/1512587212",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:45 +0000 2020",
+        "id": 1256745478508724229,
+        "id_str": "1256745478508724229",
+        "text": "Todos estos delincuentes libres y nadie cacerolea #TodosContraLaMentiraM https://t.co/OKP0rcsPh0",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        50,
+                        72
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/OKP0rcsPh0",
+                    "expanded_url": "https://twitter.com/panamacrioffsho/status/1256669858273595393",
+                    "display_url": "twitter.com/panamacrioffsh\u2026",
+                    "indices": [
+                        73,
+                        96
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1009515450378616833,
+            "id_str": "1009515450378616833",
+            "name": "Romi - Vito - Loli",
+            "screen_name": "Romi_vito",
+            "location": "",
+            "description": "\u2022ABOGADA CONSTITUCIONALISTA\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbc\u2022 Servidora publica \u2022 Soy K aun en tiempos dif\u00edciles \u270c\ud83c\udffb\u2022 Especialista en Machirulos \u2022 Crossfitera \ud83c\udfcb\ud83c\udffc\u200d\u2640\ufe0f\u2022 Instagram rvs.24\u2022",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1304,
+            "friends_count": 1148,
+            "listed_count": 1,
+            "created_at": "Wed Jun 20 19:16:54 +0000 2018",
+            "favourites_count": 13940,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13775,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1168613314877972482/H-KVJhM6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168613314877972482/H-KVJhM6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009515450378616833/1584684146",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256669858273595393,
+        "quoted_status_id_str": "1256669858273595393",
+        "quoted_status": {
+            "created_at": "Sat May 02 19:40:16 +0000 2020",
+            "id": 1256669858273595393,
+            "id_str": "1256669858273595393",
+            "text": "OFFSHORROS\n\ndavid beckham ronaldinho 70 lucas luis juez griezmann https://t.co/ubal6hBO6w",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1256669813616922626,
+                        "id_str": "1256669813616922626",
+                        "indices": [
+                            66,
+                            89
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXCWiZCX0AILQLM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXCWiZCX0AILQLM.jpg",
+                        "url": "https://t.co/ubal6hBO6w",
+                        "display_url": "pic.twitter.com/ubal6hBO6w",
+                        "expanded_url": "https://twitter.com/panamacrioffsho/status/1256669858273595393/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 960,
+                                "h": 540,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 540,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1256669813616922626,
+                        "id_str": "1256669813616922626",
+                        "indices": [
+                            66,
+                            89
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXCWiZCX0AILQLM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXCWiZCX0AILQLM.jpg",
+                        "url": "https://t.co/ubal6hBO6w",
+                        "display_url": "pic.twitter.com/ubal6hBO6w",
+                        "expanded_url": "https://twitter.com/panamacrioffsho/status/1256669858273595393/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 960,
+                                "h": 540,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 540,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 718885892094615553,
+                "id_str": "718885892094615553",
+                "name": "Patria Grande",
+                "screen_name": "panamacrioffsho",
+                "location": "",
+                "description": "TODOS PERSEGUIDOS POR LA MAFIA MEDI\u00c1TICA Y JUDICIAL (LAWFARE) Y ESPIONAJE (CIA/AFI)\nExcepto N\u00e9stor Y Ch\u00e1vez, porque ya no estaban en este mundo.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 30217,
+                "friends_count": 29168,
+                "listed_count": 60,
+                "created_at": "Sat Apr 09 19:38:47 +0000 2016",
+                "favourites_count": 7327,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 115969,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1186793423992508416/3kt-bZXZ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186793423992508416/3kt-bZXZ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/718885892094615553/1569144902",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 19,
+            "favorite_count": 39,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256669858273595393,
+    "quoted_status_id_str": "1256669858273595393",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

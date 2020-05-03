@@ -1,0 +1,179 @@
+{
+    "created_at": "Sun May 03 00:42:19 +0000 2020",
+    "id": 1256745872362266627,
+    "id_str": "1256745872362266627",
+    "text": "@EddiePages #NBSSNL \n#NBSSNL \n#NBSSNL \n#NBSSNL \n#NBSSNL \n#NBSSNL \n#NBSSNL \n#NBSSNL \n#NBSSNL \n#NBSSNL \n#NBSSNL\u2026 https://t.co/4P8UoLD9RN",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    12,
+                    19
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    21,
+                    28
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    30,
+                    37
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    39,
+                    46
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    48,
+                    55
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    57,
+                    64
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    66,
+                    73
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    75,
+                    82
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    84,
+                    91
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    93,
+                    100
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    102,
+                    109
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EddiePages",
+                "name": "Pages \ud83c\uddfa\ud83c\uddec",
+                "id": 3225068554,
+                "id_str": "3225068554",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/4P8UoLD9RN",
+                "expanded_url": "https://twitter.com/i/web/status/1256745872362266627",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256690671857082370,
+    "in_reply_to_status_id_str": "1256690671857082370",
+    "in_reply_to_user_id": 3225068554,
+    "in_reply_to_user_id_str": "3225068554",
+    "in_reply_to_screen_name": "EddiePages",
+    "user": {
+        "id": 3068843819,
+        "id_str": "3068843819",
+        "name": "M\u016bzzukul\u016b Wa M\u016bsev\u0113ni\ud83d\ude0d",
+        "screen_name": "JustCallMeZarie",
+        "location": "Kampala, Uganda",
+        "description": "I'm a proud Alur\ud83d\udc4c\ud83d\udc83. An Advocate of Peace & Love\u270c\ufe0f. Single & Screwed up\ud83e\udd2a.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 91,
+        "friends_count": 296,
+        "listed_count": 0,
+        "created_at": "Tue Mar 03 23:38:11 +0000 2015",
+        "favourites_count": 406,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 359,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202989076548378624/lBy4x06L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202989076548378624/lBy4x06L_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

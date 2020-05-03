@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:42:59 +0000 2020",
+    "id": 1256746038125264902,
+    "id_str": "1256746038125264902",
+    "text": "RT @beginningbts: wait u can\u2019t see quote rt\u2019s of someone else sO hERE, \u201cNARRATE THE EVENTS OF THE SILENT ON\u2019S JOURNEY\u201d THEYVE BEEN NARRATIN\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "beginningbts",
+                "name": "googie\u2077\u2661",
+                "id": 959845840264335361,
+                "id_str": "959845840264335361",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1029171678042116096,
+        "id_str": "1029171678042116096",
+        "name": "\ud835\udcb4\ud835\udc5c\ud835\udc5c\ud835\udcc3\ud835\udcbe\ud835\udc52\u2077\ud835\udcc8 \ud835\udc35\ud835\udcb6\ud835\udcb7\ud835\udcbe\ud835\udc52",
+        "screen_name": "SHat39",
+        "location": "Here, always",
+        "description": "I\u2019m in love; can\u2019t you tell?\ud83c\udf38",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 352,
+        "friends_count": 29,
+        "listed_count": 2,
+        "created_at": "Tue Aug 14 01:03:43 +0000 2018",
+        "favourites_count": 45227,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16449,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255714717361934338/DXhS1RBt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255714717361934338/DXhS1RBt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029171678042116096/1588220694",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:16:56 +0000 2020",
+        "id": 1256724384535973892,
+        "id_str": "1256724384535973892",
+        "text": "wait u can\u2019t see quote rt\u2019s of someone else sO hERE, \u201cNARRATE THE EVENTS OF THE SILENT ON\u2019S JOURNEY\u201d THEYVE BEEN NA\u2026 https://t.co/JAsyzblSut",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JAsyzblSut",
+                    "expanded_url": "https://twitter.com/i/web/status/1256724384535973892",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 959845840264335361,
+            "id_str": "959845840264335361",
+            "name": "googie\u2077\u2661",
+            "screen_name": "beginningbts",
+            "location": "googoodlegi",
+            "description": "\u27b8 googiegoogiegoogiegoogiegoogie \u2661",
+            "url": "https://t.co/f2bAj1rB6b",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/f2bAj1rB6b",
+                            "expanded_url": "https://twitter.com/beginningbts/status/1087749224064790529?s=21",
+                            "display_url": "twitter.com/beginningbts/s\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 786,
+            "friends_count": 577,
+            "listed_count": 20,
+            "created_at": "Sat Feb 03 17:47:36 +0000 2018",
+            "favourites_count": 9256,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 21407,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252767472203300865/S17K__ZO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252767472203300865/S17K__ZO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/959845840264335361/1587518016",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:42:38 +0000 2020",
+    "id": 1256745949361299457,
+    "id_str": "1256745949361299457",
+    "text": "#Efsane113ya\u015f\u0131nda\nA\u015fk\u0131n ya\u015f\u0131 yoktur dediler 113 ya\u015f\u0131ndaki Fenerbah\u00e7eye a\u015f\u0131k olduk.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113ya\u015f\u0131nda",
+                "indices": [
+                    0,
+                    17
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 927168443811590145,
+        "id_str": "927168443811590145",
+        "name": "Sefa Kibaro\u011flu \ud83c\udf3f #Hedef29",
+        "screen_name": "sefakibaroglu1",
+        "location": "T\u00fcrkiye",
+        "description": "GEN\u00c7FENERBAH\u00c7EL\u0130LER!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 287,
+        "friends_count": 149,
+        "listed_count": 0,
+        "created_at": "Sun Nov 05 13:39:17 +0000 2017",
+        "favourites_count": 113924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16226,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228769750949531652/WUcMWbfm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228769750949531652/WUcMWbfm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/927168443811590145/1545152321",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

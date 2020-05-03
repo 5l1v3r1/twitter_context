@@ -1,0 +1,225 @@
+{
+    "created_at": "Sun May 03 00:40:50 +0000 2020",
+    "id": 1256745496917532673,
+    "id_str": "1256745496917532673",
+    "text": "RT @suleymandag: Nerede bir t\u00fcrk\u00fc s\u00f6yleyen g\u00f6r\u00fcrsen korkma yan\u0131na otur, \u00e7\u00fcnk\u00fc k\u00f6t\u00fc insanlar\u0131n t\u00fcrk\u00fcleri yoktur. #SesiDuy\u0130brahimYA\u015eASIN #ibr\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                "indices": [
+                    112,
+                    134
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "suleymandag",
+                "name": "S\u00fcleyman Da\u011f",
+                "id": 87931146,
+                "id_str": "87931146",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1182431713856757760,
+        "id_str": "1182431713856757760",
+        "name": "Bir Garip... Bir o\u011ful b\u00fcy\u00fctmelisin....",
+        "screen_name": "BirGarip47",
+        "location": "Anadolu",
+        "description": "Susun.! S\u0131ra neferi uyusun...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 141,
+        "friends_count": 185,
+        "listed_count": 0,
+        "created_at": "Thu Oct 10 23:04:36 +0000 2019",
+        "favourites_count": 6018,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12012,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254435443141226497/8gAKa4m7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254435443141226497/8gAKa4m7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182431713856757760/1588453198",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:51:53 +0000 2020",
+        "id": 1256718077514977280,
+        "id_str": "1256718077514977280",
+        "text": "Nerede bir t\u00fcrk\u00fc s\u00f6yleyen g\u00f6r\u00fcrsen korkma yan\u0131na otur, \u00e7\u00fcnk\u00fc k\u00f6t\u00fc insanlar\u0131n t\u00fcrk\u00fcleri yoktur.\u2026 https://t.co/nhwQPDlReI",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/nhwQPDlReI",
+                    "expanded_url": "https://twitter.com/i/web/status/1256718077514977280",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        96,
+                        119
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 87931146,
+            "id_str": "87931146",
+            "name": "S\u00fcleyman Da\u011f",
+            "screen_name": "suleymandag",
+            "location": "istanbul",
+            "description": "CHP Zeytinburnu il\u00e7e ba\u015fkan yard\u0131mc\u0131s\u0131 / Telsiz Mahallesi K\u00fclt\u00fcr ve Dayan\u0131\u015fma Derne\u011fi Ba\u015fkan\u0131 \ud83d\udd4a",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 83,
+            "friends_count": 178,
+            "listed_count": 0,
+            "created_at": "Fri Nov 06 12:41:12 +0000 2009",
+            "favourites_count": 588,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 642,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1050772216697278466/btZ22ls4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050772216697278466/btZ22ls4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87931146/1502318781",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "5e02a0f0d91c76d2",
+            "url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+            "place_type": "city",
+            "name": "\u0130stanbul",
+            "full_name": "\u0130stanbul, T\u00fcrkiye",
+            "country_code": "TR",
+            "country": "Turkey",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.6321043,
+                            40.8027337
+                        ],
+                        [
+                            29.3783413,
+                            40.8027337
+                        ],
+                        [
+                            29.3783413,
+                            41.2399073
+                        ],
+                        [
+                            28.6321043,
+                            41.2399073
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

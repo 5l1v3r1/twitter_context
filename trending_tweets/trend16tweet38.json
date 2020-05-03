@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:42 +0000 2020",
+    "id": 1256745965597401088,
+    "id_str": "1256745965597401088",
+    "text": "Amoedo s\u00f3 quer saber de rebater o Ciro, n\u00e3o sabe criar as pr\u00f3prias respostas #CiroNaGloboNews",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    77,
+                    93
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 232721594,
+        "id_str": "232721594",
+        "name": "marcela \ud83c\udf39",
+        "screen_name": "freeoposittion",
+        "location": "Rio Grande do Sul, Brasil",
+        "description": "n\u00e3o precisa me levar t\u00e3o a s\u00e9rio, pode ser que seja meme. \n  sigam @cirogomesquad \ud83d\udc4a | PDT/RS \u2665\ufe0f",
+        "url": "https://t.co/83syroOkVb",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/83syroOkVb",
+                        "expanded_url": "https://twitter.com/cirogomesquad",
+                        "display_url": "twitter.com/cirogomesquad",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4485,
+        "friends_count": 294,
+        "listed_count": 16,
+        "created_at": "Sat Jan 01 02:42:11 +0000 2011",
+        "favourites_count": 13677,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 144059,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0A0709",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256275756679905280/huq2MGMy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256275756679905280/huq2MGMy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/232721594/1581379992",
+        "profile_link_color": "404647",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "756464",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

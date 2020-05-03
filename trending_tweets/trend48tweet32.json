@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:40:37 +0000 2020",
+    "id": 1256745444522233859,
+    "id_str": "1256745444522233859",
+    "text": "Amoedo, economizar tanto que at\u00e9 O sinal da internet cai no debate. #edicao20",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "edicao20",
+                "indices": [
+                    68,
+                    77
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 196679251,
+        "id_str": "196679251",
+        "name": "Leandro Santos \ud83c\udde7\ud83c\uddf7\ud83c\udfe1",
+        "screen_name": "lsantosweb",
+        "location": "Fortaleza - CE",
+        "description": "Twitteiro por divers\u00e3o, sem mimi \ud83e\udd2cApaixonado pela filha e futebol. Time do \ud83d\udc9a #Palmeiras \ud83c\udfe1 #FiqueEmCasa",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1043,
+        "friends_count": 745,
+        "listed_count": 59,
+        "created_at": "Wed Sep 29 17:23:53 +0000 2010",
+        "favourites_count": 9628,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21444,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248055693262929920/Nzalnpku_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248055693262929920/Nzalnpku_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196679251/1577407905",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,96 @@
+{
+    "created_at": "Sun May 03 00:42:44 +0000 2020",
+    "id": 1256745977232478208,
+    "id_str": "1256745977232478208",
+    "text": "Amoedo falando que qualquer partido gostaria de ter S\u00e9rgio Moro \n\nEu\n\nDeus me livre\n\n#HaddadNosRepresenta #CiroNaGloboNews",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "HaddadNosRepresenta",
+                "indices": [
+                    85,
+                    105
+                ]
+            },
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    106,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1061777205351665666,
+        "id_str": "1061777205351665666",
+        "name": "JEAN",
+        "screen_name": "JeanFreitasdeO1",
+        "location": "",
+        "description": "Chega mais, a ideia \u00e9 falar sobre pol\u00edtica, aquela que defenda os pobres, n\u00e3o os ricos e muito menos os bancos. Sou anti cidad\u00e3o de bem.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 35,
+        "friends_count": 158,
+        "listed_count": 0,
+        "created_at": "Mon Nov 12 00:26:27 +0000 2018",
+        "favourites_count": 4997,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 720,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164752914822254593/8wvJU2If_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164752914822254593/8wvJU2If_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061777205351665666/1566533927",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

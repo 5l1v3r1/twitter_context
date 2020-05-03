@@ -1,0 +1,198 @@
+{
+    "created_at": "Sun May 03 00:42:57 +0000 2020",
+    "id": 1256746029443137536,
+    "id_str": "1256746029443137536",
+    "text": "#kopsunkiyamet https://t.co/P05bagOLYo",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "kopsunkiyamet",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745977765036034,
+                "id_str": "1256745977765036034",
+                "indices": [
+                    15,
+                    38
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745977765036034/pu/img/ON3ecxsQu3PfvOx8.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745977765036034/pu/img/ON3ecxsQu3PfvOx8.jpg",
+                "url": "https://t.co/P05bagOLYo",
+                "display_url": "pic.twitter.com/P05bagOLYo",
+                "expanded_url": "https://twitter.com/onurrrcaliskann/status/1256746029443137536/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745977765036034,
+                "id_str": "1256745977765036034",
+                "indices": [
+                    15,
+                    38
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745977765036034/pu/img/ON3ecxsQu3PfvOx8.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745977765036034/pu/img/ON3ecxsQu3PfvOx8.jpg",
+                "url": "https://t.co/P05bagOLYo",
+                "display_url": "pic.twitter.com/P05bagOLYo",
+                "expanded_url": "https://twitter.com/onurrrcaliskann/status/1256746029443137536/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 15188,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745977765036034/pu/vid/720x1280/upUuu02rRen-F_8C.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745977765036034/pu/vid/320x568/T_qd47ClDVrzH1FH.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745977765036034/pu/pl/Lt50TKf8LucBisWS.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745977765036034/pu/vid/360x640/3ugTnvgeil1Frq_X.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1254479469248733186,
+        "id_str": "1254479469248733186",
+        "name": "onur \u00c7al\u0131\u015fkan",
+        "screen_name": "onurrrcaliskann",
+        "location": "Samsun, T\u00fcrkiye",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 100,
+        "listed_count": 0,
+        "created_at": "Sun Apr 26 18:36:39 +0000 2020",
+        "favourites_count": 225,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 365,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254716921854988289/Lx4SFb2s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254716921854988289/Lx4SFb2s_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

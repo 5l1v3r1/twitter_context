@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun May 03 00:42:27 +0000 2020",
+    "id": 1256745906025758722,
+    "id_str": "1256745906025758722",
+    "text": "#Bitlis\u2018te iftar vakti b\u00f6l\u00fcc\u00fc ter\u00f6r \u00f6rg\u00fct\u00fc PKK\u2019l\u0131 ter\u00f6ristler ile girdikleri \u00e7at\u0131\u015fmada \u015fehit olan Mehmet\u00e7iklerimize\u2026 https://t.co/mS68YIzOKP",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/mS68YIzOKP",
+                "expanded_url": "https://twitter.com/i/web/status/1256745906025758722",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1080929893,
+        "id_str": "1080929893",
+        "name": "Havva Sabuncuo\u011flu",
+        "screen_name": "havvasabuncuogl",
+        "location": "",
+        "description": "AK Parti Tokat \u0130l Kad\u0131n Kollar\u0131 Ba\u015fkan\u0131,",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1002,
+        "friends_count": 437,
+        "listed_count": 0,
+        "created_at": "Fri Jan 11 20:59:17 +0000 2013",
+        "favourites_count": 4526,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6894,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3102927012/f9932d4411527013901e3f58d7b35285_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3102927012/f9932d4411527013901e3f58d7b35285_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080929893/1588065037",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

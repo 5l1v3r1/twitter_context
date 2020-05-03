@@ -1,0 +1,153 @@
+{
+    "created_at": "Sun May 03 00:36:40 +0000 2020",
+    "id": 1256744447079055360,
+    "id_str": "1256744447079055360",
+    "text": "@bandaresgate J\u00e1 esperando a pr\u00f3xima Live ou um show aqui em S\u00e3o Jos\u00e9 do Rio Preto. Preciso de Rock \ud83e\udd18\ud83c\udffd\ud83d\udda4\n\n#LiveBandaResgate #LiveDoResgate",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveBandaResgate",
+                "indices": [
+                    105,
+                    122
+                ]
+            },
+            {
+                "text": "LiveDoResgate",
+                "indices": [
+                    123,
+                    137
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bandaresgate",
+                "name": "Banda Resgate",
+                "id": 16455380,
+                "id_str": "16455380",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256740170185015296,
+    "in_reply_to_status_id_str": "1256740170185015296",
+    "in_reply_to_user_id": 16455380,
+    "in_reply_to_user_id_str": "16455380",
+    "in_reply_to_screen_name": "bandaresgate",
+    "user": {
+        "id": 373427149,
+        "id_str": "373427149",
+        "name": "Andr\u00e9 Buscaratti",
+        "screen_name": "Deh_Buscaratti",
+        "location": "S\u00e3o Jos\u00e9 do Rio Preto, Brasil",
+        "description": "\u2020 = \u2665 Crist\u00e3o Metodista, forma\u00e7\u00e3o em Teologia e Ci\u00eancias Cont\u00e1beis. Amante de escrita e leitura. #SEP \ud83d\udc9a",
+        "url": "https://t.co/IjjRzY717c",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/IjjRzY717c",
+                        "expanded_url": "https://www.instagram.com/andrebuscaratti/&ved=",
+                        "display_url": "instagram.com/andrebuscaratt\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 26,
+        "friends_count": 58,
+        "listed_count": 1,
+        "created_at": "Wed Sep 14 15:20:52 +0000 2011",
+        "favourites_count": 429,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2033,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1218708178944319490/roGqEHdY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218708178944319490/roGqEHdY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/373427149/1577705522",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "fb19477acb7cac07",
+        "url": "https://api.twitter.com/1.1/geo/id/fb19477acb7cac07.json",
+        "place_type": "city",
+        "name": "S\u00e3o Jos\u00e9 do Rio Preto",
+        "full_name": "S\u00e3o Jos\u00e9 do Rio Preto, Brasil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -49.463368,
+                        -20.932326
+                    ],
+                    [
+                        -49.254967,
+                        -20.932326
+                    ],
+                    [
+                        -49.254967,
+                        -20.637636
+                    ],
+                    [
+                        -49.463368,
+                        -20.637636
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

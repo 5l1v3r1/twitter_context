@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745927307558913,
+    "id_str": "1256745927307558913",
+    "text": "RT @223344Kerem: #BuYoldanD\u00f6nmeyece\u011fiz CHP nin varl\u0131\u011f\u0131 bile gayri me\u015frudur... Deli Halit Pa\u015fa, Sabahattin Ali, Ali \u015e\u00fckr\u00fc Bey'in \u00f6l\u00fcm\u00fcnden d\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    17,
+                    38
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "223344Kerem",
+                "name": "5454Kerem",
+                "id": 1236340242451480577,
+                "id_str": "1236340242451480577",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1069346021896060930,
+        "id_str": "1069346021896060930",
+        "name": "Murat\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "MDedeleroglu1",
+        "location": "",
+        "description": "Reisin dava adam\u0131.Yar\u0131n elbet bizimdir, elbet bizim, g\u00fcn do\u011fmu\u015f, g\u00fcn batm\u0131\u015f, ebed bizimdir.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 536,
+        "friends_count": 746,
+        "listed_count": 1,
+        "created_at": "Sun Dec 02 21:42:13 +0000 2018",
+        "favourites_count": 116699,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10167,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151155338416152576/XeRs4gji_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151155338416152576/XeRs4gji_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069346021896060930/1570649599",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:50:40 +0000 2020",
+        "id": 1256702675418255361,
+        "id_str": "1256702675418255361",
+        "text": "#BuYoldanD\u00f6nmeyece\u011fiz CHP nin varl\u0131\u011f\u0131 bile gayri me\u015frudur... Deli Halit Pa\u015fa, Sabahattin Ali, Ali \u015e\u00fckr\u00fc Bey'in \u00f6l\u00fcm\u2026 https://t.co/lzgQb2IzUo",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        0,
+                        21
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lzgQb2IzUo",
+                    "expanded_url": "https://twitter.com/i/web/status/1256702675418255361",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1236340242451480577,
+            "id_str": "1236340242451480577",
+            "name": "5454Kerem",
+            "screen_name": "223344Kerem",
+            "location": "Telaviv \ud83c\uddf9\ud83c\uddf7",
+            "description": "Firavunlar co\u011frafyas\u0131n\u0131n, Musasidir T\u00fcrkiyem... \ud83c\uddf9\ud83c\uddf7",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3288,
+            "friends_count": 2149,
+            "listed_count": 3,
+            "created_at": "Sat Mar 07 17:17:55 +0000 2020",
+            "favourites_count": 9658,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12620,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252896185502830593/PJYsG1UA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252896185502830593/PJYsG1UA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236340242451480577/1587548937",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 31,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

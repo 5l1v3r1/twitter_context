@@ -1,0 +1,107 @@
+{
+    "created_at": "Sun May 03 00:42:17 +0000 2020",
+    "id": 1256745862169935872,
+    "id_str": "1256745862169935872",
+    "text": "\u30e4\u30de\u30f3\u306e\u6b63\u4f53\u306f\u30ad\u30e3\u30d9\u30c4\u3067\u3059\uff01\u7d76\u5bfe\u306b\u30ad\u30e3\u30d9\u30c4\u3067\u3059\uff01\uff01\uff01\n#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c #shindanmaker\nhttps://t.co/9I4l4ta0fS\n\n\u3048\u3063\u3002",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    27,
+                    40
+                ]
+            },
+            {
+                "text": "shindanmaker",
+                "indices": [
+                    41,
+                    54
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/9I4l4ta0fS",
+                "expanded_url": "https://shindanmaker.com/984766",
+                "display_url": "shindanmaker.com/984766",
+                "indices": [
+                    55,
+                    78
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 171120803,
+        "id_str": "171120803",
+        "name": "\u30e4\u30de\u30f3",
+        "screen_name": "yama_route16",
+        "location": "",
+        "description": "\u30ab\u30fc\u30d7\u30d5\u30a1\u30f3\uff01",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 113,
+        "friends_count": 493,
+        "listed_count": 1,
+        "created_at": "Mon Jul 26 16:16:11 +0000 2010",
+        "favourites_count": 10686,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7151,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/988985656054497280/SpAVPehO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/988985656054497280/SpAVPehO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/171120803/1515499676",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

@@ -1,0 +1,215 @@
+{
+    "created_at": "Sun May 03 00:42:54 +0000 2020",
+    "id": 1256746015685840901,
+    "id_str": "1256746015685840901",
+    "text": "RT @Acidic_Blonde: Let\u2019s The Bodies Hit The Floor  #AwkwardFuneralSongs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    51,
+                    71
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Acidic_Blonde",
+                "name": "\ud83c\udf52Acidic Blonde\u2122\ufe0f",
+                "id": 194549301,
+                "id_str": "194549301",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 759042762020839426,
+        "id_str": "759042762020839426",
+        "name": "Tig, The Corny Silver Queen \ud83c\udf37\ud83e\uddc5\ud83e\udd66\ud83e\udd6c\ud83e\udd55\ud83e\udd54",
+        "screen_name": "TigTagDo",
+        "location": "#BlueRidgeMtnsVA",
+        "description": "I wear greenjeans\ud83d\ude06grow green beans \nBe kind and funny or move along. married #amwriting art yoga photography # games",
+        "url": "https://t.co/Gy91UxmBv0",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Gy91UxmBv0",
+                        "expanded_url": "https://mobile.twitter.com/search/from:@tigtagdo",
+                        "display_url": "mobile.twitter.com/search/from:@t\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2010,
+        "friends_count": 3653,
+        "listed_count": 12,
+        "created_at": "Fri Jul 29 15:07:51 +0000 2016",
+        "favourites_count": 36237,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21928,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252789524138209288/PUH8_vsG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252789524138209288/PUH8_vsG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759042762020839426/1555431547",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:01:53 +0000 2020",
+        "id": 1256720594407763975,
+        "id_str": "1256720594407763975",
+        "text": "Let\u2019s The Bodies Hit The Floor  #AwkwardFuneralSongs",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AwkwardFuneralSongs",
+                    "indices": [
+                        32,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 194549301,
+            "id_str": "194549301",
+            "name": "\ud83c\udf52Acidic Blonde\u2122\ufe0f",
+            "screen_name": "Acidic_Blonde",
+            "location": "Being Photoshopped ",
+            "description": "You should laugh at yourself. I Am. Host of @AcidicCherryTgz\ud83c\udf52 on @HashtagRoundup & indie games @ThingsInSixty & @FriskyFridayTgs",
+            "url": "https://t.co/geDL4v84ON",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/geDL4v84ON",
+                            "expanded_url": "https://twitter.com/search?f=tweets&vertical=default&q=from%3A%40Acidic_Blonde%20-filter%3Areplies&src=ty",
+                            "display_url": "twitter.com/search?f=tweet\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11725,
+            "friends_count": 2932,
+            "listed_count": 36,
+            "created_at": "Fri Sep 24 12:14:14 +0000 2010",
+            "favourites_count": 139458,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 101175,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "280024",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1239212185206886401/Mvgsu5DF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239212185206886401/Mvgsu5DF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/194549301/1587349596",
+            "profile_link_color": "6F55D2",
+            "profile_sidebar_border_color": "B9D1FD",
+            "profile_sidebar_fill_color": "7E99DE",
+            "profile_text_color": "3D004D",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 226,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

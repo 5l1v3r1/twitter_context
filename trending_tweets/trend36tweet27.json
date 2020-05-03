@@ -1,0 +1,379 @@
+{
+    "created_at": "Sun May 03 00:42:28 +0000 2020",
+    "id": 1256745910446575616,
+    "id_str": "1256745910446575616",
+    "text": "RT @erkinsel_ide: Hocam bana 3 \u00e7eyrek dolar ama so\u011fan, ket\u00e7ap mayonez olmas\u0131n... \n#dolar\n#KopsunK\u0131yamet https://t.co/ASSyusv38j",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "dolar",
+                "indices": [
+                    82,
+                    88
+                ]
+            },
+            {
+                "text": "KopsunK\u0131yamet",
+                "indices": [
+                    89,
+                    103
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "erkinsel_ide",
+                "name": "a\u00e7\u0131l\u0131nben sosyologum",
+                "id": 192359560,
+                "id_str": "192359560",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256568124947783683,
+                "id_str": "1256568124947783683",
+                "indices": [
+                    104,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXA6DVOXYAMSNYh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXA6DVOXYAMSNYh.jpg",
+                "url": "https://t.co/ASSyusv38j",
+                "display_url": "pic.twitter.com/ASSyusv38j",
+                "expanded_url": "https://twitter.com/erkinsel_ide/status/1256568127686672384/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 680,
+                        "h": 390,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 680,
+                        "h": 390,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 390,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256568127686672384,
+                "source_status_id_str": "1256568127686672384",
+                "source_user_id": 192359560,
+                "source_user_id_str": "192359560"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256568124947783683,
+                "id_str": "1256568124947783683",
+                "indices": [
+                    104,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXA6DVOXYAMSNYh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXA6DVOXYAMSNYh.jpg",
+                "url": "https://t.co/ASSyusv38j",
+                "display_url": "pic.twitter.com/ASSyusv38j",
+                "expanded_url": "https://twitter.com/erkinsel_ide/status/1256568127686672384/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 680,
+                        "h": 390,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 680,
+                        "h": 390,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 390,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256568127686672384,
+                "source_status_id_str": "1256568127686672384",
+                "source_user_id": 192359560,
+                "source_user_id_str": "192359560"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 306866290,
+        "id_str": "306866290",
+        "name": "V_for_Veysel",
+        "screen_name": "Veysel_Vincent",
+        "location": "T\u00fcrkiye",
+        "description": "Tek oturga\u00e7l\u0131 sevi\u015fge\u00e7.FeZeTe.Jijivisha \u091c\u093f\u091c\u0940\u0935\u093f\u0937\u093e\nAsl\u0131nda s\u00f6ylediklerimden \u00e7ok , saklad\u0131klar\u0131mda gizliyim.Socrates",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 491,
+        "friends_count": 1142,
+        "listed_count": 0,
+        "created_at": "Sat May 28 15:49:23 +0000 2011",
+        "favourites_count": 31667,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11099,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/434049597187837952/k-Srjt8f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/434049597187837952/k-Srjt8f_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/306866290/1465747918",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 12:56:02 +0000 2020",
+        "id": 1256568127686672384,
+        "id_str": "1256568127686672384",
+        "text": "Hocam bana 3 \u00e7eyrek dolar ama so\u011fan, ket\u00e7ap mayonez olmas\u0131n... \n#dolar\n#KopsunK\u0131yamet https://t.co/ASSyusv38j",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "dolar",
+                    "indices": [
+                        64,
+                        70
+                    ]
+                },
+                {
+                    "text": "KopsunK\u0131yamet",
+                    "indices": [
+                        71,
+                        85
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256568124947783683,
+                    "id_str": "1256568124947783683",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXA6DVOXYAMSNYh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXA6DVOXYAMSNYh.jpg",
+                    "url": "https://t.co/ASSyusv38j",
+                    "display_url": "pic.twitter.com/ASSyusv38j",
+                    "expanded_url": "https://twitter.com/erkinsel_ide/status/1256568127686672384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 390,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 390,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 390,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256568124947783683,
+                    "id_str": "1256568124947783683",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXA6DVOXYAMSNYh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXA6DVOXYAMSNYh.jpg",
+                    "url": "https://t.co/ASSyusv38j",
+                    "display_url": "pic.twitter.com/ASSyusv38j",
+                    "expanded_url": "https://twitter.com/erkinsel_ide/status/1256568127686672384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 390,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 390,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 390,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 192359560,
+            "id_str": "192359560",
+            "name": "a\u00e7\u0131l\u0131nben sosyologum",
+            "screen_name": "erkinsel_ide",
+            "location": "istanbul",
+            "description": "s\u00f6ylediklerimden ben sorumluyum anlad\u0131klar\u0131ndan ise sen!.. idrak yollar\u0131 enfeksiyonu olanlar \u00f6nce  bir doktora g\u00f6r\u00fcns\u00fcn sonra gelsin!..\nhttps://t.co/AZEzJd5mee",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/AZEzJd5mee",
+                            "expanded_url": "https://instagram.com/erkin1907/",
+                            "display_url": "instagram.com/erkin1907/",
+                            "indices": [
+                                136,
+                                159
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 895,
+            "friends_count": 1886,
+            "listed_count": 9,
+            "created_at": "Sat Sep 18 22:48:16 +0000 2010",
+            "favourites_count": 4266,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 34931,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F4FA3F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1170446114937540609/urz44vew_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170446114937540609/urz44vew_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/192359560/1416472433",
+            "profile_link_color": "1824C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "78C0A8",
+            "profile_text_color": "5E412F",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

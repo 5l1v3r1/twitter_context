@@ -1,0 +1,207 @@
+{
+    "created_at": "Sun May 03 00:42:50 +0000 2020",
+    "id": 1256746002889027586,
+    "id_str": "1256746002889027586",
+    "text": "RT @CastroLuanna: Ciro Gomes dando aula de economia agora e falando sobre rolagem da d\u00edvida e taxa\u00e7\u00e3o de lucros/dividendos. G\u00eanio! #CiroNaG\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CastroLuanna",
+                "name": "Laranja do Bolsonaro",
+                "id": 317245336,
+                "id_str": "317245336",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 523872538,
+        "id_str": "523872538",
+        "name": "Baffi\ud83c\udf39\ud83d\ude9c\u2728",
+        "screen_name": "Lucas_Baffi",
+        "location": "Florian\u00f3polis, SC",
+        "description": "",
+        "url": "https://t.co/Xm9cIzkSn5",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Xm9cIzkSn5",
+                        "expanded_url": "http://www.facebook.com/profile.php?id=100003501617519",
+                        "display_url": "facebook.com/profile.php?id\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 122,
+        "friends_count": 228,
+        "listed_count": 0,
+        "created_at": "Wed Mar 14 01:06:41 +0000 2012",
+        "favourites_count": 24861,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3595,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191404625615839233/Bs5rmO16_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191404625615839233/Bs5rmO16_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/523872538/1461641546",
+        "profile_link_color": "1D5939",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:15:14 +0000 2020",
+        "id": 1256739055871631363,
+        "id_str": "1256739055871631363",
+        "text": "Ciro Gomes dando aula de economia agora e falando sobre rolagem da d\u00edvida e taxa\u00e7\u00e3o de lucros/dividendos. G\u00eanio! #CiroNaGloboNews",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        113,
+                        129
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 317245336,
+            "id_str": "317245336",
+            "name": "Laranja do Bolsonaro",
+            "screen_name": "CastroLuanna",
+            "location": "Bras\u00edlia, Brasil",
+            "description": "\u2640\ud83d\udc95\ud83c\udf0f\ud83c\udf3c\n\nEnfermeira. Mestranda em Avalia\u00e7\u00e3o em Sa\u00fade - Fiocruz e Especializa\u00e7\u00e3o em Sa\u00fade Coletiva - Fiocruz. \nNem bolsonarista, nem petista, sou progressista.",
+            "url": "https://t.co/BKModfLuJZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BKModfLuJZ",
+                            "expanded_url": "https://www.instagram.com/luannacastro_/?hl=pt-br",
+                            "display_url": "instagram.com/luannacastro_/\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2286,
+            "friends_count": 4367,
+            "listed_count": 7,
+            "created_at": "Tue Jun 14 17:05:55 +0000 2011",
+            "favourites_count": 277547,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38501,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1134293589993885696/JaQqFfwx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134293589993885696/JaQqFfwx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/317245336/1550633243",
+            "profile_link_color": "A645D6",
+            "profile_sidebar_border_color": "F590E9",
+            "profile_sidebar_fill_color": "E3A8D7",
+            "profile_text_color": "E617CE",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 100,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

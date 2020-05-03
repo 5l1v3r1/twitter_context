@@ -1,0 +1,219 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745982966091778,
+    "id_str": "1256745982966091778",
+    "text": "#\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627\n@Media_M_E @alrodiaan @HAIL_EDU @south_hail_edu @jf_moe https://t.co/0jqmUyLc4A",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627",
+                "indices": [
+                    0,
+                    21
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Media_M_E",
+                "name": "\u0627\u0644\u0645\u0644\u0641 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a-\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645",
+                "id": 2165382457,
+                "id_str": "2165382457",
+                "indices": [
+                    22,
+                    32
+                ]
+            },
+            {
+                "screen_name": "alrodiaan",
+                "name": "\u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0627\u0644\u0631\u062f\u064a\u0639\u0627\u0646",
+                "id": 431932144,
+                "id_str": "431932144",
+                "indices": [
+                    33,
+                    43
+                ]
+            },
+            {
+                "screen_name": "HAIL_EDU",
+                "name": "\u0625\u062f\u0627\u0631\u0629 \u062a\u0639\u0644\u064a\u0645 \u062d\u0627\u0626\u0644",
+                "id": 2574462672,
+                "id_str": "2574462672",
+                "indices": [
+                    44,
+                    53
+                ]
+            },
+            {
+                "screen_name": "south_hail_edu",
+                "name": "\u0645\u0643\u062a\u0628 \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u062c\u0646\u0648\u0628 \u062d\u0627\u0626\u0644(\u0628\u0646\u064a\u0646)",
+                "id": 2864077890,
+                "id_str": "2864077890",
+                "indices": [
+                    54,
+                    69
+                ]
+            },
+            {
+                "screen_name": "jf_moe",
+                "name": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0639\u0645\u0644 #\u0627\u0644\u0645\u0644\u0641_\u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a_\u0628\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062a\u0639\u0644\u064a\u0645",
+                "id": 740709330354343936,
+                "id_str": "740709330354343936",
+                "indices": [
+                    70,
+                    77
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745971498864651,
+                "id_str": "1256745971498864651",
+                "indices": [
+                    78,
+                    101
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbzXQX0AsuhfH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbzXQX0AsuhfH.jpg",
+                "url": "https://t.co/0jqmUyLc4A",
+                "display_url": "pic.twitter.com/0jqmUyLc4A",
+                "expanded_url": "https://twitter.com/alalla1440/status/1256745982966091778/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 573,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 573,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 381,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745971498864651,
+                "id_str": "1256745971498864651",
+                "indices": [
+                    78,
+                    101
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbzXQX0AsuhfH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbzXQX0AsuhfH.jpg",
+                "url": "https://t.co/0jqmUyLc4A",
+                "display_url": "pic.twitter.com/0jqmUyLc4A",
+                "expanded_url": "https://twitter.com/alalla1440/status/1256745982966091778/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 573,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 573,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 381,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1042298703460098049,
+        "id_str": "1042298703460098049",
+        "name": "\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0639\u0644\u0627\u0621 \u0628\u0646 \u0627\u0644\u062d\u0636\u0631\u0645\u064a \u0627\u0644\u0627\u0628\u062a\u062f\u0627\u0626\u064a\u0629",
+        "screen_name": "alalla1440",
+        "location": "\u062d\u0627\u0626\u0644, \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "description": "\u0631\u0642\u0645 \u0627\u0644\u0639\u0636\u0648\u064a\u0629 \u0641\u064a \u0627\u0644\u0645\u0644\u0641 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a 3\ufe0f\u20e33\ufe0f\u20e30\ufe0f\u20e39\ufe0f\u20e35\ufe0f\u20e3 \u062d\u0627\u0626\u0644 - \u062d\u064a \u0627\u0644\u0648\u0627\u062f\u064a 0565436527",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 182,
+        "friends_count": 48,
+        "listed_count": 0,
+        "created_at": "Wed Sep 19 06:25:50 +0000 2018",
+        "favourites_count": 515,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1569,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174903202996600833/hR0cmIFn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174903202996600833/hR0cmIFn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1042298703460098049/1569228690",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

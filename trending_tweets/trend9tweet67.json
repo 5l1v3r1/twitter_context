@@ -1,0 +1,409 @@
+{
+    "created_at": "Sun May 03 00:42:38 +0000 2020",
+    "id": 1256745949155688448,
+    "id_str": "1256745949155688448",
+    "text": "RT @comentajohn: haters invejosos com o nossa tag, amo q amo\n\nTE AMAMOS FELIPE PRIOR\n\n https://t.co/nJhh4vkuJG",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "comentajohn",
+                "name": "john \ud83c\udf7a",
+                "id": 1251345409412390912,
+                "id_str": "1251345409412390912",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1242670600688144384,
+                "id_str": "1242670600688144384",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242670600688144384/pu/img/MvjMZttIVlc3lrUU.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242670600688144384/pu/img/MvjMZttIVlc3lrUU.jpg",
+                "url": "https://t.co/nJhh4vkuJG",
+                "display_url": "pic.twitter.com/nJhh4vkuJG",
+                "expanded_url": "https://twitter.com/isacaroline_/status/1242670676407877632/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 436,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 769,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 820,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1242670676407877632,
+                "source_status_id_str": "1242670676407877632",
+                "source_user_id": 1062371760023199744,
+                "source_user_id_str": "1062371760023199744"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1242670600688144384,
+                "id_str": "1242670600688144384",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242670600688144384/pu/img/MvjMZttIVlc3lrUU.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242670600688144384/pu/img/MvjMZttIVlc3lrUU.jpg",
+                "url": "https://t.co/nJhh4vkuJG",
+                "display_url": "pic.twitter.com/nJhh4vkuJG",
+                "expanded_url": "https://twitter.com/isacaroline_/status/1242670676407877632/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 436,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 769,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 820,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1242670676407877632,
+                "source_status_id_str": "1242670676407877632",
+                "source_user_id": 1062371760023199744,
+                "source_user_id_str": "1062371760023199744",
+                "video_info": {
+                    "aspect_ratio": [
+                        41,
+                        64
+                    ],
+                    "duration_millis": 29358,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1242670600688144384/pu/vid/320x498/0rmtMc6SApHeLW_-.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1242670600688144384/pu/pl/1Alhjv_B7iFbS7at.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1242670600688144384/pu/vid/360x560/KBpkQOGufyoA6NKn.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1242670600688144384/pu/vid/720x1122/BdBOcI0TAQy8RdME.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1065630936417607680,
+        "id_str": "1065630936417607680",
+        "name": "Ana Paula (Tropa do Prior)",
+        "screen_name": "paulapriornatik",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 225,
+        "friends_count": 633,
+        "listed_count": 0,
+        "created_at": "Thu Nov 22 15:39:48 +0000 2018",
+        "favourites_count": 10684,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2596,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255735886169411584/JUCcmOar_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255735886169411584/JUCcmOar_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065630936417607680/1587164556",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:37:58 +0000 2020",
+        "id": 1256744777120468999,
+        "id_str": "1256744777120468999",
+        "text": "haters invejosos com o nossa tag, amo q amo\n\nTE AMAMOS FELIPE PRIOR\n\n https://t.co/nJhh4vkuJG",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1242670600688144384,
+                    "id_str": "1242670600688144384",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242670600688144384/pu/img/MvjMZttIVlc3lrUU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242670600688144384/pu/img/MvjMZttIVlc3lrUU.jpg",
+                    "url": "https://t.co/nJhh4vkuJG",
+                    "display_url": "pic.twitter.com/nJhh4vkuJG",
+                    "expanded_url": "https://twitter.com/isacaroline_/status/1242670676407877632/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 436,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 769,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 820,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1242670676407877632,
+                    "source_status_id_str": "1242670676407877632",
+                    "source_user_id": 1062371760023199744,
+                    "source_user_id_str": "1062371760023199744"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1242670600688144384,
+                    "id_str": "1242670600688144384",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242670600688144384/pu/img/MvjMZttIVlc3lrUU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242670600688144384/pu/img/MvjMZttIVlc3lrUU.jpg",
+                    "url": "https://t.co/nJhh4vkuJG",
+                    "display_url": "pic.twitter.com/nJhh4vkuJG",
+                    "expanded_url": "https://twitter.com/isacaroline_/status/1242670676407877632/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 436,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 769,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 820,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1242670676407877632,
+                    "source_status_id_str": "1242670676407877632",
+                    "source_user_id": 1062371760023199744,
+                    "source_user_id_str": "1062371760023199744",
+                    "video_info": {
+                        "aspect_ratio": [
+                            41,
+                            64
+                        ],
+                        "duration_millis": 29358,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1242670600688144384/pu/vid/320x498/0rmtMc6SApHeLW_-.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1242670600688144384/pu/pl/1Alhjv_B7iFbS7at.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1242670600688144384/pu/vid/360x560/KBpkQOGufyoA6NKn.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1242670600688144384/pu/vid/720x1122/BdBOcI0TAQy8RdME.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1251345409412390912,
+            "id_str": "1251345409412390912",
+            "name": "john \ud83c\udf7a",
+            "screen_name": "comentajohn",
+            "location": "",
+            "description": "cancelado at\u00e9 pelos cancelados",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 185,
+            "friends_count": 220,
+            "listed_count": 1,
+            "created_at": "Sat Apr 18 03:03:01 +0000 2020",
+            "favourites_count": 1093,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 912,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256225015181295616/J3tEiAmV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256225015181295616/J3tEiAmV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251345409412390912/1588339284",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

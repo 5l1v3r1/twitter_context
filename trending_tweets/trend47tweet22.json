@@ -1,0 +1,220 @@
+{
+    "created_at": "Sun May 03 00:38:07 +0000 2020",
+    "id": 1256744813082423297,
+    "id_str": "1256744813082423297",
+    "text": "RT @tommoinfo: #WALLOLYMPICS\n\nFaltam apenas 10 MINUTOS para acabar o mutir\u00e3o de stream!! Vamos tweetar muito as tags #TeamAlwaysYou e IT WA\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WALLOLYMPICS",
+                "indices": [
+                    15,
+                    28
+                ]
+            },
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    117,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tommoinfo",
+                "name": "Tomlinson Info Brasil",
+                "id": 943219893834604549,
+                "id_str": "943219893834604549",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1063810511765155840,
+        "id_str": "1063810511765155840",
+        "name": "ester \u25df\u033d\u25de\u033d",
+        "screen_name": "backlwt91",
+        "location": " ",
+        "description": "\u2022 Fan account",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9229,
+        "friends_count": 7945,
+        "listed_count": 1,
+        "created_at": "Sat Nov 17 15:06:05 +0000 2018",
+        "favourites_count": 74984,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24109,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254285469405392896/ljyLH7N8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254285469405392896/ljyLH7N8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063810511765155840/1587879918",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:49:51 +0000 2020",
+        "id": 1256732668160544769,
+        "id_str": "1256732668160544769",
+        "text": "#WALLOLYMPICS\n\nFaltam apenas 10 MINUTOS para acabar o mutir\u00e3o de stream!! Vamos tweetar muito as tags\u2026 https://t.co/l9V9y69Zmj",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WALLOLYMPICS",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/l9V9y69Zmj",
+                    "expanded_url": "https://twitter.com/i/web/status/1256732668160544769",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        103,
+                        126
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 943219893834604549,
+            "id_str": "943219893834604549",
+            "name": "Tomlinson Info Brasil",
+            "screen_name": "tommoinfo",
+            "location": "tommoinfo@gmail.com",
+            "description": "Portal de informa\u00e7\u00f5es sobre o cantor, compositor, empres\u00e1rio e filantropo Louis Tomlinson! Ou\u00e7a \u201cWalls\u201d nas plataformas digitais. | m\u00eddias em @midiastibr.",
+            "url": "https://t.co/J1mSEH2jLQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/J1mSEH2jLQ",
+                            "expanded_url": "https://www.louis-tomlinson.com/",
+                            "display_url": "louis-tomlinson.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4845,
+            "friends_count": 134,
+            "listed_count": 38,
+            "created_at": "Tue Dec 19 20:42:01 +0000 2017",
+            "favourites_count": 7852,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13470,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255943581182898177/b05Fr6Cr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255943581182898177/b05Fr6Cr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/943219893834604549/1588274917",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

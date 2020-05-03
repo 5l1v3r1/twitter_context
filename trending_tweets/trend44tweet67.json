@@ -1,0 +1,167 @@
+{
+    "created_at": "Sun May 03 00:35:43 +0000 2020",
+    "id": 1256744208469315588,
+    "id_str": "1256744208469315588",
+    "text": "#AguilaEnVivo el pollo que ninguno le queria apostar y salio muy bueno https://t.co/b6pUieErD7",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744197085855745,
+                "id_str": "1256744197085855745",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaMFDWAAEG_ab.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaMFDWAAEG_ab.jpg",
+                "url": "https://t.co/b6pUieErD7",
+                "display_url": "pic.twitter.com/b6pUieErD7",
+                "expanded_url": "https://twitter.com/jmartinez140977/status/1256744208469315588/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 408,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744197085855745,
+                "id_str": "1256744197085855745",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaMFDWAAEG_ab.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaMFDWAAEG_ab.jpg",
+                "url": "https://t.co/b6pUieErD7",
+                "display_url": "pic.twitter.com/b6pUieErD7",
+                "expanded_url": "https://twitter.com/jmartinez140977/status/1256744208469315588/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 408,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 226196677,
+        "id_str": "226196677",
+        "name": "jerys jose martinez",
+        "screen_name": "jmartinez140977",
+        "location": "Venezuela",
+        "description": "Soy una persona muy sociable, amoroso, sincero, carismatico, servicial, correcto, organizado, trabajador y con un gran espiritu de superacion.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 266,
+        "friends_count": 4956,
+        "listed_count": 0,
+        "created_at": "Mon Dec 13 15:31:40 +0000 2010",
+        "favourites_count": 1443,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1663,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/897048205787049985/2nABEPSd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/897048205787049985/2nABEPSd_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

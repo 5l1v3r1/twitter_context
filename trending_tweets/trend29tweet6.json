@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:43:02 +0000 2020",
+    "id": 1256746051182243843,
+    "id_str": "1256746051182243843",
+    "text": "#LiveLulu \ud83c\udf7b\ud83c\udfa4\ud83c\udfb6\ud83c\udfbc\ud83d\udc99 @Lojas_Renner https://t.co/c82dGYkpzg",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lojas_Renner",
+                "name": "Lojas Renner",
+                "id": 39570657,
+                "id_str": "39570657",
+                "indices": [
+                    16,
+                    29
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256746043091361793,
+                "id_str": "1256746043091361793",
+                "indices": [
+                    30,
+                    53
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDb3h9WoAEUSaH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDb3h9WoAEUSaH.jpg",
+                "url": "https://t.co/c82dGYkpzg",
+                "display_url": "pic.twitter.com/c82dGYkpzg",
+                "expanded_url": "https://twitter.com/masela_juliana/status/1256746051182243843/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256746043091361793,
+                "id_str": "1256746043091361793",
+                "indices": [
+                    30,
+                    53
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDb3h9WoAEUSaH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDb3h9WoAEUSaH.jpg",
+                "url": "https://t.co/c82dGYkpzg",
+                "display_url": "pic.twitter.com/c82dGYkpzg",
+                "expanded_url": "https://twitter.com/masela_juliana/status/1256746051182243843/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 728591141604601856,
+        "id_str": "728591141604601856",
+        "name": "Juliana P Masela",
+        "screen_name": "masela_juliana",
+        "location": "S\u00e3o Paulo, Brasil",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 62,
+        "friends_count": 137,
+        "listed_count": 0,
+        "created_at": "Fri May 06 14:23:59 +0000 2016",
+        "favourites_count": 1603,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 292,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174396835156377600/zWV5qtnK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174396835156377600/zWV5qtnK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/728591141604601856/1489601314",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "68e019afec7d0ba5",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json",
+        "place_type": "city",
+        "name": "Sao Paulo",
+        "full_name": "Sao Paulo, Brazil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

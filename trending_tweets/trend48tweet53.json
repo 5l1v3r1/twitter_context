@@ -1,0 +1,132 @@
+{
+    "created_at": "Sun May 03 00:38:06 +0000 2020",
+    "id": 1256744809835962372,
+    "id_str": "1256744809835962372",
+    "text": "@joaoamoedonovo @cirogomes \u00c9 necess\u00e1rio um cron\u00f4metro, pois o @cirogomes n\u00e3o deixa o @joaoamoedonovo falar \ud83e\udd2d\ud83e\udd2d\ud83e\udd2d! A m\u2026 https://t.co/qBujpnQjSr",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "joaoamoedonovo",
+                "name": "Jo\u00e3o Amo\u00eado",
+                "id": 256730310,
+                "id_str": "256730310",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "cirogomes",
+                "name": "Ciro Gomes",
+                "id": 33374761,
+                "id_str": "33374761",
+                "indices": [
+                    16,
+                    26
+                ]
+            },
+            {
+                "screen_name": "cirogomes",
+                "name": "Ciro Gomes",
+                "id": 33374761,
+                "id_str": "33374761",
+                "indices": [
+                    62,
+                    72
+                ]
+            },
+            {
+                "screen_name": "joaoamoedonovo",
+                "name": "Jo\u00e3o Amo\u00eado",
+                "id": 256730310,
+                "id_str": "256730310",
+                "indices": [
+                    85,
+                    100
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/qBujpnQjSr",
+                "expanded_url": "https://twitter.com/i/web/status/1256744809835962372",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256732915054108684,
+    "in_reply_to_status_id_str": "1256732915054108684",
+    "in_reply_to_user_id": 256730310,
+    "in_reply_to_user_id_str": "256730310",
+    "in_reply_to_screen_name": "joaoamoedonovo",
+    "user": {
+        "id": 74643655,
+        "id_str": "74643655",
+        "name": "Walter Mour\u00e3o Jr.",
+        "screen_name": "waltermouraojr",
+        "location": "S\u00e3o Paulo, Brasil",
+        "description": "Growth hacker, apaixonado por CIM, sobretudo, no ambiente digital e estudioso de branding, varejo, tecnologia, cultura maker. Tamb\u00e9m curto TV, m\u00fasica, pets \ud83d\udc08",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 122,
+        "friends_count": 419,
+        "listed_count": 0,
+        "created_at": "Wed Sep 16 03:39:35 +0000 2009",
+        "favourites_count": 78,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 167,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248889040243429376/CNOy52Wj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248889040243429376/CNOy52Wj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74643655/1588350945",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFEA08",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

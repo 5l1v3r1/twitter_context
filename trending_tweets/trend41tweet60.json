@@ -1,0 +1,131 @@
+{
+    "created_at": "Sun May 03 00:42:50 +0000 2020",
+    "id": 1256746000544403460,
+    "id_str": "1256746000544403460",
+    "text": "@hhdd1515 @rania77k \u0636\u0631\u0648\u0631\u064a \u0627\u0644\u0631\u062a\u0648\u064a\u062a \u0648\u0627\u0644\u0645\u0646\u0634\u0646 \u0644\u0623\u0635\u062d\u0627\u0628\u0643 \u0648\u0627\u0644\u062c\u0648\u0627\u0628 \u064a\u0643\u0648\u0646 \u0635\u062d\u2705\n\u0628\u0627\u0644\u062a\u0648\u0641\u064a\u0642 \u0644\u0644\u062c\u0645\u064a\u0639\n @tsahel15  @shroop_11\u2026 https://t.co/XcOKV6dh7d",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "hhdd1515",
+                "name": "\u0639\u0627\u0634\u0642 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "id": 1246833771732762624,
+                "id_str": "1246833771732762624",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "rania77k",
+                "name": "\u0631\u0622\u0646\u064a\u0640\ufbaf\u0622 \u0639\u0628\u062f\u0622\u0644\u0644\u0647\u06c1\u200f\u200f",
+                "id": 1158650864808136704,
+                "id_str": "1158650864808136704",
+                "indices": [
+                    10,
+                    19
+                ]
+            },
+            {
+                "screen_name": "tsahel15",
+                "name": "\ufe97\ufeb3\u0627\ufbac\u064a\u0644",
+                "id": 2989804441,
+                "id_str": "2989804441",
+                "indices": [
+                    84,
+                    93
+                ]
+            },
+            {
+                "screen_name": "shroop_11",
+                "name": "\u0634\u0631\u0648\u0642\ud83c\udf38",
+                "id": 1102989945617215488,
+                "id_str": "1102989945617215488",
+                "indices": [
+                    95,
+                    105
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/XcOKV6dh7d",
+                "expanded_url": "https://twitter.com/i/web/status/1256746000544403460",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ar",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256675536505626626,
+    "in_reply_to_status_id_str": "1256675536505626626",
+    "in_reply_to_user_id": 1246833771732762624,
+    "in_reply_to_user_id_str": "1246833771732762624",
+    "in_reply_to_screen_name": "hhdd1515",
+    "user": {
+        "id": 1099397915699789824,
+        "id_str": "1099397915699789824",
+        "name": "\u0639\u0628\u062f \u0627\u0644\u0631\u062d\u0645\u0646",
+        "screen_name": "dhome_1110",
+        "location": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1764,
+        "friends_count": 4777,
+        "listed_count": 0,
+        "created_at": "Sat Feb 23 19:57:43 +0000 2019",
+        "favourites_count": 77405,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 287358,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121499935499792384/-evEsc2Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121499935499792384/-evEsc2Y_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ar"
+}

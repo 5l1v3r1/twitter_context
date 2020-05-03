@@ -1,0 +1,247 @@
+{
+    "created_at": "Sun May 03 00:41:42 +0000 2020",
+    "id": 1256745715902054400,
+    "id_str": "1256745715902054400",
+    "text": "RT @nana_kwesi10: \u0455ee #NoLongTalk c\u03c5z @JupitarOfficial \u03b9\u0455 \u0455\u03b9\u043cply \u0442\u043de GENERAL\ud83d\udd25\ud83d\udd25  \u03b9 a\u043dve \u0442o \u0455\u0442op wa\u0442c\u043d\u03b9ng \u0442\u043de #3MusicAwards20 r\u03b9g\u043d\u0442 a\u0493\u0442er \u043de'\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NoLongTalk",
+                "indices": [
+                    22,
+                    33
+                ]
+            },
+            {
+                "text": "3MusicAwards20",
+                "indices": [
+                    108,
+                    123
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nana_kwesi10",
+                "name": "KW\u039eSi \u2625",
+                "id": 975318874173341696,
+                "id_str": "975318874173341696",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "JupitarOfficial",
+                "name": "Jupitar_General",
+                "id": 432073625,
+                "id_str": "432073625",
+                "indices": [
+                    38,
+                    54
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "cs",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 432073625,
+        "id_str": "432073625",
+        "name": "Jupitar_General",
+        "screen_name": "JupitarOfficial",
+        "location": "Accra, Ghana",
+        "description": "Musician #UMA17AfricanArtistOfTheYr \ud83c\uddec\ud83c\udde7 #NeLAs18BestDancehallArtist\ud83c\uddec\ud83c\udde7#Abeejah For Bookings: Email: jupitardegeneral@gmail.com",
+        "url": "https://t.co/KPesDlAhdg",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/KPesDlAhdg",
+                        "expanded_url": "http://www.jupitargeneral.com",
+                        "display_url": "jupitargeneral.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 138459,
+        "friends_count": 323,
+        "listed_count": 54,
+        "created_at": "Fri Dec 09 00:50:56 +0000 2011",
+        "favourites_count": 3751,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 30691,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091822562412244993/lWNZgxPV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091822562412244993/lWNZgxPV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/432073625/1467608317",
+        "profile_link_color": "747575",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6D620",
+        "profile_text_color": "8F8F8F",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:25 +0000 2020",
+        "id": 1256745394337431553,
+        "id_str": "1256745394337431553",
+        "text": "\u0455ee #NoLongTalk c\u03c5z @JupitarOfficial \u03b9\u0455 \u0455\u03b9\u043cply \u0442\u043de GENERAL\ud83d\udd25\ud83d\udd25  \u03b9 a\u043dve \u0442o \u0455\u0442op wa\u0442c\u043d\u03b9ng \u0442\u043de #3MusicAwards20 r\u03b9g\u043d\u0442 a\u0493\u0442\u2026 https://t.co/BTt88IpIoB",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NoLongTalk",
+                    "indices": [
+                        4,
+                        15
+                    ]
+                },
+                {
+                    "text": "3MusicAwards20",
+                    "indices": [
+                        90,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JupitarOfficial",
+                    "name": "Jupitar_General",
+                    "id": 432073625,
+                    "id_str": "432073625",
+                    "indices": [
+                        20,
+                        36
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/BTt88IpIoB",
+                    "expanded_url": "https://twitter.com/i/web/status/1256745394337431553",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "cs",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 975318874173341696,
+            "id_str": "975318874173341696",
+            "name": "KW\u039eSi \u2625",
+            "screen_name": "nana_kwesi10",
+            "location": "Humble World",
+            "description": "||\u043c\u03c5\u0455\u03b9c lover\u2764|| ||\u043c\u03c5\u0455\u03b9c lover\ud83c\udfb5||BORN A SAGITTARIUS \n\u2643\u21f8",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 105,
+            "friends_count": 83,
+            "listed_count": 0,
+            "created_at": "Sun Mar 18 10:31:54 +0000 2018",
+            "favourites_count": 2387,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1295,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1229419612275650565/UCnMPjsC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229419612275650565/UCnMPjsC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/975318874173341696/1585093957",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "cs"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "cs"
+}

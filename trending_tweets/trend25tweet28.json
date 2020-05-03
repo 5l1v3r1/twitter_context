@@ -1,0 +1,451 @@
+{
+    "created_at": "Sun May 03 00:42:45 +0000 2020",
+    "id": 1256745978604007425,
+    "id_str": "1256745978604007425",
+    "text": "RT @lucapellao: orando mto aqui #OrePorBolsonaro https://t.co/OhfN9vHr34",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    32,
+                    48
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lucapellao",
+                "name": "\ud835\udd88\ud835\udd86\ud835\udd95\ud835\udd8a\ud835\udd91\ud835\udd91\ud835\udd86\ud835\udd94 \ud83c\udd74",
+                "id": 172863204,
+                "id_str": "172863204",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256687083994918912,
+                "id_str": "1256687083994918912",
+                "indices": [
+                    49,
+                    72
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256687083994918912/pu/img/5Ked55uTZOn3qmPD.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256687083994918912/pu/img/5Ked55uTZOn3qmPD.jpg",
+                "url": "https://t.co/OhfN9vHr34",
+                "display_url": "pic.twitter.com/OhfN9vHr34",
+                "expanded_url": "https://twitter.com/ElizeuTrindade3/status/1256687211514335234/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 448,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 972,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 972,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256687211514335234,
+                "source_status_id_str": "1256687211514335234",
+                "source_user_id": 4760874676,
+                "source_user_id_str": "4760874676"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256687083994918912,
+                "id_str": "1256687083994918912",
+                "indices": [
+                    49,
+                    72
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256687083994918912/pu/img/5Ked55uTZOn3qmPD.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256687083994918912/pu/img/5Ked55uTZOn3qmPD.jpg",
+                "url": "https://t.co/OhfN9vHr34",
+                "display_url": "pic.twitter.com/OhfN9vHr34",
+                "expanded_url": "https://twitter.com/ElizeuTrindade3/status/1256687211514335234/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 448,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 972,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 972,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256687211514335234,
+                "source_status_id_str": "1256687211514335234",
+                "source_user_id": 4760874676,
+                "source_user_id_str": "4760874676",
+                "video_info": {
+                    "aspect_ratio": [
+                        160,
+                        243
+                    ],
+                    "duration_millis": 27757,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256687083994918912/pu/vid/640x972/YjEp54cgyGud9Y_k.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256687083994918912/pu/vid/360x546/KdOTuoV7MAxm5E5S.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256687083994918912/pu/pl/GJOLvkJJ7kkSwGgC.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256687083994918912/pu/vid/320x486/f2mN-OmqU2bAmFXZ.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1197680302166085633,
+        "id_str": "1197680302166085633",
+        "name": "marya.",
+        "screen_name": "ruthergoth",
+        "location": "haikyuu!",
+        "description": "ggstan & army.",
+        "url": "https://t.co/ksC5alWeRX",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ksC5alWeRX",
+                        "expanded_url": "http://www.thenbhd.com",
+                        "display_url": "thenbhd.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 307,
+        "friends_count": 491,
+        "listed_count": 1,
+        "created_at": "Fri Nov 22 00:57:05 +0000 2019",
+        "favourites_count": 303,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1201,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255361080924286976/s_Vyjq-E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255361080924286976/s_Vyjq-E_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1197680302166085633/1587254875",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:24:28 +0000 2020",
+        "id": 1256696079518752773,
+        "id_str": "1256696079518752773",
+        "text": "orando mto aqui #OrePorBolsonaro https://t.co/OhfN9vHr34",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OrePorBolsonaro",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256687083994918912,
+                    "id_str": "1256687083994918912",
+                    "indices": [
+                        33,
+                        56
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256687083994918912/pu/img/5Ked55uTZOn3qmPD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256687083994918912/pu/img/5Ked55uTZOn3qmPD.jpg",
+                    "url": "https://t.co/OhfN9vHr34",
+                    "display_url": "pic.twitter.com/OhfN9vHr34",
+                    "expanded_url": "https://twitter.com/ElizeuTrindade3/status/1256687211514335234/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 448,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 972,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 972,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1256687211514335234,
+                    "source_status_id_str": "1256687211514335234",
+                    "source_user_id": 4760874676,
+                    "source_user_id_str": "4760874676"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256687083994918912,
+                    "id_str": "1256687083994918912",
+                    "indices": [
+                        33,
+                        56
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256687083994918912/pu/img/5Ked55uTZOn3qmPD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256687083994918912/pu/img/5Ked55uTZOn3qmPD.jpg",
+                    "url": "https://t.co/OhfN9vHr34",
+                    "display_url": "pic.twitter.com/OhfN9vHr34",
+                    "expanded_url": "https://twitter.com/ElizeuTrindade3/status/1256687211514335234/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 448,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 972,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 972,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1256687211514335234,
+                    "source_status_id_str": "1256687211514335234",
+                    "source_user_id": 4760874676,
+                    "source_user_id_str": "4760874676",
+                    "video_info": {
+                        "aspect_ratio": [
+                            160,
+                            243
+                        ],
+                        "duration_millis": 27757,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256687083994918912/pu/vid/640x972/YjEp54cgyGud9Y_k.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256687083994918912/pu/vid/360x546/KdOTuoV7MAxm5E5S.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256687083994918912/pu/pl/GJOLvkJJ7kkSwGgC.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256687083994918912/pu/vid/320x486/f2mN-OmqU2bAmFXZ.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 172863204,
+            "id_str": "172863204",
+            "name": "\ud835\udd88\ud835\udd86\ud835\udd95\ud835\udd8a\ud835\udd91\ud835\udd91\ud835\udd86\ud835\udd94 \ud83c\udd74",
+            "screen_name": "lucapellao",
+            "location": "Rio Grande do Sul, Brasil",
+            "description": "-In the end they'll judge me anyway so, whatever. // ariano // 25y // RS // \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "url": "https://t.co/V2GBYNd8NR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/V2GBYNd8NR",
+                            "expanded_url": "https://instagram.com/lucascapellao",
+                            "display_url": "instagram.com/lucascapellao",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 28214,
+            "friends_count": 27278,
+            "listed_count": 892,
+            "created_at": "Fri Jul 30 20:14:42 +0000 2010",
+            "favourites_count": 14715,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 71996,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255146927257055234/6m_jHAlz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255146927257055234/6m_jHAlz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/172863204/1575147695",
+            "profile_link_color": "090D4D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "B0B0B0",
+            "profile_text_color": "525052",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 431,
+        "favorite_count": 1446,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 431,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

@@ -1,0 +1,195 @@
+{
+    "created_at": "Sun May 03 00:41:51 +0000 2020",
+    "id": 1256745754506326023,
+    "id_str": "1256745754506326023",
+    "text": "RT @yokotyyyyyy: \u5165\u5c71\u7981\u6b62\u306e\u6803\u6728\u306e\u5c71\u3067\u906d\u96e3\u3000\u5ddd\u5d0e\u306e\uff12\uff15\u6b73\u3001\u30d8\u30ea\u3067\u6551\u51fa\uff08\u671d\u65e5\u65b0\u805e\u30c7\u30b8\u30bf\u30eb\uff09\n\n\u5165\u5c71\u7981\u6b62\n\u5916\u51fa\u81ea\u7c9b\n\n\u8eab\u52dd\u624b\u306a\u884c\u52d5\n\u3053\u3093\u306a\u5974\u3067\u3082\u8cc7\u6e90\u3092\u4f7f\u3044\u6551\u51fa\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044 https://t.co/BDtZsWL36w",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "yokotyyyyyy",
+                "name": "\u53cd \u65e5\u65b0\u805e\u89e3\u7d04",
+                "id": 987680811406180352,
+                "id_str": "987680811406180352",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/BDtZsWL36w",
+                "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20200503-00000009-asahi-soci",
+                "display_url": "headlines.yahoo.co.jp/hl?a=20200503-\u2026",
+                "indices": [
+                    95,
+                    118
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1175656791947874304,
+        "id_str": "1175656791947874304",
+        "name": "\u5175\u982d\u3000\u899a",
+        "screen_name": "dq7wxOehO2RgGRz",
+        "location": "\u611b\u77e5 \u540d\u53e4\u5c4b\u5e02",
+        "description": "\u65e5\u672c\u3067\u751f\u307e\u308c\u80b2\u3063\u3066\u826f\u304b\u3063\u305f\uff01\u3068\u601d\u3063\u3066\u3044\u307e\u3059\u3002\u305d\u306e\u65e5\u672c\u304c\u6226\u5f8c\u306e\u6d17\u8133\u5de5\u4f5c\u3001\u4ed6\u56fd\u306e\u9593\u63a5\u4fb5\u7565\u3001\u4eba\u3005\u306e\u5fc3\u306e\u8352\u5ec3\uff5e\u7b49\u3005\u3067\u73fe\u5728\u306f\u6df1\u523b\u306a\u56fd\u96e3\u306b\u3042\u308b\u3068\u601d\u3044\u307e\u3059\u3002\u305d\u306e\u56fd\u96e3\u306b\u6211\u3005\u304c\u8ab0\u3067\u3082\u7c21\u5358\u306b\u51fa\u6765\u308b\u4e8b\u30fb\u30fb\u30fb\u305d\u308c\u306f\u300c\u65e5\u672c\u4eba\u304c\u65e5\u672c\u4eba\u3089\u3057\u3055\u3092\u53d6\u308a\u623b\u3059\u4e8b\u300d\u3000\u4ee4\u548c\uff5e\u65e5\u672c\u4eba\u304c\u65e5\u672c\u4eba\u3089\u3057\u3055\u3092\u53d6\u308a\u623b\u3059\u6642\u4ee3\u306e\u5e55\u958b\u3051\uff01",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 680,
+        "friends_count": 797,
+        "listed_count": 2,
+        "created_at": "Sun Sep 22 06:23:43 +0000 2019",
+        "favourites_count": 6907,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4877,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175678722780745728/wig4IcWV_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175678722780745728/wig4IcWV_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1175656791947874304/1569139052",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:29:39 +0000 2020",
+        "id": 1256742682593878016,
+        "id_str": "1256742682593878016",
+        "text": "\u5165\u5c71\u7981\u6b62\u306e\u6803\u6728\u306e\u5c71\u3067\u906d\u96e3\u3000\u5ddd\u5d0e\u306e\uff12\uff15\u6b73\u3001\u30d8\u30ea\u3067\u6551\u51fa\uff08\u671d\u65e5\u65b0\u805e\u30c7\u30b8\u30bf\u30eb\uff09\n\n\u5165\u5c71\u7981\u6b62\n\u5916\u51fa\u81ea\u7c9b\n\n\u8eab\u52dd\u624b\u306a\u884c\u52d5\n\u3053\u3093\u306a\u5974\u3067\u3082\u8cc7\u6e90\u3092\u4f7f\u3044\u6551\u51fa\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044 https://t.co/BDtZsWL36w",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/BDtZsWL36w",
+                    "expanded_url": "https://headlines.yahoo.co.jp/hl?a=20200503-00000009-asahi-soci",
+                    "display_url": "headlines.yahoo.co.jp/hl?a=20200503-\u2026",
+                    "indices": [
+                        78,
+                        101
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 987680811406180352,
+            "id_str": "987680811406180352",
+            "name": "\u53cd \u65e5\u65b0\u805e\u89e3\u7d04",
+            "screen_name": "yokotyyyyyy",
+            "location": "\u611b\u77e5",
+            "description": "\u53cd\uff1d\u671d&\u6bce&\u4e2d \ud83c\uddef\ud83c\uddf5\ud83c\uddef\ud83c\uddf5\u6771\u65e5\u672c\u5927\u9707\u707d\u5f8c\u3001\u611b\u56fd\u306b\u76ee\u899a\u3081\u6c11\u4e3b\u515a\u653f\u6a29\u306e\u60aa\u5922\u306b\u6c17\u3065\u304f\ud83c\uddef\ud83c\uddf5\u305d\u3057\u3066\u53cd\u65e5\u30de\u30b9\u30b4\u30df\u306e\u504f\u5411\u5831\u9053\u306b\u5fae\u529b\u3067\u3082\u5bfe\u6297\u3057\u305f\u3044 \ud83c\uddef\ud83c\uddf5\ud83c\uddf9\ud83c\uddfc\ud83c\uddef\ud83c\uddf5\ud83c\uddf5\ud83c\uddfc\ud83c\uddef\ud83c\uddf5\ud83c\uddf5\ud83c\uddf1\ud83c\uddef\ud83c\uddf5\u8cdb\u540c\u306e\u3044\u3044\u306d\u30fbRT\u306b\u306f\u30d5\u30a9\u30ed\u30fc\ud83c\uddef\ud83c\uddf5 \u6211\u7231\u53f0\u6e7e\ud83d\udc95",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8019,
+            "friends_count": 8229,
+            "listed_count": 16,
+            "created_at": "Sat Apr 21 13:13:50 +0000 2018",
+            "favourites_count": 9582,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 186,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246378642055106560/wjSgfm_t_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246378642055106560/wjSgfm_t_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/987680811406180352/1584189812",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 26,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

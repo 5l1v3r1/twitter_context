@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:42:43 +0000 2020",
+    "id": 1256745969716207617,
+    "id_str": "1256745969716207617",
+    "text": "RT @elzamariana: Natuza pedindo para o Ciro falar menos por causa do Amoedo. Quem tem culpa se o Amoedo n\u00e3o tem nada para falar?! \ud83e\udd37\u200d\u2640\ufe0f\n\n#Ci\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elzamariana",
+                "name": "\ud83c\udf35 Elza Mendon\u00e7a",
+                "id": 261385220,
+                "id_str": "261385220",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 870795510,
+        "id_str": "870795510",
+        "name": "Carlos Mendes",
+        "screen_name": "Mendes89Mendes",
+        "location": "",
+        "description": "pai do Joaquim, e apaixonado por eng civil, matem\u00e1tica, Corinthians e Paysandu",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 133,
+        "listed_count": 0,
+        "created_at": "Tue Oct 09 23:57:48 +0000 2012",
+        "favourites_count": 1182,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 404,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/990705613469569026/ylmvRLIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/990705613469569026/ylmvRLIp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/870795510/1457925439",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:16 +0000 2020",
+        "id": 1256745356664193031,
+        "id_str": "1256745356664193031",
+        "text": "Natuza pedindo para o Ciro falar menos por causa do Amoedo. Quem tem culpa se o Amoedo n\u00e3o tem nada para falar?! \ud83e\udd37\u200d\u2640\ufe0f\n\n#CiroNaGloboNews",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        119,
+                        135
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 261385220,
+            "id_str": "261385220",
+            "name": "\ud83c\udf35 Elza Mendon\u00e7a",
+            "screen_name": "elzamariana",
+            "location": "Olinda, Brasil",
+            "description": "Pernambucana.\nProfessora de Hist\u00f3ria \nMestre em Hist\u00f3ria Pol\u00edtica",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3651,
+            "friends_count": 1849,
+            "listed_count": 30,
+            "created_at": "Sat Mar 05 21:14:26 +0000 2011",
+            "favourites_count": 120597,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 60301,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F0F2F5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255309566193082373/yUDj5gx4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255309566193082373/yUDj5gx4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/261385220/1489719372",
+            "profile_link_color": "108696",
+            "profile_sidebar_border_color": "080808",
+            "profile_sidebar_fill_color": "485A63",
+            "profile_text_color": "14093D",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 80,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

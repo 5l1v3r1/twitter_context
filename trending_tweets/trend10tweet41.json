@@ -1,0 +1,236 @@
+{
+    "created_at": "Sun May 03 00:40:33 +0000 2020",
+    "id": 1256745425207300096,
+    "id_str": "1256745425207300096",
+    "text": "RT @barzam154__: \u3066\u3044\u3046\u304b\u4eca\u306e\u3068\u3053\u308d\u300cZAIA\u30b9\u30da\u30c3\u30af\u306e\u304a\u304b\u3052\u3067\u5927\u6d3b\u8e8d\uff01\u300d\u307f\u305f\u3044\u306a\u63cf\u5199\u304c\u30bc\u30ed\u306a\u3093\u3060\u3088\u306a\u2026\u2026 \u3044\u3084\u3075\u3064\u3046\u306b\u4f7f\u3048\u3070\u4fbf\u5229\u306a\u306f\u305a\u306a\u3093\u3060\u3051\u3069\u306a\u3093\u304b\u57fa\u672c\u30d0\u30ab\u3057\u304b\u4f7f\u308f\u306a\u3044\u304b\u3089\u3042\u308c\u2026\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "barzam154__",
+                "name": "\u30de\u30b7\u30fc\u30ca\u30ea\u30fc\u3068\u3082\u5b50@\u30a8\u30a2\u30b3\u30df\u30b1\u65b0\u520aBOOTH\u3068\u30e1\u30ed\u30d6\u3067\u4e88\u7d04\u4e2d",
+                "id": 92733382,
+                "id_str": "92733382",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 288075898,
+        "id_str": "288075898",
+        "name": "\u3061\u30f4\u3043\u3069\u3089",
+        "screen_name": "t1v1dora2",
+        "location": "",
+        "description": "\u30ed\u30ea\u30b7\u30e7\u30bf\u306b\u4e00\u751f\u304a\u4e16\u8a71\u3055\u308c\u305f\u3044\u4eba\u751f\u3060\u3063\u305f\n\u3000\n\u304a\u7d75\u304b\u304d\u3057\u307e\u3059\u3000Fav&RT\u9b54\u4eba\n\n\n\u63cf\u3044\u3066\u3044\u308b\u7d75\u306e\u9032\u6357: https://t.co/smay203zbK \u63cf\u3044\u305f\u7d75:https://t.co/nb3V8HMDVU",
+        "url": "http://twpf.jp/tividora2",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://twpf.jp/tividora2",
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            24
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/smay203zbK",
+                        "expanded_url": "http://tividora.blogspot.com/?m=1",
+                        "display_url": "tividora.blogspot.com/?m=1",
+                        "indices": [
+                            53,
+                            76
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/nb3V8HMDVU",
+                        "expanded_url": "http://tinami.com/profile/330674",
+                        "display_url": "tinami.com/profile/330674",
+                        "indices": [
+                            82,
+                            105
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1499,
+        "friends_count": 3355,
+        "listed_count": 56,
+        "created_at": "Tue Apr 26 06:05:33 +0000 2011",
+        "favourites_count": 311958,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 415052,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137744518290108423/rFirNBgn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137744518290108423/rFirNBgn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/288075898/1469435927",
+        "profile_link_color": "00896B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:13:50 +0000 2020",
+        "id": 1256738702631419904,
+        "id_str": "1256738702631419904",
+        "text": "\u3066\u3044\u3046\u304b\u4eca\u306e\u3068\u3053\u308d\u300cZAIA\u30b9\u30da\u30c3\u30af\u306e\u304a\u304b\u3052\u3067\u5927\u6d3b\u8e8d\uff01\u300d\u307f\u305f\u3044\u306a\u63cf\u5199\u304c\u30bc\u30ed\u306a\u3093\u3060\u3088\u306a\u2026\u2026 \u3044\u3084\u3075\u3064\u3046\u306b\u4f7f\u3048\u3070\u4fbf\u5229\u306a\u306f\u305a\u306a\u3093\u3060\u3051\u3069\u306a\u3093\u304b\u57fa\u672c\u30d0\u30ab\u3057\u304b\u4f7f\u308f\u306a\u3044\u304b\u3089\u3042\u308c\u2026\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 92733382,
+            "id_str": "92733382",
+            "name": "\u30de\u30b7\u30fc\u30ca\u30ea\u30fc\u3068\u3082\u5b50@\u30a8\u30a2\u30b3\u30df\u30b1\u65b0\u520aBOOTH\u3068\u30e1\u30ed\u30d6\u3067\u4e88\u7d04\u4e2d",
+            "screen_name": "barzam154__",
+            "location": "\u6c60\u888b",
+            "description": "VTuber\u3002\u6c60\u888b\u6676\u8449\u3061\u3083\u3093\u597d\u304d \u30a2\u30a4\u30b3\u30f3\u306f@HundredBurger \u52d5\u753b\u25b6 https://t.co/6BbzgBK2wD skeb\u25b6https://t.co/3vh4NKMMzM \u4ed5\u4e8b\u25b6mashinaritomoko\uff20gmail.com",
+            "url": "https://t.co/MFs48OCDCX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/MFs48OCDCX",
+                            "expanded_url": "http://www.machinery-tomoko.com",
+                            "display_url": "machinery-tomoko.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6BbzgBK2wD",
+                            "expanded_url": "https://youtu.be/atGaMLV8G-Y",
+                            "display_url": "youtu.be/atGaMLV8G-Y",
+                            "indices": [
+                                41,
+                                64
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/3vh4NKMMzM",
+                            "expanded_url": "https://skeb.jp/@barzam154__",
+                            "display_url": "skeb.jp/@barzam154__",
+                            "indices": [
+                                70,
+                                93
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 15889,
+            "friends_count": 2392,
+            "listed_count": 635,
+            "created_at": "Thu Nov 26 11:10:40 +0000 2009",
+            "favourites_count": 288035,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 593358,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1213283734352359424/BaCw1gt8_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213283734352359424/BaCw1gt8_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/92733382/1561696848",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 36,
+        "favorite_count": 61,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

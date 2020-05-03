@@ -1,0 +1,92 @@
+{
+    "created_at": "Sun May 03 00:41:31 +0000 2020",
+    "id": 1256745669936787456,
+    "id_str": "1256745669936787456",
+    "text": "Chat ep 4: puta merda Arthur vai morrer 8 de vida velhow\n\nChat ep 3: puta merda Arthur vai morrer 8 de vida mano\u2026 https://t.co/cnUtlCf0b8",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/cnUtlCf0b8",
+                "expanded_url": "https://twitter.com/i/web/status/1256745669936787456",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 958739268532305920,
+        "id_str": "958739268532305920",
+        "name": "\u0561\u0236\u0284 \u0268\u0586\u01df \ud83c\udf3b",
+        "screen_name": "nnash_i",
+        "location": "",
+        "description": "nada de novo no inferno \n\nlave as m\u00e3os, fique em casa e babu rei da minha vida fodase",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 43,
+        "listed_count": 0,
+        "created_at": "Wed Jan 31 16:30:28 +0000 2018",
+        "favourites_count": 687,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 380,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250262337602215938/QBTLsPyB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250262337602215938/QBTLsPyB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/958739268532305920/1575055342",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

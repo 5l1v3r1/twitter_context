@@ -1,0 +1,201 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745922337398784,
+    "id_str": "1256745922337398784",
+    "text": "RT @Jouberth19: Presidente Bolsonaro pode contar com vossas ora\u00e7\u00f5es? S\u00e3o tantos inimigos que o Presida enfrenta!\n\n #OrePorBolsonaro",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    115,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jouberth19",
+                "name": "Jouberth Souza \ud83c\udde7\ud83c\uddf7",
+                "id": 350476403,
+                "id_str": "350476403",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1160887648262787072,
+        "id_str": "1160887648262787072",
+        "name": "D\u00f3ris",
+        "screen_name": "Dris16375387",
+        "location": "Recife, Brasil",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 787,
+        "friends_count": 972,
+        "listed_count": 1,
+        "created_at": "Mon Aug 12 12:15:58 +0000 2019",
+        "favourites_count": 55012,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21942,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236439615105622017/0VIU_oi7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236439615105622017/0VIU_oi7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:20:22 +0000 2020",
+        "id": 1256710147868680197,
+        "id_str": "1256710147868680197",
+        "text": "Presidente Bolsonaro pode contar com vossas ora\u00e7\u00f5es? S\u00e3o tantos inimigos que o Presida enfrenta!\n\n #OrePorBolsonaro",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OrePorBolsonaro",
+                    "indices": [
+                        99,
+                        115
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 350476403,
+            "id_str": "350476403",
+            "name": "Jouberth Souza \ud83c\udde7\ud83c\uddf7",
+            "screen_name": "Jouberth19",
+            "location": "Vale do a\u00e7o, MG ",
+            "description": "Nunca foi sorte, sempre foi Deus! \ud83d\uded0",
+            "url": "https://t.co/jVMDgi3urF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/jVMDgi3urF",
+                            "expanded_url": "https://instagram.com/jouberths?igshid=1suakghje5ibe",
+                            "display_url": "instagram.com/jouberths?igsh\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 80871,
+            "friends_count": 773,
+            "listed_count": 89,
+            "created_at": "Sun Aug 07 20:56:34 +0000 2011",
+            "favourites_count": 76741,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 35315,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131517",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1189537137294761984/INopxNyt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189537137294761984/INopxNyt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/350476403/1569352173",
+            "profile_link_color": "3B9EF5",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EDEDED",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 395,
+        "favorite_count": 1561,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 395,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

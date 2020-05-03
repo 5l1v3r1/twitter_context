@@ -1,0 +1,354 @@
+{
+    "created_at": "Sun May 03 00:42:25 +0000 2020",
+    "id": 1256745897716842496,
+    "id_str": "1256745897716842496",
+    "text": "RT @GFS96382897: #TodosContraLaMentiraM https://t.co/VK3A4xUrl1",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TodosContraLaMentiraM",
+                "indices": [
+                    17,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GFS96382897",
+                "name": "G F S",
+                "id": 934528324264742912,
+                "id_str": "934528324264742912",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745782360899587,
+                "id_str": "1256745782360899587",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDboWqXgAMUZKW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDboWqXgAMUZKW.jpg",
+                "url": "https://t.co/VK3A4xUrl1",
+                "display_url": "pic.twitter.com/VK3A4xUrl1",
+                "expanded_url": "https://twitter.com/GFS96382897/status/1256745793144393731/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 676,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1086,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1086,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256745793144393731,
+                "source_status_id_str": "1256745793144393731",
+                "source_user_id": 934528324264742912,
+                "source_user_id_str": "934528324264742912"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745782360899587,
+                "id_str": "1256745782360899587",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDboWqXgAMUZKW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDboWqXgAMUZKW.jpg",
+                "url": "https://t.co/VK3A4xUrl1",
+                "display_url": "pic.twitter.com/VK3A4xUrl1",
+                "expanded_url": "https://twitter.com/GFS96382897/status/1256745793144393731/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 676,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1086,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1086,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256745793144393731,
+                "source_status_id_str": "1256745793144393731",
+                "source_user_id": 934528324264742912,
+                "source_user_id_str": "934528324264742912"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 711277284,
+        "id_str": "711277284",
+        "name": "Blas Di Carlo",
+        "screen_name": "BlasitoDiCarlo",
+        "location": "Terolandia",
+        "description": "SOY EL TERO VIGILANTE, Peronista, K, lector de Jauretche   Banco a  CFK a morir. EN UNA PALABRA NO ME ROMPAS LOS HUEVOS POR QUE TE BLOKEO AL TOKE",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5045,
+        "friends_count": 4786,
+        "listed_count": 24,
+        "created_at": "Sun Jul 22 21:13:49 +0000 2012",
+        "favourites_count": 58547,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 95533,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2422980137/k1pdutj9o86m82nsnwun_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2422980137/k1pdutj9o86m82nsnwun_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:42:00 +0000 2020",
+        "id": 1256745793144393731,
+        "id_str": "1256745793144393731",
+        "text": "#TodosContraLaMentiraM https://t.co/VK3A4xUrl1",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256745782360899587,
+                    "id_str": "1256745782360899587",
+                    "indices": [
+                        23,
+                        46
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDboWqXgAMUZKW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDboWqXgAMUZKW.jpg",
+                    "url": "https://t.co/VK3A4xUrl1",
+                    "display_url": "pic.twitter.com/VK3A4xUrl1",
+                    "expanded_url": "https://twitter.com/GFS96382897/status/1256745793144393731/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 676,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1086,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1086,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256745782360899587,
+                    "id_str": "1256745782360899587",
+                    "indices": [
+                        23,
+                        46
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDboWqXgAMUZKW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDboWqXgAMUZKW.jpg",
+                    "url": "https://t.co/VK3A4xUrl1",
+                    "display_url": "pic.twitter.com/VK3A4xUrl1",
+                    "expanded_url": "https://twitter.com/GFS96382897/status/1256745793144393731/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 676,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1086,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1086,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 934528324264742912,
+            "id_str": "934528324264742912",
+            "name": "G F S",
+            "screen_name": "GFS96382897",
+            "location": "Argentina",
+            "description": "La \u00fanica verdad es la realidad.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2432,
+            "friends_count": 2865,
+            "listed_count": 2,
+            "created_at": "Sat Nov 25 21:04:50 +0000 2017",
+            "favourites_count": 24012,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 36886,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1178424356780875776/L1UvGTr6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178424356780875776/L1UvGTr6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/934528324264742912/1577711996",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

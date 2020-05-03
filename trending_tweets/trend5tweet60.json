@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:42:13 +0000 2020",
+    "id": 1256745843752919042,
+    "id_str": "1256745843752919042",
+    "text": "RT @Adam_Stirling: Alligator Beaver had better step up its game if it doesn\u2019t want the murder hornets to push it to page five when that ast\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Adam_Stirling",
+                "name": "Adam Stirling",
+                "id": 58684655,
+                "id_str": "58684655",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 277132286,
+        "id_str": "277132286",
+        "name": "Jonathan Sprung",
+        "screen_name": "rightsprung",
+        "location": "Omicron persei 8",
+        "description": "Father, writer of 'In Lieu of Flowers' and 'squeakyclean\u2019 Husband of @mindthecompany Proud Local 793. Smartass.",
+        "url": "https://t.co/nQCTez8BLg",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/nQCTez8BLg",
+                        "expanded_url": "https://deocil.wixsite.com/website",
+                        "display_url": "deocil.wixsite.com/website",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1893,
+        "friends_count": 1679,
+        "listed_count": 65,
+        "created_at": "Mon Apr 04 19:22:07 +0000 2011",
+        "favourites_count": 61659,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 36640,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "A5B2B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239164477012086785/66I2D1Fw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239164477012086785/66I2D1Fw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/277132286/1584274871",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:29:44 +0000 2020",
+        "id": 1256742705444515841,
+        "id_str": "1256742705444515841",
+        "text": "Alligator Beaver had better step up its game if it doesn\u2019t want the murder hornets to push it to page five when tha\u2026 https://t.co/oTdI6ADfr1",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/oTdI6ADfr1",
+                    "expanded_url": "https://twitter.com/i/web/status/1256742705444515841",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 58684655,
+            "id_str": "58684655",
+            "name": "Adam Stirling",
+            "screen_name": "Adam_Stirling",
+            "location": "Victoria, British Columbia",
+            "description": "Winner: 2019 RTDNA national & 2020 RTDNA west region commentary. Pro Talk Host. Amateur satire. The Adam Stirling Show: 9-1 on @cfax1070! Tweets are mine alone",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6351,
+            "friends_count": 764,
+            "listed_count": 223,
+            "created_at": "Tue Jul 21 03:04:32 +0000 2009",
+            "favourites_count": 782,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 121327,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1242952764478468096/QzEzHo5s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242952764478468096/QzEzHo5s_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/58684655/1576296275",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

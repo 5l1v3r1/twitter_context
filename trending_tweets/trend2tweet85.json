@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745926347100160,
+    "id_str": "1256745926347100160",
+    "text": "RT @BircanBasak1453: \u201cKarde\u015fler sevece\u011fiz sevilece\u011fiz, biz bu yola vallah d\u00fc\u015fmanl\u0131k i\u00e7in girmedik. Vallah sevmek i\u00e7in girdik, billah sevmek\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BircanBasak1453",
+                "name": "Bircan Basak \ud83c\uddf9\ud83c\uddf7",
+                "id": 3940024217,
+                "id_str": "3940024217",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2825163623,
+        "id_str": "2825163623",
+        "name": "______\u2022Y\u00f6vr\u00fck\u2022_____",
+        "screen_name": "EKiZalanyaa",
+        "location": "ANTALYA / ALANYA",
+        "description": "\ud83d\udd25akl\u0131ma gelenleri s\u00f6yleyemiyorum fark\u0131nday\u0131m ama d\u00fczeltemiyorum \u2650\ufe0f",
+        "url": "https://t.co/xf5HEPnNw0",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/xf5HEPnNw0",
+                        "expanded_url": "https://www.instagram.com/ekizalanya/",
+                        "display_url": "instagram.com/ekizalanya/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5004,
+        "friends_count": 4894,
+        "listed_count": 0,
+        "created_at": "Sun Oct 12 15:15:47 +0000 2014",
+        "favourites_count": 21322,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22458,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253053177278205955/714zi2TM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253053177278205955/714zi2TM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2825163623/1504708007",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:31:46 +0000 2020",
+        "id": 1256682816223481856,
+        "id_str": "1256682816223481856",
+        "text": "\u201cKarde\u015fler sevece\u011fiz sevilece\u011fiz, biz bu yola vallah d\u00fc\u015fmanl\u0131k i\u00e7in girmedik. Vallah sevmek i\u00e7in girdik, billah sev\u2026 https://t.co/3uBN1bpuJI",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3uBN1bpuJI",
+                    "expanded_url": "https://twitter.com/i/web/status/1256682816223481856",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3940024217,
+            "id_str": "3940024217",
+            "name": "Bircan Basak \ud83c\uddf9\ud83c\uddf7",
+            "screen_name": "BircanBasak1453",
+            "location": "France",
+            "description": "\u0644\u0627\u064e \u062a \u062d\u0652\u0632\u064e\u0646\u0652 \u0625\u0650\u0646\u0651\u064e \u0627\u0644\u0644\u0651\u0647\u064e \u0645\u064e\u0639\u064e\u0646\u064e\u0627 biz hala ayn\u0131 yerde #\u00d6l\u00fcm\u00fcneErdo\u011fan #WeLoveErdo\u011fan #Biz\u00d6l\u00fcm\u00fcne @RTErdogan #AkEkip #EkipPayitaht",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22619,
+            "friends_count": 15643,
+            "listed_count": 41,
+            "created_at": "Mon Oct 12 20:03:11 +0000 2015",
+            "favourites_count": 210158,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 197737,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1173904645187670016/BjdWtNuE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173904645187670016/BjdWtNuE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3940024217/1562594340",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 21,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

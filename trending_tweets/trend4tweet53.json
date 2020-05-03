@@ -1,0 +1,401 @@
+{
+    "created_at": "Sun May 03 00:42:15 +0000 2020",
+    "id": 1256745852888068098,
+    "id_str": "1256745852888068098",
+    "text": "RT @Fenerli19072017: KISKANANLAR \u00c7ATLASIN\ud83d\ude09#Efsane113Ya\u015f\u0131nda https://t.co/KaDCowI5TT",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113Ya\u015f\u0131nda",
+                "indices": [
+                    42,
+                    59
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Fenerli19072017",
+                "name": "Fenerbah\u00e7e Republic",
+                "id": 896847258834149377,
+                "id_str": "896847258834149377",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744631351549952,
+                "id_str": "1256744631351549952",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDalW0WoAAE8Gr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDalW0WoAAE8Gr.jpg",
+                "url": "https://t.co/KaDCowI5TT",
+                "display_url": "pic.twitter.com/KaDCowI5TT",
+                "expanded_url": "https://twitter.com/Fenerli19072017/status/1256744640197394438/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 353,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 333,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 353,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744640197394438,
+                "source_status_id_str": "1256744640197394438",
+                "source_user_id": 896847258834149377,
+                "source_user_id_str": "896847258834149377"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744631351549952,
+                "id_str": "1256744631351549952",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDalW0WoAAE8Gr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDalW0WoAAE8Gr.jpg",
+                "url": "https://t.co/KaDCowI5TT",
+                "display_url": "pic.twitter.com/KaDCowI5TT",
+                "expanded_url": "https://twitter.com/Fenerli19072017/status/1256744640197394438/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 353,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 333,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 353,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744640197394438,
+                "source_status_id_str": "1256744640197394438",
+                "source_user_id": 896847258834149377,
+                "source_user_id_str": "896847258834149377"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 899613806367838213,
+        "id_str": "899613806367838213",
+        "name": "Kamyonettaksi",
+        "screen_name": "KamyonetTaksi",
+        "location": "Beylikd\u00fcz\u00fc, T\u00fcrkiye",
+        "description": "Y\u00dcK VE E\u015eYALARINIZIN\n\u0130STANBUL \u0130\u00c7\u0130 VE DI\u015eI \nTA\u015eIMA \u0130HT\u0130YA\u00c7LARINI KAR\u015eILIYORUZ.\ud83c\uddf9\ud83c\uddf7\nUYGUN F\u0130YAT VE KAL\u0130TEL\u0130 H\u0130ZMET ANLAYI\u015eIMIZ \u0130LE S\u0130ZLERE B\u0130R TELEFON UZAKTAYIZ\ud83e\udd33",
+        "url": "https://t.co/g2av3dM26X",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/g2av3dM26X",
+                        "expanded_url": "http://www.kamyonettaksi.gen.tr",
+                        "display_url": "kamyonettaksi.gen.tr",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 176,
+        "friends_count": 172,
+        "listed_count": 0,
+        "created_at": "Mon Aug 21 12:47:00 +0000 2017",
+        "favourites_count": 633,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 276,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256409801728446467/ve4SaJLP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256409801728446467/ve4SaJLP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/899613806367838213/1588380163",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:37:26 +0000 2020",
+        "id": 1256744640197394438,
+        "id_str": "1256744640197394438",
+        "text": "KISKANANLAR \u00c7ATLASIN\ud83d\ude09#Efsane113Ya\u015f\u0131nda https://t.co/KaDCowI5TT",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Efsane113Ya\u015f\u0131nda",
+                    "indices": [
+                        21,
+                        38
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256744631351549952,
+                    "id_str": "1256744631351549952",
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDalW0WoAAE8Gr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDalW0WoAAE8Gr.jpg",
+                    "url": "https://t.co/KaDCowI5TT",
+                    "display_url": "pic.twitter.com/KaDCowI5TT",
+                    "expanded_url": "https://twitter.com/Fenerli19072017/status/1256744640197394438/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 353,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 353,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256744631351549952,
+                    "id_str": "1256744631351549952",
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDalW0WoAAE8Gr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDalW0WoAAE8Gr.jpg",
+                    "url": "https://t.co/KaDCowI5TT",
+                    "display_url": "pic.twitter.com/KaDCowI5TT",
+                    "expanded_url": "https://twitter.com/Fenerli19072017/status/1256744640197394438/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 353,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 353,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 896847258834149377,
+            "id_str": "896847258834149377",
+            "name": "Fenerbah\u00e7e Republic",
+            "screen_name": "Fenerli19072017",
+            "location": "Beylikd\u00fcz\u00fc, \u0130stanbul",
+            "description": "Spor Futbol S\u00fcper Lig Basketbol  fenerbah\u00e7e",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2345,
+            "friends_count": 2305,
+            "listed_count": 1,
+            "created_at": "Sun Aug 13 21:33:43 +0000 2017",
+            "favourites_count": 21012,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3760,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1171342728053055488/VKQmdFXO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171342728053055488/VKQmdFXO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/896847258834149377/1515617873",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "5e02a0f0d91c76d2",
+            "url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+            "place_type": "city",
+            "name": "\u0130stanbul",
+            "full_name": "\u0130stanbul, T\u00fcrkiye",
+            "country_code": "TR",
+            "country": "Turkey",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.6321043,
+                            40.8027337
+                        ],
+                        [
+                            29.3783413,
+                            40.8027337
+                        ],
+                        [
+                            29.3783413,
+                            41.2399073
+                        ],
+                        [
+                            28.6321043,
+                            41.2399073
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

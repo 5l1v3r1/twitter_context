@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:29 +0000 2020",
+    "id": 1256745912354865157,
+    "id_str": "1256745912354865157",
+    "text": "D\u0131\u015far\u0131da hafiften ya\u011fmurun sesi\nG\u00f6z\u00fcmde a\u015fk\u0131m\u0131n hasret n\u00f6beti\nSen r\u00fcyalar \u00e2leminde\nYeni a\u015fklar hevesinde\nBense yine\u2026 https://t.co/4FdANQGVki",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/4FdANQGVki",
+                "expanded_url": "https://twitter.com/i/web/status/1256745912354865157",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2363435375,
+        "id_str": "2363435375",
+        "name": "Soner \ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "SLuleci",
+        "location": "T\u00fcrkiye",
+        "description": "*Ne Mutlu T\u00fcrk'\u00fcm Diyene* \nT\u00fcrkiye Cumhuriyeti, \u00dclkesiyle ve Milletiyle B\u00f6l\u00fcnmez Bir B\u00fct\u00fcnd\u00fcr A(+) https://t.co/raE4doukN7  @fenerbahce",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/raE4doukN7",
+                        "expanded_url": "https://twitter.com/KemalistTim",
+                        "display_url": "twitter.com/KemalistTim",
+                        "indices": [
+                            99,
+                            122
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 39141,
+        "friends_count": 8660,
+        "listed_count": 51,
+        "created_at": "Mon Feb 24 18:36:58 +0000 2014",
+        "favourites_count": 28485,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 73576,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1056995568369704960/7yFAkzsx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056995568369704960/7yFAkzsx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363435375/1517994465",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

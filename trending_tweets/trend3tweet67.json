@@ -1,0 +1,188 @@
+{
+    "created_at": "Sun May 03 00:42:17 +0000 2020",
+    "id": 1256745862828642304,
+    "id_str": "1256745862828642304",
+    "text": "RT @esraa99_: Tart\u0131\u015fmas\u0131z ilk vazifen\nT\u00fcrkl\u00fc\u011f\u00fc silmek isteyenleri,\nT\u00fcrk topraklar\u0131ndan silmektir.!\n\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    100,
+                    120
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "esraa99_",
+                "name": "Esra",
+                "id": 931176504289046529,
+                "id_str": "931176504289046529",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1243944253874671618,
+        "id_str": "1243944253874671618",
+        "name": "Bekir",
+        "screen_name": "Bekirkarali91",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 82,
+        "friends_count": 115,
+        "listed_count": 0,
+        "created_at": "Sat Mar 28 16:53:24 +0000 2020",
+        "favourites_count": 1613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1705,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243944520523415552/15W6SEGu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243944520523415552/15W6SEGu_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:31:33 +0000 2020",
+        "id": 1256682764214120450,
+        "id_str": "1256682764214120450",
+        "text": "Tart\u0131\u015fmas\u0131z ilk vazifen\nT\u00fcrkl\u00fc\u011f\u00fc silmek isteyenleri,\nT\u00fcrk topraklar\u0131ndan silmektir.!\n\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                    "indices": [
+                        86,
+                        106
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 931176504289046529,
+            "id_str": "931176504289046529",
+            "name": "Esra",
+            "screen_name": "esraa99_",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 525,
+            "friends_count": 309,
+            "listed_count": 0,
+            "created_at": "Thu Nov 16 15:05:53 +0000 2017",
+            "favourites_count": 10306,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1160,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1237374293417263104/WtBwv1uu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237374293417263104/WtBwv1uu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/931176504289046529/1586712454",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

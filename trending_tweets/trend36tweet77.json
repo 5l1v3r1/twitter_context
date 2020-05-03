@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:41:19 +0000 2020",
+    "id": 1256745620473290756,
+    "id_str": "1256745620473290756",
+    "text": "RT @lLBER_ORTAYLl: Sap\u0131klar\u0131 yazan gazetecileri tutuklay\u0131p, sap\u0131klar\u0131 affettiniz\n\n#KopsunK\u0131yamet",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KopsunK\u0131yamet",
+                "indices": [
+                    82,
+                    96
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lLBER_ORTAYLl",
+                "name": "\u0130LBER ORTAYLI",
+                "id": 1127121940962004992,
+                "id_str": "1127121940962004992",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 171090686,
+        "id_str": "171090686",
+        "name": "peki sonra",
+        "screen_name": "by_ckr",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 406,
+        "friends_count": 576,
+        "listed_count": 0,
+        "created_at": "Mon Jul 26 14:49:08 +0000 2010",
+        "favourites_count": 67,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1852,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590765390826967040/EqKKlRF4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/590765390826967040/EqKKlRF4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/171090686/1402470968",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 10:35:58 +0000 2020",
+        "id": 1256532878181138432,
+        "id_str": "1256532878181138432",
+        "text": "Sap\u0131klar\u0131 yazan gazetecileri tutuklay\u0131p, sap\u0131klar\u0131 affettiniz\n\n#KopsunK\u0131yamet",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KopsunK\u0131yamet",
+                    "indices": [
+                        63,
+                        77
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1127121940962004992,
+            "id_str": "1127121940962004992",
+            "name": "\u0130LBER ORTAYLI",
+            "screen_name": "lLBER_ORTAYLl",
+            "location": "",
+            "description": "T\u00fcrkiye'yi Bilim Kurtar\u0131r /not official account / parody account",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10841,
+            "friends_count": 62,
+            "listed_count": 2,
+            "created_at": "Sat May 11 08:03:06 +0000 2019",
+            "favourites_count": 188,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 204,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249630492644847616/Tgu5uqyH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249630492644847616/Tgu5uqyH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127121940962004992/1586770101",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1361,
+        "favorite_count": 8309,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1361,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

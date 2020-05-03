@@ -1,0 +1,245 @@
+{
+    "created_at": "Sun May 03 00:42:02 +0000 2020",
+    "id": 1256745800559984645,
+    "id_str": "1256745800559984645",
+    "text": "RT @GarbarzAriel: #TodosContraLaMentiraM es la batalla cultural de los grupos de cibermilitantes del FrenteDeTodos que logramos primeras te\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TodosContraLaMentiraM",
+                "indices": [
+                    18,
+                    40
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GarbarzAriel",
+                "name": "Ariel Garbarz",
+                "id": 3112019957,
+                "id_str": "3112019957",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2966823279,
+        "id_str": "2966823279",
+        "name": "Azucena",
+        "screen_name": "beta733",
+        "location": "",
+        "description": "La memoria y la libertad deben ser ejercicios cotidianos de todos para evitar un nuevo holocausto y violaciones a los derechos humanos            CFK",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 805,
+        "friends_count": 833,
+        "listed_count": 0,
+        "created_at": "Wed Jan 07 22:50:24 +0000 2015",
+        "favourites_count": 11653,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15777,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140466444175597569/UvqAuHOr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140466444175597569/UvqAuHOr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966823279/1566951727",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:19:09 +0000 2020",
+        "id": 1256724940390268928,
+        "id_str": "1256724940390268928",
+        "text": "#TodosContraLaMentiraM es la batalla cultural de los grupos de cibermilitantes del FrenteDeTodos que logramos prime\u2026 https://t.co/Zc5HNghGiB",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Zc5HNghGiB",
+                    "expanded_url": "https://twitter.com/i/web/status/1256724940390268928",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3112019957,
+            "id_str": "3112019957",
+            "name": "Ariel Garbarz",
+            "screen_name": "GarbarzAriel",
+            "location": "Buenos Aires - Argentina ",
+            "description": "Ing. en electr\u00f3nica y telecomunic. Prof. UBA: Redes Sociales y UTN: Seguridad y Geoloc. Celulares. Ex Dir. Proyectos Arg.Conect. y Obras Distrib. El\u00e9ctrica UTN.",
+            "url": "https://t.co/7aHWdXjTiH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7aHWdXjTiH",
+                            "expanded_url": "http://www.protecciondigital.com.ar",
+                            "display_url": "protecciondigital.com.ar",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 37687,
+            "friends_count": 4489,
+            "listed_count": 87,
+            "created_at": "Tue Mar 24 23:17:18 +0000 2015",
+            "favourites_count": 16312,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 16066,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147885233871699973/S-5TdpJD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147885233871699973/S-5TdpJD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3112019957/1562124556",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "018f1cde6bad9747",
+            "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+            "place_type": "city",
+            "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+            "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+            "country_code": "AR",
+            "country": "Argentina",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -58.5317922,
+                            -34.674453
+                        ],
+                        [
+                            -58.353494,
+                            -34.674453
+                        ],
+                        [
+                            -58.353494,
+                            -34.534177
+                        ],
+                        [
+                            -58.5317922,
+                            -34.534177
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 347,
+        "favorite_count": 373,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 347,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:34:09 +0000 2020",
+    "id": 1256743817409159168,
+    "id_str": "1256743817409159168",
+    "text": "@Brunoag86 @lalinhodias Gino e Geno muendo aqui.\nMt mais topper",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Brunoag86",
+                "name": "Bruno",
+                "id": 68235700,
+                "id_str": "68235700",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "lalinhodias",
+                "name": "Amigo de ca\u00e7a do 04 - 13/14",
+                "id": 37207343,
+                "id_str": "37207343",
+                "indices": [
+                    11,
+                    23
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256738784902856705,
+    "in_reply_to_status_id_str": "1256738784902856705",
+    "in_reply_to_user_id": 68235700,
+    "in_reply_to_user_id_str": "68235700",
+    "in_reply_to_screen_name": "Brunoag86",
+    "user": {
+        "id": 67016774,
+        "id_str": "67016774",
+        "name": "Fill Bach",
+        "screen_name": "FillBach",
+        "location": "Formiga, Minas Gerais",
+        "description": "Foi ExuCaveira que me deu...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 165,
+        "friends_count": 354,
+        "listed_count": 2,
+        "created_at": "Wed Aug 19 14:42:05 +0000 2009",
+        "favourites_count": 3790,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5433,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1067137095658024960/wSz8J9RS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067137095658024960/wSz8J9RS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67016774/1509564040",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

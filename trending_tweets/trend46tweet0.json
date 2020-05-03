@@ -1,0 +1,415 @@
+{
+    "created_at": "Sun May 03 00:43:15 +0000 2020",
+    "id": 1256746107075346432,
+    "id_str": "1256746107075346432",
+    "text": "RT @kumackle: \u5e73\u6210\u30e9\u30a4\u30c0\u30fc\u306e\u529b\u306f\u5168\u3066\u3044\u305f\u3060\u3044\u305f\u3002\n#\u30bc\u30ed\u30ef\u30f3\u3000#\u9ad8\u5ca9\u3055\u3093\u3000#nitiasa https://t.co/MJzjC18TVq",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30bc\u30ed\u30ef\u30f3",
+                "indices": [
+                    32,
+                    37
+                ]
+            },
+            {
+                "text": "\u9ad8\u5ca9\u3055\u3093",
+                "indices": [
+                    38,
+                    43
+                ]
+            },
+            {
+                "text": "nitiasa",
+                "indices": [
+                    44,
+                    52
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kumackle",
+                "name": "Kumackle Ray!Wa!JUMP! \uff08\u30af\u30de\u30c3\u30af\u30eb\u30fc\uff09official \u516c\u5f0f",
+                "id": 951801719331028992,
+                "id_str": "951801719331028992",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745372203880448,
+                "id_str": "1256745372203880448",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbQetUEAAgVkl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbQetUEAAgVkl.jpg",
+                "url": "https://t.co/MJzjC18TVq",
+                "display_url": "pic.twitter.com/MJzjC18TVq",
+                "expanded_url": "https://twitter.com/kumackle/status/1256745375827804160/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 436,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 763,
+                        "h": 489,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 763,
+                        "h": 489,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256745375827804160,
+                "source_status_id_str": "1256745375827804160",
+                "source_user_id": 951801719331028992,
+                "source_user_id_str": "951801719331028992"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745372203880448,
+                "id_str": "1256745372203880448",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbQetUEAAgVkl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbQetUEAAgVkl.jpg",
+                "url": "https://t.co/MJzjC18TVq",
+                "display_url": "pic.twitter.com/MJzjC18TVq",
+                "expanded_url": "https://twitter.com/kumackle/status/1256745375827804160/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 436,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 763,
+                        "h": 489,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 763,
+                        "h": 489,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256745375827804160,
+                "source_status_id_str": "1256745375827804160",
+                "source_user_id": 951801719331028992,
+                "source_user_id_str": "951801719331028992"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4807751605,
+        "id_str": "4807751605",
+        "name": "\u307a\u3057\u3085\u3051@\u307a\u306e\u3066",
+        "screen_name": "5hvfrHWsSY5Pl6r",
+        "location": "",
+        "description": "\u3069\u3046\u3082\u3001\u307a\u3057\u3085\u3051\u3067\u3059\u3002 \u8da3\u5473\u306f\u30ae\u30bf\u30fc\u30fb\u30b2\u30fc\u30e0\u30fb\u30a4\u30e9\u30b9\u30c8\u306a\u3069\uff01DFF\u3084\u3063\u3066\u307e\u3059\uff01FF9\u304c\u5927\u597d\u304d\u3067\u3059\uff01\u3042\u3068\u306f\u2026Vtuber\u304c\u597d\u304d\u3067\u3059\u306d\u3001\u7279\u306bRe:AcT\u306eVtuber\u304c\u5927\u597d\u304d\u3067\u3059\uff01\u3088\u308d\u3057\u304f\u3067\u3059\uff01\ud83d\udc84\u2702\ufe0f\u2696\ufe0f\ud83d\udc10\ud83e\udd62\ud83d\udc1f\ud83d\udc22\ud83d\udc3e\ud83e\udd84\ud83d\udc51\ud83d\udc98\ud83d\udcbb\ud83c\udf80\ud83c\udf1f\u2755\u2757\ufe0f\ud83d\udc7b\ud83d\udc94\ud83c\udf59+\ud83d\udda4\ud83c\udf5c+\ud83e\udd0d\u2b50\ufe0f\u661f\u8a00\u8449: \u7570\u6027\u3092\u5f15\u304d\u4ed8\u3051\u308b\u9b45\u529b\u2b50",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2003,
+        "friends_count": 3421,
+        "listed_count": 44,
+        "created_at": "Sun Jan 24 13:16:39 +0000 2016",
+        "favourites_count": 259828,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 155044,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214910924449959936/P18O_uxe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214910924449959936/P18O_uxe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4807751605/1584917312",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:21 +0000 2020",
+        "id": 1256745375827804160,
+        "id_str": "1256745375827804160",
+        "text": "\u5e73\u6210\u30e9\u30a4\u30c0\u30fc\u306e\u529b\u306f\u5168\u3066\u3044\u305f\u3060\u3044\u305f\u3002\n#\u30bc\u30ed\u30ef\u30f3\u3000#\u9ad8\u5ca9\u3055\u3093\u3000#nitiasa https://t.co/MJzjC18TVq",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30bc\u30ed\u30ef\u30f3",
+                    "indices": [
+                        18,
+                        23
+                    ]
+                },
+                {
+                    "text": "\u9ad8\u5ca9\u3055\u3093",
+                    "indices": [
+                        24,
+                        29
+                    ]
+                },
+                {
+                    "text": "nitiasa",
+                    "indices": [
+                        30,
+                        38
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256745372203880448,
+                    "id_str": "1256745372203880448",
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDbQetUEAAgVkl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDbQetUEAAgVkl.jpg",
+                    "url": "https://t.co/MJzjC18TVq",
+                    "display_url": "pic.twitter.com/MJzjC18TVq",
+                    "expanded_url": "https://twitter.com/kumackle/status/1256745375827804160/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 436,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 763,
+                            "h": 489,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 763,
+                            "h": 489,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256745372203880448,
+                    "id_str": "1256745372203880448",
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDbQetUEAAgVkl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDbQetUEAAgVkl.jpg",
+                    "url": "https://t.co/MJzjC18TVq",
+                    "display_url": "pic.twitter.com/MJzjC18TVq",
+                    "expanded_url": "https://twitter.com/kumackle/status/1256745375827804160/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 436,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 763,
+                            "h": 489,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 763,
+                            "h": 489,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 951801719331028992,
+            "id_str": "951801719331028992",
+            "name": "Kumackle Ray!Wa!JUMP! \uff08\u30af\u30de\u30c3\u30af\u30eb\u30fc\uff09official \u516c\u5f0f",
+            "screen_name": "kumackle",
+            "location": "\u65e5\u672c",
+            "description": "youtube\ud83d\udc3b\ud83d\udc2f\u30af\u30de\u30c3\u30af\u30eb\u30fc\u516c\u5f0fYoutuber\u30af\u30de\u30c3\u30af\u30eb\u30fc https://t.co/CAVMlH9cvK \ud83d\udc2f\u30d6\u30ed\u30b0 https://t.co/90TtGLaDJn",
+            "url": "https://t.co/7jDeEEAfEj",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7jDeEEAfEj",
+                            "expanded_url": "http://kumackletv.blog.so-net.ne.jp",
+                            "display_url": "kumackletv.blog.so-net.ne.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CAVMlH9cvK",
+                            "expanded_url": "https://www.youtube.com/channel/UCN9CRDUOynavCQZdShJatgA",
+                            "display_url": "youtube.com/channel/UCN9CR\u2026",
+                            "indices": [
+                                32,
+                                55
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/90TtGLaDJn",
+                            "expanded_url": "https://kumackletv.blog.so-net.ne.jp/?from_sp",
+                            "display_url": "kumackletv.blog.so-net.ne.jp/?from_sp",
+                            "indices": [
+                                61,
+                                84
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 4505,
+            "friends_count": 3596,
+            "listed_count": 14,
+            "created_at": "Fri Jan 12 13:03:08 +0000 2018",
+            "favourites_count": 6907,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8621,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/968479346129190912/N7Jc1inn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/968479346129190912/N7Jc1inn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/951801719331028992/1568903317",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

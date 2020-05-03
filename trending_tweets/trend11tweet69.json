@@ -1,0 +1,518 @@
+{
+    "created_at": "Sun May 03 00:40:39 +0000 2020",
+    "id": 1256745449551089664,
+    "id_str": "1256745449551089664",
+    "text": "RT @vizwandamaximof: Age of Ultron gave us the most powerful Avenger, everyone say thank you to Age of Ultron https://t.co/lhjpkp9L16",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "vizwandamaximof",
+                "name": "\u1c6c Wanda\u2019s pr manager \u1c6c",
+                "id": 1165754318559072257,
+                "id_str": "1165754318559072257",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1246446081111658496,
+                "id_str": "1246446081111658496",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246446081111658496/pu/img/p83qakL6Ax0TAVLE.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246446081111658496/pu/img/p83qakL6Ax0TAVLE.jpg",
+                "url": "https://t.co/lhjpkp9L16",
+                "display_url": "pic.twitter.com/lhjpkp9L16",
+                "expanded_url": "https://twitter.com/vizwandamaximof/status/1246446235956936704/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1246446235956936704,
+                "source_status_id_str": "1246446235956936704",
+                "source_user_id": 1165754318559072257,
+                "source_user_id_str": "1165754318559072257"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1246446081111658496,
+                "id_str": "1246446081111658496",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246446081111658496/pu/img/p83qakL6Ax0TAVLE.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246446081111658496/pu/img/p83qakL6Ax0TAVLE.jpg",
+                "url": "https://t.co/lhjpkp9L16",
+                "display_url": "pic.twitter.com/lhjpkp9L16",
+                "expanded_url": "https://twitter.com/vizwandamaximof/status/1246446235956936704/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1246446235956936704,
+                "source_status_id_str": "1246446235956936704",
+                "source_user_id": 1165754318559072257,
+                "source_user_id_str": "1165754318559072257",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 124000,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1246446081111658496/pu/vid/1280x720/lFhHxJuIymLo6ZQ8.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1246446081111658496/pu/vid/640x360/TIKLV_DfnMi5aEaO.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1246446081111658496/pu/vid/480x270/SvftsFEntfXf1Pl4.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1246446081111658496/pu/pl/z488wTZ9ft8eTrAI.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1165754318559072257,
+                        "id_str": "1165754318559072257",
+                        "name": "\u1c6c Wanda\u2019s pr manager \u1c6c",
+                        "screen_name": "vizwandamaximof",
+                        "location": "vision residence",
+                        "description": "OuR STRAwbErriEs ARE gRoWing \u2022 stream WandaVision \u2022 he/him",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 1711,
+                        "friends_count": 1269,
+                        "listed_count": 15,
+                        "created_at": "Sun Aug 25 22:35:40 +0000 2019",
+                        "favourites_count": 12089,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 4430,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1248677983012954112/KN9cRn9z_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248677983012954112/KN9cRn9z_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165754318559072257/1586488338",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1240054251407028224,
+        "id_str": "1240054251407028224",
+        "name": "g r e c i a\ud83c\udf52",
+        "screen_name": "tomjxwline",
+        "location": "1955",
+        "description": "\u2698smile for life not only for the photo\u2698",
+        "url": "https://t.co/gAyg9tpU5a",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gAyg9tpU5a",
+                        "expanded_url": "https://youtu.be/z54ykkqROlc",
+                        "display_url": "youtu.be/z54ykkqROlc",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 349,
+        "friends_count": 385,
+        "listed_count": 0,
+        "created_at": "Tue Mar 17 23:16:00 +0000 2020",
+        "favourites_count": 1131,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1242,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256738913579724800/18DejdjB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256738913579724800/18DejdjB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240054251407028224/1587791837",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:46:24 +0000 2020",
+        "id": 1256686501414481921,
+        "id_str": "1256686501414481921",
+        "text": "Age of Ultron gave us the most powerful Avenger, everyone say thank you to Age of Ultron https://t.co/lhjpkp9L16",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1246446081111658496,
+                    "id_str": "1246446081111658496",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246446081111658496/pu/img/p83qakL6Ax0TAVLE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246446081111658496/pu/img/p83qakL6Ax0TAVLE.jpg",
+                    "url": "https://t.co/lhjpkp9L16",
+                    "display_url": "pic.twitter.com/lhjpkp9L16",
+                    "expanded_url": "https://twitter.com/vizwandamaximof/status/1246446235956936704/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1246446235956936704,
+                    "source_status_id_str": "1246446235956936704",
+                    "source_user_id": 1165754318559072257,
+                    "source_user_id_str": "1165754318559072257"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1246446081111658496,
+                    "id_str": "1246446081111658496",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246446081111658496/pu/img/p83qakL6Ax0TAVLE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246446081111658496/pu/img/p83qakL6Ax0TAVLE.jpg",
+                    "url": "https://t.co/lhjpkp9L16",
+                    "display_url": "pic.twitter.com/lhjpkp9L16",
+                    "expanded_url": "https://twitter.com/vizwandamaximof/status/1246446235956936704/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1246446235956936704,
+                    "source_status_id_str": "1246446235956936704",
+                    "source_user_id": 1165754318559072257,
+                    "source_user_id_str": "1165754318559072257",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 124000,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1246446081111658496/pu/vid/1280x720/lFhHxJuIymLo6ZQ8.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1246446081111658496/pu/vid/640x360/TIKLV_DfnMi5aEaO.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1246446081111658496/pu/vid/480x270/SvftsFEntfXf1Pl4.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1246446081111658496/pu/pl/z488wTZ9ft8eTrAI.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false,
+                        "source_user": {
+                            "id": 1165754318559072257,
+                            "id_str": "1165754318559072257",
+                            "name": "\u1c6c Wanda\u2019s pr manager \u1c6c",
+                            "screen_name": "vizwandamaximof",
+                            "location": "vision residence",
+                            "description": "OuR STRAwbErriEs ARE gRoWing \u2022 stream WandaVision \u2022 he/him",
+                            "url": null,
+                            "entities": {
+                                "description": {
+                                    "urls": []
+                                }
+                            },
+                            "protected": false,
+                            "followers_count": 1711,
+                            "friends_count": 1269,
+                            "listed_count": 15,
+                            "created_at": "Sun Aug 25 22:35:40 +0000 2019",
+                            "favourites_count": 12089,
+                            "utc_offset": null,
+                            "time_zone": null,
+                            "geo_enabled": false,
+                            "verified": false,
+                            "statuses_count": 4430,
+                            "lang": null,
+                            "contributors_enabled": false,
+                            "is_translator": false,
+                            "is_translation_enabled": false,
+                            "profile_background_color": "F5F8FA",
+                            "profile_background_image_url": null,
+                            "profile_background_image_url_https": null,
+                            "profile_background_tile": false,
+                            "profile_image_url": "http://pbs.twimg.com/profile_images/1248677983012954112/KN9cRn9z_normal.jpg",
+                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248677983012954112/KN9cRn9z_normal.jpg",
+                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165754318559072257/1586488338",
+                            "profile_link_color": "1DA1F2",
+                            "profile_sidebar_border_color": "C0DEED",
+                            "profile_sidebar_fill_color": "DDEEF6",
+                            "profile_text_color": "333333",
+                            "profile_use_background_image": true,
+                            "has_extended_profile": false,
+                            "default_profile": true,
+                            "default_profile_image": false,
+                            "following": false,
+                            "follow_request_sent": false,
+                            "notifications": false,
+                            "translator_type": "none"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1165754318559072257,
+            "id_str": "1165754318559072257",
+            "name": "\u1c6c Wanda\u2019s pr manager \u1c6c",
+            "screen_name": "vizwandamaximof",
+            "location": "vision residence",
+            "description": "OuR STRAwbErriEs ARE gRoWing \u2022 stream WandaVision \u2022 he/him",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1711,
+            "friends_count": 1269,
+            "listed_count": 15,
+            "created_at": "Sun Aug 25 22:35:40 +0000 2019",
+            "favourites_count": 12089,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4430,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248677983012954112/KN9cRn9z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248677983012954112/KN9cRn9z_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165754318559072257/1586488338",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 120,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

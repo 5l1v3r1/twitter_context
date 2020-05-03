@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:41:22 +0000 2020",
+    "id": 1256745633890930697,
+    "id_str": "1256745633890930697",
+    "text": "RT @clarartist_: #OSegredoNaFloresta \nCellbit: come\u00e7a a detalhar a situa\u00e7\u00e3o triste e todo mundo chorando.\n\nChat: https://t.co/A7RUQqQ5Kn",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    17,
+                    36
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "clarartist_",
+                "name": "Clara",
+                "id": 1254278757478739968,
+                "id_str": "1254278757478739968",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256707556485062657,
+                "id_str": "1256707556485062657",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC43ULXYAEMlNS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC43ULXYAEMlNS.jpg",
+                "url": "https://t.co/A7RUQqQ5Kn",
+                "display_url": "pic.twitter.com/A7RUQqQ5Kn",
+                "expanded_url": "https://twitter.com/clarartist_/status/1256707658851237891/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1300,
+                        "h": 650,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256707658851237891,
+                "source_status_id_str": "1256707658851237891",
+                "source_user_id": 1254278757478739968,
+                "source_user_id_str": "1254278757478739968"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256707556485062657,
+                "id_str": "1256707556485062657",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC43ULXYAEMlNS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC43ULXYAEMlNS.jpg",
+                "url": "https://t.co/A7RUQqQ5Kn",
+                "display_url": "pic.twitter.com/A7RUQqQ5Kn",
+                "expanded_url": "https://twitter.com/clarartist_/status/1256707658851237891/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 600,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1300,
+                        "h": 650,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256707658851237891,
+                "source_status_id_str": "1256707658851237891",
+                "source_user_id": 1254278757478739968,
+                "source_user_id_str": "1254278757478739968"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 849746315563196420,
+        "id_str": "849746315563196420",
+        "name": "\ud835\udc38\ud835\udcc7\ud835\udc52\ud835\udcb9\ud835\udcbe\ud835\udcc3 | #OSegredoNaFloresta | Cris \ud83d\udc99",
+        "screen_name": "Eredin_S2",
+        "location": "Curitiba, Brasil",
+        "description": "Pensando infinitamente o que colocar aqui.....\n\n#OSegredoNaFloresta",
+        "url": "https://t.co/XLEc041C4U",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/XLEc041C4U",
+                        "expanded_url": "https://www.youtube.com/channel/UCytue-XymADMM4Ou2N4rSRQ?view_as=subscriber",
+                        "display_url": "youtube.com/channel/UCytue\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 117,
+        "friends_count": 431,
+        "listed_count": 2,
+        "created_at": "Wed Apr 05 22:11:23 +0000 2017",
+        "favourites_count": 4347,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1085,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256740750471110663/QgMmb_Y3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256740750471110663/QgMmb_Y3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/849746315563196420/1586567729",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:10:29 +0000 2020",
+        "id": 1256707658851237891,
+        "id_str": "1256707658851237891",
+        "text": "#OSegredoNaFloresta \nCellbit: come\u00e7a a detalhar a situa\u00e7\u00e3o triste e todo mundo chorando.\n\nChat: https://t.co/A7RUQqQ5Kn",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256707556485062657,
+                    "id_str": "1256707556485062657",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC43ULXYAEMlNS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC43ULXYAEMlNS.jpg",
+                    "url": "https://t.co/A7RUQqQ5Kn",
+                    "display_url": "pic.twitter.com/A7RUQqQ5Kn",
+                    "expanded_url": "https://twitter.com/clarartist_/status/1256707658851237891/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1300,
+                            "h": 650,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256707556485062657,
+                    "id_str": "1256707556485062657",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC43ULXYAEMlNS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC43ULXYAEMlNS.jpg",
+                    "url": "https://t.co/A7RUQqQ5Kn",
+                    "display_url": "pic.twitter.com/A7RUQqQ5Kn",
+                    "expanded_url": "https://twitter.com/clarartist_/status/1256707658851237891/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1300,
+                            "h": 650,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 340,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1254278757478739968,
+            "id_str": "1254278757478739968",
+            "name": "Clara",
+            "screen_name": "clarartist_",
+            "location": "",
+            "description": "\u2729\u273c\u3000\uff61\uff9f\uff65\ud83c\udf52\u3000\uff9f\uff65\u3000\u2606\u3000\uff61\uff9f\uff65\n\ud83c\udf52Artist\n\ud83c\udf5213yo\n\ud83c\udf52K-fan",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7,
+            "friends_count": 60,
+            "listed_count": 0,
+            "created_at": "Sun Apr 26 05:19:09 +0000 2020",
+            "favourites_count": 16,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254439825060630538/mLxVQr43_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254439825060630538/mLxVQr43_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254278757478739968/1587916737",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 220,
+        "favorite_count": 927,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 220,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

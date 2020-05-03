@@ -1,0 +1,305 @@
+{
+    "created_at": "Sun May 03 00:30:17 +0000 2020",
+    "id": 1256742843609157634,
+    "id_str": "1256742843609157634",
+    "text": "RT @LouisTArgentina: \u00a1\u00a1Oficialmente terminaron los #WallsOlympics!!\ud83e\udd7a\ud83e\udde1\n\nA cruzar los dedos para ver si gan\u00f3 el #TeamAlwaysYou \ud83e\udd29\ud83e\udd1e\ud83c\udffb https://t.\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WallsOlympics",
+                "indices": [
+                    51,
+                    65
+                ]
+            },
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    110,
+                    124
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LouisTArgentina",
+                "name": "Louis Argentina\u00d7\u035c\u00d7",
+                "id": 116975953,
+                "id_str": "116975953",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 974763530795745281,
+        "id_str": "974763530795745281",
+        "name": "\ud835\udd8e\ud835\udd97\ud835\udd8e\ud835\udd93\ud835\udd86 is seeing Louis? \u25df\u033d\u25de\u033d",
+        "screen_name": "EnviaSUal9009",
+        "location": "las pesta\u00f1as de zayn ",
+        "description": "\u201clegends never die\u201d \u201cwe\u2019ll be always for you (1D)\u201d\ud83d\udc99\ud83d\udc9a 23-05-18 a dream came true\u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1370,
+        "friends_count": 1298,
+        "listed_count": 20,
+        "created_at": "Fri Mar 16 21:45:10 +0000 2018",
+        "favourites_count": 48307,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28476,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245885181745037313/2fBGrKBz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245885181745037313/2fBGrKBz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/974763530795745281/1588444188",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:04:40 +0000 2020",
+        "id": 1256736394468261888,
+        "id_str": "1256736394468261888",
+        "text": "\u00a1\u00a1Oficialmente terminaron los #WallsOlympics!!\ud83e\udd7a\ud83e\udde1\n\nA cruzar los dedos para ver si gan\u00f3 el #TeamAlwaysYou \ud83e\udd29\ud83e\udd1e\ud83c\udffb https://t.co/uVinPuc7pB",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WallsOlympics",
+                    "indices": [
+                        30,
+                        44
+                    ]
+                },
+                {
+                    "text": "TeamAlwaysYou",
+                    "indices": [
+                        89,
+                        103
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256736387283509251,
+                    "id_str": "1256736387283509251",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDTFfRXYAMsXHr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDTFfRXYAMsXHr.jpg",
+                    "url": "https://t.co/uVinPuc7pB",
+                    "display_url": "pic.twitter.com/uVinPuc7pB",
+                    "expanded_url": "https://twitter.com/LouisTArgentina/status/1256736394468261888/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 870,
+                            "h": 580,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 870,
+                            "h": 580,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256736387283509251,
+                    "id_str": "1256736387283509251",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDTFfRXYAMsXHr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDTFfRXYAMsXHr.jpg",
+                    "url": "https://t.co/uVinPuc7pB",
+                    "display_url": "pic.twitter.com/uVinPuc7pB",
+                    "expanded_url": "https://twitter.com/LouisTArgentina/status/1256736394468261888/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 870,
+                            "h": 580,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 870,
+                            "h": 580,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 116975953,
+            "id_str": "116975953",
+            "name": "Louis Argentina\u00d7\u035c\u00d7",
+            "screen_name": "LouisTArgentina",
+            "location": "louistomlinsonargfc@gmail.com",
+            "description": "Fan Club & Updates de @Louis_Tomlinson en Argentina \u2655 Activa notificaciones. #Walls Out Now: https://t.co/SqHTgqSs7l \u2022 Fan Account.",
+            "url": "https://t.co/7ukKw4QMMP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7ukKw4QMMP",
+                            "expanded_url": "https://www.instagram.com/louistomlinsonargentina/",
+                            "display_url": "instagram.com/louistomlinson\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SqHTgqSs7l",
+                            "expanded_url": "http://louis-tomlinson.co/Walls-Physical",
+                            "display_url": "louis-tomlinson.co/Walls-Physical",
+                            "indices": [
+                                93,
+                                116
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 15954,
+            "friends_count": 337,
+            "listed_count": 47,
+            "created_at": "Wed Feb 24 04:24:50 +0000 2010",
+            "favourites_count": 5588,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17886,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5ABB5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1242950455526854657/qRNtQrN5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242950455526854657/qRNtQrN5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/116975953/1585177457",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 40,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

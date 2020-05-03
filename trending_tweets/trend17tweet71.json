@@ -1,0 +1,582 @@
+{
+    "created_at": "Sun May 03 00:42:00 +0000 2020",
+    "id": 1256745789780627457,
+    "id_str": "1256745789780627457",
+    "text": "RT @sonUmut123: #ya\u011fmur https://t.co/jwQ7WEzKT8",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ya\u011fmur",
+                "indices": [
+                    16,
+                    23
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sonUmut123",
+                "name": "SonUmut",
+                "id": 953315522841587712,
+                "id_str": "953315522841587712",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256722830353367040,
+                "id_str": "1256722830353367040",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDGwXxWAAALyyH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDGwXxWAAALyyH.jpg",
+                "url": "https://t.co/jwQ7WEzKT8",
+                "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 832,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 588,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 832,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256722869784018944,
+                "source_status_id_str": "1256722869784018944",
+                "source_user_id": 953315522841587712,
+                "source_user_id_str": "953315522841587712"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256722830353367040,
+                "id_str": "1256722830353367040",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDGwXxWAAALyyH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDGwXxWAAALyyH.jpg",
+                "url": "https://t.co/jwQ7WEzKT8",
+                "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 832,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 588,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 832,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256722869784018944,
+                "source_status_id_str": "1256722869784018944",
+                "source_user_id": 953315522841587712,
+                "source_user_id_str": "953315522841587712"
+            },
+            {
+                "id": 1256722840566542336,
+                "id_str": "1256722840566542336",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDGw90WsAAmevY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDGw90WsAAmevY.jpg",
+                "url": "https://t.co/jwQ7WEzKT8",
+                "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 389,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 353,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 389,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256722869784018944,
+                "source_status_id_str": "1256722869784018944",
+                "source_user_id": 953315522841587712,
+                "source_user_id_str": "953315522841587712"
+            },
+            {
+                "id": 1256722848930058243,
+                "id_str": "1256722848930058243",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDGxc-X0AMAqc7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDGxc-X0AMAqc7.jpg",
+                "url": "https://t.co/jwQ7WEzKT8",
+                "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 879,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 898,
+                        "h": 1226,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256722869784018944,
+                "source_status_id_str": "1256722869784018944",
+                "source_user_id": 953315522841587712,
+                "source_user_id_str": "953315522841587712"
+            },
+            {
+                "id": 1256722860917379072,
+                "id_str": "1256722860917379072",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDGyJoX0AAEGKB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDGyJoX0AAEGKB.jpg",
+                "url": "https://t.co/jwQ7WEzKT8",
+                "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 584,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 331,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256722869784018944,
+                "source_status_id_str": "1256722869784018944",
+                "source_user_id": 953315522841587712,
+                "source_user_id_str": "953315522841587712"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1217903395408957441,
+        "id_str": "1217903395408957441",
+        "name": "Ek Dersli Hem\u015fire",
+        "screen_name": "EkHemsire",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 32,
+        "listed_count": 0,
+        "created_at": "Thu Jan 16 20:16:28 +0000 2020",
+        "favourites_count": 225,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 527,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217903630470340609/AXoWYzvQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217903630470340609/AXoWYzvQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:10:55 +0000 2020",
+        "id": 1256722869784018944,
+        "id_str": "1256722869784018944",
+        "text": "#ya\u011fmur https://t.co/jwQ7WEzKT8",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ya\u011fmur",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256722830353367040,
+                    "id_str": "1256722830353367040",
+                    "indices": [
+                        8,
+                        31
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDGwXxWAAALyyH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDGwXxWAAALyyH.jpg",
+                    "url": "https://t.co/jwQ7WEzKT8",
+                    "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                    "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 832,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 588,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 832,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256722830353367040,
+                    "id_str": "1256722830353367040",
+                    "indices": [
+                        8,
+                        31
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDGwXxWAAALyyH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDGwXxWAAALyyH.jpg",
+                    "url": "https://t.co/jwQ7WEzKT8",
+                    "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                    "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 832,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 588,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 832,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256722840566542336,
+                    "id_str": "1256722840566542336",
+                    "indices": [
+                        8,
+                        31
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDGw90WsAAmevY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDGw90WsAAmevY.jpg",
+                    "url": "https://t.co/jwQ7WEzKT8",
+                    "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                    "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 389,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 353,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 389,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256722848930058243,
+                    "id_str": "1256722848930058243",
+                    "indices": [
+                        8,
+                        31
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDGxc-X0AMAqc7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDGxc-X0AMAqc7.jpg",
+                    "url": "https://t.co/jwQ7WEzKT8",
+                    "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                    "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 879,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 898,
+                            "h": 1226,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 498,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256722860917379072,
+                    "id_str": "1256722860917379072",
+                    "indices": [
+                        8,
+                        31
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDGyJoX0AAEGKB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDGyJoX0AAEGKB.jpg",
+                    "url": "https://t.co/jwQ7WEzKT8",
+                    "display_url": "pic.twitter.com/jwQ7WEzKT8",
+                    "expanded_url": "https://twitter.com/sonUmut123/status/1256722869784018944/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 584,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 331,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 953315522841587712,
+            "id_str": "953315522841587712",
+            "name": "SonUmut",
+            "screen_name": "sonUmut123",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 101,
+            "friends_count": 278,
+            "listed_count": 0,
+            "created_at": "Tue Jan 16 17:18:27 +0000 2018",
+            "favourites_count": 270,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2731,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/953531123560321025/2ODiOh56_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/953531123560321025/2ODiOh56_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/953315522841587712/1516174509",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

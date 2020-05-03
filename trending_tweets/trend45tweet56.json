@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:41:19 +0000 2020",
+    "id": 1256745618137067520,
+    "id_str": "1256745618137067520",
+    "text": "RT @UstabasBerkay: \u201c\u00d6lmek i\u00e7in bu eylemi yapm\u0131yorum sadece t\u00fcrk\u00fc s\u00f6ylemek istiyorum\" diyen \u0130brahim G\u00f6k\u00e7ek konser yasaklar\u0131n\u0131n kald\u0131r\u0131lmas\u0131\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "UstabasBerkay",
+                "name": "Berkay Ustaba\u015f",
+                "id": 3185059348,
+                "id_str": "3185059348",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 398627385,
+        "id_str": "398627385",
+        "name": "AYKIRI SANAT",
+        "screen_name": "aykirisanat",
+        "location": "\u0130stanbul",
+        "description": "Sanat i\u00e7inde gelece\u011fi bar\u0131nd\u0131ran bir silaht\u0131r. Noviembre",
+        "url": "https://t.co/SuNFLRBphi",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/SuNFLRBphi",
+                        "expanded_url": "https://www.facebook.com/AYKIRISANAT",
+                        "display_url": "facebook.com/AYKIRISANAT",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2837,
+        "friends_count": 791,
+        "listed_count": 8,
+        "created_at": "Wed Oct 26 10:02:53 +0000 2011",
+        "favourites_count": 4587,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19781,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228439454886617088/36ubu4Xc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228439454886617088/36ubu4Xc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/398627385/1581717971",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:26:44 +0000 2020",
+        "id": 1256636251635146754,
+        "id_str": "1256636251635146754",
+        "text": "\u201c\u00d6lmek i\u00e7in bu eylemi yapm\u0131yorum sadece t\u00fcrk\u00fc s\u00f6ylemek istiyorum\" diyen \u0130brahim G\u00f6k\u00e7ek konser yasaklar\u0131n\u0131n kald\u0131r\u0131l\u2026 https://t.co/XoGMg8F8dN",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XoGMg8F8dN",
+                    "expanded_url": "https://twitter.com/i/web/status/1256636251635146754",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3185059348,
+            "id_str": "3185059348",
+            "name": "Berkay Ustaba\u015f",
+            "screen_name": "UstabasBerkay",
+            "location": "T\u00fcrkiye",
+            "description": "\u0130stanbul \u00dcniversitesi - Sosyoloji | \u201cSegui il tuo corso, e lascia dir le genti.\u201d",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3070,
+            "friends_count": 653,
+            "listed_count": 1,
+            "created_at": "Sun Apr 19 23:18:07 +0000 2015",
+            "favourites_count": 1269,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 908,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256636540194902016/4GmCw6B5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256636540194902016/4GmCw6B5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3185059348/1435269958",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 184,
+        "favorite_count": 315,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 184,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

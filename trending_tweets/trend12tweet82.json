@@ -1,0 +1,205 @@
+{
+    "created_at": "Sun May 03 00:40:36 +0000 2020",
+    "id": 1256745436938829824,
+    "id_str": "1256745436938829824",
+    "text": "RT @for_racing_only: \u5165\u5c71\u7981\u6b62\u306e\u6803\u6728\u306e\u5c71\u3067\u906d\u96e3\u3000\u5ddd\u5d0e\u306e25\u6b73\u3001\u30d8\u30ea\u3067\u6551\u51fa\uff1a\u671d\u65e5\u65b0\u805e\u30c7\u30b8\u30bf\u30eb https://t.co/kQjV6Onto4",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "for_racing_only",
+                "name": "( \u00b4(oo)`)\u304f\u30fc\u3055\u3093",
+                "id": 252671988,
+                "id_str": "252671988",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/kQjV6Onto4",
+                "expanded_url": "https://www.asahi.com/articles/ASN5323PNN52UUHB00K.html",
+                "display_url": "asahi.com/articles/ASN53\u2026",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1139075107349884928,
+        "id_str": "1139075107349884928",
+        "name": "\u30de\u30c0\u30aa",
+        "screen_name": "OcKIiDWYYOqcEZg",
+        "location": "\u65e5\u672c \u5f18\u524d\u5e02",
+        "description": "\u6c38\u9060\u306e\u590f\u4f11\u307f\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 550,
+        "friends_count": 2390,
+        "listed_count": 11,
+        "created_at": "Thu Jun 13 07:40:43 +0000 2019",
+        "favourites_count": 18440,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 55397,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139078719958446080/HoS3IHD3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139078719958446080/HoS3IHD3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1139075107349884928/1560412629",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:57:47 +0000 2020",
+        "id": 1256719562243837952,
+        "id_str": "1256719562243837952",
+        "text": "\u5165\u5c71\u7981\u6b62\u306e\u6803\u6728\u306e\u5c71\u3067\u906d\u96e3\u3000\u5ddd\u5d0e\u306e25\u6b73\u3001\u30d8\u30ea\u3067\u6551\u51fa\uff1a\u671d\u65e5\u65b0\u805e\u30c7\u30b8\u30bf\u30eb https://t.co/kQjV6Onto4",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/kQjV6Onto4",
+                    "expanded_url": "https://www.asahi.com/articles/ASN5323PNN52UUHB00K.html",
+                    "display_url": "asahi.com/articles/ASN53\u2026",
+                    "indices": [
+                        35,
+                        58
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 252671988,
+            "id_str": "252671988",
+            "name": "( \u00b4(oo)`)\u304f\u30fc\u3055\u3093",
+            "screen_name": "for_racing_only",
+            "location": "\u8c5a\u820e",
+            "description": "\u8102\u80aa\u306e\u93a7\u3092\u7740\u305f\u8c5a\u91ce\u90ce\uff0f\u4eca\u3058\u3083\u98db\u3079\u306a\u3044\u305f\u3060\u306e\u8c5a\uff0f\u5fae\u7b11\u307f\u30c7\u30d6\uff0f\u4e0b\u30cd\u30bf\u591a\u6570\u30af\u30bd\u30ea\u30d7\u6ce8\u610f\u30df\u30e5\u30fc\u30c8\u63a8\u5968\uff0fMTB\uff0fBMX\uff0f\u65c5\u81ea\u8ee2\u8eca\uff0f\u8eca\u4e2d\u6cca\uff0f\u30ad\u30e3\u30f3\u30d7\uff0fMX\uff0f\u30e9\u30a4\u30aa\u30f3\u30ba\uff0f\u30c9\u30a2\u30e9\uff0f\u30ec\u30c3\u30ba\uff0f\u30a2\u30a4\u30b3\u30f3\u306f\u30a6\u30a7\u30a2\u3067\u304a\u4e16\u8a71\u306b\u306a\u3063\u3066\u308b #goride \u3010 https://t.co/cWHY5nymNH \u3011\u306e\u5c71\u3055\u3093\u8b39\u88fd\ud83d\udc37",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cWHY5nymNH",
+                            "expanded_url": "https://www.ttrinity.jp/shop/goride/",
+                            "display_url": "ttrinity.jp/shop/goride/",
+                            "indices": [
+                                114,
+                                137
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 436,
+            "friends_count": 798,
+            "listed_count": 16,
+            "created_at": "Tue Feb 15 17:33:19 +0000 2011",
+            "favourites_count": 368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 220850,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1156327253262790656/uXS28JCY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156327253262790656/uXS28JCY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/252671988/1586313859",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

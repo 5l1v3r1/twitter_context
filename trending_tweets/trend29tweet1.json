@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:43:03 +0000 2020",
+    "id": 1256746056768983044,
+    "id_str": "1256746056768983044",
+    "text": "Eu vejo um novo come\u00e7o de era\nDe gente fina, elegante e sincera \n#LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    65,
+                    74
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2888978058,
+        "id_str": "2888978058",
+        "name": "Daniele \u2764",
+        "screen_name": "sccpdani_",
+        "location": "S\u00e3o Paulo, SP",
+        "description": "O tempo \u00e9 rei, a vida \u00e9 uma li\u00e7\u00e3o.",
+        "url": "https://t.co/YBEA4KYAiG",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/YBEA4KYAiG",
+                        "expanded_url": "http://www.instagram.com/danii_sccp",
+                        "display_url": "instagram.com/danii_sccp",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 648,
+        "friends_count": 346,
+        "listed_count": 4,
+        "created_at": "Mon Nov 03 22:23:00 +0000 2014",
+        "favourites_count": 2186,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19367,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256371790982664192/6RhvRzAf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256371790982664192/6RhvRzAf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2888978058/1532724127",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

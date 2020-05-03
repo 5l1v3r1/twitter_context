@@ -1,0 +1,194 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745920357715969,
+    "id_str": "1256745920357715969",
+    "text": "RT @eltanomdp86: Que tan hdp tenes que ser para que en medio de una pandemia metas p\u00e1nico en la poblaci\u00f3n con noticias falsas #TodosContraL\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "eltanomdp86",
+                "name": "Diego Ciafardini",
+                "id": 1127110904024305664,
+                "id_str": "1127110904024305664",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 797996891988492288,
+        "id_str": "797996891988492288",
+        "name": "Fay",
+        "screen_name": "Faygremot",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 315,
+        "friends_count": 302,
+        "listed_count": 0,
+        "created_at": "Mon Nov 14 02:57:39 +0000 2016",
+        "favourites_count": 78287,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34663,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/800511401802481664/6J0HY99x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/800511401802481664/6J0HY99x_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/797996891988492288/1479691653",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:46:03 +0000 2020",
+        "id": 1256731711855046666,
+        "id_str": "1256731711855046666",
+        "text": "Que tan hdp tenes que ser para que en medio de una pandemia metas p\u00e1nico en la poblaci\u00f3n con noticias falsas #TodosContraLaMentiraM",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        109,
+                        131
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1127110904024305664,
+            "id_str": "1127110904024305664",
+            "name": "Diego Ciafardini",
+            "screen_name": "eltanomdp86",
+            "location": "Mar del Plata, Argentina",
+            "description": "Ricotero y Kirchnerista",
+            "url": "https://t.co/lUWqQ4Uee8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lUWqQ4Uee8",
+                            "expanded_url": "https://www.spnnoticias.com/",
+                            "display_url": "spnnoticias.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20969,
+            "friends_count": 13917,
+            "listed_count": 19,
+            "created_at": "Sat May 11 07:19:15 +0000 2019",
+            "favourites_count": 1427,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11288,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1132396458248933377/CZc1xNcV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132396458248933377/CZc1xNcV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127110904024305664/1557559485",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 94,
+        "favorite_count": 100,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 94,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

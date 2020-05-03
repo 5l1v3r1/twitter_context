@@ -1,0 +1,194 @@
+{
+    "created_at": "Sun May 03 00:43:06 +0000 2020",
+    "id": 1256746066831192068,
+    "id_str": "1256746066831192068",
+    "text": "RT @minsugacheonye: A\u00fan no sale en la transmisi\u00f3n pero BTS gan\u00f3 el premio a mejor grupo \n\nLPM ESTOY TAN ORGULLOSA DE ELLOS QODNDIND\n\n #KCA2\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "minsugacheonye",
+                "name": "Minchu\u2077",
+                "id": 957447403170422784,
+                "id_str": "957447403170422784",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1028030551373086721,
+        "id_str": "1028030551373086721",
+        "name": "\ub9ac\uc988\ud83d\udc96jin& jungkook\ud83d\udc96",
+        "screen_name": "LizbethGaray11",
+        "location": "Peru",
+        "description": "LOVE YOURSELF\ud83d\udc9c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 662,
+        "friends_count": 1000,
+        "listed_count": 0,
+        "created_at": "Fri Aug 10 21:29:18 +0000 2018",
+        "favourites_count": 17034,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16540,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250834793803272197/z0L6o6vZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250834793803272197/z0L6o6vZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028030551373086721/1533939794",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:22:23 +0000 2020",
+        "id": 1256740854099820547,
+        "id_str": "1256740854099820547",
+        "text": "A\u00fan no sale en la transmisi\u00f3n pero BTS gan\u00f3 el premio a mejor grupo \n\nLPM ESTOY TAN ORGULLOSA DE ELLOS QODNDIND\u2026 https://t.co/KagUVfWBWY",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KagUVfWBWY",
+                    "expanded_url": "https://twitter.com/i/web/status/1256740854099820547",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 957447403170422784,
+            "id_str": "957447403170422784",
+            "name": "Minchu\u2077",
+            "screen_name": "minsugacheonye",
+            "location": "So Far Away de Min Yoongi",
+            "description": "\u00b0\u2022 Min Yoongi es mi sol porque esta a miles de kilometros de mi \u2022\u00b0 Fan account \u2661 MI P\u00c1GINA WEB \u2661 : https://t.co/YbdRgrTM7I",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/YbdRgrTM7I",
+                            "expanded_url": "https://sites.google.com/view/minsugacheonye/page",
+                            "display_url": "sites.google.com/view/minsugach\u2026",
+                            "indices": [
+                                99,
+                                122
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 148459,
+            "friends_count": 140,
+            "listed_count": 244,
+            "created_at": "Sun Jan 28 02:57:04 +0000 2018",
+            "favourites_count": 17335,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14549,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1233167153412571136/cAeF3tn__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233167153412571136/cAeF3tn__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/957447403170422784/1582831914",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 822,
+        "favorite_count": 2714,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 822,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

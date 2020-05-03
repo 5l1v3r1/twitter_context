@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:43:00 +0000 2020",
+    "id": 1256746041455583234,
+    "id_str": "1256746041455583234",
+    "text": "@DaltonKaweesa @nbstv Tukigadde \n#NBSSNL  always https://t.co/aWIgCKVZph",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    33,
+                    40
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DaltonKaweesa",
+                "name": "Dalton Kaweesa",
+                "id": 300697863,
+                "id_str": "300697863",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "nbstv",
+                "name": "NBS Television",
+                "id": 344718893,
+                "id_str": "344718893",
+                "indices": [
+                    15,
+                    21
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256746033360576512,
+                "id_str": "1256746033360576512",
+                "indices": [
+                    49,
+                    72
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDb29tWoAA78rS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDb29tWoAA78rS.jpg",
+                "url": "https://t.co/aWIgCKVZph",
+                "display_url": "pic.twitter.com/aWIgCKVZph",
+                "expanded_url": "https://twitter.com/BrightAtuhaire1/status/1256746041455583234/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1047,
+                        "h": 983,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1047,
+                        "h": 983,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 638,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256746033360576512,
+                "id_str": "1256746033360576512",
+                "indices": [
+                    49,
+                    72
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDb29tWoAA78rS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDb29tWoAA78rS.jpg",
+                "url": "https://t.co/aWIgCKVZph",
+                "display_url": "pic.twitter.com/aWIgCKVZph",
+                "expanded_url": "https://twitter.com/BrightAtuhaire1/status/1256746041455583234/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1047,
+                        "h": 983,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1047,
+                        "h": 983,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 638,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "et",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256745854599340038,
+    "in_reply_to_status_id_str": "1256745854599340038",
+    "in_reply_to_user_id": 300697863,
+    "in_reply_to_user_id_str": "300697863",
+    "in_reply_to_screen_name": "DaltonKaweesa",
+    "user": {
+        "id": 725796818458697728,
+        "id_str": "725796818458697728",
+        "name": "Brill",
+        "screen_name": "BrightAtuhaire1",
+        "location": "Kampala",
+        "description": "Believer,  Dream chaser,  Arsenal \ud83d\udc99",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 174,
+        "friends_count": 477,
+        "listed_count": 0,
+        "created_at": "Thu Apr 28 21:20:20 +0000 2016",
+        "favourites_count": 9262,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3348,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250202803752108033/DkZx7NN9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250202803752108033/DkZx7NN9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/725796818458697728/1535922571",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "et"
+}

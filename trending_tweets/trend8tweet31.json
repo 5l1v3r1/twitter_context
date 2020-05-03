@@ -1,0 +1,228 @@
+{
+    "created_at": "Sun May 03 00:42:40 +0000 2020",
+    "id": 1256745957158457344,
+    "id_str": "1256745957158457344",
+    "text": "RT @BangBangtan_Esp: INFO\ud83d\udccd@BTS_twt\n\nUna representaci\u00f3n visual del mundo gritando JEON JUNGKOOK al mismo tiempo \ud83d\udc4f\ud83e\udd70\ud83c\udf0e\n\n~ \u00a1Literal fui yo grita\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BangBangtan_Esp",
+                "name": "BANG BANGTAN\ud83c\udf46",
+                "id": 3465993792,
+                "id_str": "3465993792",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    26,
+                    34
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 959136078081835008,
+        "id_str": "959136078081835008",
+        "name": "Milly Espinosa 7\ufe0f\u20e3\ud83c\uddf2\ud83c\uddfd\u1d31\u02e1 \u1d39\u1d43\u02b3\u1da6\u1d43\u1d9c\u02b0\u1da6",
+        "screen_name": "MillyEspinosaR2",
+        "location": "",
+        "description": "Love Yourself  Love My Self\nI Purple You - Kim Taehyung",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1684,
+        "friends_count": 1566,
+        "listed_count": 1,
+        "created_at": "Thu Feb 01 18:47:15 +0000 2018",
+        "favourites_count": 65305,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 100817,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1104098426676015104/5fEzqTeZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104098426676015104/5fEzqTeZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/959136078081835008/1554224089",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:16:36 +0000 2020",
+        "id": 1256678999809499141,
+        "id_str": "1256678999809499141",
+        "text": "INFO\ud83d\udccd@BTS_twt\n\nUna representaci\u00f3n visual del mundo gritando JEON JUNGKOOK al mismo tiempo \ud83d\udc4f\ud83e\udd70\ud83c\udf0e\n\n~ \u00a1Literal fui yo gr\u2026 https://t.co/xAOxJpFPNe",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BTS_twt",
+                    "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                    "id": 335141638,
+                    "id_str": "335141638",
+                    "indices": [
+                        5,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/xAOxJpFPNe",
+                    "expanded_url": "https://twitter.com/i/web/status/1256678999809499141",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3465993792,
+            "id_str": "3465993792",
+            "name": "BANG BANGTAN\ud83c\udf46",
+            "screen_name": "BangBangtan_Esp",
+            "location": "Latinoam\u00e9rica, Espa\u00f1a",
+            "description": "Equipo traducci\u00f3n para Am\u00e9rica Latina y Espa\u00f1a del grupo BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) Translation team for BTS\u2728\ud83d\udd08LISTA https://t.co/lejbyUnSAH\n\n@BB_Votaciones | @Bangtanverse__",
+            "url": "https://t.co/OVZpPnwKeO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/OVZpPnwKeO",
+                            "expanded_url": "http://youtube.com/c/BangBangtanOficialTemporal",
+                            "display_url": "youtube.com/c/BangBangtanO\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lejbyUnSAH",
+                            "expanded_url": "https://bit.ly/2WDcPFq",
+                            "display_url": "bit.ly/2WDcPFq",
+                            "indices": [
+                                101,
+                                124
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 247883,
+            "friends_count": 40,
+            "listed_count": 473,
+            "created_at": "Sun Sep 06 03:03:15 +0000 2015",
+            "favourites_count": 19171,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40766,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1214770971132997632/KS7l9McA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214770971132997632/KS7l9McA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3465993792/1578458933",
+            "profile_link_color": "EEACC0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 760,
+        "favorite_count": 2264,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 760,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

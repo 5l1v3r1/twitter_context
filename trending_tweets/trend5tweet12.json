@@ -1,0 +1,221 @@
+{
+    "created_at": "Sun May 03 00:42:38 +0000 2020",
+    "id": 1256745950028206085,
+    "id_str": "1256745950028206085",
+    "text": "RT @clevelanddotcom: \"Murder Hornets\"? 2020 is something else... (via New York Times) https://t.co/Qq3Kqz2L8C",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "clevelanddotcom",
+                "name": "clevelanddotcom",
+                "id": 14267944,
+                "id_str": "14267944",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Qq3Kqz2L8C",
+                "expanded_url": "https://trib.al/CC3CGZ3",
+                "display_url": "trib.al/CC3CGZ3",
+                "indices": [
+                    86,
+                    109
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 22249299,
+        "id_str": "22249299",
+        "name": "Coach Winston Grays",
+        "screen_name": "GraysHoops",
+        "location": "Cleveland, OH",
+        "description": "Winston is the director of the OBC ShowStoppers. He has been coaching AAU for 17 years and is currently a varsity assistant coach at Benedictine High School.",
+        "url": "https://t.co/tyNcFSRt84",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/tyNcFSRt84",
+                        "expanded_url": "http://ohioshowstoppers.org/june-2018-skills-camp-registration/",
+                        "display_url": "ohioshowstoppers.org/june-2018-skil\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 356,
+        "friends_count": 539,
+        "listed_count": 5,
+        "created_at": "Sat Feb 28 11:54:19 +0000 2009",
+        "favourites_count": 2824,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4413,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978805453781196801/yEqLqfGL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978805453781196801/yEqLqfGL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22249299/1522200328",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:03:07 +0000 2020",
+        "id": 1256705808328515586,
+        "id_str": "1256705808328515586",
+        "text": "\"Murder Hornets\"? 2020 is something else... (via New York Times) https://t.co/Qq3Kqz2L8C",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Qq3Kqz2L8C",
+                    "expanded_url": "https://trib.al/CC3CGZ3",
+                    "display_url": "trib.al/CC3CGZ3",
+                    "indices": [
+                        65,
+                        88
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14267944,
+            "id_str": "14267944",
+            "name": "clevelanddotcom",
+            "screen_name": "clevelanddotcom",
+            "location": "Cleveland, Ohio",
+            "description": "Breaking news, sports and entertainment from across Northeast Ohio.",
+            "url": "https://t.co/TFle8GJl3Y",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TFle8GJl3Y",
+                            "expanded_url": "http://www.cleveland.com/",
+                            "display_url": "cleveland.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 133119,
+            "friends_count": 5611,
+            "listed_count": 2051,
+            "created_at": "Mon Mar 31 17:43:52 +0000 2008",
+            "favourites_count": 6210,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 230668,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/756512334026203136/mPrYbFiE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/756512334026203136/mPrYbFiE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14267944/1584668753",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

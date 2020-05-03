@@ -1,0 +1,391 @@
+{
+    "created_at": "Sun May 03 00:41:54 +0000 2020",
+    "id": 1256745767391440897,
+    "id_str": "1256745767391440897",
+    "text": "RT @efkanbolac: Adalet i\u00e7in, ibrahim i\u00e7in \n\n#SesiDuy\u0130brahimYA\u015eASIN https://t.co/TiCpQAp3J4",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                "indices": [
+                    44,
+                    66
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "efkanbolac",
+                "name": "Efkan Bola\u00e7",
+                "id": 217874781,
+                "id_str": "217874781",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256653556788183043,
+                "id_str": "1256653556788183043",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCHwHoXQAMgP06.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCHwHoXQAMgP06.jpg",
+                "url": "https://t.co/TiCpQAp3J4",
+                "display_url": "pic.twitter.com/TiCpQAp3J4",
+                "expanded_url": "https://twitter.com/efkanbolac/status/1256653565940162563/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 637,
+                        "h": 481,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 637,
+                        "h": 481,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 637,
+                        "h": 481,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256653565940162563,
+                "source_status_id_str": "1256653565940162563",
+                "source_user_id": 217874781,
+                "source_user_id_str": "217874781"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256653556788183043,
+                "id_str": "1256653556788183043",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCHwHoXQAMgP06.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCHwHoXQAMgP06.jpg",
+                "url": "https://t.co/TiCpQAp3J4",
+                "display_url": "pic.twitter.com/TiCpQAp3J4",
+                "expanded_url": "https://twitter.com/efkanbolac/status/1256653565940162563/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 637,
+                        "h": 481,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 637,
+                        "h": 481,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 637,
+                        "h": 481,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256653565940162563,
+                "source_status_id_str": "1256653565940162563",
+                "source_user_id": 217874781,
+                "source_user_id_str": "217874781"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 398627385,
+        "id_str": "398627385",
+        "name": "AYKIRI SANAT",
+        "screen_name": "aykirisanat",
+        "location": "\u0130stanbul",
+        "description": "Sanat i\u00e7inde gelece\u011fi bar\u0131nd\u0131ran bir silaht\u0131r. Noviembre",
+        "url": "https://t.co/SuNFLRBphi",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/SuNFLRBphi",
+                        "expanded_url": "https://www.facebook.com/AYKIRISANAT",
+                        "display_url": "facebook.com/AYKIRISANAT",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2837,
+        "friends_count": 791,
+        "listed_count": 8,
+        "created_at": "Wed Oct 26 10:02:53 +0000 2011",
+        "favourites_count": 4587,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19781,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228439454886617088/36ubu4Xc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228439454886617088/36ubu4Xc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/398627385/1581717971",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:35:32 +0000 2020",
+        "id": 1256653565940162563,
+        "id_str": "1256653565940162563",
+        "text": "Adalet i\u00e7in, ibrahim i\u00e7in \n\n#SesiDuy\u0130brahimYA\u015eASIN https://t.co/TiCpQAp3J4",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                    "indices": [
+                        28,
+                        50
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256653556788183043,
+                    "id_str": "1256653556788183043",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCHwHoXQAMgP06.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCHwHoXQAMgP06.jpg",
+                    "url": "https://t.co/TiCpQAp3J4",
+                    "display_url": "pic.twitter.com/TiCpQAp3J4",
+                    "expanded_url": "https://twitter.com/efkanbolac/status/1256653565940162563/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 637,
+                            "h": 481,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 637,
+                            "h": 481,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 637,
+                            "h": 481,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256653556788183043,
+                    "id_str": "1256653556788183043",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCHwHoXQAMgP06.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCHwHoXQAMgP06.jpg",
+                    "url": "https://t.co/TiCpQAp3J4",
+                    "display_url": "pic.twitter.com/TiCpQAp3J4",
+                    "expanded_url": "https://twitter.com/efkanbolac/status/1256653565940162563/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 637,
+                            "h": 481,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 637,
+                            "h": 481,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 637,
+                            "h": 481,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 217874781,
+            "id_str": "217874781",
+            "name": "Efkan Bola\u00e7",
+            "screen_name": "efkanbolac",
+            "location": "istanbul",
+            "description": "Avukat . \u015eeref ve do\u011fruluk adaletin temelidir. Justitia fundementum est fides 25-26. D\u00f6nem CHP \u0130stanbul 3. B\u00f6lge Mv aday\u0131 . https://t.co/R2A7D7RqR2",
+            "url": "https://t.co/8tMjYNqwdE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8tMjYNqwdE",
+                            "expanded_url": "http://www.efkanbolac.com",
+                            "display_url": "efkanbolac.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/R2A7D7RqR2",
+                            "expanded_url": "https://Instagram.com/efkanbolac/",
+                            "display_url": "Instagram.com/efkanbolac/",
+                            "indices": [
+                                124,
+                                147
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 116141,
+            "friends_count": 3252,
+            "listed_count": 322,
+            "created_at": "Sat Nov 20 19:48:39 +0000 2010",
+            "favourites_count": 2285,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 54082,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1130038609099280385/GaCjf0XB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130038609099280385/GaCjf0XB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/217874781/1517865156",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 624,
+        "favorite_count": 1860,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 624,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

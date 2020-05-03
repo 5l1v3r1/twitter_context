@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:40:55 +0000 2020",
+    "id": 1256745518929022976,
+    "id_str": "1256745518929022976",
+    "text": "\u30b5\u30f3\u30e2\u30cb\u5927\u597d\u304d\u30ca\u30c1\u30b9\u306e\u4e88\u611f\u3002#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    14,
+                    24
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 89888740,
+        "id_str": "89888740",
+        "name": "awagogo",
+        "screen_name": "awagogo",
+        "location": "kanagawa",
+        "description": "\u8da3\u5473\uff1a\u6c34\u6cf3\u3001\u30a8\u30bb\u30de\u30e9\u30bd\u30f3\u3001\u697d\u5668\u6f14\u594f\u3002\u30ae\u30bf\u30fc\u3001\u30de\u30f3\u30c9\u30ea\u30f3\u3001\u30d5\u30a3\u30c9\u30eb\u3001\u4e09\u5473\u7dda\u3001\u30df\u30f3\u30df\u30f3\u305d\u306e\u4ed6\u3002\u5f26\u697d\u5668\u306f\u30dc\u30c8\u30eb\u30cd\u30c3\u30af\u3068\u304b\u30d5\u30ec\u30c3\u30c8\u30ec\u30b9\u304c\u597d\u307f\u3002\u30d1\u30fc\u30ab\u30c3\u30b7\u30e7\u30f3\u3001\u7de0\u592a\u9f13\u3082\u597d\u7269\u3002\u6620\u753b\u30fb\u6f14\u5287\u30fb\u30b7\u30ca\u30ea\u30aa\u30fb\u622f\u66f2\u3002\u963f\u6ce2\u8e0a\u308a\u3002\u5ec3\u589f\u3001\u53e4\u6c11\u5bb6\u3001\u5927\u597d\u304d\u3002\u97f3\u697d\u306f\u30eb\u30fc\u30c4\u7cfb\u3001\u30ef\u30fc\u30eb\u30c9\u7cfb\u3001\u90a6\u6d0b\u554f\u308f\u305a\u597d\u304d\u3002\u53e4\u6b66\u9053\u3084\u308a\u305f\u3044\u3067\u3059\u3002\u3068\u308a\u3042\u3048\u305a\u5c45\u5408\u3044\u3084\u308a\u305f\u3044\u3067\u3059\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1344,
+        "friends_count": 2511,
+        "listed_count": 26,
+        "created_at": "Sat Nov 14 06:50:25 +0000 2009",
+        "favourites_count": 22236,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 42039,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239197922/IMG_2184_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239197922/IMG_2184_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89888740/1392533130",
+        "profile_link_color": "3918BD",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "010B0F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

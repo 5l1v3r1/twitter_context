@@ -1,0 +1,130 @@
+{
+    "created_at": "Sun May 03 00:33:21 +0000 2020",
+    "id": 1256743614073323520,
+    "id_str": "1256743614073323520",
+    "text": "\u304b\u308f\u3044\u9053\u751f\u306e\u6b63\u4f53\u306f\u30a8\u30eb\u30d5\uff01\uff01\uff01\u30a8\u30eb\u30d5\u3067\u3059\uff01\uff01\uff01\uff01\uff01\n#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c #shindanmaker\nhttps://t.co/yOEf5XsFdj\n\n\u5996\u7cbe\uff1f",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    26,
+                    39
+                ]
+            },
+            {
+                "text": "shindanmaker",
+                "indices": [
+                    40,
+                    53
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/yOEf5XsFdj",
+                "expanded_url": "https://shindanmaker.com/984766",
+                "display_url": "shindanmaker.com/984766",
+                "indices": [
+                    54,
+                    77
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 273980421,
+        "id_str": "273980421",
+        "name": "\u304b\u308f\u3044\u9053\u751f@\u6b21\u306f8\u6708\u5927\u962a\uff7d\uff8a\uff9f\uff7a\uff90\u5185FF7only",
+        "screen_name": "michio_kawai",
+        "location": "",
+        "description": "\u6d6e\u4e0a\u3068\u6c88\u9ed9\u3092\u7e70\u308a\u8fd4\u3059\u540c\u4eba\u5c4b\u3002 \uff7b\uff70\uff78\uff99\u300e\u3053\u3053\u308d\u65e5\u548c\u300f\u4ee3\u8868\u3002FF7\uff65\uff7d\uff79\uff8a\uff9e\uff9d\u5211\u4e8b(\u6545\uff65\u548c\u7530\u614e\u4e8c\u5148\u751f\u306e\u6f2b\u753b)\u304c\uff92\uff72\uff9d\u8a71\u984c \uff8c\uff6b\uff9b\uff70\u5e0c\u671b\u306e\u65b9\u306f\u3001\u5fc5\u305a\u3010 https://t.co/CpTrOIpacV \u3011\u3092\u5fa1\u4e00\u8aad\u3092\u3002 \u627f\u8a8d\u5236\u306e\uff74\uff9b\u8a71\u984c\u5c02\u7528\u57a2\uff200918michio\u3001\u30de\u30b9\u30c8\u30c9\u30f3pawoo\u59cb\u3081\u307e\u3057\u305f\u3001\u2193\u72ec\u8eab\u8853\u4f7f\u3044\u306e\u5f92\u7136\u65e5\u8a18",
+        "url": "https://t.co/gvMbsHvva5",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gvMbsHvva5",
+                        "expanded_url": "https://love-letter.club/to/michio_kawai/",
+                        "display_url": "love-letter.club/to/michio_kawa\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/CpTrOIpacV",
+                        "expanded_url": "http://twpf.jp/michio_kawai",
+                        "display_url": "twpf.jp/michio_kawai",
+                        "indices": [
+                            74,
+                            97
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 324,
+        "friends_count": 652,
+        "listed_count": 6,
+        "created_at": "Tue Mar 29 14:05:19 +0000 2011",
+        "favourites_count": 76580,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 79616,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/961942291098214406/qyTofAgw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/961942291098214406/qyTofAgw_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273980421/1517149503",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

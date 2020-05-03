@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun May 03 00:42:58 +0000 2020",
+    "id": 1256746032928641025,
+    "id_str": "1256746032928641025",
+    "text": "RT @theamandaleal: VAMOS NOS PERMITIR\n\n#LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    39,
+                    48
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "theamandaleal",
+                "name": "Mandy",
+                "id": 1123640256,
+                "id_str": "1123640256",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 62066730,
+        "id_str": "62066730",
+        "name": "Igor Fernandes",
+        "screen_name": "Igorferss",
+        "location": "",
+        "description": "Administrador \ud83d\udcca\ud83d\udcc8, apaixonado pelo GALO e F1 Caratinga-MG",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1577,
+        "friends_count": 432,
+        "listed_count": 4,
+        "created_at": "Sat Aug 01 16:32:54 +0000 2009",
+        "favourites_count": 457,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 32049,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "140D0D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1223935923513167874/HifSKH7Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223935923513167874/HifSKH7Q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62066730/1583631724",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F4F7F6",
+        "profile_text_color": "140806",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:39 +0000 2020",
+        "id": 1256745451094790144,
+        "id_str": "1256745451094790144",
+        "text": "VAMOS NOS PERMITIR\n\n#LiveLulu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveLulu",
+                    "indices": [
+                        20,
+                        29
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1123640256,
+            "id_str": "1123640256",
+            "name": "Mandy",
+            "screen_name": "theamandaleal",
+            "location": "",
+            "description": "Apaixonada pela arte da atua\u00e7\u00e3o \ud83c\udfad e pelo New England Patriots \ud83c\udfc8. | \ud83c\udf93 Produ\u00e7\u00e3o C\u00eanica.",
+            "url": "https://t.co/DuRUzOaF9P",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DuRUzOaF9P",
+                            "expanded_url": "http://instagram.com/theamandaleal",
+                            "display_url": "instagram.com/theamandaleal",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 310,
+            "friends_count": 253,
+            "listed_count": 4,
+            "created_at": "Sun Jan 27 01:27:29 +0000 2013",
+            "favourites_count": 3741,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11210,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "AB55E0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256341438692036610/xtkLYWgq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256341438692036610/xtkLYWgq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123640256/1527873294",
+            "profile_link_color": "730DA6",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

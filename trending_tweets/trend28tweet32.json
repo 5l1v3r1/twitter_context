@@ -1,0 +1,153 @@
+{
+    "created_at": "Sun May 03 00:42:44 +0000 2020",
+    "id": 1256745975370170374,
+    "id_str": "1256745975370170374",
+    "text": "@reflectskarla @OnAirRomeo @MostRequestLive hi dear @OnAirRomeo! Could you please play #MyOhMy by Camila Cabello ft\u2026 https://t.co/zLDV4nDj5G",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MyOhMy",
+                "indices": [
+                    87,
+                    94
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "reflectskarla",
+                "name": "mar",
+                "id": 788415937821155328,
+                "id_str": "788415937821155328",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "OnAirRomeo",
+                "name": "On Air Romeo",
+                "id": 21590830,
+                "id_str": "21590830",
+                "indices": [
+                    15,
+                    26
+                ]
+            },
+            {
+                "screen_name": "MostRequestLive",
+                "name": "Most Requested Live",
+                "id": 108775893,
+                "id_str": "108775893",
+                "indices": [
+                    27,
+                    43
+                ]
+            },
+            {
+                "screen_name": "OnAirRomeo",
+                "name": "On Air Romeo",
+                "id": 21590830,
+                "id_str": "21590830",
+                "indices": [
+                    52,
+                    63
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/zLDV4nDj5G",
+                "expanded_url": "https://twitter.com/i/web/status/1256745975370170374",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256741977250504705,
+    "in_reply_to_status_id_str": "1256741977250504705",
+    "in_reply_to_user_id": 788415937821155328,
+    "in_reply_to_user_id_str": "788415937821155328",
+    "in_reply_to_screen_name": "reflectskarla",
+    "user": {
+        "id": 818451624792391682,
+        "id_str": "818451624792391682",
+        "name": "\ud835\udc2f\ud835\udc1a\ud835\udc25 \u272e",
+        "screen_name": "livingfcamila",
+        "location": "",
+        "description": "#\ud835\udc02\ud835\udc00\ud835\udc0c\ud835\udc08\ud835\udc0b\ud835\udc00 all i do since i met you is dream of you",
+        "url": "https://t.co/QYkJWZnbAn",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/QYkJWZnbAn",
+                        "expanded_url": "http://shawn.xn--1ci06b/",
+                        "display_url": "shawn.\u2729\u2871",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 486,
+        "friends_count": 653,
+        "listed_count": 1,
+        "created_at": "Mon Jan 09 13:37:28 +0000 2017",
+        "favourites_count": 2890,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1397,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256420520670658560/KSSdcydy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256420520670658560/KSSdcydy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818451624792391682/1588388970",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

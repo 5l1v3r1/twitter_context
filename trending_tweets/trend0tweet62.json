@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:41:26 +0000 2020",
+    "id": 1256745649237905408,
+    "id_str": "1256745649237905408",
+    "text": "RT @legadaodamassa: BRASILEIR\u00c3O DIZ: PODE CHORAR MAS EU N\u00c3O VOLTO PRA VOC\u00ca.....................\n\n#JeMBrahmaLive https://t.co/y0b2iEImFZ",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    97,
+                    111
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "legadaodamassa",
+                "name": "LEGAD\u00c3O\u2122",
+                "id": 3875236456,
+                "id_str": "3875236456",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256683958026350594,
+                "id_str": "1256683958026350594",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCjZtEXsAIRWRv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCjZtEXsAIRWRv.jpg",
+                "url": "https://t.co/y0b2iEImFZ",
+                "display_url": "pic.twitter.com/y0b2iEImFZ",
+                "expanded_url": "https://twitter.com/legadaodamassa/status/1256684036841517059/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 652,
+                        "h": 408,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 652,
+                        "h": 408,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 652,
+                        "h": 408,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256684036841517059,
+                "source_status_id_str": "1256684036841517059",
+                "source_user_id": 3875236456,
+                "source_user_id_str": "3875236456"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256683958026350594,
+                "id_str": "1256683958026350594",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCjZtEXsAIRWRv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCjZtEXsAIRWRv.jpg",
+                "url": "https://t.co/y0b2iEImFZ",
+                "display_url": "pic.twitter.com/y0b2iEImFZ",
+                "expanded_url": "https://twitter.com/legadaodamassa/status/1256684036841517059/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 652,
+                        "h": 408,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 652,
+                        "h": 408,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 652,
+                        "h": 408,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256684036841517059,
+                "source_status_id_str": "1256684036841517059",
+                "source_user_id": 3875236456,
+                "source_user_id_str": "3875236456"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1149779326654717952,
+        "id_str": "1149779326654717952",
+        "name": "Pavard\ud83c\uddeb\ud83c\uddf7",
+        "screen_name": "Cauacrf2",
+        "location": "Rio de Janeiro, Brasil",
+        "description": "@Flamengo\u2764//@_saradeoliveira\u2764\ufe0f\ud83d\udc8d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 79,
+        "friends_count": 77,
+        "listed_count": 0,
+        "created_at": "Fri Jul 12 20:35:28 +0000 2019",
+        "favourites_count": 3339,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9117,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255010152903782401/6CQQoPZR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255010152903782401/6CQQoPZR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149779326654717952/1587193730",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:36:37 +0000 2020",
+        "id": 1256684036841517059,
+        "id_str": "1256684036841517059",
+        "text": "BRASILEIR\u00c3O DIZ: PODE CHORAR MAS EU N\u00c3O VOLTO PRA VOC\u00ca.....................\n\n#JeMBrahmaLive https://t.co/y0b2iEImFZ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        77,
+                        91
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256683958026350594,
+                    "id_str": "1256683958026350594",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCjZtEXsAIRWRv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCjZtEXsAIRWRv.jpg",
+                    "url": "https://t.co/y0b2iEImFZ",
+                    "display_url": "pic.twitter.com/y0b2iEImFZ",
+                    "expanded_url": "https://twitter.com/legadaodamassa/status/1256684036841517059/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 652,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 652,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 652,
+                            "h": 408,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256683958026350594,
+                    "id_str": "1256683958026350594",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCjZtEXsAIRWRv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCjZtEXsAIRWRv.jpg",
+                    "url": "https://t.co/y0b2iEImFZ",
+                    "display_url": "pic.twitter.com/y0b2iEImFZ",
+                    "expanded_url": "https://twitter.com/legadaodamassa/status/1256684036841517059/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 652,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 652,
+                            "h": 408,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 652,
+                            "h": 408,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3875236456,
+            "id_str": "3875236456",
+            "name": "LEGAD\u00c3O\u2122",
+            "screen_name": "legadaodamassa",
+            "location": "Brasil",
+            "description": "contato.legadaodamassa@gmail.com",
+            "url": "https://t.co/Ca5FlKkdph",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ca5FlKkdph",
+                            "expanded_url": "https://www.instagram.com/legadaodamassa/",
+                            "display_url": "instagram.com/legadaodamassa/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 178034,
+            "friends_count": 589,
+            "listed_count": 558,
+            "created_at": "Mon Oct 05 22:58:28 +0000 2015",
+            "favourites_count": 8720,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 50673,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1233070641538125824/tgxCv-Z2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233070641538125824/tgxCv-Z2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3875236456/1588182726",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 100,
+        "favorite_count": 569,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 100,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:42:59 +0000 2020",
+    "id": 1256746037051564034,
+    "id_str": "1256746037051564034",
+    "text": "RT @exforthewin: RAFAELLA EU N\u00c3O TO CONSEGUINDO TE ACOMPANHAR AQUI, COMO VOC\u00ca T\u00c1 DANDO CONTA DE TANTA REDE SOCIAL? #ModoXandAviao #RafaADMX\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ModoXandAviao",
+                "indices": [
+                    115,
+                    129
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "exforthewin",
+                "name": "lol\u00f3 Kalimann \u2728\ud83e\udd43",
+                "id": 961067880,
+                "id_str": "961067880",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2291927244,
+        "id_str": "2291927244",
+        "name": "vit\u00f3rinha",
+        "screen_name": "horandelicioux",
+        "location": "Brasil \u2728",
+        "description": "I'm not your dear { fan account }",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10792,
+        "friends_count": 9113,
+        "listed_count": 11,
+        "created_at": "Wed Jan 15 01:02:15 +0000 2014",
+        "favourites_count": 24342,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 94888,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256040584365604865/T9bRIbca_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256040584365604865/T9bRIbca_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2291927244/1588298450",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:28:31 +0000 2020",
+        "id": 1256742399558246402,
+        "id_str": "1256742399558246402",
+        "text": "RAFAELLA EU N\u00c3O TO CONSEGUINDO TE ACOMPANHAR AQUI, COMO VOC\u00ca T\u00c1 DANDO CONTA DE TANTA REDE SOCIAL? #ModoXandAviao #RafaADMXand",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ModoXandAviao",
+                    "indices": [
+                        98,
+                        112
+                    ]
+                },
+                {
+                    "text": "RafaADMXand",
+                    "indices": [
+                        113,
+                        125
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 961067880,
+            "id_str": "961067880",
+            "name": "lol\u00f3 Kalimann \u2728\ud83e\udd43",
+            "screen_name": "exforthewin",
+            "location": "",
+            "description": "Recife.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4467,
+            "friends_count": 159,
+            "listed_count": 2,
+            "created_at": "Tue Nov 20 19:36:50 +0000 2012",
+            "favourites_count": 3097,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2801,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256035782273445888/CFCdoSp9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256035782273445888/CFCdoSp9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/961067880/1586636801",
+            "profile_link_color": "00AEFF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

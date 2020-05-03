@@ -1,0 +1,180 @@
+{
+    "created_at": "Sun May 03 00:41:59 +0000 2020",
+    "id": 1256745786982961155,
+    "id_str": "1256745786982961155",
+    "text": "RT @Yasemin43622932: Grup Yorum Halkt\u0131r g\u00f6z g\u00f6re g\u00f6re \u00f6l\u00fcme sessiz kalmak insanl\u0131\u011fa vicdana s\u0131\u011far m\u0131?T\u00fcrk\u00fclere \u00f6zg\u00fcrl\u00fck #SesiDuy\u0130brahimYA\u015eA\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Yasemin43622932",
+                "name": "Yasemin \ud83c\udf31\ud83c\udf3e\ud83c\udf3f\ud83c\udf84\ud83c\udf42\ud83d\udc90",
+                "id": 988796895999987713,
+                "id_str": "988796895999987713",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1113892038234333184,
+        "id_str": "1113892038234333184",
+        "name": "Huriye \u00c7i\u00e7ek",
+        "screen_name": "huriyetiker_",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 62,
+        "friends_count": 381,
+        "listed_count": 0,
+        "created_at": "Thu Apr 04 19:52:11 +0000 2019",
+        "favourites_count": 2564,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 907,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242180121882132488/X04K4LmV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242180121882132488/X04K4LmV_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:08:52 +0000 2020",
+        "id": 1256631755903287297,
+        "id_str": "1256631755903287297",
+        "text": "Grup Yorum Halkt\u0131r g\u00f6z g\u00f6re g\u00f6re \u00f6l\u00fcme sessiz kalmak insanl\u0131\u011fa vicdana s\u0131\u011far m\u0131?T\u00fcrk\u00fclere \u00f6zg\u00fcrl\u00fck #SesiDuy\u0130brahimYA\u015eASIN",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                    "indices": [
+                        99,
+                        121
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 988796895999987713,
+            "id_str": "988796895999987713",
+            "name": "Yasemin \ud83c\udf31\ud83c\udf3e\ud83c\udf3f\ud83c\udf84\ud83c\udf42\ud83d\udc90",
+            "screen_name": "Yasemin43622932",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 656,
+            "friends_count": 684,
+            "listed_count": 4,
+            "created_at": "Tue Apr 24 15:08:45 +0000 2018",
+            "favourites_count": 79672,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4333,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1213930978550439942/CE4XkIWU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213930978550439942/CE4XkIWU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/988796895999987713/1582015608",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 466,
+        "favorite_count": 1378,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 466,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

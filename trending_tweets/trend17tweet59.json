@@ -1,0 +1,182 @@
+{
+    "created_at": "Sun May 03 00:42:09 +0000 2020",
+    "id": 1256745829500682240,
+    "id_str": "1256745829500682240",
+    "text": "#ya\u011fmur G\u00f6klerin ve yerin m\u00fclkiyeti ve h\u00e2kimiyeti Allah\u2019\u0131nd\u0131r. Allah her \u015feye g\u00fcc\u00fc yetendir.\n\n#\u0130stanbul #ya\u011fmur https://t.co/RbZepqWM4C",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ya\u011fmur",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "text": "\u0130stanbul",
+                "indices": [
+                    94,
+                    103
+                ]
+            },
+            {
+                "text": "ya\u011fmur",
+                "indices": [
+                    104,
+                    111
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745824291295233,
+                "id_str": "1256745824291295233",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbqy3WkAEkVxo.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbqy3WkAEkVxo.jpg",
+                "url": "https://t.co/RbZepqWM4C",
+                "display_url": "pic.twitter.com/RbZepqWM4C",
+                "expanded_url": "https://twitter.com/MASKE34_/status/1256745829500682240/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 719,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 596,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745824291295233,
+                "id_str": "1256745824291295233",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbqy3WkAEkVxo.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbqy3WkAEkVxo.jpg",
+                "url": "https://t.co/RbZepqWM4C",
+                "display_url": "pic.twitter.com/RbZepqWM4C",
+                "expanded_url": "https://twitter.com/MASKE34_/status/1256745829500682240/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 719,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 596,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 547060760,
+        "id_str": "547060760",
+        "name": "SEMRA",
+        "screen_name": "MASKE34_",
+        "location": "\u0130STANBUL.... 4 Eyl\u00fcl ",
+        "description": "\u015e\u0131marmayacak kadar olgun, her yerde e\u011flenebilecek kadar \u00e7ocuk, affedecek kadar iyi niyetli, ayn\u0131 hatay\u0131 yapmayacak kadar zeki biriyim..",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1456,
+        "friends_count": 544,
+        "listed_count": 2,
+        "created_at": "Fri Apr 06 19:47:20 +0000 2012",
+        "favourites_count": 270,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12763,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/885615402025451520/2dd0d9GA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/885615402025451520/2dd0d9GA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/547060760/1505425089",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

@@ -1,0 +1,160 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745924770103297,
+    "id_str": "1256745924770103297",
+    "text": "@XandAviao cantando @dorgivaldantas \ud83d\ude3b\ud83d\ude3b\ud83d\ude3b\ud83d\udc9e\ud83d\udc9e\ud83d\udc9e\u2665\ufe0f\u2665\ufe0f\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\n#SkolNoModoXandAviao #ModoXandAviao @OficialAvioes",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SkolNoModoXandAviao",
+                "indices": [
+                    56,
+                    76
+                ]
+            },
+            {
+                "text": "ModoXandAviao",
+                "indices": [
+                    77,
+                    91
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "XandAviao",
+                "name": "XAND AVI\u00c3O",
+                "id": 162211380,
+                "id_str": "162211380",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "dorgivaldantas",
+                "name": "Dorgival Dantas",
+                "id": 324836617,
+                "id_str": "324836617",
+                "indices": [
+                    20,
+                    35
+                ]
+            },
+            {
+                "screen_name": "OficialAvioes",
+                "name": "Avi\u00f5es",
+                "id": 93879817,
+                "id_str": "93879817",
+                "indices": [
+                    92,
+                    106
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 162211380,
+    "in_reply_to_user_id_str": "162211380",
+    "in_reply_to_screen_name": "XandAviao",
+    "user": {
+        "id": 2911182346,
+        "id_str": "2911182346",
+        "name": "thamyres",
+        "screen_name": "esqueciousuario",
+        "location": "Garanhuns, Pernambuco",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 401,
+        "friends_count": 510,
+        "listed_count": 2,
+        "created_at": "Mon Dec 08 16:17:35 +0000 2014",
+        "favourites_count": 10341,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10411,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256414900596936710/30gbvS1O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256414900596936710/30gbvS1O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2911182346/1584867361",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "4c75b532cd450600",
+        "url": "https://api.twitter.com/1.1/geo/id/4c75b532cd450600.json",
+        "place_type": "city",
+        "name": "Garanhuns",
+        "full_name": "Garanhuns, Brasil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -36.639446,
+                        -9.087629
+                    ],
+                    [
+                        -36.305534,
+                        -9.087629
+                    ],
+                    [
+                        -36.305534,
+                        -8.7831072
+                    ],
+                    [
+                        -36.639446,
+                        -8.7831072
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,88 @@
+{
+    "created_at": "Sun May 03 00:41:02 +0000 2020",
+    "id": 1256745546875797505,
+    "id_str": "1256745546875797505",
+    "text": "Que show ein gente Jorge e Mateus \u00e9 bom baum de mais #JeMBrahmaLive",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    53,
+                    67
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1088532365675241473,
+        "id_str": "1088532365675241473",
+        "name": "s.a.m.u.o.a.k",
+        "screen_name": "s_a_m_u_u",
+        "location": "Fortaleza, Brazil",
+        "description": "Futuro arquiteto, Bodybuilder, Gamer, Otaku, Controverso\ninstagram: samubuild",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 181,
+        "listed_count": 0,
+        "created_at": "Thu Jan 24 20:21:54 +0000 2019",
+        "favourites_count": 392,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 211,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088537312194191361/3cL7Ve-Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088537312194191361/3cL7Ve-Z_normal.jpg",
+        "profile_link_color": "046CC9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,294 @@
+{
+    "created_at": "Sun May 03 00:43:10 +0000 2020",
+    "id": 1256746085625868292,
+    "id_str": "1256746085625868292",
+    "text": "RT @wallacerramos: Voc\u00ea t\u00e1 com ela\nAinda gosta dela\nVoltou a falar com ela\nN\u00e3o fez nada do que prometeu\n\n#LiveEduardaAlves https://t.co/AZN\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveEduardaAlves",
+                "indices": [
+                    105,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "wallacerramos",
+                "name": "W\u03b1ll\u03b1c\u0454 \ud83d\udcab",
+                "id": 566588592,
+                "id_str": "566588592",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1061447386130800641,
+        "id_str": "1061447386130800641",
+        "name": "M\u03b1d\u03b1me \u02e2\u1d9c\u1d9c\u1d56\ud83d\udd25",
+        "screen_name": "dglnxx",
+        "location": "Jaboat\u00e3o dos Guararapes",
+        "description": "N\u00e3o t\u00f4 cheia de marra, eu t\u00f4 cheia de \u00f3dio.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 221,
+        "friends_count": 213,
+        "listed_count": 0,
+        "created_at": "Sun Nov 11 02:35:52 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15374,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252706294659780609/RwDvxdOo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252706294659780609/RwDvxdOo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061447386130800641/1587020041",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:41:46 +0000 2020",
+        "id": 1256745734243864577,
+        "id_str": "1256745734243864577",
+        "text": "Voc\u00ea t\u00e1 com ela\nAinda gosta dela\nVoltou a falar com ela\nN\u00e3o fez nada do que prometeu\n\n#LiveEduardaAlves https://t.co/AZNk5Z2iaO",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveEduardaAlves",
+                    "indices": [
+                        86,
+                        103
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256745662131195905,
+                    "id_str": "1256745662131195905",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDbhWxX0AE6sYy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDbhWxX0AE6sYy.jpg",
+                    "url": "https://t.co/AZNk5Z2iaO",
+                    "display_url": "pic.twitter.com/AZNk5Z2iaO",
+                    "expanded_url": "https://twitter.com/wallacerramos/status/1256745734243864577/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 222,
+                            "h": 186,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 222,
+                            "h": 186,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 222,
+                            "h": 186,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256745662131195905,
+                    "id_str": "1256745662131195905",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDbhWxX0AE6sYy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDbhWxX0AE6sYy.jpg",
+                    "url": "https://t.co/AZNk5Z2iaO",
+                    "display_url": "pic.twitter.com/AZNk5Z2iaO",
+                    "expanded_url": "https://twitter.com/wallacerramos/status/1256745734243864577/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 222,
+                            "h": 186,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 222,
+                            "h": 186,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 222,
+                            "h": 186,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            37,
+                            31
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXDbhWxX0AE6sYy.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 566588592,
+            "id_str": "566588592",
+            "name": "W\u03b1ll\u03b1c\u0454 \ud83d\udcab",
+            "screen_name": "wallacerramos",
+            "location": "Surubim, Brasil",
+            "description": "'Eu desci pra essa terra para ser protagonista de tudo o que eu me proponho a fazer.' (Lispector, Ana Paula)",
+            "url": "https://t.co/6Sni8MY9Xc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6Sni8MY9Xc",
+                            "expanded_url": "http://instagram.com/wallacerramos",
+                            "display_url": "instagram.com/wallacerramos",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10023,
+            "friends_count": 580,
+            "listed_count": 8,
+            "created_at": "Sun Apr 29 17:35:38 +0000 2012",
+            "favourites_count": 4298,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38892,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253888373854556160/uUjis8EB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253888373854556160/uUjis8EB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/566588592/1588205296",
+            "profile_link_color": "3B0B2E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

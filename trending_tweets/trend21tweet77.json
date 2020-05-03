@@ -1,0 +1,286 @@
+{
+    "created_at": "Sun May 03 00:41:48 +0000 2020",
+    "id": 1256745740002566146,
+    "id_str": "1256745740002566146",
+    "text": "RT @GHOneTV: BEST COLLABORATION OF THE YEAR, 2020 \n\nWINNER: Saara by @sarkodie ft @EFYA_Nokturnal\n#3MusicAwards20",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3MusicAwards20",
+                "indices": [
+                    98,
+                    113
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GHOneTV",
+                "name": "GHOne TV",
+                "id": 383173078,
+                "id_str": "383173078",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "sarkodie",
+                "name": "Sarkodie",
+                "id": 32339364,
+                "id_str": "32339364",
+                "indices": [
+                    69,
+                    78
+                ]
+            },
+            {
+                "screen_name": "EFYA_Nokturnal",
+                "name": "EFYA",
+                "id": 38990369,
+                "id_str": "38990369",
+                "indices": [
+                    82,
+                    97
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1210817616421351425,
+        "id_str": "1210817616421351425",
+        "name": "mmb.ceo",
+        "screen_name": "MmbCeo",
+        "location": "",
+        "description": "REAL#Sark Addict#Highest Team#Good music#minding ma business#@mmb ceo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 509,
+        "friends_count": 497,
+        "listed_count": 0,
+        "created_at": "Sat Dec 28 07:00:02 +0000 2019",
+        "favourites_count": 12257,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4536,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1210996045985001472/VGWcWcPb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210996045985001472/VGWcWcPb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1210817616421351425/1588457916",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:46:37 +0000 2020",
+        "id": 1256716753792532482,
+        "id_str": "1256716753792532482",
+        "text": "BEST COLLABORATION OF THE YEAR, 2020 \n\nWINNER: Saara by @sarkodie ft @EFYA_Nokturnal\n#3MusicAwards20",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3MusicAwards20",
+                    "indices": [
+                        85,
+                        100
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sarkodie",
+                    "name": "Sarkodie",
+                    "id": 32339364,
+                    "id_str": "32339364",
+                    "indices": [
+                        56,
+                        65
+                    ]
+                },
+                {
+                    "screen_name": "EFYA_Nokturnal",
+                    "name": "EFYA",
+                    "id": 38990369,
+                    "id_str": "38990369",
+                    "indices": [
+                        69,
+                        84
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 383173078,
+            "id_str": "383173078",
+            "name": "GHOne TV",
+            "screen_name": "GHOneTV",
+            "location": "Accra, Ghana",
+            "description": "Local Television station owned by @EIBNetworkGhana [Retweets, Likes \u2260 Endorsements] \u260e +233501567995 | IG: https://t.co/EumQs9eDUK\n | #GHToday to Tweets",
+            "url": "https://t.co/DNGV49xAj5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DNGV49xAj5",
+                            "expanded_url": "http://www.GHOneTV.com",
+                            "display_url": "GHOneTV.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EumQs9eDUK",
+                            "expanded_url": "http://Instagram.com/GHOneTV",
+                            "display_url": "Instagram.com/GHOneTV",
+                            "indices": [
+                                106,
+                                129
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 769656,
+            "friends_count": 562,
+            "listed_count": 361,
+            "created_at": "Sat Oct 01 11:57:38 +0000 2011",
+            "favourites_count": 12671,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 174037,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248379685844574214/2bids5yO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248379685844574214/2bids5yO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/383173078/1517381274",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "003e299707d0375b",
+            "url": "https://api.twitter.com/1.1/geo/id/003e299707d0375b.json",
+            "place_type": "city",
+            "name": "Accra",
+            "full_name": "Accra, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.3470252,
+                            5.51713
+                        ],
+                        [
+                            -0.0215619,
+                            5.51713
+                        ],
+                        [
+                            -0.0215619,
+                            5.7292666
+                        ],
+                        [
+                            -0.3470252,
+                            5.7292666
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 65,
+        "favorite_count": 708,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 65,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

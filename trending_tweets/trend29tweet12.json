@@ -1,0 +1,122 @@
+{
+    "created_at": "Sun May 03 00:42:58 +0000 2020",
+    "id": 1256746036015648775,
+    "id_str": "1256746036015648775",
+    "text": "hoje o tempo voa, amor...\u2764\ufe0f\n#LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    28,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 123918252,
+        "id_str": "123918252",
+        "name": "sonia_laquino\u2605\u5f61 (em \ud83c\udfe0)",
+        "screen_name": "sonialaq",
+        "location": "Rio de Janeiro ",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 536,
+        "friends_count": 1598,
+        "listed_count": 6,
+        "created_at": "Wed Mar 17 16:43:12 +0000 2010",
+        "favourites_count": 20159,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17645,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000798777847/b893192b0a9c9571c736caac893f8939_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000798777847/b893192b0a9c9571c736caac893f8939_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123918252/1585785950",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "97bcdfca1a2dca59",
+        "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json",
+        "place_type": "city",
+        "name": "Rio de Janeiro",
+        "full_name": "Rio de Janeiro, Brazil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -43.795449,
+                        -23.08302
+                    ],
+                    [
+                        -43.0877068,
+                        -23.08302
+                    ],
+                    [
+                        -43.0877068,
+                        -22.7398234
+                    ],
+                    [
+                        -43.795449,
+                        -22.7398234
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

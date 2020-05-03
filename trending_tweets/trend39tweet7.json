@@ -1,0 +1,193 @@
+{
+    "created_at": "Sun May 03 00:43:04 +0000 2020",
+    "id": 1256746060527153152,
+    "id_str": "1256746060527153152",
+    "text": "RT @scmoran1: Mataron al compa\u00f1ero H\u00e9ctor Timerman!\n\nAs\u00ed odian y disfrutan!\n\nCada d\u00eda menos cabida al odio macrista!!\n\n#TodosContraLaMentir\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "scmoran1",
+                "name": "Superonista",
+                "id": 992247446,
+                "id_str": "992247446",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 345088610,
+        "id_str": "345088610",
+        "name": "lauciklon",
+        "screen_name": "lauciklon",
+        "location": "Bs.As.",
+        "description": "La memoria ayuda a no tropezar tan seguido, a saber en qu\u00e9 lugar y con qui\u00e9n estamos, a valorar a cada cosa y a cada uno en su justa medida.",
+        "url": "https://t.co/q0H72VvQIi",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/q0H72VvQIi",
+                        "expanded_url": "http://amoalaliteratura.blogspot.com.ar/",
+                        "display_url": "amoalaliteratura.blogspot.com.ar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2334,
+        "friends_count": 2565,
+        "listed_count": 20,
+        "created_at": "Sat Jul 30 01:45:31 +0000 2011",
+        "favourites_count": 26693,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 106449,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2590639377/j2irt2dqk91kkwiwtphr_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2590639377/j2irt2dqk91kkwiwtphr_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:37:46 +0000 2020",
+        "id": 1256729628368084994,
+        "id_str": "1256729628368084994",
+        "text": "Mataron al compa\u00f1ero H\u00e9ctor Timerman!\n\nAs\u00ed odian y disfrutan!\n\nCada d\u00eda menos cabida al odio macrista!!\n\n#TodosContraLaMentiraM",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        105,
+                        127
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 992247446,
+            "id_str": "992247446",
+            "name": "Superonista",
+            "screen_name": "scmoran1",
+            "location": "Mendoza  Argentina",
+            "description": "#UnaPatriaParaTodes \n#ViolenciaRivasInspiracion \n#HebeMIHero\u00edna #BloqueoTrollsM  #ConCristinaYAlberto #SeraLey  #HLVS \u270c\ud83c\udffe\ud83d\udc9a",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4260,
+            "friends_count": 4565,
+            "listed_count": 7,
+            "created_at": "Thu Dec 06 02:45:46 +0000 2012",
+            "favourites_count": 50760,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 59275,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1052225389936820224/Oc_Q8Izo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052225389936820224/Oc_Q8Izo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/992247446/1574968786",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

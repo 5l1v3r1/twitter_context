@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:42:45 +0000 2020",
+    "id": 1256745981187698688,
+    "id_str": "1256745981187698688",
+    "text": "RT @miacomentss: elenco do bbb:\n\nchumbo \u00d7 px \nHadson \u00d7 Lucas \nbia \u00d7 Guilherme \nvh \u00d7 pyong \nDaniel \u00d7 prior\ngabi \u00d7 marcela \nflay \u00d7 gizely \niv\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "miacomentss",
+                "name": "\ud835\udcc2\ud835\udcbe\ud835\udcb6\ud83c\udf7b",
+                "id": 1234231249868410881,
+                "id_str": "1234231249868410881",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "tl",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3315410704,
+        "id_str": "3315410704",
+        "name": "Tropa do Prior\ud83c\udf7a\ud83e\uddd9\u200d\u2642\ufe0f",
+        "screen_name": "letsgoPrior",
+        "location": "BBB",
+        "description": "@Felipeprior",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 628,
+        "friends_count": 1203,
+        "listed_count": 0,
+        "created_at": "Tue Jun 09 17:00:08 +0000 2015",
+        "favourites_count": 6117,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1178,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251259124802863105/OJTrWEkg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251259124802863105/OJTrWEkg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3315410704/1587230564",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:42:15 +0000 2020",
+        "id": 1256745853613719555,
+        "id_str": "1256745853613719555",
+        "text": "elenco do bbb:\n\nchumbo \u00d7 px \nHadson \u00d7 Lucas \nbia \u00d7 Guilherme \nvh \u00d7 pyong \nDaniel \u00d7 prior\ngabi \u00d7 marcela \nflay \u00d7 giz\u2026 https://t.co/FoX1Erq4zE",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FoX1Erq4zE",
+                    "expanded_url": "https://twitter.com/i/web/status/1256745853613719555",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "tl",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1234231249868410881,
+            "id_str": "1234231249868410881",
+            "name": "\ud835\udcc2\ud835\udcbe\ud835\udcb6\ud83c\udf7b",
+            "screen_name": "miacomentss",
+            "location": "\ud83c\udf7a\ud83e\uddd9\ud83c\udffc\u200d\u2642\ufe0f",
+            "description": "j\u00e1 falei q amo @felipeprior hoje?",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1904,
+            "friends_count": 1358,
+            "listed_count": 1,
+            "created_at": "Sun Mar 01 21:37:30 +0000 2020",
+            "favourites_count": 10238,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15870,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256029345598132225/wYCGA3ct_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256029345598132225/wYCGA3ct_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234231249868410881/1588295705",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tl"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tl"
+}

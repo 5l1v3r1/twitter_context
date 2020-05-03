@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:42:54 +0000 2020",
+    "id": 1256746017971752963,
+    "id_str": "1256746017971752963",
+    "text": "RT @eltanomdp86: Son mafia, solo espero que cuando pase todo esto, unos cuantos de estos delincuentes terminen tras las rejas, motivos sobr\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "eltanomdp86",
+                "name": "Diego Ciafardini",
+                "id": 1127110904024305664,
+                "id_str": "1127110904024305664",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2966823279,
+        "id_str": "2966823279",
+        "name": "Azucena",
+        "screen_name": "beta733",
+        "location": "",
+        "description": "La memoria y la libertad deben ser ejercicios cotidianos de todos para evitar un nuevo holocausto y violaciones a los derechos humanos            CFK",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 805,
+        "friends_count": 833,
+        "listed_count": 0,
+        "created_at": "Wed Jan 07 22:50:24 +0000 2015",
+        "favourites_count": 11653,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15777,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140466444175597569/UvqAuHOr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140466444175597569/UvqAuHOr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966823279/1566951727",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:25:59 +0000 2020",
+        "id": 1256726662370205696,
+        "id_str": "1256726662370205696",
+        "text": "Son mafia, solo espero que cuando pase todo esto, unos cuantos de estos delincuentes terminen tras las rejas, motiv\u2026 https://t.co/72j3pe0PIk",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/72j3pe0PIk",
+                    "expanded_url": "https://twitter.com/i/web/status/1256726662370205696",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1127110904024305664,
+            "id_str": "1127110904024305664",
+            "name": "Diego Ciafardini",
+            "screen_name": "eltanomdp86",
+            "location": "Mar del Plata, Argentina",
+            "description": "Ricotero y Kirchnerista",
+            "url": "https://t.co/lUWqQ4Uee8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lUWqQ4Uee8",
+                            "expanded_url": "https://www.spnnoticias.com/",
+                            "display_url": "spnnoticias.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20969,
+            "friends_count": 13917,
+            "listed_count": 19,
+            "created_at": "Sat May 11 07:19:15 +0000 2019",
+            "favourites_count": 1427,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11288,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1132396458248933377/CZc1xNcV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132396458248933377/CZc1xNcV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127110904024305664/1557559485",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 89,
+        "favorite_count": 76,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 89,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,88 @@
+{
+    "created_at": "Sun May 03 00:42:52 +0000 2020",
+    "id": 1256746007628361729,
+    "id_str": "1256746007628361729",
+    "text": "\u8ca0\u3051\u305f\u3089\u672d\u306b\u306a\u308b\u2026\u8ca0\u3051\u305f\u3089\u30b3\u30a4\u30f3\u306b\u3055\u308c\u308b\u2026\u3064\u307e\u308a\u767e\u4eba\u4e00\u9996\u90aa\u9762\u5e2b\u306f\u30b9\u30bf\u30f3\u30c9\u4f7f\u3044\u3060\u3063\u305f\u2026\uff1f #nitiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    44,
+                    52
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://f.tabtter.jp\" rel=\"nofollow\">Tabtter Free</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 116470882,
+        "id_str": "116470882",
+        "name": "\u30cf\u30e0",
+        "screen_name": "hamu_and_mikan",
+        "location": "\u4e07\u5e74\u5e8a",
+        "description": "\u9aa8\u306e\u9ac4\u307e\u3067\u8150\u3063\u3066\u308b\u306e\u3067\u6ce8\u610f\u3002\u7121\u53cc(\u4e09\u5e78/\u517c\u653f/\u9b4f)\u3001\u9059\u304b(\u30d2\u30ce\u8b72/\u767d\u8b72/\u8b72\u53d7/\u5929\u767d\u864e/\u795e\u5b50/\u661f\u306e\u4e00\u65cf)\u3001\u30b3\u30ca\u30f3\uff08\u5e73\u30b3/\u30b3\u53d7\uff09\u3001\u30b8\u30e7\u30b8\u30e7\uff08DJ/CJ/\u82b1\u627f\uff09\u306b\u840c\u3048\u4e2d\u3002NL\u306f\u516c\u5f0f\u6d3e\u3002\u5973\u306e\u5b50\u306f\u7686\u4ffa\u306e\u5ac1\u3002HAMU\u306a\u306e\u306f\u62d8\u308a\u306a\u3093\u3060\u304b\u3089\u306d\u3063\uff01\u3000\u203b\u30cd\u30bf\u30d0\u30ec\u767a\u8a00\u591a\u3057\u3001\u65e5\u66dc\u671d\u306f\u5b9f\u6cc1\u7169\u3044\u3067\u3059\u3002\u30b8\u30e7\u30b8\u30e7\u4e03\u90e8\u6311\u6226\u4e2d\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 75,
+        "friends_count": 167,
+        "listed_count": 2,
+        "created_at": "Mon Feb 22 15:33:29 +0000 2010",
+        "favourites_count": 2273,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 68085,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0045FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/515894631368622080/4-794D-f_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/515894631368622080/4-794D-f_normal.png",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

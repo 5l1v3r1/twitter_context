@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:42:38 +0000 2020",
+    "id": 1256745952490205190,
+    "id_str": "1256745952490205190",
+    "text": "RT @GencAtsizlar_: D\u00f6k\u00fcls\u00fcn d\u00fc\u015fman\u0131n kan\u0131\nYa\u015fas\u0131n T\u00fcrk\u00e7\u00fc T\u00fcrkiye\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc https://t.co/07TTfawqm2",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    65,
+                    85
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GencAtsizlar_",
+                "name": "Gen\u00e7 Ats\u0131zlar",
+                "id": 508776743,
+                "id_str": "508776743",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256705263882698752,
+                "id_str": "1256705263882698752",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC2x3kXgAA5xX6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC2x3kXgAA5xX6.jpg",
+                "url": "https://t.co/07TTfawqm2",
+                "display_url": "pic.twitter.com/07TTfawqm2",
+                "expanded_url": "https://twitter.com/GencAtsizlar_/status/1256705273449926656/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256705273449926656,
+                "source_status_id_str": "1256705273449926656",
+                "source_user_id": 508776743,
+                "source_user_id_str": "508776743"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256705263882698752,
+                "id_str": "1256705263882698752",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC2x3kXgAA5xX6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC2x3kXgAA5xX6.jpg",
+                "url": "https://t.co/07TTfawqm2",
+                "display_url": "pic.twitter.com/07TTfawqm2",
+                "expanded_url": "https://twitter.com/GencAtsizlar_/status/1256705273449926656/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256705273449926656,
+                "source_status_id_str": "1256705273449926656",
+                "source_user_id": 508776743,
+                "source_user_id_str": "508776743"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 860081262618439680,
+        "id_str": "860081262618439680",
+        "name": "Ali R\u0131za Demir",
+        "screen_name": "AliRzaD52",
+        "location": "Samsun, T\u00fcrkiye",
+        "description": "Om\u00fc tarih",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 44,
+        "friends_count": 44,
+        "listed_count": 0,
+        "created_at": "Thu May 04 10:38:47 +0000 2017",
+        "favourites_count": 1180,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 289,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109517981665628160/kcQYxpSV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109517981665628160/kcQYxpSV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/860081262618439680/1576087157",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:01:00 +0000 2020",
+        "id": 1256705273449926656,
+        "id_str": "1256705273449926656",
+        "text": "D\u00f6k\u00fcls\u00fcn d\u00fc\u015fman\u0131n kan\u0131\nYa\u015fas\u0131n T\u00fcrk\u00e7\u00fc T\u00fcrkiye\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc https://t.co/07TTfawqm2",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                    "indices": [
+                        46,
+                        66
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256705263882698752,
+                    "id_str": "1256705263882698752",
+                    "indices": [
+                        67,
+                        90
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC2x3kXgAA5xX6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC2x3kXgAA5xX6.jpg",
+                    "url": "https://t.co/07TTfawqm2",
+                    "display_url": "pic.twitter.com/07TTfawqm2",
+                    "expanded_url": "https://twitter.com/GencAtsizlar_/status/1256705273449926656/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256705263882698752,
+                    "id_str": "1256705263882698752",
+                    "indices": [
+                        67,
+                        90
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC2x3kXgAA5xX6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC2x3kXgAA5xX6.jpg",
+                    "url": "https://t.co/07TTfawqm2",
+                    "display_url": "pic.twitter.com/07TTfawqm2",
+                    "expanded_url": "https://twitter.com/GencAtsizlar_/status/1256705273449926656/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 508776743,
+            "id_str": "508776743",
+            "name": "Gen\u00e7 Ats\u0131zlar",
+            "screen_name": "GencAtsizlar_",
+            "location": "T\u00fcrkiye",
+            "description": "Gen\u00e7 Ats\u0131zlar resm\u00ee Twitter hesab\u0131d\u0131r.",
+            "url": "https://t.co/z7DOszQGct",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/z7DOszQGct",
+                            "expanded_url": "http://gencatsizlar.net",
+                            "display_url": "gencatsizlar.net",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 46028,
+            "friends_count": 35,
+            "listed_count": 40,
+            "created_at": "Wed Feb 29 12:00:35 +0000 2012",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 16661,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1182698918943039489/nIR2RKnH_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182698918943039489/nIR2RKnH_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/508776743/1588388522",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 95,
+        "favorite_count": 597,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 95,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

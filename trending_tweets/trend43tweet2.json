@@ -1,0 +1,192 @@
+{
+    "created_at": "Sun May 03 00:43:06 +0000 2020",
+    "id": 1256746066248155136,
+    "id_str": "1256746066248155136",
+    "text": "\u2018I Don\u2019t Wanna Live Forever\u2019 by @taylorswift13  #AwkwardFuneralSongs https://t.co/VUH21pKS94",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    48,
+                    68
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "taylorswift13",
+                "name": "Taylor Swift",
+                "id": 17919972,
+                "id_str": "17919972",
+                "indices": [
+                    32,
+                    46
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256746059205881857,
+                "id_str": "1256746059205881857",
+                "indices": [
+                    69,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDb4d_WsAE2pKB.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDb4d_WsAE2pKB.jpg",
+                "url": "https://t.co/VUH21pKS94",
+                "display_url": "pic.twitter.com/VUH21pKS94",
+                "expanded_url": "https://twitter.com/JennyFKNJetty/status/1256746066248155136/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 270,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 270,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 270,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256746059205881857,
+                "id_str": "1256746059205881857",
+                "indices": [
+                    69,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDb4d_WsAE2pKB.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDb4d_WsAE2pKB.jpg",
+                "url": "https://t.co/VUH21pKS94",
+                "display_url": "pic.twitter.com/VUH21pKS94",
+                "expanded_url": "https://twitter.com/JennyFKNJetty/status/1256746066248155136/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "large": {
+                        "w": 270,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 270,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 270,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDb4d_WsAE2pKB.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2729231829,
+        "id_str": "2729231829",
+        "name": "Jenny Jetty",
+        "screen_name": "JennyFKNJetty",
+        "location": "Orlando, FL",
+        "description": "Essentially Nonessential.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 113,
+        "friends_count": 286,
+        "listed_count": 9,
+        "created_at": "Wed Jul 30 18:37:21 +0000 2014",
+        "favourites_count": 1036,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1744,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253317704020307968/sU13zd7t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253317704020307968/sU13zd7t_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2729231829/1587640450",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

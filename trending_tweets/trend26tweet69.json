@@ -1,0 +1,507 @@
+{
+    "created_at": "Sun May 03 00:41:41 +0000 2020",
+    "id": 1256745711670104064,
+    "id_str": "1256745711670104064",
+    "text": "RT @AstridCosmic: #OSegredoNaFloresta\nImagens fora de contexto de momentos ic\u00f4nicos da sess\u00e3o de hoje at\u00e9 agora https://t.co/oteIW8Opu3",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    18,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AstridCosmic",
+                "name": "Astrid -5 de sanidade",
+                "id": 1211080083261124608,
+                "id_str": "1211080083261124608",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744470592315400,
+                "id_str": "1256744470592315400",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDab_8XYAgM_No.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDab_8XYAgM_No.jpg",
+                "url": "https://t.co/oteIW8Opu3",
+                "display_url": "pic.twitter.com/oteIW8Opu3",
+                "expanded_url": "https://twitter.com/AstridCosmic/status/1256744593196007425/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1280,
+                        "h": 1015,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 539,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 952,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744593196007425,
+                "source_status_id_str": "1256744593196007425",
+                "source_user_id": 1211080083261124608,
+                "source_user_id_str": "1211080083261124608"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744470592315400,
+                "id_str": "1256744470592315400",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDab_8XYAgM_No.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDab_8XYAgM_No.jpg",
+                "url": "https://t.co/oteIW8Opu3",
+                "display_url": "pic.twitter.com/oteIW8Opu3",
+                "expanded_url": "https://twitter.com/AstridCosmic/status/1256744593196007425/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1280,
+                        "h": 1015,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 539,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 952,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744593196007425,
+                "source_status_id_str": "1256744593196007425",
+                "source_user_id": 1211080083261124608,
+                "source_user_id_str": "1211080083261124608"
+            },
+            {
+                "id": 1256744480792817665,
+                "id_str": "1256744480792817665",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDacl8WsAEZl0t.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDacl8WsAEZl0t.jpg",
+                "url": "https://t.co/oteIW8Opu3",
+                "display_url": "pic.twitter.com/oteIW8Opu3",
+                "expanded_url": "https://twitter.com/AstridCosmic/status/1256744593196007425/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 338,
+                        "h": 450,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 338,
+                        "h": 450,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 338,
+                        "h": 450,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744593196007425,
+                "source_status_id_str": "1256744593196007425",
+                "source_user_id": 1211080083261124608,
+                "source_user_id_str": "1211080083261124608"
+            },
+            {
+                "id": 1256744490917933057,
+                "id_str": "1256744490917933057",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDadLqXsAE_tnt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDadLqXsAE_tnt.jpg",
+                "url": "https://t.co/oteIW8Opu3",
+                "display_url": "pic.twitter.com/oteIW8Opu3",
+                "expanded_url": "https://twitter.com/AstridCosmic/status/1256744593196007425/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744593196007425,
+                "source_status_id_str": "1256744593196007425",
+                "source_user_id": 1211080083261124608,
+                "source_user_id_str": "1211080083261124608"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 981928825213935617,
+        "id_str": "981928825213935617",
+        "name": "Duhhh Vinicius",
+        "screen_name": "DuhhhV",
+        "location": "New Tristan",
+        "description": "edu...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14,
+        "friends_count": 326,
+        "listed_count": 0,
+        "created_at": "Thu Apr 05 16:17:30 +0000 2018",
+        "favourites_count": 372,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 66,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254295157731704832/pOK8nzL3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254295157731704832/pOK8nzL3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/981928825213935617/1587882302",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:37:14 +0000 2020",
+        "id": 1256744593196007425,
+        "id_str": "1256744593196007425",
+        "text": "#OSegredoNaFloresta\nImagens fora de contexto de momentos ic\u00f4nicos da sess\u00e3o de hoje at\u00e9 agora https://t.co/oteIW8Opu3",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256744470592315400,
+                    "id_str": "1256744470592315400",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDab_8XYAgM_No.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDab_8XYAgM_No.jpg",
+                    "url": "https://t.co/oteIW8Opu3",
+                    "display_url": "pic.twitter.com/oteIW8Opu3",
+                    "expanded_url": "https://twitter.com/AstridCosmic/status/1256744593196007425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1280,
+                            "h": 1015,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 539,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 952,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256744470592315400,
+                    "id_str": "1256744470592315400",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDab_8XYAgM_No.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDab_8XYAgM_No.jpg",
+                    "url": "https://t.co/oteIW8Opu3",
+                    "display_url": "pic.twitter.com/oteIW8Opu3",
+                    "expanded_url": "https://twitter.com/AstridCosmic/status/1256744593196007425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1280,
+                            "h": 1015,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 539,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 952,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256744480792817665,
+                    "id_str": "1256744480792817665",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDacl8WsAEZl0t.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDacl8WsAEZl0t.jpg",
+                    "url": "https://t.co/oteIW8Opu3",
+                    "display_url": "pic.twitter.com/oteIW8Opu3",
+                    "expanded_url": "https://twitter.com/AstridCosmic/status/1256744593196007425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 338,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 338,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 338,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256744490917933057,
+                    "id_str": "1256744490917933057",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDadLqXsAE_tnt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDadLqXsAE_tnt.jpg",
+                    "url": "https://t.co/oteIW8Opu3",
+                    "display_url": "pic.twitter.com/oteIW8Opu3",
+                    "expanded_url": "https://twitter.com/AstridCosmic/status/1256744593196007425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1211080083261124608,
+            "id_str": "1211080083261124608",
+            "name": "Astrid -5 de sanidade",
+            "screen_name": "AstridCosmic",
+            "location": "",
+            "description": "Fa\u00e7o uns rabiscos | Gosto de gatos e doces, \u00e9 isso \ud83d\udc31 #OSegredoNaFloresta",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 24,
+            "friends_count": 59,
+            "listed_count": 0,
+            "created_at": "Sun Dec 29 00:22:59 +0000 2019",
+            "favourites_count": 132,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 59,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256438649673199617/K-LkcuuC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256438649673199617/K-LkcuuC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1211080083261124608/1588389426",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 57,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

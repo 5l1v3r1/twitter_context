@@ -1,0 +1,200 @@
+{
+    "created_at": "Sun May 03 00:43:05 +0000 2020",
+    "id": 1256746064448806913,
+    "id_str": "1256746064448806913",
+    "text": "RT @JIMINILOVE952: BTS gan\u00f3 la categor\u00eda Favorite Music Group en los #KCA2020 \ud83d\udc9c\ud83c\udf8a\ud83c\udf89\n\nEl premio fue presentado a trav\u00e9s de la Nick app antes d\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KCA2020",
+                "indices": [
+                    69,
+                    77
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JIMINILOVE952",
+                "name": "\ud83d\udc9b\u00a0\u2077PARK JIMIN\u2081\u2083\ud83d\udc9b\u272810\uc2dc 13\ubd84 #\uc9c0\ubbfc\u2728\ud83d\udc9b",
+                "id": 872990978386399237,
+                "id_str": "872990978386399237",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 866208253381926912,
+        "id_str": "866208253381926912",
+        "name": "\ud835\ude7frotego \ud835\ude96axima,\ud835\ude75ianto \ud835\ude8duri,\ud835\ude81epellio\ud835\ude92nimicum\u277c",
+        "screen_name": "lumineux4eva",
+        "location": "Per\u00fa",
+        "description": "\u2591A\u2591R\u2591M\u2591Y\u2591\u2591\u2591\u2591\u2591\u2591\u2591 \u2591P\u2591r\u2591o\u2591t\u2591e\u2591g\u2591o\u2591\u2591\u2591\n\u2591\u2591\u2591\u2591\ud83c\udf02        \u2602\ufe0f        \u2614                      \n\n\n\u27a1\ufe0f protect@bighitcorp.com \u2b05\ufe0f\n\ud83d\udc9c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 112,
+        "friends_count": 162,
+        "listed_count": 0,
+        "created_at": "Sun May 21 08:25:15 +0000 2017",
+        "favourites_count": 19667,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18726,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248825607825260544/xlBHCFr5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248825607825260544/xlBHCFr5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/866208253381926912/1588057376",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:31:52 +0000 2020",
+        "id": 1256743242055417858,
+        "id_str": "1256743242055417858",
+        "text": "BTS gan\u00f3 la categor\u00eda Favorite Music Group en los #KCA2020 \ud83d\udc9c\ud83c\udf8a\ud83c\udf89\n\nEl premio fue presentado a trav\u00e9s de la Nick app an\u2026 https://t.co/InM8MUAb2W",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KCA2020",
+                    "indices": [
+                        50,
+                        58
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/InM8MUAb2W",
+                    "expanded_url": "https://twitter.com/i/web/status/1256743242055417858",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 872990978386399237,
+            "id_str": "872990978386399237",
+            "name": "\ud83d\udc9b\u00a0\u2077PARK JIMIN\u2081\u2083\ud83d\udc9b\u272810\uc2dc 13\ubd84 #\uc9c0\ubbfc\u2728\ud83d\udc9b",
+            "screen_name": "JIMINILOVE952",
+            "location": "BTCHIVAS ZUCULENTAS SQUAD",
+            "description": "Mi \u00c1ngel #JIMIN #\uc9c0\ubbfc\u2661 Mi amor \u2661@Eliza_ARMY88 \u2661 \n\u2661Por favor ama a los siete, sin dejar a ning\u00fan miembro afuera \u2661 NO REPOST \u2661Fan Account\u2661Respaldo :@JIMINILOVE953",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 24743,
+            "friends_count": 1927,
+            "listed_count": 32,
+            "created_at": "Fri Jun 09 01:37:23 +0000 2017",
+            "favourites_count": 23392,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 58088,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254750736161943553/W3UgQRi0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254750736161943553/W3UgQRi0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/872990978386399237/1587507975",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 34,
+        "favorite_count": 86,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 34,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,135 @@
+{
+    "created_at": "Sun May 03 00:40:56 +0000 2020",
+    "id": 1256745521760198656,
+    "id_str": "1256745521760198656",
+    "text": "t\u00e1 com medo, eu te conhe\u00e7ooooo\n\n#liveeduardaalves",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "liveeduardaalves",
+                "indices": [
+                    32,
+                    49
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 70110563,
+        "id_str": "70110563",
+        "name": "chatontonio",
+        "screen_name": "m_ndrd",
+        "location": "",
+        "description": "27. porque meu bem, ningu\u00e9m \u00e9 perfeito e a vida \u00e9 assim.",
+        "url": "https://t.co/vCAB1dPnGH",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/vCAB1dPnGH",
+                        "expanded_url": "http://instagram.com/_marcusandrade",
+                        "display_url": "instagram.com/_marcusandrade",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 765,
+        "friends_count": 270,
+        "listed_count": 5,
+        "created_at": "Sun Aug 30 12:30:39 +0000 2009",
+        "favourites_count": 26804,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 38039,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244744902426189824/HEABDCvj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244744902426189824/HEABDCvj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70110563/1586739397",
+        "profile_link_color": "09028A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "0F0E0E",
+        "profile_text_color": "F51B3F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "a3aa4229c31e1d5e",
+        "url": "https://api.twitter.com/1.1/geo/id/a3aa4229c31e1d5e.json",
+        "place_type": "city",
+        "name": "Vit\u00f3ria de Santo Ant\u00e3o",
+        "full_name": "Vit\u00f3ria de Santo Ant\u00e3o, Brasil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -35.408493,
+                        -8.315384
+                    ],
+                    [
+                        -35.185488,
+                        -8.315384
+                    ],
+                    [
+                        -35.185488,
+                        -8.030603
+                    ],
+                    [
+                        -35.408493,
+                        -8.030603
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

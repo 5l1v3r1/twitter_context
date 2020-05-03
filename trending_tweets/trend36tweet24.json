@@ -1,0 +1,507 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745919757811715,
+    "id_str": "1256745919757811715",
+    "text": "RT @kemalk71: Yemende 5 ya\u015f alt\u0131 85 bin \u00e7ocuk a\u00e7l\u0131ktan \u00f6l\u00fcyorsa ve hala t\u00fcm d\u00fcnya suskunsa  #KopsunK\u0131yamet https://t.co/hBsvh5UbHQ",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KopsunK\u0131yamet",
+                "indices": [
+                    92,
+                    106
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kemalk71",
+                "name": "Kemal K.",
+                "id": 1112769738,
+                "id_str": "1112769738",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256579110635278337,
+                "id_str": "1256579110635278337",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXBECyGXkAEUj9D.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXBECyGXkAEUj9D.jpg",
+                "url": "https://t.co/hBsvh5UbHQ",
+                "display_url": "pic.twitter.com/hBsvh5UbHQ",
+                "expanded_url": "https://twitter.com/kemalk71/status/1256579265212092416/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 473,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 800,
+                        "h": 557,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256579265212092416,
+                "source_status_id_str": "1256579265212092416",
+                "source_user_id": 1112769738,
+                "source_user_id_str": "1112769738"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256579110635278337,
+                "id_str": "1256579110635278337",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXBECyGXkAEUj9D.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXBECyGXkAEUj9D.jpg",
+                "url": "https://t.co/hBsvh5UbHQ",
+                "display_url": "pic.twitter.com/hBsvh5UbHQ",
+                "expanded_url": "https://twitter.com/kemalk71/status/1256579265212092416/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 473,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 800,
+                        "h": 557,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256579265212092416,
+                "source_status_id_str": "1256579265212092416",
+                "source_user_id": 1112769738,
+                "source_user_id_str": "1112769738"
+            },
+            {
+                "id": 1256579110639411202,
+                "id_str": "1256579110639411202",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXBECyHWoAIDIiI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXBECyHWoAIDIiI.jpg",
+                "url": "https://t.co/hBsvh5UbHQ",
+                "display_url": "pic.twitter.com/hBsvh5UbHQ",
+                "expanded_url": "https://twitter.com/kemalk71/status/1256579265212092416/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 225,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 225,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 225,
+                        "h": 225,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256579265212092416,
+                "source_status_id_str": "1256579265212092416",
+                "source_user_id": 1112769738,
+                "source_user_id_str": "1112769738"
+            },
+            {
+                "id": 1256579110723354624,
+                "id_str": "1256579110723354624",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXBECybXgAA0SVK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXBECybXgAA0SVK.jpg",
+                "url": "https://t.co/hBsvh5UbHQ",
+                "display_url": "pic.twitter.com/hBsvh5UbHQ",
+                "expanded_url": "https://twitter.com/kemalk71/status/1256579265212092416/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 276,
+                        "h": 183,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 276,
+                        "h": 183,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 276,
+                        "h": 183,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256579265212092416,
+                "source_status_id_str": "1256579265212092416",
+                "source_user_id": 1112769738,
+                "source_user_id_str": "1112769738"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1241468190531739654,
+        "id_str": "1241468190531739654",
+        "name": "Ilknur Atak",
+        "screen_name": "IlknurAtak",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 95,
+        "friends_count": 380,
+        "listed_count": 0,
+        "created_at": "Sat Mar 21 20:54:27 +0000 2020",
+        "favourites_count": 491,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4558,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256650271414984704/FjKqCXB3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256650271414984704/FjKqCXB3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241468190531739654/1587661994",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 13:40:17 +0000 2020",
+        "id": 1256579265212092416,
+        "id_str": "1256579265212092416",
+        "text": "Yemende 5 ya\u015f alt\u0131 85 bin \u00e7ocuk a\u00e7l\u0131ktan \u00f6l\u00fcyorsa ve hala t\u00fcm d\u00fcnya suskunsa  #KopsunK\u0131yamet https://t.co/hBsvh5UbHQ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KopsunK\u0131yamet",
+                    "indices": [
+                        78,
+                        92
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256579110635278337,
+                    "id_str": "1256579110635278337",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXBECyGXkAEUj9D.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXBECyGXkAEUj9D.jpg",
+                    "url": "https://t.co/hBsvh5UbHQ",
+                    "display_url": "pic.twitter.com/hBsvh5UbHQ",
+                    "expanded_url": "https://twitter.com/kemalk71/status/1256579265212092416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 557,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 473,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 800,
+                            "h": 557,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256579110635278337,
+                    "id_str": "1256579110635278337",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXBECyGXkAEUj9D.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXBECyGXkAEUj9D.jpg",
+                    "url": "https://t.co/hBsvh5UbHQ",
+                    "display_url": "pic.twitter.com/hBsvh5UbHQ",
+                    "expanded_url": "https://twitter.com/kemalk71/status/1256579265212092416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 557,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 473,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 800,
+                            "h": 557,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256579110639411202,
+                    "id_str": "1256579110639411202",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXBECyHWoAIDIiI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXBECyHWoAIDIiI.jpg",
+                    "url": "https://t.co/hBsvh5UbHQ",
+                    "display_url": "pic.twitter.com/hBsvh5UbHQ",
+                    "expanded_url": "https://twitter.com/kemalk71/status/1256579265212092416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 225,
+                            "h": 225,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 225,
+                            "h": 225,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 225,
+                            "h": 225,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256579110723354624,
+                    "id_str": "1256579110723354624",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXBECybXgAA0SVK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXBECybXgAA0SVK.jpg",
+                    "url": "https://t.co/hBsvh5UbHQ",
+                    "display_url": "pic.twitter.com/hBsvh5UbHQ",
+                    "expanded_url": "https://twitter.com/kemalk71/status/1256579265212092416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 276,
+                            "h": 183,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 276,
+                            "h": 183,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 276,
+                            "h": 183,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1112769738,
+            "id_str": "1112769738",
+            "name": "Kemal K.",
+            "screen_name": "kemalk71",
+            "location": "T\u00fcrkiye",
+            "description": "\"H\u00fcrriyet olmayan bir memlekette \u00f6l\u00fcm ve \u00e7\u00f6k\u00fc\u015f vard\u0131r. Her ilerleyi\u015fin ve kurtulu\u015fun anas\u0131 h\u00fcrriyettir.\" MKA",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8181,
+            "friends_count": 4353,
+            "listed_count": 5,
+            "created_at": "Tue Jan 22 22:19:44 +0000 2013",
+            "favourites_count": 39236,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4484,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "CC82AA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1141867554207649792/PMvKEB3V_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141867554207649792/PMvKEB3V_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112769738/1558564894",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1236,
+        "favorite_count": 5717,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1236,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

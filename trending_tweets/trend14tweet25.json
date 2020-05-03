@@ -1,0 +1,230 @@
+{
+    "created_at": "Sun May 03 00:35:55 +0000 2020",
+    "id": 1256744260356976642,
+    "id_str": "1256744260356976642",
+    "text": "RT @maribit_: Come\u00e7amos com Armandinho, passamos para Jorge e Mateus e agora j\u00e1 estamos no RBD... Pouco ecl\u00e9ticos @haas_lennon",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "maribit_",
+                "name": "Marina Bittencourt",
+                "id": 216066680,
+                "id_str": "216066680",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "haas_lennon",
+                "name": "Lennon Haas",
+                "id": 1450371932,
+                "id_str": "1450371932",
+                "indices": [
+                    114,
+                    126
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1450371932,
+        "id_str": "1450371932",
+        "name": "Lennon Haas",
+        "screen_name": "haas_lennon",
+        "location": "Camaqu\u00e3, Brasil",
+        "description": "\ud83d\udcfb Comunicador na R\u00e1dio Ac\u00fastica FM \ud83c\udfa4 \n-\n\ud83d\udcf1Podcast \ud83c\udfa7\ud83c\udfa4-\nCoreia Colorada \ud83c\udde6\ud83c\uddf9",
+        "url": "https://t.co/KAYPENWkzu",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/KAYPENWkzu",
+                        "expanded_url": "http://acusticafm.com.br",
+                        "display_url": "acusticafm.com.br",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 815,
+        "friends_count": 797,
+        "listed_count": 9,
+        "created_at": "Thu May 23 02:29:48 +0000 2013",
+        "favourites_count": 26460,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 51670,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167097999237025792/tJEt1y6e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167097999237025792/tJEt1y6e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1450371932/1539574365",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:31:06 +0000 2020",
+        "id": 1256743046605144064,
+        "id_str": "1256743046605144064",
+        "text": "Come\u00e7amos com Armandinho, passamos para Jorge e Mateus e agora j\u00e1 estamos no RBD... Pouco ecl\u00e9ticos @haas_lennon",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "haas_lennon",
+                    "name": "Lennon Haas",
+                    "id": 1450371932,
+                    "id_str": "1450371932",
+                    "indices": [
+                        100,
+                        112
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 216066680,
+            "id_str": "216066680",
+            "name": "Marina Bittencourt",
+            "screen_name": "maribit_",
+            "location": "Camaqu\u00e3",
+            "description": "24 anos, m\u00e3e do Ot\u00e1vio \ud83d\udc69\u200d\ud83d\udc66 Ga\u00facha e colorada fan\u00e1tica! \ud83c\udde6\ud83c\uddf9 \ud83d\udcccInsta: @maribitt_     https://t.co/Vq2gl6yYvI",
+            "url": "https://t.co/MkJgLy9H92",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/MkJgLy9H92",
+                            "expanded_url": "https://www.facebook.com/bittencourt.marina",
+                            "display_url": "facebook.com/bittencourt.ma\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Vq2gl6yYvI",
+                            "expanded_url": "https://www.youtube.com/channel/UCtrJRu2-hpU2UNimJ-70TWQ",
+                            "display_url": "youtube.com/channel/UCtrJR\u2026",
+                            "indices": [
+                                81,
+                                104
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 392,
+            "friends_count": 446,
+            "listed_count": 0,
+            "created_at": "Mon Nov 15 18:16:26 +0000 2010",
+            "favourites_count": 1863,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14010,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1188657173691338752/zmAnlX61_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188657173691338752/zmAnlX61_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/216066680/1577339171",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFE0E6",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

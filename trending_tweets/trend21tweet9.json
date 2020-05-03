@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:42:49 +0000 2020",
+    "id": 1256745997788684288,
+    "id_str": "1256745997788684288",
+    "text": "RT @BenopaOnyx1: Anybody who will say the awards this year is bias biaa be hater k3k3 \nApart from one or two categories, the rest be legit\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BenopaOnyx1",
+                "name": "Beno S\u2605rkCess \u2642\ud83e\udd1f\ud83d\udc89\ud83d\ude80",
+                "id": 1152717715028811776,
+                "id_str": "1152717715028811776",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1234948644433952770,
+        "id_str": "1234948644433952770",
+        "name": "Carterfark",
+        "screen_name": "Carterfark1",
+        "location": "",
+        "description": "SARKCESS IN MY BLOOD",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 187,
+        "friends_count": 268,
+        "listed_count": 0,
+        "created_at": "Tue Mar 03 21:08:49 +0000 2020",
+        "favourites_count": 5865,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3012,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234949007560060928/DNfCw9bj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234949007560060928/DNfCw9bj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234948644433952770/1583276375",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:51:32 +0000 2020",
+        "id": 1256717992777461763,
+        "id_str": "1256717992777461763",
+        "text": "Anybody who will say the awards this year is bias biaa be hater k3k3 \nApart from one or two categories, the rest be\u2026 https://t.co/Do86ymxVso",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Do86ymxVso",
+                    "expanded_url": "https://twitter.com/i/web/status/1256717992777461763",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1152717715028811776,
+            "id_str": "1152717715028811776",
+            "name": "Beno S\u2605rkCess \u2642\ud83e\udd1f\ud83d\udc89\ud83d\ude80",
+            "screen_name": "BenopaOnyx1",
+            "location": "BenoCity, Kumasi",
+            "description": "| MATHS | SARKODIE | Mama Tracy SarkCess followed: 20-04-2020 at 11:35 PM \ud83d\ude01\ud83d\udd25",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 21280,
+            "friends_count": 7706,
+            "listed_count": 0,
+            "created_at": "Sat Jul 20 23:11:34 +0000 2019",
+            "favourites_count": 86965,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 44317,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246935607412248577/oK2JaD10_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246935607412248577/oK2JaD10_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1152717715028811776/1587488370",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 222,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

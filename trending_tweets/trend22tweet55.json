@@ -1,0 +1,242 @@
+{
+    "created_at": "Sun May 03 00:42:14 +0000 2020",
+    "id": 1256745849125625858,
+    "id_str": "1256745849125625858",
+    "text": "RT @dzyngier: #insiders when has @DanTehanWannon ever cared about disadvantaged kids of whom 80% are in public schools? Opening the classro\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "insiders",
+                "indices": [
+                    14,
+                    23
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dzyngier",
+                "name": "Dr David Zyngier",
+                "id": 36830845,
+                "id_str": "36830845",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "DanTehanWannon",
+                "name": "Dan Tehan",
+                "id": 139052672,
+                "id_str": "139052672",
+                "indices": [
+                    33,
+                    48
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 882077664,
+        "id_str": "882077664",
+        "name": "Debra",
+        "screen_name": "neddycgoon",
+        "location": "",
+        "description": "wordmongrel",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 83,
+        "friends_count": 208,
+        "listed_count": 0,
+        "created_at": "Mon Oct 15 10:59:03 +0000 2012",
+        "favourites_count": 11603,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13266,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1142696602479423488/EtErUzHL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142696602479423488/EtErUzHL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:28:23 +0000 2020",
+        "id": 1256727265938829312,
+        "id_str": "1256727265938829312",
+        "text": "#insiders when has @DanTehanWannon ever cared about disadvantaged kids of whom 80% are in public schools? Opening t\u2026 https://t.co/aQrhHeo31e",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "insiders",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DanTehanWannon",
+                    "name": "Dan Tehan",
+                    "id": 139052672,
+                    "id_str": "139052672",
+                    "indices": [
+                        19,
+                        34
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/aQrhHeo31e",
+                    "expanded_url": "https://twitter.com/i/web/status/1256727265938829312",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 36830845,
+            "id_str": "36830845",
+            "name": "Dr David Zyngier",
+            "screen_name": "dzyngier",
+            "location": "Wurrundjerri Land - Melbourne.",
+            "description": "Any weakening of universal public education can only be a weakening of democracy https://t.co/Ld2U3WX37N",
+            "url": "https://t.co/t6FggqpGuO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/t6FggqpGuO",
+                            "expanded_url": "https://www.facebook.com/groups/134951450492088/",
+                            "display_url": "facebook.com/groups/1349514\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ld2U3WX37N",
+                            "expanded_url": "https://theconversation.com/profiles/david-zyngier-491",
+                            "display_url": "theconversation.com/profiles/david\u2026",
+                            "indices": [
+                                81,
+                                104
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 5784,
+            "friends_count": 6226,
+            "listed_count": 61,
+            "created_at": "Fri May 01 00:43:09 +0000 2009",
+            "favourites_count": 8406,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 23596,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/968015139352952832/R-sg0a-2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/968015139352952832/R-sg0a-2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36830845/1394815298",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 58,
+        "favorite_count": 237,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

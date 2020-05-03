@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:35 +0000 2020",
+    "id": 1256745938938454020,
+    "id_str": "1256745938938454020",
+    "text": "RT @hamzayerlikaya: Sonuna kadar yolunday\u0131z RE\u0130S \n\n#BuYoldanD\u00f6nmeyece\u011fiz \ud83c\uddf9\ud83c\uddf7 https://t.co/NLtkASQQap",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    51,
+                    72
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "hamzayerlikaya",
+                "name": "Hamza Yerlikaya",
+                "id": 178454143,
+                "id_str": "178454143",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256683446887419905,
+                "id_str": "1256683446887419905",
+                "indices": [
+                    76,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCi787WkAE9Teb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCi787WkAE9Teb.jpg",
+                "url": "https://t.co/NLtkASQQap",
+                "display_url": "pic.twitter.com/NLtkASQQap",
+                "expanded_url": "https://twitter.com/hamzayerlikaya/status/1256683459621380102/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 461,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1035,
+                        "h": 702,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1035,
+                        "h": 702,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256683459621380102,
+                "source_status_id_str": "1256683459621380102",
+                "source_user_id": 178454143,
+                "source_user_id_str": "178454143"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256683446887419905,
+                "id_str": "1256683446887419905",
+                "indices": [
+                    76,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCi787WkAE9Teb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCi787WkAE9Teb.jpg",
+                "url": "https://t.co/NLtkASQQap",
+                "display_url": "pic.twitter.com/NLtkASQQap",
+                "expanded_url": "https://twitter.com/hamzayerlikaya/status/1256683459621380102/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 461,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1035,
+                        "h": 702,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1035,
+                        "h": 702,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256683459621380102,
+                "source_status_id_str": "1256683459621380102",
+                "source_user_id": 178454143,
+                "source_user_id_str": "178454143"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1069346021896060930,
+        "id_str": "1069346021896060930",
+        "name": "Murat\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "MDedeleroglu1",
+        "location": "",
+        "description": "Reisin dava adam\u0131.Yar\u0131n elbet bizimdir, elbet bizim, g\u00fcn do\u011fmu\u015f, g\u00fcn batm\u0131\u015f, ebed bizimdir.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 536,
+        "friends_count": 746,
+        "listed_count": 1,
+        "created_at": "Sun Dec 02 21:42:13 +0000 2018",
+        "favourites_count": 116699,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10167,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151155338416152576/XeRs4gji_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151155338416152576/XeRs4gji_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069346021896060930/1570649599",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:34:19 +0000 2020",
+        "id": 1256683459621380102,
+        "id_str": "1256683459621380102",
+        "text": "Sonuna kadar yolunday\u0131z RE\u0130S \n\n#BuYoldanD\u00f6nmeyece\u011fiz \ud83c\uddf9\ud83c\uddf7 https://t.co/NLtkASQQap",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        31,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256683446887419905,
+                    "id_str": "1256683446887419905",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCi787WkAE9Teb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCi787WkAE9Teb.jpg",
+                    "url": "https://t.co/NLtkASQQap",
+                    "display_url": "pic.twitter.com/NLtkASQQap",
+                    "expanded_url": "https://twitter.com/hamzayerlikaya/status/1256683459621380102/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 461,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1035,
+                            "h": 702,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1035,
+                            "h": 702,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256683446887419905,
+                    "id_str": "1256683446887419905",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCi787WkAE9Teb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCi787WkAE9Teb.jpg",
+                    "url": "https://t.co/NLtkASQQap",
+                    "display_url": "pic.twitter.com/NLtkASQQap",
+                    "expanded_url": "https://twitter.com/hamzayerlikaya/status/1256683459621380102/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 461,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1035,
+                            "h": 702,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1035,
+                            "h": 702,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 178454143,
+            "id_str": "178454143",
+            "name": "Hamza Yerlikaya",
+            "screen_name": "hamzayerlikaya",
+            "location": "",
+            "description": "Gen\u00e7lik ve Spor Bakanl\u0131\u011f\u0131 Bakan Yard\u0131mc\u0131s\u0131, Cumhurba\u015fkan\u0131 Ba\u015fdan\u0131\u015fman\u0131, 23. D\u00f6nem AK Parti Sivas Milletvekili, Evli ve 3 \u00c7ocuk Babas\u0131.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 168045,
+            "friends_count": 440,
+            "listed_count": 173,
+            "created_at": "Sat Aug 14 20:23:57 +0000 2010",
+            "favourites_count": 12765,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 23118,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1238928751217516547/btkcBwya_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238928751217516547/btkcBwya_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/178454143/1532977795",
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 366,
+        "favorite_count": 2564,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 366,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

@@ -1,0 +1,238 @@
+{
+    "created_at": "Sun May 03 00:42:18 +0000 2020",
+    "id": 1256745867853344771,
+    "id_str": "1256745867853344771",
+    "text": "RT @SnteNacional: #SNTEsalud \u2695 \n\n\ud83e\uddd9\u200d\u2642\ufe0f Te gusta la magia de #HarryPotter \u2049\ufe0f Quieres entrar a Hogwarts \ud83c\udff0 Da Clik \ud83d\udc49https://t.co/M5VQwWRbpg\n\n#F\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SNTEsalud",
+                "indices": [
+                    18,
+                    28
+                ]
+            },
+            {
+                "text": "HarryPotter",
+                "indices": [
+                    59,
+                    71
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SnteNacional",
+                "name": "Snte Nacional",
+                "id": 1387599811,
+                "id_str": "1387599811",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/M5VQwWRbpg",
+                "expanded_url": "https://bit.ly/3dl7U1d",
+                "display_url": "bit.ly/3dl7U1d",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 140123994,
+        "id_str": "140123994",
+        "name": "Silvia Frinn\u00e9",
+        "screen_name": "sfrinne",
+        "location": "",
+        "description": "El futuro se construye cada d\u00eda. Lo que hagas hoy por ti ser\u00e1 tu porvenir de ma\u00f1ana.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 31,
+        "friends_count": 126,
+        "listed_count": 0,
+        "created_at": "Tue May 04 17:10:08 +0000 2010",
+        "favourites_count": 553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 411,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237941675487424512/rshhowky_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237941675487424512/rshhowky_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140123994/1583983399",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:55:36 +0000 2020",
+        "id": 1256673715875692546,
+        "id_str": "1256673715875692546",
+        "text": "#SNTEsalud \u2695 \n\n\ud83e\uddd9\u200d\u2642\ufe0f Te gusta la magia de #HarryPotter \u2049\ufe0f Quieres entrar a Hogwarts \ud83c\udff0 Da Clik \ud83d\udc49\u2026 https://t.co/v2EgRFshAh",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SNTEsalud",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "text": "HarryPotter",
+                    "indices": [
+                        41,
+                        53
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/v2EgRFshAh",
+                    "expanded_url": "https://twitter.com/i/web/status/1256673715875692546",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        96,
+                        119
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1387599811,
+            "id_str": "1387599811",
+            "name": "Snte Nacional",
+            "screen_name": "SnteNacional",
+            "location": "M\u00e9xico, DF",
+            "description": "Somos una Organizaci\u00f3n Sindical a nivel nacional, que surge por acuerdo del Congreso Nacional de Trabajadores de la Educaci\u00f3n celebrado en diciembre de 1943.",
+            "url": "https://t.co/1Jy5e1TooE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1Jy5e1TooE",
+                            "expanded_url": "http://www.snte.org.mx",
+                            "display_url": "snte.org.mx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 65536,
+            "friends_count": 526,
+            "listed_count": 147,
+            "created_at": "Sun Apr 28 18:24:10 +0000 2013",
+            "favourites_count": 1713,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 10889,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1100086344343265280/40_73l00_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100086344343265280/40_73l00_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387599811/1551121255",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 162,
+        "favorite_count": 169,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 162,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

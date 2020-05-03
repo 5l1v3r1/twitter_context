@@ -1,0 +1,395 @@
+{
+    "created_at": "Sun May 03 00:37:34 +0000 2020",
+    "id": 1256744674796072960,
+    "id_str": "1256744674796072960",
+    "text": "RT @jackigudelhian: \u30d5\u30a9\u30fc\u30de\u30eb\u306a\u683c\u597d\u306e\u4eba\u9593\u304c\u591a\u6570\u6d3e\u306e\u30aa\u30ed\u30ca\u30df\u30f3C\u306e\uff23\uff2d\u2026\u2026\u7b11\u9854\u3067\u30b9\u30fc\u30d1\u30fc\u306b\u58f2\u308a\u8fbc\u307f\u306b\u6765\u305f\u55b6\u696d\u306e\u4eba\u611f\u304c\u3042\u308b\u3002 #nichiasa #nitiasa #sht https://t.co/dt8t8iCCFc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nichiasa",
+                "indices": [
+                    72,
+                    81
+                ]
+            },
+            {
+                "text": "nitiasa",
+                "indices": [
+                    82,
+                    90
+                ]
+            },
+            {
+                "text": "sht",
+                "indices": [
+                    91,
+                    95
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jackigudelhian",
+                "name": "\u30b8\u30e3\u30c3\u30ad\u30fc\u30fb\u30b0\u30fc\u30c7\u30ea\u30a2\u30f3(\u65e9\u304f\u30b3\u30ed\u30ca\u660e\u3051\u308d)",
+                "id": 402660118,
+                "id_str": "402660118",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256743075071709184,
+                "id_str": "1256743075071709184",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZKxOU0AAewxe.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZKxOU0AAewxe.jpg",
+                "url": "https://t.co/dt8t8iCCFc",
+                "display_url": "pic.twitter.com/dt8t8iCCFc",
+                "expanded_url": "https://twitter.com/jackigudelhian/status/1256743077936459776/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743077936459776,
+                "source_status_id_str": "1256743077936459776",
+                "source_user_id": 402660118,
+                "source_user_id_str": "402660118"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256743075071709184,
+                "id_str": "1256743075071709184",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZKxOU0AAewxe.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZKxOU0AAewxe.jpg",
+                "url": "https://t.co/dt8t8iCCFc",
+                "display_url": "pic.twitter.com/dt8t8iCCFc",
+                "expanded_url": "https://twitter.com/jackigudelhian/status/1256743077936459776/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743077936459776,
+                "source_status_id_str": "1256743077936459776",
+                "source_user_id": 402660118,
+                "source_user_id_str": "402660118"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 64599891,
+        "id_str": "64599891",
+        "name": "\u304d\u306a\u3053",
+        "screen_name": "laziestkinako",
+        "location": "",
+        "description": "\u4e00\u4eba\u52dd\u624b\u306b\u30dc\u30e4\u3044\u3066\u307e\u3059\u3002RT\u591a\u3081\u3067\u3059\u3002\u6bd2\u5410\u304d\u306b\u304a\u4ed8\u304d\u5408\u3044\u9802\u304d\u611f\u8b1d\u3067\u3059\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 856,
+        "friends_count": 994,
+        "listed_count": 68,
+        "created_at": "Tue Aug 11 02:38:00 +0000 2009",
+        "favourites_count": 580,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43949,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/373865797/11265476_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/373865797/11265476_normal.jpg",
+        "profile_link_color": "242221",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:31:13 +0000 2020",
+        "id": 1256743077936459776,
+        "id_str": "1256743077936459776",
+        "text": "\u30d5\u30a9\u30fc\u30de\u30eb\u306a\u683c\u597d\u306e\u4eba\u9593\u304c\u591a\u6570\u6d3e\u306e\u30aa\u30ed\u30ca\u30df\u30f3C\u306e\uff23\uff2d\u2026\u2026\u7b11\u9854\u3067\u30b9\u30fc\u30d1\u30fc\u306b\u58f2\u308a\u8fbc\u307f\u306b\u6765\u305f\u55b6\u696d\u306e\u4eba\u611f\u304c\u3042\u308b\u3002 #nichiasa #nitiasa #sht https://t.co/dt8t8iCCFc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nichiasa",
+                    "indices": [
+                        52,
+                        61
+                    ]
+                },
+                {
+                    "text": "nitiasa",
+                    "indices": [
+                        62,
+                        70
+                    ]
+                },
+                {
+                    "text": "sht",
+                    "indices": [
+                        71,
+                        75
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256743075071709184,
+                    "id_str": "1256743075071709184",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDZKxOU0AAewxe.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDZKxOU0AAewxe.jpg",
+                    "url": "https://t.co/dt8t8iCCFc",
+                    "display_url": "pic.twitter.com/dt8t8iCCFc",
+                    "expanded_url": "https://twitter.com/jackigudelhian/status/1256743077936459776/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 300,
+                            "h": 168,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 300,
+                            "h": 168,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 300,
+                            "h": 168,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256743075071709184,
+                    "id_str": "1256743075071709184",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDZKxOU0AAewxe.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDZKxOU0AAewxe.jpg",
+                    "url": "https://t.co/dt8t8iCCFc",
+                    "display_url": "pic.twitter.com/dt8t8iCCFc",
+                    "expanded_url": "https://twitter.com/jackigudelhian/status/1256743077936459776/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 300,
+                            "h": 168,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 300,
+                            "h": 168,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 300,
+                            "h": 168,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.softama.com/\" rel=\"nofollow\">\u30c4\u30a4\u30bf\u30de for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 402660118,
+            "id_str": "402660118",
+            "name": "\u30b8\u30e3\u30c3\u30ad\u30fc\u30fb\u30b0\u30fc\u30c7\u30ea\u30a2\u30f3(\u65e9\u304f\u30b3\u30ed\u30ca\u660e\u3051\u308d)",
+            "screen_name": "jackigudelhian",
+            "location": "\u4eba\u91cc",
+            "description": "\uff34\uff22\uff33\u30e9\u30b8\u30aa\u30ea\u30b9\u30ca\u30fc\uff0f\u30b5\u30a4\u30d0\u30fc\u30d5\u30a9\u30fc\u30df\u30e5\u30e9\uff0f\u30cb\u30c1\u30a2\u30b5\uff0f\u30a2\u30cb\u30bd\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\uff0f\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30bf\u30a4\u30e0\uff0fTM_NETWORK\uff0f\u5ca1\u6751\u9756\u5e78\uff0f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df\uff0f",
+            "url": "https://t.co/fBKfW7v1LA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fBKfW7v1LA",
+                            "expanded_url": "http://sp.joysound.com/userpage/index.htm?usr=2e6a5cd89a71769572b0428699d6b94135d4",
+                            "display_url": "sp.joysound.com/userpage/index\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 468,
+            "friends_count": 575,
+            "listed_count": 23,
+            "created_at": "Tue Nov 01 11:55:56 +0000 2011",
+            "favourites_count": 25889,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 109324,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/583372711184871424/pF995DUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/583372711184871424/pF995DUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/402660118/1529576217",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

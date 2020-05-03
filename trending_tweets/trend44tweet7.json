@@ -1,0 +1,244 @@
+{
+    "created_at": "Sun May 03 00:42:58 +0000 2020",
+    "id": 1256746035071922176,
+    "id_str": "1256746035071922176",
+    "text": "#AguilaEnVivo todos a votar por el #choco @ElderDiaz01 #vallenaton #AguilaEnVivo https://t.co/e2hbgeZQUu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "text": "choco",
+                "indices": [
+                    35,
+                    41
+                ]
+            },
+            {
+                "text": "vallenaton",
+                "indices": [
+                    55,
+                    66
+                ]
+            },
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    67,
+                    80
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElderDiaz01",
+                "name": "Elder Dayan",
+                "id": 182488284,
+                "id_str": "182488284",
+                "indices": [
+                    42,
+                    54
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745031785951232,
+                "id_str": "1256745031785951232",
+                "indices": [
+                    81,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745031785951232/pu/img/PqhN5kljA7w5-jv1.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745031785951232/pu/img/PqhN5kljA7w5-jv1.jpg",
+                "url": "https://t.co/e2hbgeZQUu",
+                "display_url": "pic.twitter.com/e2hbgeZQUu",
+                "expanded_url": "https://twitter.com/antonio198425/status/1256746035071922176/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745031785951232,
+                "id_str": "1256745031785951232",
+                "indices": [
+                    81,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745031785951232/pu/img/PqhN5kljA7w5-jv1.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745031785951232/pu/img/PqhN5kljA7w5-jv1.jpg",
+                "url": "https://t.co/e2hbgeZQUu",
+                "display_url": "pic.twitter.com/e2hbgeZQUu",
+                "expanded_url": "https://twitter.com/antonio198425/status/1256746035071922176/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 7433,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745031785951232/pu/vid/720x1280/XC0_EBIz4DCShm-u.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745031785951232/pu/vid/320x568/x5DCcYvV68b7zv7Y.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745031785951232/pu/pl/bIssf27tt8zqyQrR.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745031785951232/pu/vid/360x640/lGkMmAFAMQyVOYdZ.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 108178297,
+        "id_str": "108178297",
+        "name": "antonio angarita",
+        "screen_name": "antonio198425",
+        "location": "Medell\u00edn, Colombia",
+        "description": "Abogado U de Medell\u00edn Magister en Ciencias Penales y Criminol\u00f3gicas Universidad Externado de Colombia, MFcolegio de abogados penalistas de Colombia @cpenalistas",
+        "url": "https://t.co/xDukmx9Xdq",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/xDukmx9Xdq",
+                        "expanded_url": "http://www.abogadoantonioangarita.com.co",
+                        "display_url": "abogadoantonioangarita.com.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 337,
+        "friends_count": 985,
+        "listed_count": 1,
+        "created_at": "Mon Jan 25 03:16:46 +0000 2010",
+        "favourites_count": 1045,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2965,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250448917529010178/SQjr1wXA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250448917529010178/SQjr1wXA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108178297/1586561735",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

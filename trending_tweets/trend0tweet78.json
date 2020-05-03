@@ -1,0 +1,410 @@
+{
+    "created_at": "Sun May 03 00:41:07 +0000 2020",
+    "id": 1256745568589807616,
+    "id_str": "1256745568589807616",
+    "text": "RT @jorgeemateus: Quem canta todas desde sempre? #LiveJeM #JeMBrahmaLive #FiqueEmCasa e Cante #Comigo https://t.co/MkwSvGBMeT",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveJeM",
+                "indices": [
+                    49,
+                    57
+                ]
+            },
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    58,
+                    72
+                ]
+            },
+            {
+                "text": "FiqueEmCasa",
+                "indices": [
+                    73,
+                    85
+                ]
+            },
+            {
+                "text": "Comigo",
+                "indices": [
+                    94,
+                    101
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jorgeemateus",
+                "name": "Jorge & Mateus",
+                "id": 41043596,
+                "id_str": "41043596",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256719140900999168,
+                "id_str": "1256719140900999168",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDDZnfWkAACxK2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDDZnfWkAACxK2.jpg",
+                "url": "https://t.co/MkwSvGBMeT",
+                "display_url": "pic.twitter.com/MkwSvGBMeT",
+                "expanded_url": "https://twitter.com/jorgeemateus/status/1256719162002550784/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 862,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 572,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 862,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256719162002550784,
+                "source_status_id_str": "1256719162002550784",
+                "source_user_id": 41043596,
+                "source_user_id_str": "41043596"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256719140900999168,
+                "id_str": "1256719140900999168",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDDZnfWkAACxK2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDDZnfWkAACxK2.jpg",
+                "url": "https://t.co/MkwSvGBMeT",
+                "display_url": "pic.twitter.com/MkwSvGBMeT",
+                "expanded_url": "https://twitter.com/jorgeemateus/status/1256719162002550784/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 862,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 572,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 862,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256719162002550784,
+                "source_status_id_str": "1256719162002550784",
+                "source_user_id": 41043596,
+                "source_user_id_str": "41043596"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2713214801,
+        "id_str": "2713214801",
+        "name": "Let\u00edcia Lopes",
+        "screen_name": "LeticiaLopes98",
+        "location": "Brasilia-Brasil",
+        "description": "Aqui e agora!! O que acontece em Vegas fica em Vagas, o Twitter \u00e9 Vegas.       Instagram: leticialoops 1998\u2122\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 507,
+        "friends_count": 2558,
+        "listed_count": 5,
+        "created_at": "Tue Jul 15 20:23:37 +0000 2014",
+        "favourites_count": 86241,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167534949504864256/HO0mxCTh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167534949504864256/HO0mxCTh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2713214801/1557280989",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:56:11 +0000 2020",
+        "id": 1256719162002550784,
+        "id_str": "1256719162002550784",
+        "text": "Quem canta todas desde sempre? #LiveJeM #JeMBrahmaLive #FiqueEmCasa e Cante #Comigo https://t.co/MkwSvGBMeT",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveJeM",
+                    "indices": [
+                        31,
+                        39
+                    ]
+                },
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        40,
+                        54
+                    ]
+                },
+                {
+                    "text": "FiqueEmCasa",
+                    "indices": [
+                        55,
+                        67
+                    ]
+                },
+                {
+                    "text": "Comigo",
+                    "indices": [
+                        76,
+                        83
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256719140900999168,
+                    "id_str": "1256719140900999168",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDDZnfWkAACxK2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDDZnfWkAACxK2.jpg",
+                    "url": "https://t.co/MkwSvGBMeT",
+                    "display_url": "pic.twitter.com/MkwSvGBMeT",
+                    "expanded_url": "https://twitter.com/jorgeemateus/status/1256719162002550784/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 862,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 572,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 862,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256719140900999168,
+                    "id_str": "1256719140900999168",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDDZnfWkAACxK2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDDZnfWkAACxK2.jpg",
+                    "url": "https://t.co/MkwSvGBMeT",
+                    "display_url": "pic.twitter.com/MkwSvGBMeT",
+                    "expanded_url": "https://twitter.com/jorgeemateus/status/1256719162002550784/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 862,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 572,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 862,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 41043596,
+            "id_str": "41043596",
+            "name": "Jorge & Mateus",
+            "screen_name": "jorgeemateus",
+            "location": "Brasil",
+            "description": "Jorge & Mateus",
+            "url": "https://t.co/LsYLCF6u8j",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LsYLCF6u8j",
+                            "expanded_url": "http://www.jorgeemateus.com.br",
+                            "display_url": "jorgeemateus.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8100047,
+            "friends_count": 104,
+            "listed_count": 3126,
+            "created_at": "Tue May 19 03:19:53 +0000 2009",
+            "favourites_count": 1605,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 17592,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255626935356592128/cHnw80WZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255626935356592128/cHnw80WZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41043596/1588199732",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1359,
+        "favorite_count": 4003,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1359,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

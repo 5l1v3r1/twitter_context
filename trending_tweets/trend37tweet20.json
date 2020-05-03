@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:36 +0000 2020",
+    "id": 1256745942096777216,
+    "id_str": "1256745942096777216",
+    "text": "Faz assim: primeiro lugar vc someeee #liveeduardaalves",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "liveeduardaalves",
+                "indices": [
+                    37,
+                    54
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 64071936,
+        "id_str": "64071936",
+        "name": "ela faz o destino dela",
+        "screen_name": "larigaga_",
+        "location": "Recife, Brasil",
+        "description": "arquiteta e urbanista | dj e produtora da @atomic_party_",
+        "url": "https://t.co/3XpYEXsVgG",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/3XpYEXsVgG",
+                        "expanded_url": "https://instagram.com/larigaga_?utm_source=ig_profile_share&igshid=4zoogzs50krl",
+                        "display_url": "instagram.com/larigaga_?utm_\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 544,
+        "friends_count": 295,
+        "listed_count": 4,
+        "created_at": "Sun Aug 09 00:14:01 +0000 2009",
+        "favourites_count": 21164,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29986,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1184523568366927873/t4S_V4li_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184523568366927873/t4S_V4li_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64071936/1563452734",
+        "profile_link_color": "ED0E33",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,210 @@
+{
+    "created_at": "Sun May 03 00:42:54 +0000 2020",
+    "id": 1256746018756087814,
+    "id_str": "1256746018756087814",
+    "text": "RT @WendelBrasilSP: Al\u00f4 Robozada!\nBora seguir minha prima @fgabireis\nEla \u00e9 bolsonarista e SDV.\n\nBORA!\ud83d\udc4a\ud83d\ude09 \n#OrePorBolsonaro",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    105,
+                    121
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "WendelBrasilSP",
+                "name": "\u03c9 \u0454 \u0438 \u2202 \u0454 \u2113",
+                "id": 1168949164002226177,
+                "id_str": "1168949164002226177",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "fgabireis",
+                "name": "Gabi Reis",
+                "id": 971515833594929152,
+                "id_str": "971515833594929152",
+                "indices": [
+                    58,
+                    68
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1231684330705035270,
+        "id_str": "1231684330705035270",
+        "name": "Valeria Santos",
+        "screen_name": "Valeria79397572",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 990,
+        "friends_count": 1578,
+        "listed_count": 2,
+        "created_at": "Sun Feb 23 20:57:10 +0000 2020",
+        "favourites_count": 21699,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3382,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231684816220934147/107dAcDJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231684816220934147/107dAcDJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231684330705035270/1582499412",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:35:37 +0000 2020",
+        "id": 1256744185442549761,
+        "id_str": "1256744185442549761",
+        "text": "Al\u00f4 Robozada!\nBora seguir minha prima @fgabireis\nEla \u00e9 bolsonarista e SDV.\n\nBORA!\ud83d\udc4a\ud83d\ude09 \n#OrePorBolsonaro",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OrePorBolsonaro",
+                    "indices": [
+                        85,
+                        101
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "fgabireis",
+                    "name": "Gabi Reis",
+                    "id": 971515833594929152,
+                    "id_str": "971515833594929152",
+                    "indices": [
+                        38,
+                        48
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1168949164002226177,
+            "id_str": "1168949164002226177",
+            "name": "\u03c9 \u0454 \u0438 \u2202 \u0454 \u2113",
+            "screen_name": "WendelBrasilSP",
+            "location": "SP",
+            "description": "Mais um Rob\u00f4 miliciano trabalhando pelo Brasil!\nCasado, amante da justi\u00e7a.\nSigam minha conta reserva: @WendelBrazilSP",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13403,
+            "friends_count": 13204,
+            "listed_count": 0,
+            "created_at": "Tue Sep 03 18:09:45 +0000 2019",
+            "favourites_count": 38851,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 20453,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1168953080676847618/VRzxU6b-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168953080676847618/VRzxU6b-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168949164002226177/1573597585",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 31,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

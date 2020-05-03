@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun May 03 00:43:03 +0000 2020",
+    "id": 1256746056177422336,
+    "id_str": "1256746056177422336",
+    "text": "RT @VERSACEYEO: LIKE/RT TO JOIN OUR AU GC #WEAREINPAYNE",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WEAREINPAYNE",
+                "indices": [
+                    42,
+                    55
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VERSACEYEO",
+                "name": "\u064b\u03b9zzy\u2077\ud81a\uddf5 new edit\ud83d\udccc",
+                "id": 2269604042,
+                "id_str": "2269604042",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3051467172,
+        "id_str": "3051467172",
+        "name": "tsu \u2077 \u22c6 \ud835\uddf5\ud835\uddee\ud835\uddf6\ud835\uddf8\ud835\ude06\ud835\ude02\ud835\ude02 \ud835\ude00\ud835\udff0",
+        "screen_name": "dearsora",
+        "location": "\u30eb\u30ab\u30ea\u30aa",
+        "description": "\u270e . . . #\u30cf\u30a4\u30ad\u30e5\u30fc \u2661\u1d4e 5y @halsey \u207a 2y @wethelostyouth",
+        "url": "https://t.co/20qYARhh8w",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/20qYARhh8w",
+                        "expanded_url": "http://dearsora.carrd.co",
+                        "display_url": "dearsora.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 525,
+        "friends_count": 298,
+        "listed_count": 0,
+        "created_at": "Sun Mar 01 00:55:02 +0000 2015",
+        "favourites_count": 9804,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 394,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256577848359313409/2YsOnXhT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256577848359313409/2YsOnXhT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3051467172/1588332203",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:42:38 +0000 2020",
+        "id": 1256745949793312772,
+        "id_str": "1256745949793312772",
+        "text": "LIKE/RT TO JOIN OUR AU GC #WEAREINPAYNE",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WEAREINPAYNE",
+                    "indices": [
+                        26,
+                        39
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2269604042,
+            "id_str": "2269604042",
+            "name": "\u064b\u03b9zzy\u2077\ud81a\uddf5 new edit\ud83d\udccc",
+            "screen_name": "VERSACEYEO",
+            "location": "United States",
+            "description": "#YEOSANG: don\u2019t be shy, give me lines",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 715,
+            "friends_count": 603,
+            "listed_count": 37,
+            "created_at": "Tue Dec 31 00:24:45 +0000 2013",
+            "favourites_count": 46589,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9970,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254134894315425792/_2N5JJ5__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254134894315425792/_2N5JJ5__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2269604042/1587844035",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

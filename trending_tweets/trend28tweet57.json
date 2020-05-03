@@ -1,0 +1,234 @@
+{
+    "created_at": "Sun May 03 00:42:28 +0000 2020",
+    "id": 1256745910643507200,
+    "id_str": "1256745910643507200",
+    "text": "RT @CamilaOnRadio: You\u2019d make Camilizers night @OnAirRomeo if you played My Oh My by Camila Cabello ft DaBaby on @MostRequestLive #MostRequ\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CamilaOnRadio",
+                "name": "Camila On Radio",
+                "id": 491732224,
+                "id_str": "491732224",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "OnAirRomeo",
+                "name": "On Air Romeo",
+                "id": 21590830,
+                "id_str": "21590830",
+                "indices": [
+                    47,
+                    58
+                ]
+            },
+            {
+                "screen_name": "MostRequestLive",
+                "name": "Most Requested Live",
+                "id": 108775893,
+                "id_str": "108775893",
+                "indices": [
+                    113,
+                    129
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1168209447363047424,
+        "id_str": "1168209447363047424",
+        "name": "Sylvana",
+        "screen_name": "SylvanaYPB",
+        "location": "Miami, FL",
+        "description": "Fan Account",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9,
+        "friends_count": 48,
+        "listed_count": 0,
+        "created_at": "Sun Sep 01 17:10:22 +0000 2019",
+        "favourites_count": 3295,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2330,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255098426062024704/cM-vLVjw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255098426062024704/cM-vLVjw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:00:00 +0000 2020",
+        "id": 1256735220318957569,
+        "id_str": "1256735220318957569",
+        "text": "You\u2019d make Camilizers night @OnAirRomeo if you played My Oh My by Camila Cabello ft DaBaby on @MostRequestLive #MostRequestedLive",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MostRequestedLive",
+                    "indices": [
+                        111,
+                        129
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "OnAirRomeo",
+                    "name": "On Air Romeo",
+                    "id": 21590830,
+                    "id_str": "21590830",
+                    "indices": [
+                        28,
+                        39
+                    ]
+                },
+                {
+                    "screen_name": "MostRequestLive",
+                    "name": "Most Requested Live",
+                    "id": 108775893,
+                    "id_str": "108775893",
+                    "indices": [
+                        94,
+                        110
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 491732224,
+            "id_str": "491732224",
+            "name": "Camila On Radio",
+            "screen_name": "CamilaOnRadio",
+            "location": "",
+            "description": "Fan account to help promoting singer-songwriter artist @Camila_Cabello on American Radio.",
+            "url": "https://t.co/ZyA3x5DK1r",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZyA3x5DK1r",
+                            "expanded_url": "https://camilacabello.lnk.to/CCRomance",
+                            "display_url": "camilacabello.lnk.to/CCRomance",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 17606,
+            "friends_count": 593,
+            "listed_count": 115,
+            "created_at": "Mon Feb 13 23:34:58 +0000 2012",
+            "favourites_count": 43512,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 110443,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1796EB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1247684105996832769/HKSPvoWt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247684105996832769/HKSPvoWt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/491732224/1586306045",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

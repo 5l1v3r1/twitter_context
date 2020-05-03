@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun May 03 00:36:04 +0000 2020",
+    "id": 1256744299477286913,
+    "id_str": "1256744299477286913",
+    "text": "@Lonlythebrave 1\u00b0 #TeamAlwaysYou",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    18,
+                    32
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lonlythebrave",
+                "name": "cam\u0131 \u00d7\u035c\u00d7 au\ud83d\udccc",
+                "id": 2190926569,
+                "id_str": "2190926569",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256701616239099905,
+    "in_reply_to_status_id_str": "1256701616239099905",
+    "in_reply_to_user_id": 2190926569,
+    "in_reply_to_user_id_str": "2190926569",
+    "in_reply_to_screen_name": "Lonlythebrave",
+    "user": {
+        "id": 789265333286739972,
+        "id_str": "789265333286739972",
+        "name": "Anto Fernandez\u2728",
+        "screen_name": "anto_fernandez0",
+        "location": "Marcos Ju\u00e1rez, Argentina",
+        "description": "-Se tu mismo sin importar lo que quieran los dem\u00e1s-\n\u2728After\u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 51,
+        "friends_count": 398,
+        "listed_count": 0,
+        "created_at": "Fri Oct 21 00:41:34 +0000 2016",
+        "favourites_count": 4026,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1902,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1225096568816263168/GpT19feO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225096568816263168/GpT19feO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789265333286739972/1580920757",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

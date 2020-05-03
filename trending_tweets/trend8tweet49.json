@@ -1,0 +1,361 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745944676106242,
+    "id_str": "1256745944676106242",
+    "text": "RT @ckie_eikc: @monipersona @BTS_twt More HD because why not? \n@BTS_twt \ud83d\udc9c\n\nJEON                                      JUNGKOOK https://t.co/\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ckie_eikc",
+                "name": "c\u0332o\u0332o\u0332k\u0332i\u0332e\u0332\u2077 \u2614\ufe0f",
+                "id": 1155435954477383683,
+                "id_str": "1155435954477383683",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "monipersona",
+                "name": "fatima \u2077 \u2081\u2082",
+                "id": 859060200690548742,
+                "id_str": "859060200690548742",
+                "indices": [
+                    15,
+                    27
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    28,
+                    36
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    63,
+                    71
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1251786860549951488,
+        "id_str": "1251786860549951488",
+        "name": "ntsyh_a",
+        "screen_name": "a_ntsyh",
+        "location": "",
+        "description": "you are the source of my smile and tears in the same time",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Sun Apr 19 08:17:13 +0000 2020",
+        "favourites_count": 70,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 206,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:25:27 +0000 2020",
+        "id": 1256696328161296384,
+        "id_str": "1256696328161296384",
+        "text": "@monipersona @BTS_twt More HD because why not? \n@BTS_twt \ud83d\udc9c\n\nJEON                                      JUNGKOOK https://t.co/5RHbXiZ8AK",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "monipersona",
+                    "name": "fatima \u2077 \u2081\u2082",
+                    "id": 859060200690548742,
+                    "id_str": "859060200690548742",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "BTS_twt",
+                    "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                    "id": 335141638,
+                    "id_str": "335141638",
+                    "indices": [
+                        13,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "BTS_twt",
+                    "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                    "id": 335141638,
+                    "id_str": "335141638",
+                    "indices": [
+                        48,
+                        56
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256696322108915712,
+                    "id_str": "1256696322108915712",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCupY3XgAArC9f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCupY3XgAArC9f.jpg",
+                    "url": "https://t.co/5RHbXiZ8AK",
+                    "display_url": "pic.twitter.com/5RHbXiZ8AK",
+                    "expanded_url": "https://twitter.com/ckie_eikc/status/1256696328161296384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1182,
+                            "h": 1445,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 982,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 556,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256696322108915712,
+                    "id_str": "1256696322108915712",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCupY3XgAArC9f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCupY3XgAArC9f.jpg",
+                    "url": "https://t.co/5RHbXiZ8AK",
+                    "display_url": "pic.twitter.com/5RHbXiZ8AK",
+                    "expanded_url": "https://twitter.com/ckie_eikc/status/1256696328161296384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1182,
+                            "h": 1445,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 982,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 556,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256696322104725506,
+                    "id_str": "1256696322104725506",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCupY2XkAInNqd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCupY2XkAInNqd.jpg",
+                    "url": "https://t.co/5RHbXiZ8AK",
+                    "display_url": "pic.twitter.com/5RHbXiZ8AK",
+                    "expanded_url": "https://twitter.com/ckie_eikc/status/1256696328161296384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 580,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1523,
+                            "h": 1785,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1256650355963768834,
+        "in_reply_to_status_id_str": "1256650355963768834",
+        "in_reply_to_user_id": 859060200690548742,
+        "in_reply_to_user_id_str": "859060200690548742",
+        "in_reply_to_screen_name": "monipersona",
+        "user": {
+            "id": 1155435954477383683,
+            "id_str": "1155435954477383683",
+            "name": "c\u0332o\u0332o\u0332k\u0332i\u0332e\u0332\u2077 \u2614\ufe0f",
+            "screen_name": "ckie_eikc",
+            "location": "Boston, MA | Barcelona, SP",
+            "description": "7\u0336\u22c6| i\u20e5 \u20e5k\u20e5n\u20e5o\u20e5w\u20e5 \u20e5y\u20e5o\u20e5u\u20e5r\u20e5 \u20e5f\u20e5a\u20e5c\u20e5e\u20e5 \u20e5l\u20e5i\u20e5k\u20e5e\u20e5 \u20e5t\u20e5h\u20e5e\u20e5 \u20e5b\u20e5a\u20e5c\u20e5k\u20e5 \u20e5o\u20e5f\u20e5 \u20e5m\u20e5y\u20e5 \u20e5h\u20e5a\u20e5n\u20e5d\u20e5 |\u22c67\u0336",
+            "url": "https://t.co/WjIf0jGZVj",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/WjIf0jGZVj",
+                            "expanded_url": "http://orcd.co/blackswan",
+                            "display_url": "orcd.co/blackswan",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 189,
+            "friends_count": 18,
+            "listed_count": 0,
+            "created_at": "Sun Jul 28 11:12:53 +0000 2019",
+            "favourites_count": 1930,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1754,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252340277781524480/gkMvSprJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252340277781524480/gkMvSprJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155435954477383683/1587434561",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 133,
+        "favorite_count": 754,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 133,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

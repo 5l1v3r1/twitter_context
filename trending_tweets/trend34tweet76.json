@@ -1,0 +1,388 @@
+{
+    "created_at": "Sun May 03 00:35:03 +0000 2020",
+    "id": 1256744044249485313,
+    "id_str": "1256744044249485313",
+    "text": "RT @nabe1975: nabe1975\u306e\u6b63\u4f53\u306f\u30b1\u30eb\u30d9\u30ed\u30b9\u3067\u3059\uff01\u7d76\u5bfe\u306b\u30b1\u30eb\u30d9\u30ed\u30b9\u3067\u3059\uff01\uff01\uff01\n#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c #shindanmaker\nhttps://t.co/blgmUuf8ws https://t.co/Yn4GIftxxa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    48,
+                    61
+                ]
+            },
+            {
+                "text": "shindanmaker",
+                "indices": [
+                    62,
+                    75
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nabe1975",
+                "name": "Watanabe",
+                "id": 74674685,
+                "id_str": "74674685",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/blgmUuf8ws",
+                "expanded_url": "https://shindanmaker.com/984766",
+                "display_url": "shindanmaker.com/984766",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1256725645855322114,
+                "id_str": "1256725645855322114",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDJUQVUcAI-Lc-.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDJUQVUcAI-Lc-.png",
+                "url": "https://t.co/Yn4GIftxxa",
+                "display_url": "pic.twitter.com/Yn4GIftxxa",
+                "expanded_url": "https://twitter.com/nabe1975/status/1256725654801805312/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 506,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 506,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 506,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1256725654801805312,
+                "source_status_id_str": "1256725654801805312",
+                "source_user_id": 74674685,
+                "source_user_id_str": "74674685"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256725645855322114,
+                "id_str": "1256725645855322114",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDJUQVUcAI-Lc-.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDJUQVUcAI-Lc-.png",
+                "url": "https://t.co/Yn4GIftxxa",
+                "display_url": "pic.twitter.com/Yn4GIftxxa",
+                "expanded_url": "https://twitter.com/nabe1975/status/1256725654801805312/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 506,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 506,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 506,
+                        "h": 674,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1256725654801805312,
+                "source_status_id_str": "1256725654801805312",
+                "source_user_id": 74674685,
+                "source_user_id_str": "74674685"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 392065717,
+        "id_str": "392065717",
+        "name": "\u304f\u307e\u3063\u3061",
+        "screen_name": "kmattch",
+        "location": "",
+        "description": "\u6240\u8a6e\u3001\u304f\u307e\u3001\u3067\u3059\u3002\u4f55\u3082\u308f\u304b\u308a\u307e\u305b\u3093\u3002\u30c4\u30a4\u30c3\u30bf\u30fc\u3092\u59cb\u3081\u3066\u3082\u3046\u3059\u30507\u5e74\u306b\u306a\u308a\u307e\u3059\u3002\u4f55\u306e\u5c02\u9580\u77e5\u8b58\u3082\u5f97\u610f\u5206\u91ce\u3082\u3042\u308a\u307e\u305b\u3093\u3002\u77e5\u3089\u306a\u3044\u4eba\u3068\u30cd\u30c3\u30c8\u3067\u3084\u308a\u53d6\u308a\u3059\u308b\u306e\u304c\u82e6\u624b\u306a\u306e\u3067\u3001\u3042\u307e\u308a\u7d61\u307f\u307e\u305b\u3093\u3002\u30b5\u30fc\u30d3\u30b9\u7cbe\u795e\u3082\u4e4f\u3057\u3044\u306e\u3067\u9762\u767d\u3044\u3053\u3068\u3082\u545f\u304d\u307e\u305b\u3093\u3002\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 253,
+        "friends_count": 556,
+        "listed_count": 9,
+        "created_at": "Sun Oct 16 14:17:33 +0000 2011",
+        "favourites_count": 32906,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 59495,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/953491599048110081/dGGI7_ZF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/953491599048110081/dGGI7_ZF_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:21:59 +0000 2020",
+        "id": 1256725654801805312,
+        "id_str": "1256725654801805312",
+        "text": "nabe1975\u306e\u6b63\u4f53\u306f\u30b1\u30eb\u30d9\u30ed\u30b9\u3067\u3059\uff01\u7d76\u5bfe\u306b\u30b1\u30eb\u30d9\u30ed\u30b9\u3067\u3059\uff01\uff01\uff01\n#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c #shindanmaker\nhttps://t.co/blgmUuf8ws https://t.co/Yn4GIftxxa",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                    "indices": [
+                        34,
+                        47
+                    ]
+                },
+                {
+                    "text": "shindanmaker",
+                    "indices": [
+                        48,
+                        61
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/blgmUuf8ws",
+                    "expanded_url": "https://shindanmaker.com/984766",
+                    "display_url": "shindanmaker.com/984766",
+                    "indices": [
+                        62,
+                        85
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1256725645855322114,
+                    "id_str": "1256725645855322114",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDJUQVUcAI-Lc-.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDJUQVUcAI-Lc-.png",
+                    "url": "https://t.co/Yn4GIftxxa",
+                    "display_url": "pic.twitter.com/Yn4GIftxxa",
+                    "expanded_url": "https://twitter.com/nabe1975/status/1256725654801805312/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 506,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 506,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256725645855322114,
+                    "id_str": "1256725645855322114",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDJUQVUcAI-Lc-.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDJUQVUcAI-Lc-.png",
+                    "url": "https://t.co/Yn4GIftxxa",
+                    "display_url": "pic.twitter.com/Yn4GIftxxa",
+                    "expanded_url": "https://twitter.com/nabe1975/status/1256725654801805312/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 506,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 506,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 74674685,
+            "id_str": "74674685",
+            "name": "Watanabe",
+            "screen_name": "nabe1975",
+            "location": "",
+            "description": "\u982d\u3086\u308b\u3075\u308f\u304a\u3058\u3055\u3093\u3002",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11523,
+            "friends_count": 666,
+            "listed_count": 290,
+            "created_at": "Wed Sep 16 07:13:42 +0000 2009",
+            "favourites_count": 5388,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 119068,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2113481634/Maciejowski_Bible_Navin_normal.gif",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2113481634/Maciejowski_Bible_Navin_normal.gif",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/74674685/1398341496",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 26,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

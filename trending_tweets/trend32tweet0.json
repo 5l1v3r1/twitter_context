@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:42:58 +0000 2020",
+    "id": 1256746033868009473,
+    "id_str": "1256746033868009473",
+    "text": "RT @Haytyugi: #\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0 \u304c\u60aa\u3044",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    14,
+                    24
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Haytyugi",
+                "name": "\u3055\u3082\u3093",
+                "id": 4069220780,
+                "id_str": "4069220780",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 700875970975109121,
+        "id_str": "700875970975109121",
+        "name": "\u5c71\u57ce\u5b88",
+        "screen_name": "NoeYmsr",
+        "location": "\u4eac\u90fd \u4eac\u90fd\u5e02",
+        "description": "\u6625\u96c1\u6211\u306b\u4f3c\u305f\u308a \u6211\u96c1\u306b\u4f3c\u305f\u308a\u6d1b\u967d\u57ce\u88cf\u82b1\u306b\u2026\u80cc\u304b\u305a\u5c45\u5ea7\u308b(\uff9f\u2200\uff9f) \u30a2\u30e9\u30d5\u30a9\u30fc\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u3067\u3059\u3002\u6c17\u306b\u306a\u308b\u65b9\u3001\u6c17\u306e\u5408\u3044\u305d\u3046\u306a\u65b9\u306b\u306f\u7121\u8a00\u30d5\u30a9\u30ed\u30fc\u3092\u3055\u305b\u3066\u3044\u305f\u3060\u3044\u3066\u304a\u308a\u307e\u3059\u306e\u3067\u304a\u8a31\u3057\u304f\u3060\u3055\u3044\uff08\u7b11\uff09\u3069\u3046\u305e\u5b9c\u3057\u304f\u304a\u9858\u3044\u81f4\u3057\u307e\u3059m(_ _)m",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 972,
+        "friends_count": 954,
+        "listed_count": 5,
+        "created_at": "Sat Feb 20 02:53:47 +0000 2016",
+        "favourites_count": 100093,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 51242,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700881670874923008/7ifIL8jZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700881670874923008/7ifIL8jZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/700875970975109121/1455938745",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:42:03 +0000 2020",
+        "id": 1256745805890809856,
+        "id_str": "1256745805890809856",
+        "text": "#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0 \u304c\u60aa\u3044",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4069220780,
+            "id_str": "4069220780",
+            "name": "\u3055\u3082\u3093",
+            "screen_name": "Haytyugi",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1215,
+            "friends_count": 890,
+            "listed_count": 7,
+            "created_at": "Fri Oct 30 13:54:39 +0000 2015",
+            "favourites_count": 49570,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 51697,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1186281381388664836/yQW6ihSS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186281381388664836/yQW6ihSS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4069220780/1556267629",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:40:09 +0000 2020",
+    "id": 1256745326477787138,
+    "id_str": "1256745326477787138",
+    "text": "Caramba! A Natuza Nery deu um pito no Ciro Gomes #Edicao20",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Edicao20",
+                "indices": [
+                    49,
+                    58
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 22508598,
+        "id_str": "22508598",
+        "name": "AntonioCarlosMeloSilva",
+        "screen_name": "jurubebadigital",
+        "location": "Bel\u00e9m/Par\u00e1/Brasil",
+        "description": "Viva a Sociedade Alternativa, j\u00e1 dizia Raulzito Seixas, sou amante da Liberdade compartilhada, alternativa, solid\u00e1ria, justa e fraterna.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 455,
+        "friends_count": 1101,
+        "listed_count": 15,
+        "created_at": "Mon Mar 02 17:31:33 +0000 2009",
+        "favourites_count": 97,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14720,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "363346",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248770107649798147/tAL08VI4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248770107649798147/tAL08VI4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22508598/1586565380",
+        "profile_link_color": "363346",
+        "profile_sidebar_border_color": "E5CEB0",
+        "profile_sidebar_fill_color": "E5CEB0",
+        "profile_text_color": "6778A7",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

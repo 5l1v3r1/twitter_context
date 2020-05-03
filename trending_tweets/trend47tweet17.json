@@ -1,0 +1,222 @@
+{
+    "created_at": "Sun May 03 00:38:44 +0000 2020",
+    "id": 1256744969949384707,
+    "id_str": "1256744969949384707",
+    "text": "RT @biebsrell: Ya se termin\u00f3 la hora, pero a\u00fan as\u00ed, siempre h\u00e1ganle stream a la reina Always You, y a todo el \u00e1lbum.\n\n#TeamAlwaysYou #Walls\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    118,
+                    132
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "biebsrell",
+                "name": "larrysoul \ud83c\uddf2\ud83c\uddfd \u2022 calm",
+                "id": 812906263084466176,
+                "id_str": "812906263084466176",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1915900184,
+        "id_str": "1915900184",
+        "name": "\ud835\udc3f\ud835\udcb6\ud835\udcc1\ud835\udcce \u25df\u033d\u25de\u033d \ud835\udc7a\ud835\udc96\ud835\udc8f\ud835\udc87\ud835\udc8d\ud835\udc90\ud835\udc98\ud835\udc86\ud835\udc93, \ud835\udc7d\ud835\udc90\ud835\udc8d.6 \ud83c\udf3b",
+        "screen_name": "lhxtrash",
+        "location": "M\u00e9xico",
+        "description": "\ud835\ude3e\ud835\ude67\ud835\ude5a\ud835\ude56\ud835\ude69\ud835\ude5a \ud835\ude56 \ud835\ude61\ud835\ude5e\ud835\ude5b\ud835\ude5a \ud835\ude69\ud835\ude5d\ud835\ude56\ud835\ude69 \ud835\ude5b\ud835\ude5a\ud835\ude5a\ud835\ude61\ud835\ude68 \ud835\ude5c\ud835\ude64\ud835\ude64\ud835\ude59 \ud835\ude64\ud835\ude63 \ud835\ude69\ud835\ude5d\ud835\ude5a \ud835\ude5e\ud835\ude63\ud835\ude68\ud835\ude5e\ud835\ude59\ud835\ude5a. \ud835\ude49\ud835\ude64\ud835\ude69 \ud835\ude64\ud835\ude63\ud835\ude5a \ud835\ude69\ud835\ude5d\ud835\ude56\ud835\ude69 \ud835\ude5f\ud835\ude6a\ud835\ude68\ud835\ude69 \ud835\ude61\ud835\ude64\ud835\ude64\ud835\ude60\ud835\ude68 \ud835\ude5c\ud835\ude64\ud835\ude64\ud835\ude59 \ud835\ude64\ud835\ude63 \ud835\ude69\ud835\ude5d\ud835\ude5a \ud835\ude64\ud835\ude6a\ud835\ude69\ud835\ude68\ud835\ude5e\ud835\ude59\ud835\ude5a.",
+        "url": "https://t.co/8vqrsAZu2d",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/8vqrsAZu2d",
+                        "expanded_url": "https://twitter.com/Louis_Tomlinson/status/120620074301267968?s=19",
+                        "display_url": "twitter.com/Louis_Tomlinso\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1323,
+        "friends_count": 703,
+        "listed_count": 1,
+        "created_at": "Sun Sep 29 02:13:50 +0000 2013",
+        "favourites_count": 75400,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 49712,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241802791128989696/p_TJwwt4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241802791128989696/p_TJwwt4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915900184/1584903795",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:00:20 +0000 2020",
+        "id": 1256735304104501256,
+        "id_str": "1256735304104501256",
+        "text": "Ya se termin\u00f3 la hora, pero a\u00fan as\u00ed, siempre h\u00e1ganle stream a la reina Always You, y a todo el \u00e1lbum.\n\n#TeamAlwaysYou #WallsOlympics",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TeamAlwaysYou",
+                    "indices": [
+                        103,
+                        117
+                    ]
+                },
+                {
+                    "text": "WallsOlympics",
+                    "indices": [
+                        118,
+                        132
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 812906263084466176,
+            "id_str": "812906263084466176",
+            "name": "larrysoul \ud83c\uddf2\ud83c\uddfd \u2022 calm",
+            "screen_name": "biebsrell",
+            "location": "groff\u2022samberg\u2022gaga",
+            "description": "\u00abDon't fuck with my freedom\u00bb || So many rock bands for one bio. ----------- @ughesm \u2661 -----------",
+            "url": "https://t.co/czkI8KNrGX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/czkI8KNrGX",
+                            "expanded_url": "http://lm-5sos-halsey.xn--c5h/",
+                            "display_url": "lm-5sos-halsey.\u263e",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33194,
+            "friends_count": 16997,
+            "listed_count": 219,
+            "created_at": "Sun Dec 25 06:22:10 +0000 2016",
+            "favourites_count": 66635,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254240786994118656/s3R8QP6t_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254240786994118656/s3R8QP6t_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/812906263084466176/1508894753",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 40,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

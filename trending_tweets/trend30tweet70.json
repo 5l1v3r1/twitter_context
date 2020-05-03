@@ -1,0 +1,113 @@
+{
+    "created_at": "Sun May 03 00:34:57 +0000 2020",
+    "id": 1256744018999992321,
+    "id_str": "1256744018999992321",
+    "text": "@bandaresgate Excelente \nO rock raiz ainda vive\n#LiveDoResgate",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveDoResgate",
+                "indices": [
+                    48,
+                    62
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bandaresgate",
+                "name": "Banda Resgate",
+                "id": 16455380,
+                "id_str": "16455380",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1256743776422375431,
+    "in_reply_to_status_id_str": "1256743776422375431",
+    "in_reply_to_user_id": 16455380,
+    "in_reply_to_user_id_str": "16455380",
+    "in_reply_to_screen_name": "bandaresgate",
+    "user": {
+        "id": 41957120,
+        "id_str": "41957120",
+        "name": "M. Bessa",
+        "screen_name": "manoelbessa",
+        "location": "Rio de Janeiro, Brasil",
+        "description": "This is where I post my thoughts and opinions.",
+        "url": "http://t.co/zMmcuJ12Yw",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/zMmcuJ12Yw",
+                        "expanded_url": "http://www.bessaonline.blogspot.com/",
+                        "display_url": "bessaonline.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 113,
+        "friends_count": 528,
+        "listed_count": 0,
+        "created_at": "Sat May 23 02:36:11 +0000 2009",
+        "favourites_count": 3206,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1906,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252028280431169536/Cwb-CsO8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252028280431169536/Cwb-CsO8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41957120/1545000793",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,94 @@
+{
+    "created_at": "Sun May 03 00:41:58 +0000 2020",
+    "id": 1256745784680132609,
+    "id_str": "1256745784680132609",
+    "text": "\u5ddd\u5d0e\u306e25\u6b73\u3063\u3066\u30bf\u30b0\u3092\u898b\u3066\u770c\u540d\u3058\u3083\u306a\u304f\u3066\u5730\u540d\u3067\u8a00\u308f\u308c\u308b\u3063\u3066\u90fd\u4f1a\u3060\u306a\u3041\u30fc\u3063\u3066\u95a2\u4fc2\u306a\u3044\u3053\u3068\u601d\u3044\u307e\u3057\u305f\u3002",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 273328878,
+        "id_str": "273328878",
+        "name": "\u732b\u3072\u308d\u3057\u3052",
+        "screen_name": "birobiro_tt",
+        "location": "",
+        "description": "\u602a\u3057\u3044\u8005\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u3002\u30aa\u30b9\u3067\u3059\u3002\u72ac\u6d3e\u3067\u3059\u3002\u7d75\u3092\u63cf\u304f\u306e\u597d\u304d\u3067\u3059\u3002\u3042\u3068\u65e5\u672c\u8a9e\u30e9\u30c3\u30d7\u3082\u597d\u304d\u3067\u3059\u3002\u3068\u306b\u304b\u304f\u4f55\u3082\u602a\u3057\u304f\u3042\u308a\u307e\u305b\u3093\u3002\u30b7\u30e3\u30a4\u306a\u306e\u3067\u7d75\u306f\u5b9a\u671f\u7684\u306b\u6d88\u3057\u307e\u3059\u30b7\u30e3\u30a4\u306a\u306e\u3067\u3002\u306a\u306e\u3067\u904e\u53bb\u7d75\u306fpixiv\u304b\u3089\ud83d\udc47\ud83d\udc47",
+        "url": "https://t.co/sxZrfmIXJ9",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/sxZrfmIXJ9",
+                        "expanded_url": "http://touch.pixiv.net/member.php?id=14513240",
+                        "display_url": "touch.pixiv.net/member.php?id=\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 115,
+        "friends_count": 171,
+        "listed_count": 1,
+        "created_at": "Mon Mar 28 08:28:02 +0000 2011",
+        "favourites_count": 1649,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2362,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048225035742105600/limo5zHD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048225035742105600/limo5zHD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273328878/1538580460",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

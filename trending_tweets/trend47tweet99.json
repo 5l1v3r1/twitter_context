@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:29:27 +0000 2020",
+    "id": 1256742633772331009,
+    "id_str": "1256742633772331009",
+    "text": "RT @UpdatesHL: \ud83d\udea8| El turno del #TeamAlwaysYou lleg\u00f3 a su fin. Est\u00e9n atentxs a los pr\u00f3ximos d\u00edas para conocer los resultados. \n\u00a1Muchas graci\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    31,
+                    45
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "UpdatesHL",
+                "name": "The Kings Updates",
+                "id": 852728512272269313,
+                "id_str": "852728512272269313",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 324082729,
+        "id_str": "324082729",
+        "name": "mari \u25df\u033d\u25de\u033d \ud83c\uddfa\ud83c\uddfe",
+        "screen_name": "louxloki",
+        "location": "Uruguay",
+        "description": "wigetta, larry, marvel, johnlock \ud83d\udc9c\ud83d\udc9a\ud83d\udc99 \u00b7fan account\u00b7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1996,
+        "friends_count": 3246,
+        "listed_count": 1,
+        "created_at": "Sat Jun 25 23:55:44 +0000 2011",
+        "favourites_count": 149386,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 66382,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1135318259664736257/ey4--wK3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135318259664736257/ey4--wK3_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/324082729/1545693844",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:07:43 +0000 2020",
+        "id": 1256737161531006981,
+        "id_str": "1256737161531006981",
+        "text": "\ud83d\udea8| El turno del #TeamAlwaysYou lleg\u00f3 a su fin. Est\u00e9n atentxs a los pr\u00f3ximos d\u00edas para conocer los resultados. \n\u00a1Muc\u2026 https://t.co/YcuCXUihGY",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TeamAlwaysYou",
+                    "indices": [
+                        16,
+                        30
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/YcuCXUihGY",
+                    "expanded_url": "https://twitter.com/i/web/status/1256737161531006981",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 852728512272269313,
+            "id_str": "852728512272269313",
+            "name": "The Kings Updates",
+            "screen_name": "UpdatesHL",
+            "location": " ",
+            "description": "\u00a1Aqu\u00ed encontrar\u00e1s toda la informaci\u00f3n y coberturas en espa\u00f1ol sobre Louis Tomlinson y Harry Styles! |Fan account| IG: updates.hl | FB: The Kings Updates",
+            "url": "https://t.co/sKCwVNDU6S",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sKCwVNDU6S",
+                            "expanded_url": "https://twitter.com/Louis_Tomlinson/status/120620074301267968",
+                            "display_url": "twitter.com/Louis_Tomlinso\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 37669,
+            "friends_count": 24,
+            "listed_count": 191,
+            "created_at": "Fri Apr 14 03:41:35 +0000 2017",
+            "favourites_count": 1244,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 45954,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1247340504846565378/Sc7-LboI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247340504846565378/Sc7-LboI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/852728512272269313/1586223692",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 138,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

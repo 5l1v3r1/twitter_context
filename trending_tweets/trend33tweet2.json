@@ -1,0 +1,228 @@
+{
+    "created_at": "Sun May 03 00:43:07 +0000 2020",
+    "id": 1256746071549714433,
+    "id_str": "1256746071549714433",
+    "text": "RT @Yoongi61_5: The boys won in the \"Best Music Group\" category at KCA 2020.\n\n Congratulations  \ud83d\udc4f\ud83e\udd73\ud83c\udf89\n\n #BTSxKCAs\n\u00a0 #KCAxBTS #KCA2020 @BTS_tw\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BTSxKCAs",
+                "indices": [
+                    102,
+                    111
+                ]
+            },
+            {
+                "text": "KCAxBTS",
+                "indices": [
+                    114,
+                    122
+                ]
+            },
+            {
+                "text": "KCA2020",
+                "indices": [
+                    123,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Yoongi61_5",
+                "name": "nena \u00b0\u1d17\u00b0 \u2077\ud83c\udf97",
+                "id": 1140710608167407616,
+                "id_str": "1140710608167407616",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1115306709701025793,
+        "id_str": "1115306709701025793",
+        "name": "\u2077I'm part of the 0.01%\u2077",
+        "screen_name": "MOMstanBTS",
+        "location": "",
+        "description": "MOTS\u2077 \nOnly BTS in this household.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 40,
+        "friends_count": 126,
+        "listed_count": 0,
+        "created_at": "Mon Apr 08 17:33:35 +0000 2019",
+        "favourites_count": 2756,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18021,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245896430474137600/nZnU92h9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245896430474137600/nZnU92h9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1115306709701025793/1585880078",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:39:15 +0000 2020",
+        "id": 1256745098328629250,
+        "id_str": "1256745098328629250",
+        "text": "The boys won in the \"Best Music Group\" category at KCA 2020.\n\n Congratulations  \ud83d\udc4f\ud83e\udd73\ud83c\udf89\n\n #BTSxKCAs\n\u00a0 #KCAxBTS #KCA2020\u2026 https://t.co/XxfO67kE1v",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BTSxKCAs",
+                    "indices": [
+                        86,
+                        95
+                    ]
+                },
+                {
+                    "text": "KCAxBTS",
+                    "indices": [
+                        98,
+                        106
+                    ]
+                },
+                {
+                    "text": "KCA2020",
+                    "indices": [
+                        107,
+                        115
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XxfO67kE1v",
+                    "expanded_url": "https://twitter.com/i/web/status/1256745098328629250",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1140710608167407616,
+            "id_str": "1140710608167407616",
+            "name": "nena \u00b0\u1d17\u00b0 \u2077\ud83c\udf97",
+            "screen_name": "Yoongi61_5",
+            "location": "Ot7 ",
+            "description": "\ub2e4 \uc544\ub984\ub2e4\uc6e0 \uc9c0 \uc6b0\ub9ac\uc758 \uae38 \uc704\uc5d4\ud83e\udd8b\ud83d\udc9c fan account | @Bts_twt",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 25549,
+            "friends_count": 21232,
+            "listed_count": 48,
+            "created_at": "Mon Jun 17 19:59:37 +0000 2019",
+            "favourites_count": 60004,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8952,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255464578332442624/uEQ1fy30_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255464578332442624/uEQ1fy30_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140710608167407616/1585652202",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

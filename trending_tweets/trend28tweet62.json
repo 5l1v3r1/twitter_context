@@ -1,0 +1,103 @@
+{
+    "created_at": "Sun May 03 00:42:24 +0000 2020",
+    "id": 1256745893967036423,
+    "id_str": "1256745893967036423",
+    "text": "Good evening @OnAirRomeo!! I\u2019d like to request My Oh My by Camila Cabello ft. DaBaby. Camilizers can\u2019t wait to hear\u2026 https://t.co/YGGPUJjGJK",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "OnAirRomeo",
+                "name": "On Air Romeo",
+                "id": 21590830,
+                "id_str": "21590830",
+                "indices": [
+                    13,
+                    24
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/YGGPUJjGJK",
+                "expanded_url": "https://twitter.com/i/web/status/1256745893967036423",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 223540406,
+        "id_str": "223540406",
+        "name": "\ud835\udd8a\ud835\udd97\ud835\udd8e\ud835\udd93\u23f3",
+        "screen_name": "Love_lncredibIe",
+        "location": "United States",
+        "description": "Camilizer\ud83c\udf39Swiftie\ud83d\udc0d Kiyokian\ud83c\udff3\ufe0f\u200d\ud83c\udf08 The 1975\ud83c\udf0e Team Stark\ud83d\udc3a \u20143x Grammy, 4x Latin Grammy nominated artist (& 2 wins!!), Camila Cabello fan account est 5/27/2017)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 367,
+        "friends_count": 705,
+        "listed_count": 5,
+        "created_at": "Mon Dec 06 17:37:14 +0000 2010",
+        "favourites_count": 25234,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 50791,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1212002155525234688/F94OWYri_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212002155525234688/F94OWYri_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/223540406/1577798809",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

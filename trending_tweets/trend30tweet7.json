@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:41:27 +0000 2020",
+    "id": 1256745651330744322,
+    "id_str": "1256745651330744322",
+    "text": "RT @bandaresgate: OLHA A\u00cd A NOVIDADE\n\nESSA SEMANA SAI M\u00daSICA NOVAAAAAAAAAHHH\n\n\"A Dor\" - Can\u00e7\u00e3o composta no meio da pandemia e cada um gravo\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bandaresgate",
+                "name": "Banda Resgate",
+                "id": 16455380,
+                "id_str": "16455380",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1025447424049983488,
+        "id_str": "1025447424049983488",
+        "name": "Legolas GreenLeaf\ud83c\udf43 Porque ele Vive \u2626\ufe0f\ud83d\uded0",
+        "screen_name": "LegolasRPG10",
+        "location": "Terra M\u00e9dia",
+        "description": "Conservative. |\nEclesiastes 1:18 |\nTeologia e Filosofia pra mim \u00e9 tudo! mas, com voc\u00ea eu n\u00e3o quero falar, ah morre... diabo! |\nGT: LegolasRPG10",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1163,
+        "friends_count": 2366,
+        "listed_count": 1,
+        "created_at": "Fri Aug 03 18:24:52 +0000 2018",
+        "favourites_count": 97977,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 63730,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227254304223961088/Yaw1GMBs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227254304223961088/Yaw1GMBs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025447424049983488/1586385126",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:22:49 +0000 2020",
+        "id": 1256740963709521920,
+        "id_str": "1256740963709521920",
+        "text": "OLHA A\u00cd A NOVIDADE\n\nESSA SEMANA SAI M\u00daSICA NOVAAAAAAAAAHHH\n\n\"A Dor\" - Can\u00e7\u00e3o composta no meio da pandemia e cada um\u2026 https://t.co/aTM6MEJfRt",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/aTM6MEJfRt",
+                    "expanded_url": "https://twitter.com/i/web/status/1256740963709521920",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 16455380,
+            "id_str": "16455380",
+            "name": "Banda Resgate",
+            "screen_name": "bandaresgate",
+            "location": "S\u00e3o Paulo / Brasil",
+            "description": "O Rock passa por aqui!!",
+            "url": "https://t.co/SpPFpFT04H",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SpPFpFT04H",
+                            "expanded_url": "https://linktr.ee/bandaresgate",
+                            "display_url": "linktr.ee/bandaresgate",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 80090,
+            "friends_count": 14,
+            "listed_count": 456,
+            "created_at": "Thu Sep 25 18:51:19 +0000 2008",
+            "favourites_count": 696,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 10028,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "5C5857",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080485855633002496/ThdDHphr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080485855633002496/ThdDHphr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16455380/1546442921",
+            "profile_link_color": "19856A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "0D0D0D",
+            "profile_text_color": "948E94",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 152,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

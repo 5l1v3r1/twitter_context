@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:41:41 +0000 2020",
+    "id": 1256745712026599426,
+    "id_str": "1256745712026599426",
+    "text": "RT @dambroz_alisson: Ela chegou correndo demais\nImprudente, bateu\narrebentou meu peito\nAcidente de amor, machuca demais \nFurou o lado esque\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dambroz_alisson",
+                "name": "Dambroz \ud83e\udd8a",
+                "id": 1160214046735511553,
+                "id_str": "1160214046735511553",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1183874528881102848,
+        "id_str": "1183874528881102848",
+        "name": "Rai \uf8ff",
+        "screen_name": "DiassRai",
+        "location": "Minas Gerais, Brasil",
+        "description": "sonsa n\u00e3o, atriz",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 95,
+        "friends_count": 139,
+        "listed_count": 0,
+        "created_at": "Mon Oct 14 22:37:45 +0000 2019",
+        "favourites_count": 501,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 974,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254542059517751297/C7i2e0am_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254542059517751297/C7i2e0am_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183874528881102848/1588047446",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:24:45 +0000 2020",
+        "id": 1256726352365043712,
+        "id_str": "1256726352365043712",
+        "text": "Ela chegou correndo demais\nImprudente, bateu\narrebentou meu peito\nAcidente de amor, machuca demais \nFurou o lado es\u2026 https://t.co/qanEeMfXh5",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qanEeMfXh5",
+                    "expanded_url": "https://twitter.com/i/web/status/1256726352365043712",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1160214046735511553,
+            "id_str": "1160214046735511553",
+            "name": "Dambroz \ud83e\udd8a",
+            "screen_name": "dambroz_alisson",
+            "location": "Toledo, Brasil",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 232,
+            "friends_count": 205,
+            "listed_count": 0,
+            "created_at": "Sat Aug 10 15:39:19 +0000 2019",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1183,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254648220246069249/UPgy0rD6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254648220246069249/UPgy0rD6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1160214046735511553/1565454571",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 72,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 41,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

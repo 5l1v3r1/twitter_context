@@ -1,0 +1,95 @@
+{
+    "created_at": "Sun May 03 00:42:52 +0000 2020",
+    "id": 1256746010635694080,
+    "id_str": "1256746010635694080",
+    "text": "\u300c\u8ca0\u3051\u72ac\u306f\u672d\u306b\u306a\u308c\u300d\n\u7d75\u672d\u306b\u5c01\u5370\u3055\u308c\u3066\u3057\u307e\u3063\u305f #nitiasa #SHT",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    24,
+                    32
+                ]
+            },
+            {
+                "text": "SHT",
+                "indices": [
+                    33,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2485190737,
+        "id_str": "2485190737",
+        "name": "\u6728\u5ead\u6570\u56f3",
+        "screen_name": "kiniwasuzu",
+        "location": "\u65e5\u672c",
+        "description": "\u30a2\u30cb\u30e1\u3068\u304b\u30b2\u30fc\u30e0\u3068\u304b\u3068\u304b\u304c\u597d\u304d\u306a\u5c0f\u5fc3\u8005\u306e\u304a\u3063\u3055\u3093\u3067\u3059\u3002  \u6df1\u304f\u8003\u3048\u305a\u306b\u545f\u3044\u305f\u308a\u9762\u767d\u3044\u3068\u601d\u3063\u305f\u30c4\u30a4\u30fc\u30c8\u3092\u6c17\u8efd\u306bRT\u3057\u305f\u308a\u3057\u3066\u307e\u3059\u3002\u6df1\u304f\u8003\u3048\u3066\u306a\u3044\u304b\u3089\u304b\u306a\u308a\u3046\u308b\u3055\u3044\u3057\u3001\u8aa4\u5b57\u3001\u8131\u5b57\u3001\u982d\u306e\u60aa\u3044\u767a\u8a00\u304c\u591a\u3044\u3067\u3059\u3002 24\u6642\u9593\u306b2400\u30c4\u30a4\u30fc\u30c8\u8d85\u3048\u3066\u6295\u7a3f\u3067\u304d\u306a\u304f\u306a\u308b\u4e8b\u3082\u3042\u308a\u307e\u3059\u3002\n\u30cb\u30f3\u30b8\u30e3\u30d8\u30c3\u30ba\uff08\u30cb\u30f3\u30b8\u30e3\u30b9\u30ec\u30a4\u30e4\u30fc\u306e\u30d5\u30a1\u30f3\uff09\u3067\u3059\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 183,
+        "friends_count": 87,
+        "listed_count": 12,
+        "created_at": "Fri May 09 10:58:44 +0000 2014",
+        "favourites_count": 22820,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 229972,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/881894264631738368/VSyGavg8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/881894264631738368/VSyGavg8_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

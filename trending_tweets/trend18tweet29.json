@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:42:53 +0000 2020",
+    "id": 1256746013928288256,
+    "id_str": "1256746013928288256",
+    "text": "\u8ca0\u3051\u305f\u304f\u306a\u3044\u304b\u3089\u7cbe\u795e\u653b\u6483\u304b\u3051\u308b\u306e\u306f\u6700\u4f4e\u3067\u306f\uff1f\n#nitiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    23,
+                    31
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 44525805,
+        "id_str": "44525805",
+        "name": "\u3042\u3053",
+        "screen_name": "xxxakoxxx",
+        "location": "\u73fe\u5b9f\u3068\u7a7a\u60f3\u306e\u9593",
+        "description": "\u30d3\u30fc\u30eb\u3068\u30b2\u30fc\u30e0\u3068\u6f2b\u753b\u3092\u611b\u3059\u308bWEB\u5c4b\u306e\u30aa\u30bf\u30af\u55aa\u5973\u3002SHT\u3001\u30b2\u30fc\u30e0\u3001\u30c9\u30e9\u30de\u3001\u30b9\u30dd\u30fc\u30c4\u306a\u3069\u8996\u8074\u30fb\u30d7\u30ec\u30a4\u4e2d\u306e\u9023\u30c4\u30a4\u3001\u5b9f\u6cc1\u3042\u308a\u307e\u3059\u3002\u3044\u3064\u307e\u3067\u305f\u3063\u3066\u3082\u5199\u771f\u306f\u4e0b\u624b\u3002\nXbox One\uff0fSwitch\uff0f\u98ef\uff06\u9152\uff0fWEB\u7cfb\u8a71\u984c\uff0f\u30cb\u30c1\u30a2\u30b5",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 49,
+        "friends_count": 81,
+        "listed_count": 4,
+        "created_at": "Thu Jun 04 02:38:36 +0000 2009",
+        "favourites_count": 711,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 57102,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230823871009288193/sFeyOsM9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230823871009288193/sFeyOsM9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44525805/1363164148",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

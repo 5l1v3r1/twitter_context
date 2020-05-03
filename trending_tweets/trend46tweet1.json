@@ -1,0 +1,253 @@
+{
+    "created_at": "Sun May 03 00:43:13 +0000 2020",
+    "id": 1256746098644807681,
+    "id_str": "1256746098644807681",
+    "text": "\u7d75\u3065\u3089\u306e\u5dee\u304c\u6fc0\u3057\u3059\u304e\u3066\u3001\u8033\u304c\u30ad\u30fc\u30f3\u3068\u306a\u308b\u308f\u3002#tvasahi #zeroone #nitiasa #\u30bc\u30ed\u30ef\u30f3 #\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3 #\u4eee\u9762\u30e9\u30a4\u30c0\u30fc #KamenRiderzeroone #\u7279\u64ae\u597d\u304d\u3068\u7e4b\u304c\u308a\u305f\u3044 https://t.co/necXjIvZLW",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "tvasahi",
+                "indices": [
+                    22,
+                    30
+                ]
+            },
+            {
+                "text": "zeroone",
+                "indices": [
+                    31,
+                    39
+                ]
+            },
+            {
+                "text": "nitiasa",
+                "indices": [
+                    40,
+                    48
+                ]
+            },
+            {
+                "text": "\u30bc\u30ed\u30ef\u30f3",
+                "indices": [
+                    49,
+                    54
+                ]
+            },
+            {
+                "text": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3",
+                "indices": [
+                    55,
+                    66
+                ]
+            },
+            {
+                "text": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc",
+                "indices": [
+                    67,
+                    74
+                ]
+            },
+            {
+                "text": "KamenRiderzeroone",
+                "indices": [
+                    75,
+                    93
+                ]
+            },
+            {
+                "text": "\u7279\u64ae\u597d\u304d\u3068\u7e4b\u304c\u308a\u305f\u3044",
+                "indices": [
+                    94,
+                    105
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256746075601334272,
+                "id_str": "1256746075601334272",
+                "indices": [
+                    106,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDb5bEVcAA5dce.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDb5bEVcAA5dce.jpg",
+                "url": "https://t.co/necXjIvZLW",
+                "display_url": "pic.twitter.com/necXjIvZLW",
+                "expanded_url": "https://twitter.com/sakamotoyashiro/status/1256746098644807681/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256746075601334272,
+                "id_str": "1256746075601334272",
+                "indices": [
+                    106,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDb5bEVcAA5dce.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDb5bEVcAA5dce.jpg",
+                "url": "https://t.co/necXjIvZLW",
+                "display_url": "pic.twitter.com/necXjIvZLW",
+                "expanded_url": "https://twitter.com/sakamotoyashiro/status/1256746098644807681/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1256746089023070215,
+                "id_str": "1256746089023070215",
+                "indices": [
+                    106,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDb6NEU4Aclx-t.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDb6NEU4Aclx-t.jpg",
+                "url": "https://t.co/necXjIvZLW",
+                "display_url": "pic.twitter.com/necXjIvZLW",
+                "expanded_url": "https://twitter.com/sakamotoyashiro/status/1256746098644807681/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 680,
+                        "h": 961,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 680,
+                        "h": 961,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 481,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 117677801,
+        "id_str": "117677801",
+        "name": "\u5742\u672c\u5eb7\u5b8f",
+        "screen_name": "sakamotoyashiro",
+        "location": "\u611b\u5a9b\u770c",
+        "description": "\u300e\u6b69\u5175\u578b\u6226\u95d8\u8eca\u4e21\u3007\u3007\u300f\u3067\u7b2c\uff13\u56de\u65e5\u672c\uff33\uff26\u65b0\u4eba\u8cde\u4f73\u4f5c\u53d7\u8cde\u3002  \u611b\u5a9b\u770c\u677e\u5c71\u5e02\u5728\u4f4f\u3002\u8d85\u30de\u30a4\u30ca\u30fc\uff33\uff26\u4f5c\u5bb6\u3067\u3059\u3002 \u7279\u64ae\u30aa\u30bf\u3002\u30a2\u30cb\u30e1\u306f\u5e83\u304f\u6d45\u304f\u96d1\u98df\u3002\u6700\u8fd1\u306f\u30cb\u30c1\u30a2\u30b5\u5b9f\u6cc1\u306b\u30cf\u30de\u3063\u3066\u307e\u3059\u3002\u6c17\u8efd\u306b\u7121\u8a00\u30d5\u30a9\u30ed\u30fcOK\u3067\u3059\u3002\u7279\u64ae\u30d5\u30a1\u30f3\u30fb\u30a2\u30cb\u30e1\u30d5\u30a1\u30f3\u306b\u306f\u539f\u5247\u30d5\u30a9\u30ed\u30d0\u3057\u307e\u3059\u3002\u4e16\u754c\u306b\u99c4\u4f5c\u306f\u5b58\u5728\u3057\u306a\u3044\u3002\u99c4\u4f5c\u306b\u601d\u3046\u306e\u306f\u3042\u306a\u305f\u306b\u5408\u308f\u306a\u3044\u3060\u3051\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1086,
+        "friends_count": 944,
+        "listed_count": 37,
+        "created_at": "Fri Feb 26 07:47:25 +0000 2010",
+        "favourites_count": 9210,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11445,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724065853793177600/NJblYBrs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724065853793177600/NJblYBrs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117677801/1532298407",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

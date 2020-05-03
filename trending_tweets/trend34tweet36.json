@@ -1,0 +1,120 @@
+{
+    "created_at": "Sun May 03 00:39:00 +0000 2020",
+    "id": 1256745035065724928,
+    "id_str": "1256745035065724928",
+    "text": "\u6c99\u9727\u306e\u6b63\u4f53\u306f\u30c8\u30de\u30c8\u3067\u3059\u306d\u3002\uff11\uff10\uff10\uff05\u30c8\u30de\u30c8\u3067\u9593\u9055\u3044\u3042\u308a\u307e\u305b\u3093\u3002\n#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c #shindanmaker\nhttps://t.co/t1TiJn4hoD",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    31,
+                    44
+                ]
+            },
+            {
+                "text": "shindanmaker",
+                "indices": [
+                    45,
+                    58
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/t1TiJn4hoD",
+                "expanded_url": "https://shindanmaker.com/984766",
+                "display_url": "shindanmaker.com/984766",
+                "indices": [
+                    59,
+                    82
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1215553049977970688,
+        "id_str": "1215553049977970688",
+        "name": "\u6c99\u9727",
+        "screen_name": "Sagiri_2018",
+        "location": "",
+        "description": "\u8272\u3005\u9811\u5f35\u3063\u3066\u308bJC2\u2e1c(* \u0951\ua4b3 \u0951* )\u2e1d\u22c6*\n\u592a\u9f13\u3001\u30a6\u30cb\u4e0a\u624b\u306b\u306a\u308a\u305f\u3044!!\n\u30ac\u30eb\u30d1\u3084\u3063\u3066\u308b\u3088\u3063\n\u65e5\u5e38\u6295\u7a3f\u591a\u3081\u30fc( \u0941 \u203a\u03c9\u2039 ) \u0941\u2661\n\u30a4\u30b1\u30e1\u30f3\u304a\u5144\u3061\u3083\u3093@sayu_2018\n\u59b9Twitter\u3084\u3081\u305f",
+        "url": "https://t.co/NmIekkSRtU",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/NmIekkSRtU",
+                        "expanded_url": "https://love-letter.club/to/roseberry0324/",
+                        "display_url": "love-letter.club/to/roseberry03\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 351,
+        "friends_count": 360,
+        "listed_count": 10,
+        "created_at": "Fri Jan 10 08:37:01 +0000 2020",
+        "favourites_count": 18918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6971,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255883876108341248/YalZcuAl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255883876108341248/YalZcuAl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1215553049977970688/1587476237",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

@@ -1,0 +1,168 @@
+{
+    "created_at": "Sun May 03 00:42:35 +0000 2020",
+    "id": 1256745936698724353,
+    "id_str": "1256745936698724353",
+    "text": "Hoje o tempo voa amor e escorre pelas m\u00e3os #LIVELULU https://t.co/guYEWrHlVP",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LIVELULU",
+                "indices": [
+                    43,
+                    52
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745919980191744,
+                "id_str": "1256745919980191744",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbwXVXQAAODhC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbwXVXQAAODhC.jpg",
+                "url": "https://t.co/guYEWrHlVP",
+                "display_url": "pic.twitter.com/guYEWrHlVP",
+                "expanded_url": "https://twitter.com/dianinhaa/status/1256745936698724353/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745919980191744,
+                "id_str": "1256745919980191744",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbwXVXQAAODhC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbwXVXQAAODhC.jpg",
+                "url": "https://t.co/guYEWrHlVP",
+                "display_url": "pic.twitter.com/guYEWrHlVP",
+                "expanded_url": "https://twitter.com/dianinhaa/status/1256745936698724353/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 33947567,
+        "id_str": "33947567",
+        "name": "Diana Camargo",
+        "screen_name": "dianinhaa",
+        "location": "S\u00e3o Paulo, Brasil",
+        "description": "O feij\u00e3o no pote de sorvete.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 525,
+        "friends_count": 174,
+        "listed_count": 12,
+        "created_at": "Tue Apr 21 16:02:48 +0000 2009",
+        "favourites_count": 39993,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26555,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9266CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1015983390686932998/ajLUXbff_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015983390686932998/ajLUXbff_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33947567/1579484757",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

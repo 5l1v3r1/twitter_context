@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:42:48 +0000 2020",
+    "id": 1256745993044967425,
+    "id_str": "1256745993044967425",
+    "text": "RT @HumbleRathaway: Se amoedo n\u00e3o tem argumentos pra expor \u00e9 culpa de Ciro? #CiroNaGloboNews",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    76,
+                    92
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HumbleRathaway",
+                "name": "Rathaway | #Ciro2022 \ud83c\udf39",
+                "id": 1040378339368820736,
+                "id_str": "1040378339368820736",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1136813757877895168,
+        "id_str": "1136813757877895168",
+        "name": "Klem\u270a\ud83c\udf39",
+        "screen_name": "OnerbMelk",
+        "location": "",
+        "description": "Oi",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 247,
+        "friends_count": 943,
+        "listed_count": 1,
+        "created_at": "Fri Jun 07 01:54:55 +0000 2019",
+        "favourites_count": 28484,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5921,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244471075850915841/vrijThx0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244471075850915841/vrijThx0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136813757877895168/1563036302",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:41:09 +0000 2020",
+        "id": 1256745577775325184,
+        "id_str": "1256745577775325184",
+        "text": "Se amoedo n\u00e3o tem argumentos pra expor \u00e9 culpa de Ciro? #CiroNaGloboNews",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        56,
+                        72
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1040378339368820736,
+            "id_str": "1040378339368820736",
+            "name": "Rathaway | #Ciro2022 \ud83c\udf39",
+            "screen_name": "HumbleRathaway",
+            "location": "",
+            "description": "Formado no deboche e especialista em jogar as verdades na cara\n\nPS.: Se voc\u00ea \u00e9 bolsominion, sinto lhe informar, mas aqui voc\u00ea n\u00e3o vai encontrar capim.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1114,
+            "friends_count": 671,
+            "listed_count": 1,
+            "created_at": "Thu Sep 13 23:15:00 +0000 2018",
+            "favourites_count": 21063,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8039,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1043663131900293120/LrKydXwP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043663131900293120/LrKydXwP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040378339368820736/1536880781",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

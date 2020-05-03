@@ -1,0 +1,186 @@
+{
+    "created_at": "Sun May 03 00:32:17 +0000 2020",
+    "id": 1256743347957518338,
+    "id_str": "1256743347957518338",
+    "text": "RT @MariliaMReal: gente t\u00e1 rolando gino e geno tamb\u00e9m... \u2665\ufe0f",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MariliaMReal",
+                "name": "marilia live mendon\u00e7a",
+                "id": 2921763658,
+                "id_str": "2921763658",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1063557611273052160,
+        "id_str": "1063557611273052160",
+        "name": "\ud835\udd38\ud835\udd58\ud835\udd63\ud835\udd60\ud835\udd53\ud835\udd60\ud835\udd6a",
+        "screen_name": "Igor90691082",
+        "location": "Brasil",
+        "description": "\ud835\udc70\ud835\udc8f\ud835\udc94\ud835\udc95\ud835\udc82   : _igorduartee__\n \u0250xno\u0279\u0287 so\u03c1 o\u0250\u0254\u0250\u0279o\u0254 o\u028b \u0259\u0254s\u0250\u028b \u0259nb \u0250xo\u0279 \u0279o|\u025f \u0250\u026fn \u0259  \u0279o\u026f\u0250 o",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 211,
+        "friends_count": 417,
+        "listed_count": 0,
+        "created_at": "Fri Nov 16 22:21:09 +0000 2018",
+        "favourites_count": 2397,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1553,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251664101748674561/nFzlUSlu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251664101748674561/nFzlUSlu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063557611273052160/1587052181",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:09:08 +0000 2020",
+        "id": 1256737519737110528,
+        "id_str": "1256737519737110528",
+        "text": "gente t\u00e1 rolando gino e geno tamb\u00e9m... \u2665\ufe0f",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2921763658,
+            "id_str": "2921763658",
+            "name": "marilia live mendon\u00e7a",
+            "screen_name": "MariliaMReal",
+            "location": "Goi\u00e2nia, Brasil",
+            "description": "m\u00e3e do l\u00e9o \u2665\ufe0f",
+            "url": "https://t.co/xjTNKISNq7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xjTNKISNq7",
+                            "expanded_url": "https://youtu.be/6i4zcAO5DoM",
+                            "display_url": "youtu.be/6i4zcAO5DoM",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5528410,
+            "friends_count": 512,
+            "listed_count": 1199,
+            "created_at": "Sun Dec 14 18:09:13 +0000 2014",
+            "favourites_count": 4880,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 25440,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256627235542499328/NTpR69Aq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256627235542499328/NTpR69Aq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2921763658/1585449993",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 49,
+        "favorite_count": 2158,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 49,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

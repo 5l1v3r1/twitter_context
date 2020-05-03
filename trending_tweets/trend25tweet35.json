@@ -1,0 +1,314 @@
+{
+    "created_at": "Sun May 03 00:42:40 +0000 2020",
+    "id": 1256745959704399872,
+    "id_str": "1256745959704399872",
+    "text": "RT @RickazevedoB: E essa tag #OrePorBolsonaro kkkkkk u\u00e9 vai ser s\u00f3 um depoimento do her\u00f3i do Brasil. Est\u00e3o preocupados com oq? https://t.co\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    29,
+                    45
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RickazevedoB",
+                "name": "Rick #Savage \ud83d\udc0e\ud83d\udc1d",
+                "id": 1184969015023800320,
+                "id_str": "1184969015023800320",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4900391547,
+        "id_str": "4900391547",
+        "name": "lihadomingos",
+        "screen_name": "lihadomingos",
+        "location": "Rio de Janeiro, Brasil",
+        "description": "Colaboradora na Empresa  ISS   Servisystem do Brasil -Barra da Tijuca, Rio De Janeiro.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 103,
+        "friends_count": 868,
+        "listed_count": 0,
+        "created_at": "Fri Feb 12 06:48:17 +0000 2016",
+        "favourites_count": 11219,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2617,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/917841560531881985/jOhWDnEy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/917841560531881985/jOhWDnEy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4900391547/1482728352",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 13:12:41 +0000 2020",
+        "id": 1256572319495045121,
+        "id_str": "1256572319495045121",
+        "text": "E essa tag #OrePorBolsonaro kkkkkk u\u00e9 vai ser s\u00f3 um depoimento do her\u00f3i do Brasil. Est\u00e3o preocupados com oq? https://t.co/HJGfv0TmAJ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OrePorBolsonaro",
+                    "indices": [
+                        11,
+                        27
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256572307889405953,
+                    "id_str": "1256572307889405953",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXA92z5XQAE5nRD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXA92z5XQAE5nRD.jpg",
+                    "url": "https://t.co/HJGfv0TmAJ",
+                    "display_url": "pic.twitter.com/HJGfv0TmAJ",
+                    "expanded_url": "https://twitter.com/RickazevedoB/status/1256572319495045121/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 150,
+                            "h": 140,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 140,
+                            "h": 140,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 150,
+                            "h": 140,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 150,
+                            "h": 140,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256572307889405953,
+                    "id_str": "1256572307889405953",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXA92z5XQAE5nRD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXA92z5XQAE5nRD.jpg",
+                    "url": "https://t.co/HJGfv0TmAJ",
+                    "display_url": "pic.twitter.com/HJGfv0TmAJ",
+                    "expanded_url": "https://twitter.com/RickazevedoB/status/1256572319495045121/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "large": {
+                            "w": 150,
+                            "h": 140,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 140,
+                            "h": 140,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 150,
+                            "h": 140,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 150,
+                            "h": 140,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            15,
+                            14
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXA92z5XQAE5nRD.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1184969015023800320,
+            "id_str": "1184969015023800320",
+            "name": "Rick #Savage \ud83d\udc0e\ud83d\udc1d",
+            "screen_name": "RickazevedoB",
+            "location": "Rio de Janeiro, Brasil",
+            "description": "Neste site desde 2007, por\u00e9m cancelado em 2019",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 858,
+            "friends_count": 966,
+            "listed_count": 4,
+            "created_at": "Thu Oct 17 23:07:18 +0000 2019",
+            "favourites_count": 16641,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10228,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1247647797672841216/C2UzV1L6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247647797672841216/C2UzV1L6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184969015023800320/1578752021",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "59373f0a295160e4",
+            "url": "https://api.twitter.com/1.1/geo/id/59373f0a295160e4.json",
+            "place_type": "city",
+            "name": "Niter\u00f3i",
+            "full_name": "Niter\u00f3i, Brasil",
+            "country_code": "BR",
+            "country": "Brazil",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -43.1648112,
+                            -22.98297
+                        ],
+                        [
+                            -42.954408,
+                            -22.98297
+                        ],
+                        [
+                            -42.954408,
+                            -22.8261279
+                        ],
+                        [
+                            -43.1648112,
+                            -22.8261279
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,287 @@
+{
+    "created_at": "Sun May 03 00:36:40 +0000 2020",
+    "id": 1256744448698056705,
+    "id_str": "1256744448698056705",
+    "text": "RT @HashtagRoundup: HOT HASHTAGS\n\n#10 USA #IAmGettingSoTiredOf w/@K10Tags @kristenRN202\n\n#2 USA #TheTitleOfTrumpsMemoir w/@HashtagRoundup @\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "IAmGettingSoTiredOf",
+                "indices": [
+                    42,
+                    62
+                ]
+            },
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    96,
+                    119
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HashtagRoundup",
+                "name": "Hashtag Roundup",
+                "id": 2901732224,
+                "id_str": "2901732224",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "K10Tags",
+                "name": "K10Tags",
+                "id": 815022265582624768,
+                "id_str": "815022265582624768",
+                "indices": [
+                    65,
+                    73
+                ]
+            },
+            {
+                "screen_name": "kristenRN202",
+                "name": "Just Stay Home Kristen \ud83d\ude45\ud83c\udffc\u200d\u2640\ufe0f\ud83d\ude37\ud83e\udde4\ud83e\udda0",
+                "id": 871707851290546176,
+                "id_str": "871707851290546176",
+                "indices": [
+                    74,
+                    87
+                ]
+            },
+            {
+                "screen_name": "HashtagRoundup",
+                "name": "Hashtag Roundup",
+                "id": 2901732224,
+                "id_str": "2901732224",
+                "indices": [
+                    122,
+                    137
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 815022265582624768,
+        "id_str": "815022265582624768",
+        "name": "K10Tags",
+        "screen_name": "K10Tags",
+        "location": "USA",
+        "description": "\ud83c\udf86Host: @kristenRN202\ud83c\udf86 Saturdays 10:30am E / 7:30am P / 3:30 GMT! Proudly part of @HashtagRoundup \ud83d\ude0e\ud83d\udc4a\ud83c\udffb",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3403,
+        "friends_count": 1677,
+        "listed_count": 26,
+        "created_at": "Sat Dec 31 02:30:25 +0000 2016",
+        "favourites_count": 44961,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 47187,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214929346491768834/Q1itr8Wd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214929346491768834/Q1itr8Wd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815022265582624768/1578496704",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:29:22 +0000 2020",
+        "id": 1256727513788813312,
+        "id_str": "1256727513788813312",
+        "text": "HOT HASHTAGS\n\n#10 USA #IAmGettingSoTiredOf w/@K10Tags @kristenRN202\n\n#2 USA #TheTitleOfTrumpsMemoir w/\u2026 https://t.co/jJy3OBz7K2",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "IAmGettingSoTiredOf",
+                    "indices": [
+                        22,
+                        42
+                    ]
+                },
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        76,
+                        99
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "K10Tags",
+                    "name": "K10Tags",
+                    "id": 815022265582624768,
+                    "id_str": "815022265582624768",
+                    "indices": [
+                        45,
+                        53
+                    ]
+                },
+                {
+                    "screen_name": "kristenRN202",
+                    "name": "Just Stay Home Kristen \ud83d\ude45\ud83c\udffc\u200d\u2640\ufe0f\ud83d\ude37\ud83e\udde4\ud83e\udda0",
+                    "id": 871707851290546176,
+                    "id_str": "871707851290546176",
+                    "indices": [
+                        54,
+                        67
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/jJy3OBz7K2",
+                    "expanded_url": "https://twitter.com/i/web/status/1256727513788813312",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        104,
+                        127
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.hashtagroundup.com\" rel=\"nofollow\">HRU THG Integration</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2901732224,
+            "id_str": "2901732224",
+            "name": "Hashtag Roundup",
+            "screen_name": "HashtagRoundup",
+            "location": "Detroit, Michigan",
+            "description": "Do you \u2764\ufe0f #HashtagGames? Get our free #game app at https://t.co/PuxWIFu0yI courtesy of @bigmacher & @robyndwoskin. Never miss a game! Open DM.",
+            "url": "https://t.co/PuxWIFu0yI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PuxWIFu0yI",
+                            "expanded_url": "http://app.hashtagroundup.com",
+                            "display_url": "app.hashtagroundup.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PuxWIFu0yI",
+                            "expanded_url": "http://app.hashtagroundup.com",
+                            "display_url": "app.hashtagroundup.com",
+                            "indices": [
+                                51,
+                                74
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 41485,
+            "friends_count": 3855,
+            "listed_count": 596,
+            "created_at": "Sun Nov 16 14:27:47 +0000 2014",
+            "favourites_count": 366794,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 472131,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/647423686702727168/uIErv3AX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/647423686702727168/uIErv3AX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2901732224/1521454491",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,521 @@
+{
+    "created_at": "Sun May 03 00:42:50 +0000 2020",
+    "id": 1256746002809155584,
+    "id_str": "1256746002809155584",
+    "text": "RT @Tokusatsugame: \u3088\u304b\u3063\u305f\uff01\u3055\u3059\u304c\u30e2\u30c7\u30eb\u3055\u3093\u306a\u3060\u3051\u3042\u3063\u3066\u5203\u306e\u79c1\u670d\u306f\u7d20\u6575\u3084\u3067\uff01\uff01\n\n\u3044\u3084\u3041\u2026\u6614\u30b9\u30fc\u30c4\u3084\u6b63\u88c5\u8131\u3044\u3060\u3089\u3068\u3093\u3067\u3082\u306a\u3044\u3053\u3068\u306b\u306a\u3063\u3066\u305f\u5974\u304c\u3044\u3066\u3060\u306a\u2026(-_-;)\n\n#\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3\n#nitiasa https://t.co/RNpDMD2XQN",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3",
+                "indices": [
+                    94,
+                    105
+                ]
+            },
+            {
+                "text": "nitiasa",
+                "indices": [
+                    106,
+                    114
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Tokusatsugame",
+                "name": "\u305d\u3093\u306a\u6625\u3055\u3093\u306f\u7279\u64ae\u597d\u304d",
+                "id": 1216675522693910528,
+                "id_str": "1216675522693910528",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256740432077193216,
+                "id_str": "1256740432077193216",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWw7TVAAApjU5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWw7TVAAApjU5.jpg",
+                "url": "https://t.co/RNpDMD2XQN",
+                "display_url": "pic.twitter.com/RNpDMD2XQN",
+                "expanded_url": "https://twitter.com/Tokusatsugame/status/1256740441162047488/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740441162047488,
+                "source_status_id_str": "1256740441162047488",
+                "source_user_id": 1216675522693910528,
+                "source_user_id_str": "1216675522693910528"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256740432077193216,
+                "id_str": "1256740432077193216",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWw7TVAAApjU5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWw7TVAAApjU5.jpg",
+                "url": "https://t.co/RNpDMD2XQN",
+                "display_url": "pic.twitter.com/RNpDMD2XQN",
+                "expanded_url": "https://twitter.com/Tokusatsugame/status/1256740441162047488/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740441162047488,
+                "source_status_id_str": "1256740441162047488",
+                "source_user_id": 1216675522693910528,
+                "source_user_id_str": "1216675522693910528"
+            },
+            {
+                "id": 1256740434140790784,
+                "id_str": "1256740434140790784",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWxC_VAAAeYaZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWxC_VAAAeYaZ.jpg",
+                "url": "https://t.co/RNpDMD2XQN",
+                "display_url": "pic.twitter.com/RNpDMD2XQN",
+                "expanded_url": "https://twitter.com/Tokusatsugame/status/1256740441162047488/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 739,
+                        "h": 415,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 739,
+                        "h": 415,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740441162047488,
+                "source_status_id_str": "1256740441162047488",
+                "source_user_id": 1216675522693910528,
+                "source_user_id_str": "1216675522693910528"
+            },
+            {
+                "id": 1256740436141473794,
+                "id_str": "1256740436141473794",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWxKcVAAITo_g.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWxKcVAAITo_g.jpg",
+                "url": "https://t.co/RNpDMD2XQN",
+                "display_url": "pic.twitter.com/RNpDMD2XQN",
+                "expanded_url": "https://twitter.com/Tokusatsugame/status/1256740441162047488/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1440,
+                        "h": 810,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740441162047488,
+                "source_status_id_str": "1256740441162047488",
+                "source_user_id": 1216675522693910528,
+                "source_user_id_str": "1216675522693910528"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 909717512752787456,
+        "id_str": "909717512752787456",
+        "name": "\u30bf\u30ef\u30b7",
+        "screen_name": "AE8625244642",
+        "location": "",
+        "description": "\u30ac\u30f3\u30d7\u30e9\u3001\u81ea\u52d5\u8eca\u3001\u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fc\u3001\u30d0\u30f3\u30c9\u30ea\u304c\u4e3b\u306a\u8da3\u5473\u3067\u3059\u3002\n\u4e00\u756a\u597d\u304d\u306a\u30ad\u30e3\u30e9\u306f\u30ed\u30c3\u30af\u30aa\u30f3\u30b9\u30c8\u30e9\u30c8\u30b9\u3067\u3059\n\u81ea\u52d5\u8eca\u6574\u5099\u58eb\u76ee\u6307\u3057\u3066\u307e\u3059",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 173,
+        "friends_count": 327,
+        "listed_count": 1,
+        "created_at": "Mon Sep 18 09:55:31 +0000 2017",
+        "favourites_count": 74727,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15296,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248822015311503360/ExwZls9y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248822015311503360/ExwZls9y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/909717512752787456/1579302938",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:20:44 +0000 2020",
+        "id": 1256740441162047488,
+        "id_str": "1256740441162047488",
+        "text": "\u3088\u304b\u3063\u305f\uff01\u3055\u3059\u304c\u30e2\u30c7\u30eb\u3055\u3093\u306a\u3060\u3051\u3042\u3063\u3066\u5203\u306e\u79c1\u670d\u306f\u7d20\u6575\u3084\u3067\uff01\uff01\n\n\u3044\u3084\u3041\u2026\u6614\u30b9\u30fc\u30c4\u3084\u6b63\u88c5\u8131\u3044\u3060\u3089\u3068\u3093\u3067\u3082\u306a\u3044\u3053\u3068\u306b\u306a\u3063\u3066\u305f\u5974\u304c\u3044\u3066\u3060\u306a\u2026(-_-;)\n\n#\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3\n#nitiasa https://t.co/RNpDMD2XQN",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3",
+                    "indices": [
+                        75,
+                        86
+                    ]
+                },
+                {
+                    "text": "nitiasa",
+                    "indices": [
+                        87,
+                        95
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256740432077193216,
+                    "id_str": "1256740432077193216",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWw7TVAAApjU5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWw7TVAAApjU5.jpg",
+                    "url": "https://t.co/RNpDMD2XQN",
+                    "display_url": "pic.twitter.com/RNpDMD2XQN",
+                    "expanded_url": "https://twitter.com/Tokusatsugame/status/1256740441162047488/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256740432077193216,
+                    "id_str": "1256740432077193216",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWw7TVAAApjU5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWw7TVAAApjU5.jpg",
+                    "url": "https://t.co/RNpDMD2XQN",
+                    "display_url": "pic.twitter.com/RNpDMD2XQN",
+                    "expanded_url": "https://twitter.com/Tokusatsugame/status/1256740441162047488/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256740434140790784,
+                    "id_str": "1256740434140790784",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWxC_VAAAeYaZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWxC_VAAAeYaZ.jpg",
+                    "url": "https://t.co/RNpDMD2XQN",
+                    "display_url": "pic.twitter.com/RNpDMD2XQN",
+                    "expanded_url": "https://twitter.com/Tokusatsugame/status/1256740441162047488/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 739,
+                            "h": 415,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 739,
+                            "h": 415,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256740436141473794,
+                    "id_str": "1256740436141473794",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWxKcVAAITo_g.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWxKcVAAITo_g.jpg",
+                    "url": "https://t.co/RNpDMD2XQN",
+                    "display_url": "pic.twitter.com/RNpDMD2XQN",
+                    "expanded_url": "https://twitter.com/Tokusatsugame/status/1256740441162047488/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1440,
+                            "h": 810,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1216675522693910528,
+            "id_str": "1216675522693910528",
+            "name": "\u305d\u3093\u306a\u6625\u3055\u3093\u306f\u7279\u64ae\u597d\u304d",
+            "screen_name": "Tokusatsugame",
+            "location": "",
+            "description": "\u8da3\u5473\u57a2/\u30b2\u30fc\u30e0\u3001\u7279\u64ae\u5927\u597d\u304d\u4eba\u9593\u3067\u3059\uff01\u3068\u304f\u306b #\u4eee\u9762\u30e9\u30a4\u30c0\u30fc /\u30d5\u30a9\u30ed\u30fc\u304a\u8fd4\u3057\u3057\u307e\u3059\u3002\u7121\u8a00\u30d5\u30a9\u30ed\u30fc\u5927\u6b53\u8fce\ud83c\udf89\u5b9c\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\uff01",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 289,
+            "friends_count": 388,
+            "listed_count": 0,
+            "created_at": "Mon Jan 13 10:57:10 +0000 2020",
+            "favourites_count": 179,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 257,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256499831788322817/xC-uYIYn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256499831788322817/xC-uYIYn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216675522693910528/1578921224",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 191,
+        "favorite_count": 286,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 191,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

@@ -1,0 +1,168 @@
+{
+    "created_at": "Sun May 03 00:42:23 +0000 2020",
+    "id": 1256745888686497797,
+    "id_str": "1256745888686497797",
+    "text": "#\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627 https://t.co/VeYhY4icKH",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627",
+                "indices": [
+                    0,
+                    21
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745878074920961,
+                "id_str": "1256745878074920961",
+                "indices": [
+                    22,
+                    45
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbt7OXkAE_Cug.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbt7OXkAE_Cug.jpg",
+                "url": "https://t.co/VeYhY4icKH",
+                "display_url": "pic.twitter.com/VeYhY4icKH",
+                "expanded_url": "https://twitter.com/saudalutaibi0/status/1256745888686497797/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 576,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 576,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745878074920961,
+                "id_str": "1256745878074920961",
+                "indices": [
+                    22,
+                    45
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbt7OXkAE_Cug.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbt7OXkAE_Cug.jpg",
+                "url": "https://t.co/VeYhY4icKH",
+                "display_url": "pic.twitter.com/VeYhY4icKH",
+                "expanded_url": "https://twitter.com/saudalutaibi0/status/1256745888686497797/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 576,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 576,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2497977709,
+        "id_str": "2497977709",
+        "name": "alotaibi saud",
+        "screen_name": "saudalutaibi0",
+        "location": "",
+        "description": "\u0623\u0642\u0633\u0645 \u0628\u0627\u0644\u0644\u0647 \u0623\u0646 \u0623\u0643\u0648\u0646 \u0645\u062e\u0644\u0635\u0627\u064b \u0644\u062f\u064a\u0646\u064a \u062b\u0645 \u0644\u0645\u0644\u064a\u0643\u064a \u0648\u0628\u0644\u0627\u062f\u064a \u062d\u0628 \u0627\u0644\u0648\u0637\u0646 \u0639\u0642\u064a\u062f\u0629 \u0648\u0633\u0644\u0648\u0643 \u0648\u062a\u0636\u062d\u064a\u0629 \u062a\u0634\u0631\u0641\u062a \u0628\u0644\u0642\u0628 \u0625\u0628\u0646 \u0627\u0644\u0648\u0637\u0646 \u0627\u0644\u0628\u0627\u0631 \u0645\u0646 \u0645\u0639\u0627\u0644\u064a \u0627\u0644\u0641\u0631\u064a\u0642 \u0623\u0648\u0644 \u0631\u0643\u0646 \u062e\u0627\u0644\u062f \u0628\u0646 \u0642\u0631\u0627\u0631 \u0627\u0644\u062d\u0631\u0628\u064a",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14818,
+        "friends_count": 59,
+        "listed_count": 11,
+        "created_at": "Fri May 16 07:30:15 +0000 2014",
+        "favourites_count": 634,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 748,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1057472255675064320/3jVMuTvS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057472255675064320/3jVMuTvS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2497977709/1532449043",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

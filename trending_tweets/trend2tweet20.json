@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:42:39 +0000 2020",
+    "id": 1256745954000146432,
+    "id_str": "1256745954000146432",
+    "text": "RT @R_Sevilmis: D\u00fcn seninleydik. Bug\u00fcn de seninleyiz. Yar\u0131n da seninle olaca\u011f\u0131z. #BuYoldanD\u00f6nmeyece\u011fiz Asla yaln\u0131z kalmayacaks\u0131n reis @RTEr\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    81,
+                    102
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "R_Sevilmis",
+                "name": "Ramaza\u0646 Sevilmi\u0634",
+                "id": 955420907849347072,
+                "id_str": "955420907849347072",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4097218041,
+        "id_str": "4097218041",
+        "name": "\ud83c\uddf9\ud83c\uddf7 ay\u015fe \ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "karanfilim2004",
+        "location": "\u0130stanbul ",
+        "description": "\u0130stanbul  - GS - \u2764\ufe0f\ud83d\udc9b - \u2649 @Sevgi28152311",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2532,
+        "friends_count": 2345,
+        "listed_count": 7,
+        "created_at": "Mon Nov 02 12:44:15 +0000 2015",
+        "favourites_count": 130482,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 135078,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/975622752081195010/Yl-kmRM-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/975622752081195010/Yl-kmRM-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4097218041/1577288215",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:12:29 +0000 2020",
+        "id": 1256723264732385280,
+        "id_str": "1256723264732385280",
+        "text": "D\u00fcn seninleydik. Bug\u00fcn de seninleyiz. Yar\u0131n da seninle olaca\u011f\u0131z. #BuYoldanD\u00f6nmeyece\u011fiz Asla yaln\u0131z kalmayacaks\u0131n reis @RTErdogan",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        65,
+                        86
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RTErdogan",
+                    "name": "Recep Tayyip Erdo\u011fan",
+                    "id": 68034431,
+                    "id_str": "68034431",
+                    "indices": [
+                        118,
+                        128
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 955420907849347072,
+            "id_str": "955420907849347072",
+            "name": "Ramaza\u0646 Sevilmi\u0634",
+            "screen_name": "R_Sevilmis",
+            "location": "T\u00fcrkiye",
+            "description": "BEN B\u0130LMEM \ud83c\uddf9\ud83c\uddf7 @sevilmis01 \n\u0f7c\u2800\u2800\u2800\u2800\u0f7c\u2800\u2800\u2800\u2800 \u2800 \u2800\u2800\u2800 \u2800\u2800\u0f7c\u2800 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u0f7c\u2800\u2800 \u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u0f7c\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u0f7c\u2800\u2800\u2800 \u0f7c\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800\u2800 \u2800 \u0f7c\u2800\u2800\u2800\u2800\u2800 \u2800 \u2800\u2800\u2800\u0f7c\u2800\u2800\u2800\u2800\u2800\u2800\u2800 \u2800\u0f7c\u2800\u2800\u2800\u2800  \u2800\u0f7c\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u0f7c \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u0f7c\u2800",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6221,
+            "friends_count": 5895,
+            "listed_count": 5,
+            "created_at": "Mon Jan 22 12:44:30 +0000 2018",
+            "favourites_count": 158089,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5892,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1241335334371196929/wKjlEHuw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241335334371196929/wKjlEHuw_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 64,
+        "favorite_count": 170,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 64,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

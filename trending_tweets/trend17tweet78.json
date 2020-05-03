@@ -1,0 +1,550 @@
+{
+    "created_at": "Sun May 03 00:41:54 +0000 2020",
+    "id": 1256745767710179328,
+    "id_str": "1256745767710179328",
+    "text": "RT @sairulazam: hadi bay\u0131m!\nbirimiz ya\u011fmuru dansa kald\u0131rs\u0131n\nbirimiz \u00e7ocuk olsun yeniden. #ya\u011fmur https://t.co/Vjmogk27Fo",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ya\u011fmur",
+                "indices": [
+                    89,
+                    96
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sairulazam",
+                "name": "mustafa yaz\u0131c\u0131",
+                "id": 842153470933241858,
+                "id_str": "842153470933241858",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1245042981712941059,
+                "id_str": "1245042981712941059",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245042981712941059/pu/img/5kupD505c0Qj63Kq.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245042981712941059/pu/img/5kupD505c0Qj63Kq.jpg",
+                "url": "https://t.co/Vjmogk27Fo",
+                "display_url": "pic.twitter.com/Vjmogk27Fo",
+                "expanded_url": "https://twitter.com/sairulazam/status/1245043309023764483/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1245043309023764483,
+                "source_status_id_str": "1245043309023764483",
+                "source_user_id": 842153470933241858,
+                "source_user_id_str": "842153470933241858"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1245042981712941059,
+                "id_str": "1245042981712941059",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245042981712941059/pu/img/5kupD505c0Qj63Kq.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245042981712941059/pu/img/5kupD505c0Qj63Kq.jpg",
+                "url": "https://t.co/Vjmogk27Fo",
+                "display_url": "pic.twitter.com/Vjmogk27Fo",
+                "expanded_url": "https://twitter.com/sairulazam/status/1245043309023764483/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1245043309023764483,
+                "source_status_id_str": "1245043309023764483",
+                "source_user_id": 842153470933241858,
+                "source_user_id_str": "842153470933241858",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 59807,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1245042981712941059/pu/vid/640x360/8unTSYUZ3xhaeQ35.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1245042981712941059/pu/vid/480x270/WdLaZenspp3zgUur.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1245042981712941059/pu/pl/R_NCE5N-0IwagBAa.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 842153470933241858,
+                        "id_str": "842153470933241858",
+                        "name": "mustafa yaz\u0131c\u0131",
+                        "screen_name": "sairulazam",
+                        "location": "Arde\u015fen, Rize",
+                        "description": "evet, isy\u00e2n.",
+                        "url": "https://t.co/FDvIn46sqK",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/FDvIn46sqK",
+                                        "expanded_url": "http://instagram.com/mustafa.yazici",
+                                        "display_url": "instagram.com/mustafa.yazici",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 49743,
+                        "friends_count": 876,
+                        "listed_count": 54,
+                        "created_at": "Wed Mar 15 23:20:08 +0000 2017",
+                        "favourites_count": 8273,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 10696,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1252574311682052097/Bp1dntXq_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252574311682052097/Bp1dntXq_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/842153470933241858/1547425572",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 517706622,
+        "id_str": "517706622",
+        "name": "Yunus Emre",
+        "screen_name": "ua_Yunus1905",
+        "location": "T\u00fcrkiye",
+        "description": "\u2605\u2605\u2605\u2605 GALATASARAY\u2605\u2605\u2605\u2605                            \nKocaeli \u00dcniversitesi",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 149,
+        "friends_count": 154,
+        "listed_count": 0,
+        "created_at": "Wed Mar 07 15:46:18 +0000 2012",
+        "favourites_count": 5306,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 604,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1184356927716896768/sT5GPC-y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184356927716896768/sT5GPC-y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/517706622/1441702513",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:23:02 +0000 2020",
+        "id": 1256710818621788161,
+        "id_str": "1256710818621788161",
+        "text": "hadi bay\u0131m!\nbirimiz ya\u011fmuru dansa kald\u0131rs\u0131n\nbirimiz \u00e7ocuk olsun yeniden. #ya\u011fmur https://t.co/Vjmogk27Fo",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ya\u011fmur",
+                    "indices": [
+                        73,
+                        80
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1245042981712941059,
+                    "id_str": "1245042981712941059",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245042981712941059/pu/img/5kupD505c0Qj63Kq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245042981712941059/pu/img/5kupD505c0Qj63Kq.jpg",
+                    "url": "https://t.co/Vjmogk27Fo",
+                    "display_url": "pic.twitter.com/Vjmogk27Fo",
+                    "expanded_url": "https://twitter.com/sairulazam/status/1245043309023764483/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1245043309023764483,
+                    "source_status_id_str": "1245043309023764483",
+                    "source_user_id": 842153470933241858,
+                    "source_user_id_str": "842153470933241858"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1245042981712941059,
+                    "id_str": "1245042981712941059",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245042981712941059/pu/img/5kupD505c0Qj63Kq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245042981712941059/pu/img/5kupD505c0Qj63Kq.jpg",
+                    "url": "https://t.co/Vjmogk27Fo",
+                    "display_url": "pic.twitter.com/Vjmogk27Fo",
+                    "expanded_url": "https://twitter.com/sairulazam/status/1245043309023764483/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1245043309023764483,
+                    "source_status_id_str": "1245043309023764483",
+                    "source_user_id": 842153470933241858,
+                    "source_user_id_str": "842153470933241858",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 59807,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1245042981712941059/pu/vid/640x360/8unTSYUZ3xhaeQ35.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1245042981712941059/pu/vid/480x270/WdLaZenspp3zgUur.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1245042981712941059/pu/pl/R_NCE5N-0IwagBAa.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false,
+                        "source_user": {
+                            "id": 842153470933241858,
+                            "id_str": "842153470933241858",
+                            "name": "mustafa yaz\u0131c\u0131",
+                            "screen_name": "sairulazam",
+                            "location": "Arde\u015fen, Rize",
+                            "description": "evet, isy\u00e2n.",
+                            "url": "https://t.co/FDvIn46sqK",
+                            "entities": {
+                                "url": {
+                                    "urls": [
+                                        {
+                                            "url": "https://t.co/FDvIn46sqK",
+                                            "expanded_url": "http://instagram.com/mustafa.yazici",
+                                            "display_url": "instagram.com/mustafa.yazici",
+                                            "indices": [
+                                                0,
+                                                23
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "description": {
+                                    "urls": []
+                                }
+                            },
+                            "protected": false,
+                            "followers_count": 49743,
+                            "friends_count": 876,
+                            "listed_count": 54,
+                            "created_at": "Wed Mar 15 23:20:08 +0000 2017",
+                            "favourites_count": 8273,
+                            "utc_offset": null,
+                            "time_zone": null,
+                            "geo_enabled": false,
+                            "verified": false,
+                            "statuses_count": 10696,
+                            "lang": null,
+                            "contributors_enabled": false,
+                            "is_translator": false,
+                            "is_translation_enabled": false,
+                            "profile_background_color": "000000",
+                            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                            "profile_background_tile": false,
+                            "profile_image_url": "http://pbs.twimg.com/profile_images/1252574311682052097/Bp1dntXq_normal.jpg",
+                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252574311682052097/Bp1dntXq_normal.jpg",
+                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/842153470933241858/1547425572",
+                            "profile_link_color": "1B95E0",
+                            "profile_sidebar_border_color": "000000",
+                            "profile_sidebar_fill_color": "000000",
+                            "profile_text_color": "000000",
+                            "profile_use_background_image": false,
+                            "has_extended_profile": true,
+                            "default_profile": false,
+                            "default_profile_image": false,
+                            "following": false,
+                            "follow_request_sent": false,
+                            "notifications": false,
+                            "translator_type": "none"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 842153470933241858,
+            "id_str": "842153470933241858",
+            "name": "mustafa yaz\u0131c\u0131",
+            "screen_name": "sairulazam",
+            "location": "Arde\u015fen, Rize",
+            "description": "evet, isy\u00e2n.",
+            "url": "https://t.co/FDvIn46sqK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FDvIn46sqK",
+                            "expanded_url": "http://instagram.com/mustafa.yazici",
+                            "display_url": "instagram.com/mustafa.yazici",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 49743,
+            "friends_count": 876,
+            "listed_count": 54,
+            "created_at": "Wed Mar 15 23:20:08 +0000 2017",
+            "favourites_count": 8273,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10696,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252574311682052097/Bp1dntXq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252574311682052097/Bp1dntXq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/842153470933241858/1547425572",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 288,
+        "favorite_count": 1746,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 288,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

@@ -1,0 +1,192 @@
+{
+    "created_at": "Sun May 03 00:42:05 +0000 2020",
+    "id": 1256745811481894919,
+    "id_str": "1256745811481894919",
+    "text": "RT @argessarmanc0: Bug\u00fcn T\u00fcrkiye'nin korona vir\u00fcsten daha b\u00fcy\u00fck bir sorunu var \u00c7ocuk \u0130stismar\u0131!\n\u00c7ocuk susar, sen susma! \n\n#KopsunK\u0131yamet ht\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KopsunK\u0131yamet",
+                "indices": [
+                    122,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "argessarmanc0",
+                "name": "Arge\u015fizm",
+                "id": 954802712859889664,
+                "id_str": "954802712859889664",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1246572084823838721,
+        "id_str": "1246572084823838721",
+        "name": "Hikmet YILDIZ\ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "Hikmetyiildiz",
+        "location": "",
+        "description": "GELECEK PART\u0130S\u0130 \u0130STANBUL ATA\u015eEH\u0130R \u0130L\u00c7E GEN\u00c7L\u0130K KOLLARI BA\u015eKANI\ud83c\udf41",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 208,
+        "friends_count": 661,
+        "listed_count": 0,
+        "created_at": "Sat Apr 04 22:55:29 +0000 2020",
+        "favourites_count": 121,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 76,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256287046055985156/9cHPStmc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256287046055985156/9cHPStmc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246572084823838721/1587197387",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:55:17 +0000 2020",
+        "id": 1256643439460040704,
+        "id_str": "1256643439460040704",
+        "text": "Bug\u00fcn T\u00fcrkiye'nin korona vir\u00fcsten daha b\u00fcy\u00fck bir sorunu var \u00c7ocuk \u0130stismar\u0131!\n\u00c7ocuk susar, sen susma!\u2026 https://t.co/mV8hAPmPJI",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/mV8hAPmPJI",
+                    "expanded_url": "https://twitter.com/i/web/status/1256643439460040704",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        102,
+                        125
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 954802712859889664,
+            "id_str": "954802712859889664",
+            "name": "Arge\u015fizm",
+            "screen_name": "argessarmanc0",
+            "location": "Amed",
+            "description": "Bir gazeteci aday\u0131",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16426,
+            "friends_count": 4370,
+            "listed_count": 6,
+            "created_at": "Sat Jan 20 19:48:00 +0000 2018",
+            "favourites_count": 36575,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12926,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245846047840239616/d6SwbrqG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245846047840239616/d6SwbrqG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/954802712859889664/1585664478",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 457,
+        "favorite_count": 2996,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 457,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

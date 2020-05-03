@@ -1,0 +1,222 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745927542480896,
+    "id_str": "1256745927542480896",
+    "text": "RT @Selcuk: \"#Bitlis \u2019te be\u015f minare, beri gel o\u011flan beri gel.\nY\u00fcre\u011fim dolu yare, beri gel o\u011flan beri gel.\"\n\nBu ter\u00f6r vir\u00fcs\u00fcn\u00fcn de k\u00f6k\u00fc kaz\u0131\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    13,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Selcuk",
+                "name": "Sel\u00e7uk Bayraktar",
+                "id": 2271763025,
+                "id_str": "2271763025",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2283225312,
+        "id_str": "2283225312",
+        "name": "sadikestiren",
+        "screen_name": "sadikestiren",
+        "location": "istanbul...Sende bir\u015feyler var",
+        "description": "bazen okudu\u011fun onca kitap, tek bir c\u00fcmle kurdurmaya yetmez....",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 274,
+        "friends_count": 571,
+        "listed_count": 0,
+        "created_at": "Thu Jan 09 07:37:40 +0000 2014",
+        "favourites_count": 6981,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2158,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/783335064293834752/C1TCLVjW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/783335064293834752/C1TCLVjW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2283225312/1453103307",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:06:03 +0000 2020",
+        "id": 1256721645080850436,
+        "id_str": "1256721645080850436",
+        "text": "\"#Bitlis \u2019te be\u015f minare, beri gel o\u011flan beri gel.\nY\u00fcre\u011fim dolu yare, beri gel o\u011flan beri gel.\"\n\nBu ter\u00f6r vir\u00fcs\u00fcn\u00fcn\u2026 https://t.co/bgAy4a86PP",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        1,
+                        8
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/bgAy4a86PP",
+                    "expanded_url": "https://twitter.com/i/web/status/1256721645080850436",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2271763025,
+            "id_str": "2271763025",
+            "name": "Sel\u00e7uk Bayraktar",
+            "screen_name": "Selcuk",
+            "location": "\u0130STANBUL",
+            "description": "@Baykar_Savunma Teknik M\u00fcd\u00fcr/CTO\n@T3Vakfi M\u00fctevelli Heyeti Ba\u015fkan\u0131.\nMotto: Bin Atl\u0131 Ak\u0131nlarda \u00c7ocuklar gibi \u015eendik!\nhttps://t.co/Pb3APC23xT",
+            "url": "https://t.co/pKhUZriM8f",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/pKhUZriM8f",
+                            "expanded_url": "https://baykarsavunma.com/SELCUK-BAYRAKTAR.html",
+                            "display_url": "baykarsavunma.com/SELCUK-BAYRAKT\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Pb3APC23xT",
+                            "expanded_url": "http://instagram.com/selcuk79",
+                            "display_url": "instagram.com/selcuk79",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 896618,
+            "friends_count": 779,
+            "listed_count": 472,
+            "created_at": "Thu Jan 09 22:47:33 +0000 2014",
+            "favourites_count": 36350,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 2000,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1155141513858433027/nJcIRDau_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155141513858433027/nJcIRDau_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2271763025/1564242212",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2796,
+        "favorite_count": 17316,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2796,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

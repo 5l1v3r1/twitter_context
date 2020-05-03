@@ -1,0 +1,224 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745948069453824,
+    "id_str": "1256745948069453824",
+    "text": "RT @LuluSantos: Vem dan\u00e7ar &amp; cantar:\nhttps://t.co/7Dce7kI0F6\n\n#LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    66,
+                    75
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LuluSantos",
+                "name": "Lulu Santos",
+                "id": 123580195,
+                "id_str": "123580195",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/7Dce7kI0F6",
+                "expanded_url": "https://www.youtube.com/watch?v=BArXtDGvaec",
+                "display_url": "youtube.com/watch?v=BArXtD\u2026",
+                "indices": [
+                    41,
+                    64
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 909090169114038272,
+        "id_str": "909090169114038272",
+        "name": "Jose Solon Hofbauer",
+        "screen_name": "HofbauerJose",
+        "location": "",
+        "description": "Entretenimento Games Divers\u00e3o Feriado Memes",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 141,
+        "friends_count": 415,
+        "listed_count": 1,
+        "created_at": "Sat Sep 16 16:22:41 +0000 2017",
+        "favourites_count": 12510,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20802,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231591452326715397/3XzMeuTI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231591452326715397/3XzMeuTI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/909090169114038272/1588302333",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:31:36 +0000 2020",
+        "id": 1256743174451716101,
+        "id_str": "1256743174451716101",
+        "text": "Vem dan\u00e7ar &amp; cantar:\nhttps://t.co/7Dce7kI0F6\n\n#LiveLulu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveLulu",
+                    "indices": [
+                        50,
+                        59
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7Dce7kI0F6",
+                    "expanded_url": "https://www.youtube.com/watch?v=BArXtDGvaec",
+                    "display_url": "youtube.com/watch?v=BArXtD\u2026",
+                    "indices": [
+                        25,
+                        48
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 123580195,
+            "id_str": "123580195",
+            "name": "Lulu Santos",
+            "screen_name": "LuluSantos",
+            "location": "Rio de Janeiro, Brasil",
+            "description": "Astrol\u00e1bia\u269c\ufe0f\ud83d\udd31",
+            "url": "https://t.co/5R5u38m37y",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/5R5u38m37y",
+                            "expanded_url": "http://www.lulusantos.com.br",
+                            "display_url": "lulusantos.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1560998,
+            "friends_count": 778,
+            "listed_count": 524,
+            "created_at": "Tue Mar 16 14:53:41 +0000 2010",
+            "favourites_count": 9285,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 13705,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248981220110807040/r_-rKipx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248981220110807040/r_-rKipx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/123580195/1580648385",
+            "profile_link_color": "751E14",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F93205",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 160,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

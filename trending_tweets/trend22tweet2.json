@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:42:55 +0000 2020",
+    "id": 1256746020584579072,
+    "id_str": "1256746020584579072",
+    "text": "RT @isobelardent: Less than 5 minutes of listening to Dan Tehan and I\u2019m convinced he doesn\u2019t know what he\u2019s talking about. #Insiders",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Insiders",
+                "indices": [
+                    123,
+                    132
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "isobelardent",
+                "name": "Isobel Ardent",
+                "id": 2797758762,
+                "id_str": "2797758762",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3301337178,
+        "id_str": "3301337178",
+        "name": "Lindy Cleeland",
+        "screen_name": "Lindycleeland",
+        "location": "Midway Point, Tasmania",
+        "description": "Free now of elected office.\nWilling, ready and able to tackle social issues.\nAlways speaking up for those who have no voice.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 618,
+        "friends_count": 520,
+        "listed_count": 4,
+        "created_at": "Thu Jul 30 10:05:25 +0000 2015",
+        "favourites_count": 2238,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 75789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009028695015583745/zEaHhbwq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009028695015583745/zEaHhbwq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3301337178/1559257728",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:23:43 +0000 2020",
+        "id": 1256726090141143040,
+        "id_str": "1256726090141143040",
+        "text": "Less than 5 minutes of listening to Dan Tehan and I\u2019m convinced he doesn\u2019t know what he\u2019s talking about. #Insiders",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Insiders",
+                    "indices": [
+                        105,
+                        114
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2797758762,
+            "id_str": "2797758762",
+            "name": "Isobel Ardent",
+            "screen_name": "isobelardent",
+            "location": "Australia",
+            "description": "I am rarely succinct. Twitter is an exercise in taming my verbosity. She/Her.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1174,
+            "friends_count": 3857,
+            "listed_count": 40,
+            "created_at": "Mon Sep 08 12:05:59 +0000 2014",
+            "favourites_count": 120610,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 56481,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/617674376150781952/6DerCFKT_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/617674376150781952/6DerCFKT_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2797758762/1494330322",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

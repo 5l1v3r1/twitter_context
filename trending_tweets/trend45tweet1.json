@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:43:14 +0000 2020",
+    "id": 1256746099639017473,
+    "id_str": "1256746099639017473",
+    "text": "RT @caliskanerc: Meltem Cumbul, 320 g\u00fcnd\u00fcr \u00f6l\u00fcm orucunda olan Grup Yorum \u00fcyesi \u0130brahim G\u00f6k\u00e7ek'in \u00e7ok basit iki talebini \u00e7ok g\u00fczel ifade etm\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "caliskanerc",
+                "name": "H\u00fcseyin \u00c7al\u0131skaner",
+                "id": 261158435,
+                "id_str": "261158435",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 744156306613874688,
+        "id_str": "744156306613874688",
+        "name": "MERAL YILMAZLAR",
+        "screen_name": "MeralYilmazlar",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 499,
+        "friends_count": 265,
+        "listed_count": 0,
+        "created_at": "Sat Jun 18 13:14:24 +0000 2016",
+        "favourites_count": 298556,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 54301,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040689666918424577/d2WahyQ5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040689666918424577/d2WahyQ5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:13:41 +0000 2020",
+        "id": 1256648066494615553,
+        "id_str": "1256648066494615553",
+        "text": "Meltem Cumbul, 320 g\u00fcnd\u00fcr \u00f6l\u00fcm orucunda olan Grup Yorum \u00fcyesi \u0130brahim G\u00f6k\u00e7ek'in \u00e7ok basit iki talebini \u00e7ok g\u00fczel if\u2026 https://t.co/tprh9j8FOZ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/tprh9j8FOZ",
+                    "expanded_url": "https://twitter.com/i/web/status/1256648066494615553",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 261158435,
+            "id_str": "261158435",
+            "name": "H\u00fcseyin \u00c7al\u0131skaner",
+            "screen_name": "caliskanerc",
+            "location": "\u0130stanbul",
+            "description": "Art\u0131bir Kamuoyu ve Pazar Arast\u0131rma \u015eirketi Genel M\u00fcd\u00fcr\u00fc.\n\n\u015eirket twitter hesab\u0131m\u0131z : @ArtibirArs\n\u0130nstagram : @hcaliskaner",
+            "url": "https://t.co/yBIPziPJKo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/yBIPziPJKo",
+                            "expanded_url": "http://www.artibirarastirma.com",
+                            "display_url": "artibirarastirma.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30428,
+            "friends_count": 1453,
+            "listed_count": 26,
+            "created_at": "Sat Mar 05 10:55:30 +0000 2011",
+            "favourites_count": 57435,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14306,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1242936620048941058/9JZG8wdG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242936620048941058/9JZG8wdG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/261158435/1574421996",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1075,
+        "favorite_count": 3093,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1075,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

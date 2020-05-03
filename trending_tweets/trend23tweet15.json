@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun May 03 00:42:54 +0000 2020",
+    "id": 1256746016721813507,
+    "id_str": "1256746016721813507",
+    "text": "@Bielzau Pfv te amo #Mans\u00e3oDasPocs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Mans\u00e3oDasPocs",
+                "indices": [
+                    20,
+                    34
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Bielzau",
+                "name": "\ud835\udd87\ud835\udd8e\ud835\udd8a\ud835\udd91",
+                "id": 1040707020444323845,
+                "id_str": "1040707020444323845",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256745766393126912,
+    "in_reply_to_status_id_str": "1256745766393126912",
+    "in_reply_to_user_id": 1040707020444323845,
+    "in_reply_to_user_id_str": "1040707020444323845",
+    "in_reply_to_screen_name": "Bielzau",
+    "user": {
+        "id": 1226692688319336448,
+        "id_str": "1226692688319336448",
+        "name": "Nick",
+        "screen_name": "Nickzitos",
+        "location": "No seu cora\u00e7\u00e3o",
+        "description": "\u1d0a\u1d1c\u0280\u1d0f \u01eb\u1d1c\u1d07 s\u1d0f\u1d1c \u029f\u1d07\u0262\u1d00\u029f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 321,
+        "friends_count": 197,
+        "listed_count": 6,
+        "created_at": "Mon Feb 10 02:21:51 +0000 2020",
+        "favourites_count": 5287,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3226,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254323606231953408/sq1Brv1S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254323606231953408/sq1Brv1S_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226692688319336448/1587171359",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

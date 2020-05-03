@@ -1,0 +1,160 @@
+{
+    "created_at": "Sun May 03 00:42:41 +0000 2020",
+    "id": 1256745961331793920,
+    "id_str": "1256745961331793920",
+    "text": "Protagonista jamais esquecido \nTE AMAMOS FELIPE PRIOR https://t.co/dzTe9sCsJP",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745957959569409,
+                "id_str": "1256745957959569409",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbyk0WkAEAi02.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbyk0WkAEAi02.jpg",
+                "url": "https://t.co/dzTe9sCsJP",
+                "display_url": "pic.twitter.com/dzTe9sCsJP",
+                "expanded_url": "https://twitter.com/OnLovve/status/1256745961331793920/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 422,
+                        "h": 479,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 422,
+                        "h": 479,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 422,
+                        "h": 479,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745957959569409,
+                "id_str": "1256745957959569409",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbyk0WkAEAi02.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbyk0WkAEAi02.jpg",
+                "url": "https://t.co/dzTe9sCsJP",
+                "display_url": "pic.twitter.com/dzTe9sCsJP",
+                "expanded_url": "https://twitter.com/OnLovve/status/1256745961331793920/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 422,
+                        "h": 479,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 422,
+                        "h": 479,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 422,
+                        "h": 479,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1244775975453437954,
+        "id_str": "1244775975453437954",
+        "name": "onlove \ud83c\udf7a",
+        "screen_name": "OnLovve",
+        "location": "",
+        "description": "j\u00e1 t\u00f4 cancelada mesmo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 216,
+        "friends_count": 426,
+        "listed_count": 1,
+        "created_at": "Tue Mar 31 00:02:32 +0000 2020",
+        "favourites_count": 6008,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1592,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256365281527640064/uR39WqV__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256365281527640064/uR39WqV__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244775975453437954/1587864570",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

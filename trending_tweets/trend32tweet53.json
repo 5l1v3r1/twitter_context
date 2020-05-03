@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:41:38 +0000 2020",
+    "id": 1256745698214596609,
+    "id_str": "1256745698214596609",
+    "text": "\u8fbb\u76e3\u7763\u307e\u3068\u3081\n\u30fb\u9078\u624b\u306e\u69d8\u5b50\u306f\u6620\u50cf\u3067\u78ba\u8a8d\u3057\u3066\u3044\u308b\u304c\u3001\u76f4\u7684\u306a\u6307\u5c0e\u306f\u306a\u3057\u3002\u5fc3\u914d\u3002\n\u30fb\u9078\u624b\u306e\u4f53\u306f\u51fa\u6765\u3066\u3044\u308b\u306e\u3067\u3001\u3042\u3068\u306f\u5b9f\u6226\u611f\u899a\u3092\u53d6\u308a\u623b\u305b\u3070\u958b\u5e55\u306b\u306f\u5bfe\u5fdc\u3067\u304d\u308b\u3002\n\u30fb(\u30e4\u5965\u5ddd\u306b\u3064\u3044\u3066)\u958b\u5e55\u304c\u9045\u308c\u305f\u3053\u3068\u3067\u602a\u6211\u306e\u5177\u5408\u3082\u826f\u304f\u306a\u308a\u30011\u8ecd\u3067\u306e\u767b\u677f\u3082\u3042\u308a\u5f97\u308b\u3002\n#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    119,
+                    129
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1030477499405197313,
+        "id_str": "1030477499405197313",
+        "name": "\u304f\u308b\u308a\u3089",
+        "screen_name": "RKururira",
+        "location": "\u685c\u30f6\u6df5",
+        "description": "\u3010\u6025\u52df\u3011\u51fa\u7981\u64a4\u56de\u306e\u65b9\u6cd5\n\n\u63a8\u3057:\u512a\u6728\u304b\u306a/Run Girls, Run!/\u6625\u6751\u5948\u3005/Wake Up, Girls!/SHiFT/yami\u3061\u3083\u3093/\u5927\u4e45\u4fdd\u7460\u7f8e/\u85e4\u7530\u54b2/\u795e\u5bae\u306e\u58f2(ry Radio:\u30d1\u30c3\u3068UP/\u30cd\u30b3\u3071\u3089\u3058\u304a/3\u4eba4\u811a/\u3053\u3068\u30d1\u30f3/\u3088\u3074\u3061\u3083\u308c/\u9031\u672b/\u307f\u306a\u30e2\u30fc\u30c9/\u307f\u306a\u306f\u3046\u3059/\u30de\u30e6\u901a/\u3000game:\u30ce\u30e9\u3068\u3068/\u30b7\u30e3\u30cb\u30de\u30b9",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 141,
+        "friends_count": 235,
+        "listed_count": 2,
+        "created_at": "Fri Aug 17 15:32:35 +0000 2018",
+        "favourites_count": 14527,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18542,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1212263370469953536/PzllifwK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212263370469953536/PzllifwK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1030477499405197313/1580562735",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

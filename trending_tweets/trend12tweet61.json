@@ -1,0 +1,339 @@
+{
+    "created_at": "Sun May 03 00:41:13 +0000 2020",
+    "id": 1256745595131228160,
+    "id_str": "1256745595131228160",
+    "text": "RT @KinoMorik: \u5ddd\u5d0e\u306e25\u6b73 https://t.co/Wa0QNW665y",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "KinoMorik",
+                "name": "\u30ad\u68ee@\u8da3\u5473",
+                "id": 1127255127360802816,
+                "id_str": "1127255127360802816",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256734077631098881,
+                "id_str": "1256734077631098881",
+                "indices": [
+                    22,
+                    45
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDQ_DJUcAEAIA0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDQ_DJUcAEAIA0.jpg",
+                "url": "https://t.co/Wa0QNW665y",
+                "display_url": "pic.twitter.com/Wa0QNW665y",
+                "expanded_url": "https://twitter.com/KinoMorik/status/1256734081489854464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 468,
+                        "h": 655,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 468,
+                        "h": 655,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 468,
+                        "h": 655,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256734081489854464,
+                "source_status_id_str": "1256734081489854464",
+                "source_user_id": 1127255127360802816,
+                "source_user_id_str": "1127255127360802816"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256734077631098881,
+                "id_str": "1256734077631098881",
+                "indices": [
+                    22,
+                    45
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDQ_DJUcAEAIA0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDQ_DJUcAEAIA0.jpg",
+                "url": "https://t.co/Wa0QNW665y",
+                "display_url": "pic.twitter.com/Wa0QNW665y",
+                "expanded_url": "https://twitter.com/KinoMorik/status/1256734081489854464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 468,
+                        "h": 655,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 468,
+                        "h": 655,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 468,
+                        "h": 655,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256734081489854464,
+                "source_status_id_str": "1256734081489854464",
+                "source_user_id": 1127255127360802816,
+                "source_user_id_str": "1127255127360802816"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2912108096,
+        "id_str": "2912108096",
+        "name": "(mi\u00af\ufe40\u00afyu)\u3086\u3093",
+        "screen_name": "mymy_827",
+        "location": "",
+        "description": "SKE48 \u83c5\u539f\u8309\u6930/\u5d50(\u7dd1)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 509,
+        "friends_count": 316,
+        "listed_count": 9,
+        "created_at": "Thu Nov 27 18:06:43 +0000 2014",
+        "favourites_count": 22914,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 98891,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253340052463030272/2ffgX_RW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253340052463030272/2ffgX_RW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2912108096/1579703196",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:55:28 +0000 2020",
+        "id": 1256734081489854464,
+        "id_str": "1256734081489854464",
+        "text": "\u5ddd\u5d0e\u306e25\u6b73 https://t.co/Wa0QNW665y",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256734077631098881,
+                    "id_str": "1256734077631098881",
+                    "indices": [
+                        7,
+                        30
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDQ_DJUcAEAIA0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDQ_DJUcAEAIA0.jpg",
+                    "url": "https://t.co/Wa0QNW665y",
+                    "display_url": "pic.twitter.com/Wa0QNW665y",
+                    "expanded_url": "https://twitter.com/KinoMorik/status/1256734081489854464/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 468,
+                            "h": 655,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 468,
+                            "h": 655,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 468,
+                            "h": 655,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256734077631098881,
+                    "id_str": "1256734077631098881",
+                    "indices": [
+                        7,
+                        30
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDQ_DJUcAEAIA0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDQ_DJUcAEAIA0.jpg",
+                    "url": "https://t.co/Wa0QNW665y",
+                    "display_url": "pic.twitter.com/Wa0QNW665y",
+                    "expanded_url": "https://twitter.com/KinoMorik/status/1256734081489854464/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 468,
+                            "h": 655,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 468,
+                            "h": 655,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 468,
+                            "h": 655,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1127255127360802816,
+            "id_str": "1127255127360802816",
+            "name": "\u30ad\u68ee@\u8da3\u5473",
+            "screen_name": "KinoMorik",
+            "location": "",
+            "description": "\u4e3b\u306b\u30dd\u30b1\u30e2\u30f3\u3001\u30a2\u30cb\u30e1\u3001\u30e2\u30f3\u30b9\u30c8\u3001\u3069\u3046\u68ee\u3002\u65e5\u5e38\u3092\u545f\u304d\u307e\u3059\u3002\u6975\u529b\u30d5\u30a9\u30ed\u30d0\u3057\u307e\u3059\u3002\u8da3\u5473\u5168\u958b\u3002\u30b1\u30e2\u30ca\u30fc \u203b\u63a7\u3048\u3066\u307e\u3059\u3051\u3069\u3001\u3082\u3057\u304b\u3057\u305f\u3089\u4e0b\u30cd\u30bf\u3044\u3046\u304b\u3082\u3057\u308c\u306a\u3044\u306e\u3067\u6c17\u3092\u3064\u3051\u3066\u304f\u3060\u3055\u3044 \u3002",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 498,
+            "friends_count": 575,
+            "listed_count": 4,
+            "created_at": "Sat May 11 16:52:20 +0000 2019",
+            "favourites_count": 6195,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1340,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1238832444943433729/buLHhsyT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238832444943433729/buLHhsyT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127255127360802816/1566398612",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 45,
+        "favorite_count": 151,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "ja"
+}

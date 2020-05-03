@@ -1,0 +1,116 @@
+{
+    "created_at": "Sun May 03 00:41:44 +0000 2020",
+    "id": 1256745724827623425,
+    "id_str": "1256745724827623425",
+    "text": "Xand canta \"algo a mais\"  por favor nunca pedi nada rafa nota aki por favor #SkolNoModoXandAviao #RafaADMXand  @XandAviao  @rafakalimann_",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SkolNoModoXandAviao",
+                "indices": [
+                    76,
+                    96
+                ]
+            },
+            {
+                "text": "RafaADMXand",
+                "indices": [
+                    97,
+                    109
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "XandAviao",
+                "name": "XAND AVI\u00c3O",
+                "id": 162211380,
+                "id_str": "162211380",
+                "indices": [
+                    111,
+                    121
+                ]
+            },
+            {
+                "screen_name": "rafakalimann_",
+                "name": "Rafa Kalimann \u2728",
+                "id": 1132789115425046528,
+                "id_str": "1132789115425046528",
+                "indices": [
+                    123,
+                    137
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1255149495282618368,
+        "id_str": "1255149495282618368",
+        "name": "Isa",
+        "screen_name": "Isabela07385357",
+        "location": "",
+        "description": "determina\u00e7\u00e3o\nf\u00e9 \ngratid\u00e3o",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 48,
+        "listed_count": 0,
+        "created_at": "Tue Apr 28 14:59:08 +0000 2020",
+        "favourites_count": 68,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255149899479420928/VxGEVx_a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255149899479420928/VxGEVx_a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

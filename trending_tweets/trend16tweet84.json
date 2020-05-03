@@ -1,0 +1,104 @@
+{
+    "created_at": "Sun May 03 00:42:29 +0000 2020",
+    "id": 1256745913491623940,
+    "id_str": "1256745913491623940",
+    "text": "Pediram pro Ciro Gomes ser mais sucinto em respeito ao Amoedo que \u00e9 breve nas suas respostas. S\u00f3 que o Ciro tem mui\u2026 https://t.co/OrtuMYLtJ4",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/OrtuMYLtJ4",
+                "expanded_url": "https://twitter.com/i/web/status/1256745913491623940",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1172451970189279232,
+        "id_str": "1172451970189279232",
+        "name": "Retroescavadeira Antifascista \ud83d\ude9c\ud83c\udde7\ud83c\uddf7\ud83c\udf39",
+        "screen_name": "ESeCiroFossePr1",
+        "location": "Brasil",
+        "description": "Grupo de apoio ao Projeto Nacional de Desenvolvimento!",
+        "url": "https://t.co/BWlQzJpc4s",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BWlQzJpc4s",
+                        "expanded_url": "http://www.facebook.com/esecirofossepresidente",
+                        "display_url": "facebook.com/esecirofossepr\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 868,
+        "friends_count": 570,
+        "listed_count": 2,
+        "created_at": "Fri Sep 13 10:08:47 +0000 2019",
+        "favourites_count": 12739,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3599,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1172452310720663553/g_R6v5ru_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172452310720663553/g_R6v5ru_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1172451970189279232/1568378828",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

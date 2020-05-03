@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:42:38 +0000 2020",
+    "id": 1256745949331742722,
+    "id_str": "1256745949331742722",
+    "text": "RT @JinJaan1601: If a cover song can break the internet, I cannot even imagine  the situation when he releases JJK1\n\nJeon Jungkook is too d\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JinJaan1601",
+                "name": "Anjaan\u2077",
+                "id": 94527969,
+                "id_str": "94527969",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1094159451886514176,
+        "id_str": "1094159451886514176",
+        "name": "You Are My Soulmate\u2077_",
+        "screen_name": "_taeyu_",
+        "location": "",
+        "description": "\ub10c \ucc38 \uc608\uc05c \uc0ac\ub78c \uc774\uc5c8\uc796\uc544  \u2661.\n- \uc544\ubbf8,mdzs, waanjai, sarawatine, and others stuff :) \u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 88,
+        "friends_count": 304,
+        "listed_count": 0,
+        "created_at": "Sat Feb 09 09:01:56 +0000 2019",
+        "favourites_count": 55018,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22596,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245386727516033025/VEzmN1e3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245386727516033025/VEzmN1e3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1094159451886514176/1586541669",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:57:02 +0000 2020",
+        "id": 1256689178110238721,
+        "id_str": "1256689178110238721",
+        "text": "If a cover song can break the internet, I cannot even imagine  the situation when he releases JJK1\n\nJeon Jungkook i\u2026 https://t.co/2QJn2fgRQq",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2QJn2fgRQq",
+                    "expanded_url": "https://twitter.com/i/web/status/1256689178110238721",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 94527969,
+            "id_str": "94527969",
+            "name": "Anjaan\u2077",
+            "screen_name": "JinJaan1601",
+            "location": "",
+            "description": "Army\u1d3c\u1d40\u2077 & MooMoo\u1d3c\u1d40\u2074 \u2764\n[@BTS_twt and @RBW_Mamamoo Fan Account]\n\nJust a soul who loves finding new music :)",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3612,
+            "friends_count": 3662,
+            "listed_count": 9,
+            "created_at": "Fri Dec 04 09:56:52 +0000 2009",
+            "favourites_count": 23835,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14584,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256168419696750594/UtnOvJsG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256168419696750594/UtnOvJsG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/94527969/1580234901",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 86,
+        "favorite_count": 210,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 86,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

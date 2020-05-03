@@ -1,0 +1,216 @@
+{
+    "created_at": "Sun May 03 00:42:47 +0000 2020",
+    "id": 1256745987734859776,
+    "id_str": "1256745987734859776",
+    "text": "Kkkkkkkk #CiroNaGloboNews https://t.co/qc8BF4r8Pj",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    9,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/qc8BF4r8Pj",
+                "expanded_url": "https://twitter.com/Jujuca1987/status/1256734544746680322",
+                "display_url": "twitter.com/Jujuca1987/sta\u2026",
+                "indices": [
+                    26,
+                    49
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 837719549810212867,
+        "id_str": "837719549810212867",
+        "name": "Tesouro de mainha! \ud83c\udf08\ud83c\udf3b\ud83d\udcad",
+        "screen_name": "caprianjo",
+        "location": "",
+        "description": "Capricorniana, enfermeira, Auditora em constru\u00e7\u00e3o, especialista em S. do trabalhador. Apaixonada pela ci\u00eancia e amante do conhecimento. Viver e aprender sempre!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 960,
+        "friends_count": 1397,
+        "listed_count": 4,
+        "created_at": "Fri Mar 03 17:41:19 +0000 2017",
+        "favourites_count": 171984,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33903,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251253546332422144/dARmPpyg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251253546332422144/dARmPpyg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837719549810212867/1546307124",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256734544746680322,
+    "quoted_status_id_str": "1256734544746680322",
+    "quoted_status": {
+        "created_at": "Sat May 02 23:57:19 +0000 2020",
+        "id": 1256734544746680322,
+        "id_str": "1256734544746680322",
+        "text": "\u201cN\u00d3S NUNCA DEFENDEMOS ESTADO M\u00cdNIMO\u201d KKKKKKKKK KICHA KOTA AMOEDO",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 66370407,
+            "id_str": "66370407",
+            "name": "Joanna Maranh\u00e3o",
+            "screen_name": "Jujuca1987",
+            "location": "do mundo",
+            "description": "Desconstru\u00e7\u00e3o ambulante. \ud83d\udc99 \ud83d\udc8c contatos.atletas@gmail.com",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 111573,
+            "friends_count": 864,
+            "listed_count": 347,
+            "created_at": "Mon Aug 17 14:48:28 +0000 2009",
+            "favourites_count": 46657,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 55046,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1234860339889627138/S5ZVQ8L5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234860339889627138/S5ZVQ8L5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/66370407/1586188968",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "CC3366",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "f207b85be9f1513e",
+            "url": "https://api.twitter.com/1.1/geo/id/f207b85be9f1513e.json",
+            "place_type": "city",
+            "name": "Recife",
+            "full_name": "Recife, Brazil",
+            "country_code": "BR",
+            "country": "Brazil",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -35.019805,
+                            -8.157554
+                        ],
+                        [
+                            -34.858893,
+                            -8.157554
+                        ],
+                        [
+                            -34.858893,
+                            -7.929652
+                        ],
+                        [
+                            -35.019805,
+                            -7.929652
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 85,
+        "favorite_count": 1299,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

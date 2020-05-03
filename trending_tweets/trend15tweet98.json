@@ -1,0 +1,295 @@
+{
+    "created_at": "Sun May 03 00:41:59 +0000 2020",
+    "id": 1256745785288425474,
+    "id_str": "1256745785288425474",
+    "text": "RT @CananKaratayTR: M\u00fcbarek Ramazan'da iftar saatinde sald\u0131racak kadar kahpesiniz ba\u015f\u0131m\u0131z sa\u011folsun. #bitlis #KopsunK\u0131yamet https://t.co/TVR\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "bitlis",
+                "indices": [
+                    100,
+                    107
+                ]
+            },
+            {
+                "text": "KopsunK\u0131yamet",
+                "indices": [
+                    108,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CananKaratayTR",
+                "name": "Prof. Dr. Canan Karatay",
+                "id": 207875953,
+                "id_str": "207875953",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 552882382,
+        "id_str": "552882382",
+        "name": "hayri\u015f bekta\u015f",
+        "screen_name": "hyris28",
+        "location": "G\u0130RESUN ",
+        "description": "Ac\u0131badem sa\u011fl\u0131k grubu  \ud83c\udf88\nGalatasaray\ud83d\udc9b\u2764\ufe0f\n\u0130stanbul /Giresun.                                   \n                             \n\nHuman resources",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 231,
+        "friends_count": 477,
+        "listed_count": 0,
+        "created_at": "Fri Apr 13 17:42:37 +0000 2012",
+        "favourites_count": 2615,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5625,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251603344734466050/gaV89j1o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251603344734466050/gaV89j1o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/552882382/1574368169",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:43:15 +0000 2020",
+        "id": 1256670608236183552,
+        "id_str": "1256670608236183552",
+        "text": "M\u00fcbarek Ramazan'da iftar saatinde sald\u0131racak kadar kahpesiniz ba\u015f\u0131m\u0131z sa\u011folsun. #bitlis #KopsunK\u0131yamet https://t.co/TVRaGBqP7Y",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "bitlis",
+                    "indices": [
+                        80,
+                        87
+                    ]
+                },
+                {
+                    "text": "KopsunK\u0131yamet",
+                    "indices": [
+                        88,
+                        102
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256670600791314432,
+                    "id_str": "1256670600791314432",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCXQNfX0AAWlo3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCXQNfX0AAWlo3.jpg",
+                    "url": "https://t.co/TVRaGBqP7Y",
+                    "display_url": "pic.twitter.com/TVRaGBqP7Y",
+                    "expanded_url": "https://twitter.com/CananKaratayTR/status/1256670608236183552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 363,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 576,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256670600791314432,
+                    "id_str": "1256670600791314432",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCXQNfX0AAWlo3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCXQNfX0AAWlo3.jpg",
+                    "url": "https://t.co/TVRaGBqP7Y",
+                    "display_url": "pic.twitter.com/TVRaGBqP7Y",
+                    "expanded_url": "https://twitter.com/CananKaratayTR/status/1256670608236183552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 363,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 576,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 207875953,
+            "id_str": "207875953",
+            "name": "Prof. Dr. Canan Karatay",
+            "screen_name": "CananKaratayTR",
+            "location": "",
+            "description": "Prof Dr. Canan Karatay | Sa\u011fl\u0131kl\u0131 bir ya\u015fam i\u00e7in beni takip edin.",
+            "url": "https://t.co/1aGXubvRY7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1aGXubvRY7",
+                            "expanded_url": "http://canankarataydiyeti.com",
+                            "display_url": "canankarataydiyeti.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15581,
+            "friends_count": 2,
+            "listed_count": 9,
+            "created_at": "Tue Oct 26 06:15:58 +0000 2010",
+            "favourites_count": 10,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 239,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1241452585841831936/mbD7-f0j_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241452585841831936/mbD7-f0j_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/207875953/1584651086",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 382,
+        "favorite_count": 2559,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 382,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

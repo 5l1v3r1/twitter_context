@@ -1,0 +1,217 @@
+{
+    "created_at": "Sun May 03 00:33:51 +0000 2020",
+    "id": 1256743741676756993,
+    "id_str": "1256743741676756993",
+    "text": "RT @gabvasa: @luscas 17:00 - Armandinho \n17:00 - Jorge e Matheus \n19:00 - Claudia Leitte\n20:00 - Xand Avi\u00e3o \n21:30 - Maria Cec\u00edlia e Rodolf\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gabvasa",
+                "name": "gabriel",
+                "id": 72728660,
+                "id_str": "72728660",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "luscas",
+                "name": "luscas",
+                "id": 432983617,
+                "id_str": "432983617",
+                "indices": [
+                    13,
+                    20
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 892768179839217664,
+        "id_str": "892768179839217664",
+        "name": "surtada & emocionada\ud83c\udf2a\ufe0f\u2728\ud83d\udc44//\ud83d\uddfc\ud83e\udd92",
+        "screen_name": "IsabellaTeobal1",
+        "location": "",
+        "description": "harmonizer, lovatic, arinator, directioner, avocada e Camren shipper sofredora, blindada e Gavassier",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 186,
+        "friends_count": 619,
+        "listed_count": 0,
+        "created_at": "Wed Aug 02 15:24:55 +0000 2017",
+        "favourites_count": 7231,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3829,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255739054752256001/IzuLsIXf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255739054752256001/IzuLsIXf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/892768179839217664/1588226312",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:17:43 +0000 2020",
+        "id": 1256633982713765889,
+        "id_str": "1256633982713765889",
+        "text": "@luscas 17:00 - Armandinho \n17:00 - Jorge e Matheus \n19:00 - Claudia Leitte\n20:00 - Xand Avi\u00e3o \n21:30 - Maria Cec\u00edl\u2026 https://t.co/APF8g1muTX",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "luscas",
+                    "name": "luscas",
+                    "id": 432983617,
+                    "id_str": "432983617",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/APF8g1muTX",
+                    "expanded_url": "https://twitter.com/i/web/status/1256633982713765889",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1256633777352294402,
+        "in_reply_to_status_id_str": "1256633777352294402",
+        "in_reply_to_user_id": 432983617,
+        "in_reply_to_user_id_str": "432983617",
+        "in_reply_to_screen_name": "luscas",
+        "user": {
+            "id": 72728660,
+            "id_str": "72728660",
+            "name": "gabriel",
+            "screen_name": "gabvasa",
+            "location": "Nova Lima / Belo Horizonte",
+            "description": "bundinha de grilo",
+            "url": "https://t.co/wCcbqyCyZv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wCcbqyCyZv",
+                            "expanded_url": "https://Instagram.com/gabrieoo",
+                            "display_url": "Instagram.com/gabrieoo",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 42261,
+            "friends_count": 852,
+            "listed_count": 1632,
+            "created_at": "Wed Sep 09 01:34:03 +0000 2009",
+            "favourites_count": 129196,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 204378,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255512240209432578/7IfcHG-f_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255512240209432578/7IfcHG-f_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/72728660/1563897911",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000608",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 377,
+        "favorite_count": 3099,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 377,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,203 @@
+{
+    "created_at": "Sun May 03 00:42:45 +0000 2020",
+    "id": 1256745979350519809,
+    "id_str": "1256745979350519809",
+    "text": "RT @ertan080808: #Bitlis\u2019te iftar saati sald\u0131r\u0131ya u\u011frayan yi\u011fitlerimiz \u015fehadete y\u00fcr\u00fcm\u00fc\u015f. \nAllah \ufdfb ocaklar\u0131na sab\u0131r ya\u011fd\u0131rs\u0131n\ud83e\udd32#Bitlis",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    17,
+                    24
+                ]
+            },
+            {
+                "text": "Bitlis",
+                "indices": [
+                    125,
+                    132
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ertan080808",
+                "name": "ertan080808",
+                "id": 1128625475700572160,
+                "id_str": "1128625475700572160",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 849736249501986816,
+        "id_str": "849736249501986816",
+        "name": "O\u011eUZ KA\u011eAN",
+        "screen_name": "34OGUZ_KAGAN34",
+        "location": "\u0130stanbul, T\u00fcrkiye",
+        "description": "~ ANT\u0130-KAM\u00c2L'\u0130ST ~\nTarih,Haber,G\u00fcndem,K\u00fclt\u00fcr,Sanat",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 377,
+        "friends_count": 386,
+        "listed_count": 0,
+        "created_at": "Wed Apr 05 21:31:24 +0000 2017",
+        "favourites_count": 12276,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9162,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088202357782052864/dHbZV1x5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088202357782052864/dHbZV1x5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/849736249501986816/1532287720",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:44:34 +0000 2020",
+        "id": 1256670937820340224,
+        "id_str": "1256670937820340224",
+        "text": "#Bitlis\u2019te iftar saati sald\u0131r\u0131ya u\u011frayan yi\u011fitlerimiz \u015fehadete y\u00fcr\u00fcm\u00fc\u015f. \nAllah \ufdfb ocaklar\u0131na sab\u0131r ya\u011fd\u0131rs\u0131n\ud83e\udd32#Bitlis",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        108,
+                        115
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1128625475700572160,
+            "id_str": "1128625475700572160",
+            "name": "ertan080808",
+            "screen_name": "ertan080808",
+            "location": "T\u00fcrkiye",
+            "description": "\ud83d\udc49 @RTErdogan",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8475,
+            "friends_count": 7382,
+            "listed_count": 5,
+            "created_at": "Wed May 15 11:37:37 +0000 2019",
+            "favourites_count": 30362,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 8262,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1194195612247433217/eOwEZ1Cq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194195612247433217/eOwEZ1Cq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128625475700572160/1588379312",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 90,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

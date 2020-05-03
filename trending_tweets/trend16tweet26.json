@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745985725915136,
+    "id_str": "1256745985725915136",
+    "text": "RT @cirogomesquad: Essa \u00e9 a hora de pegar a pipoca, encontrar o lugar mais confort\u00e1vel da sua casa e ligar na Globonews. J\u00e1 j\u00e1 come\u00e7a! N\u00e3o\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cirogomesquad",
+                "name": "CG Squad \ud83c\udf39",
+                "id": 1093571605563871234,
+                "id_str": "1093571605563871234",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 53555802,
+        "id_str": "53555802",
+        "name": "Andrea (Psykh\u00e9)",
+        "screen_name": "luapsykhe",
+        "location": "Brasil",
+        "description": "Lua Psykh\u00e9",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 30,
+        "friends_count": 217,
+        "listed_count": 1,
+        "created_at": "Sat Jul 04 01:19:45 +0000 2009",
+        "favourites_count": 9501,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 294,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/894689457634496519/4zlCY8-v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/894689457634496519/4zlCY8-v_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "FFBFC3",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:19:17 +0000 2020",
+        "id": 1256724976578822144,
+        "id_str": "1256724976578822144",
+        "text": "Essa \u00e9 a hora de pegar a pipoca, encontrar o lugar mais confort\u00e1vel da sua casa e ligar na Globonews. J\u00e1 j\u00e1 come\u00e7a!\u2026 https://t.co/2oC85m0qyy",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2oC85m0qyy",
+                    "expanded_url": "https://twitter.com/i/web/status/1256724976578822144",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1093571605563871234,
+            "id_str": "1093571605563871234",
+            "name": "CG Squad \ud83c\udf39",
+            "screen_name": "cirogomesquad",
+            "location": "",
+            "description": "Ideia, exemplo e milit\u00e2ncia. Ciro Gomes Squad \u00e9 Ciro 2022 #FiqueEmCasa",
+            "url": "https://t.co/B5atQtoFrP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B5atQtoFrP",
+                            "expanded_url": "http://curiouscat.me/cirogomesquad",
+                            "display_url": "curiouscat.me/cirogomesquad",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3692,
+            "friends_count": 45,
+            "listed_count": 7,
+            "created_at": "Thu Feb 07 18:06:03 +0000 2019",
+            "favourites_count": 1743,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1548,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1213279150808731649/ivzXVfRx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213279150808731649/ivzXVfRx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093571605563871234/1578103267",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 60,
+        "favorite_count": 193,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 60,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

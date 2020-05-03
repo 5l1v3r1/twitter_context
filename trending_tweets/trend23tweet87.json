@@ -1,0 +1,381 @@
+{
+    "created_at": "Sun May 03 00:42:29 +0000 2020",
+    "id": 1256745912296247303,
+    "id_str": "1256745912296247303",
+    "text": "RT @viviniblu: \"bebe a\u00ed amiga,t\u00e1 fraquinha\" #mansaodaspocs https://t.co/h1d2m6E3Oi",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mansaodaspocs",
+                "indices": [
+                    44,
+                    58
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "viviniblu",
+                "name": "vivini",
+                "id": 1022220467992756230,
+                "id_str": "1022220467992756230",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256738894302842880,
+                "id_str": "1256738894302842880",
+                "indices": [
+                    59,
+                    82
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDVXapWkAA1TRG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDVXapWkAA1TRG.jpg",
+                "url": "https://t.co/h1d2m6E3Oi",
+                "display_url": "pic.twitter.com/h1d2m6E3Oi",
+                "expanded_url": "https://twitter.com/viviniblu/status/1256738920475308039/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 677,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1076,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1076,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738920475308039,
+                "source_status_id_str": "1256738920475308039",
+                "source_user_id": 1022220467992756230,
+                "source_user_id_str": "1022220467992756230"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256738894302842880,
+                "id_str": "1256738894302842880",
+                "indices": [
+                    59,
+                    82
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDVXapWkAA1TRG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDVXapWkAA1TRG.jpg",
+                "url": "https://t.co/h1d2m6E3Oi",
+                "display_url": "pic.twitter.com/h1d2m6E3Oi",
+                "expanded_url": "https://twitter.com/viviniblu/status/1256738920475308039/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 677,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1076,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1076,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738920475308039,
+                "source_status_id_str": "1256738920475308039",
+                "source_user_id": 1022220467992756230,
+                "source_user_id_str": "1022220467992756230"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3056222903,
+        "id_str": "3056222903",
+        "name": "\ud835\udc68\ud835\udc8f\ud835\udc8f\ud835\udc82\ud83c\udf38",
+        "screen_name": "AnnaMakkonem",
+        "location": "\ud835\udc75\ud835\udc86\ud835\udc97\ud835\udc86\ud835\udc93\ud835\udc8d\ud835\udc82\ud835\udc8f\ud835\udc85 \ud835\udc79\ud835\udc82\ud835\udc8f\ud835\udc84\ud835\udc89",
+        "description": "\ud835\udc70'\ud835\udc8e \ud835\udc8b\ud835\udc96\ud835\udc94\ud835\udc95 \ud835\udc82 \ud835\udc91\ud835\udc93\ud835\udc90\ud835\udc94\ud835\udc95\ud835\udc8a\ud835\udc95\ud835\udc96\ud835\udc95\ud835\udc86 \ud835\udc8e\ud835\udc96\ud835\udc94\ud835\udc8a\ud835\udc84\ud835\udc82\ud835\udc8d \ud835\udc8e\ud835\udc9a \ud835\udc85\ud835\udc86\ud835\udc82\ud835\udc93 \u2728\n@michaeljackson \ud83d\udc96\ud83d\udc96\ud83d\udc96",
+        "url": "https://t.co/aNmsl5h73O",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/aNmsl5h73O",
+                        "expanded_url": "https://www.instagram.com/aannamakkonem/?hl=pt-br",
+                        "display_url": "instagram.com/aannamakkonem/\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 545,
+        "friends_count": 2290,
+        "listed_count": 0,
+        "created_at": "Mon Feb 23 15:59:19 +0000 2015",
+        "favourites_count": 2058,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2058,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254177705299456012/Mk65sdFB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254177705299456012/Mk65sdFB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3056222903/1587854242",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:14:42 +0000 2020",
+        "id": 1256738920475308039,
+        "id_str": "1256738920475308039",
+        "text": "\"bebe a\u00ed amiga,t\u00e1 fraquinha\" #mansaodaspocs https://t.co/h1d2m6E3Oi",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "mansaodaspocs",
+                    "indices": [
+                        29,
+                        43
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256738894302842880,
+                    "id_str": "1256738894302842880",
+                    "indices": [
+                        44,
+                        67
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDVXapWkAA1TRG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDVXapWkAA1TRG.jpg",
+                    "url": "https://t.co/h1d2m6E3Oi",
+                    "display_url": "pic.twitter.com/h1d2m6E3Oi",
+                    "expanded_url": "https://twitter.com/viviniblu/status/1256738920475308039/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 677,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1076,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1076,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256738894302842880,
+                    "id_str": "1256738894302842880",
+                    "indices": [
+                        44,
+                        67
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDVXapWkAA1TRG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDVXapWkAA1TRG.jpg",
+                    "url": "https://t.co/h1d2m6E3Oi",
+                    "display_url": "pic.twitter.com/h1d2m6E3Oi",
+                    "expanded_url": "https://twitter.com/viviniblu/status/1256738920475308039/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 677,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1076,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1076,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1022220467992756230,
+            "id_str": "1022220467992756230",
+            "name": "vivini",
+            "screen_name": "viviniblu",
+            "location": "Bras\u00edlia, Brasil",
+            "description": "ie",
+            "url": "https://t.co/d8lmcoxE5D",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/d8lmcoxE5D",
+                            "expanded_url": "http://instagram.com/viniciuscvt/",
+                            "display_url": "instagram.com/viniciuscvt/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 59,
+            "friends_count": 379,
+            "listed_count": 0,
+            "created_at": "Wed Jul 25 20:42:06 +0000 2018",
+            "favourites_count": 5459,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 285,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1244520256053403651/JU6asrtd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244520256053403651/JU6asrtd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022220467992756230/1588046479",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 32,
+        "favorite_count": 147,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

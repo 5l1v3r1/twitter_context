@@ -1,0 +1,186 @@
+{
+    "created_at": "Sun May 03 00:42:05 +0000 2020",
+    "id": 1256745812329000961,
+    "id_str": "1256745812329000961",
+    "text": "RT @MollyJongFast: So we have a plague, locusts and now murder hornets. 2020 is really making me miss the horrible hellscape that was 2016.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MollyJongFast",
+                "name": "Molly Jong-Fast\ud83c\udfe1",
+                "id": 14298769,
+                "id_str": "14298769",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 210818055,
+        "id_str": "210818055",
+        "name": "Mr. Whistler",
+        "screen_name": "WhistlerMr",
+        "location": "Bhowani Junction",
+        "description": "Don\u2019t Take Life So Serious, Son, it Nohow Permanent - Walt Kelly-Pogo, Film Noir, Toshiro Mifune, Samurai fever, Alaskan native\ud83c\udf78#Resist I Block \ud83d\udd25\u2764\ud83c\udf78\ud83d\udcaa",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3354,
+        "friends_count": 3666,
+        "listed_count": 88,
+        "created_at": "Mon Nov 01 13:54:39 +0000 2010",
+        "favourites_count": 263210,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 150168,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000235843106/2102deb0c2f757f3634c06f599ed1946_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000235843106/2102deb0c2f757f3634c06f599ed1946_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/210818055/1559176716",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:59:11 +0000 2020",
+        "id": 1256644421128466437,
+        "id_str": "1256644421128466437",
+        "text": "So we have a plague, locusts and now murder hornets. 2020 is really making me miss the horrible hellscape that was 2016.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14298769,
+            "id_str": "14298769",
+            "name": "Molly Jong-Fast\ud83c\udfe1",
+            "screen_name": "MollyJongFast",
+            "location": "",
+            "description": "Editor at large @thedailybeast.  Wife of @Mattgreenfield and mother of @woketeenageson",
+            "url": "https://t.co/c9JzH8VPTP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/c9JzH8VPTP",
+                            "expanded_url": "https://www.instagram.com/mollyjongfast/?hl=en",
+                            "display_url": "instagram.com/mollyjongfast/\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 502813,
+            "friends_count": 5317,
+            "listed_count": 3018,
+            "created_at": "Fri Apr 04 01:41:30 +0000 2008",
+            "favourites_count": 769048,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 191906,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1221616560252559360/d29_Rmsb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221616560252559360/d29_Rmsb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14298769/1560033873",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 961,
+        "favorite_count": 6707,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 961,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:53 +0000 2020",
+    "id": 1256746011583627266,
+    "id_str": "1256746011583627266",
+    "text": "\u70ba\u671d\u304c\u5fa1\u6210\u306b\u306a\u3063\u3066\u308b\uff57\uff57\uff57\uff57\uff57\uff57 #kiramager #nitiasa #\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "kiramager",
+                "indices": [
+                    17,
+                    27
+                ]
+            },
+            {
+                "text": "nitiasa",
+                "indices": [
+                    28,
+                    36
+                ]
+            },
+            {
+                "text": "\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc",
+                "indices": [
+                    37,
+                    45
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2570458152,
+        "id_str": "2570458152",
+        "name": "\u3053\u3053\u306e\u306f",
+        "screen_name": "coconoha_9133",
+        "location": "",
+        "description": "\u7530\u820e\u306b\u4f4f\u3093\u3067\u308b\u306e\u3093\u266a\u30a2\u30cb\u30e1/\u7279\u64ae\u306a\u3069\u306e\u5b9f\u6cc1\u304c\u307b\u3068\u3093\u3069\u3067\u3059\u3002\u6c17\u8efd\u306b\u3069\u3046\u305e\uff5e\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 132,
+        "friends_count": 590,
+        "listed_count": 2,
+        "created_at": "Mon Jun 16 07:50:03 +0000 2014",
+        "favourites_count": 14668,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 238634,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726661521254678528/I73DLmz5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726661521254678528/I73DLmz5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

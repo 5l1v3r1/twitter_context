@@ -1,0 +1,415 @@
+{
+    "created_at": "Sun May 03 00:42:14 +0000 2020",
+    "id": 1256745851445223424,
+    "id_str": "1256745851445223424",
+    "text": "RT @brunahcomh: SE \u00c9 PRA TE SEGUIR E NUNCA MAIS CAIR NA MESMA REDE. EU VOOOOOUUUUU\n#LiveDoResgate @bandaresgate https://t.co/egUARnAT0L",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveDoResgate",
+                "indices": [
+                    83,
+                    97
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "brunahcomh",
+                "name": "Brubru",
+                "id": 1075948915864817664,
+                "id_str": "1075948915864817664",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "bandaresgate",
+                "name": "Banda Resgate",
+                "id": 16455380,
+                "id_str": "16455380",
+                "indices": [
+                    98,
+                    111
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256740028014886913,
+                "id_str": "1256740028014886913",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDWZaDXgAEIq4L.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDWZaDXgAEIq4L.jpg",
+                "url": "https://t.co/egUARnAT0L",
+                "display_url": "pic.twitter.com/egUARnAT0L",
+                "expanded_url": "https://twitter.com/brunahcomh/status/1256740040065060864/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 386,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 386,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 386,
+                        "h": 214,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740040065060864,
+                "source_status_id_str": "1256740040065060864",
+                "source_user_id": 1075948915864817664,
+                "source_user_id_str": "1075948915864817664"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256740028014886913,
+                "id_str": "1256740028014886913",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDWZaDXgAEIq4L.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDWZaDXgAEIq4L.jpg",
+                "url": "https://t.co/egUARnAT0L",
+                "display_url": "pic.twitter.com/egUARnAT0L",
+                "expanded_url": "https://twitter.com/brunahcomh/status/1256740040065060864/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "large": {
+                        "w": 386,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 386,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 386,
+                        "h": 214,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740040065060864,
+                "source_status_id_str": "1256740040065060864",
+                "source_user_id": 1075948915864817664,
+                "source_user_id_str": "1075948915864817664",
+                "video_info": {
+                    "aspect_ratio": [
+                        193,
+                        107
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDWZaDXgAEIq4L.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1201241732958085120,
+        "id_str": "1201241732958085120",
+        "name": "GabrielA",
+        "screen_name": "gabisj",
+        "location": "",
+        "description": "gosto de ler uns livrinhos, assistir anne with an e, ouvir banda folk brasileira e me aventurar na cozinha.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 138,
+        "listed_count": 0,
+        "created_at": "Sun Dec 01 20:49:02 +0000 2019",
+        "favourites_count": 1255,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 944,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255197367164420097/hobqGObt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255197367164420097/hobqGObt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201241732958085120/1588133776",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:19:09 +0000 2020",
+        "id": 1256740040065060864,
+        "id_str": "1256740040065060864",
+        "text": "SE \u00c9 PRA TE SEGUIR E NUNCA MAIS CAIR NA MESMA REDE. EU VOOOOOUUUUU\n#LiveDoResgate @bandaresgate https://t.co/egUARnAT0L",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveDoResgate",
+                    "indices": [
+                        67,
+                        81
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "bandaresgate",
+                    "name": "Banda Resgate",
+                    "id": 16455380,
+                    "id_str": "16455380",
+                    "indices": [
+                        82,
+                        95
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256740028014886913,
+                    "id_str": "1256740028014886913",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDWZaDXgAEIq4L.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDWZaDXgAEIq4L.jpg",
+                    "url": "https://t.co/egUARnAT0L",
+                    "display_url": "pic.twitter.com/egUARnAT0L",
+                    "expanded_url": "https://twitter.com/brunahcomh/status/1256740040065060864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 386,
+                            "h": 214,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 386,
+                            "h": 214,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 386,
+                            "h": 214,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256740028014886913,
+                    "id_str": "1256740028014886913",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDWZaDXgAEIq4L.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDWZaDXgAEIq4L.jpg",
+                    "url": "https://t.co/egUARnAT0L",
+                    "display_url": "pic.twitter.com/egUARnAT0L",
+                    "expanded_url": "https://twitter.com/brunahcomh/status/1256740040065060864/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "large": {
+                            "w": 386,
+                            "h": 214,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 386,
+                            "h": 214,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 386,
+                            "h": 214,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            193,
+                            107
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXDWZaDXgAEIq4L.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1075948915864817664,
+            "id_str": "1075948915864817664",
+            "name": "Brubru",
+            "screen_name": "brunahcomh",
+            "location": "Minas Gerais, Brasil",
+            "description": "Teu amor me deu vida. \u2022 @Atletico",
+            "url": "https://t.co/dFbFiA70gl",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dFbFiA70gl",
+                            "expanded_url": "https://www.instagram.com/brunahmarquess/",
+                            "display_url": "instagram.com/brunahmarquess/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 37,
+            "friends_count": 91,
+            "listed_count": 0,
+            "created_at": "Fri Dec 21 02:59:46 +0000 2018",
+            "favourites_count": 3754,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1745,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256643639377301504/N969W-Kj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256643639377301504/N969W-Kj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075948915864817664/1583630735",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 52,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

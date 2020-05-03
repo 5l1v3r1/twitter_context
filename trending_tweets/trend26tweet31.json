@@ -1,0 +1,267 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745919241957376,
+    "id_str": "1256745919241957376",
+    "text": "RT @AdamNoany: #OSegredoNaFloresta Cris, Daniel, Alex, Gonzales, o pai do Thiago e a m\u00e3e da Liz esperando quem vai ser o pr\u00f3ximo https://t.\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    15,
+                    34
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AdamNoany",
+                "name": "Adam Noany",
+                "id": 900441079765487617,
+                "id_str": "900441079765487617",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1168289781945688065,
+        "id_str": "1168289781945688065",
+        "name": "\u04a1\u03b1\u2113\u03b5\u03c3",
+        "screen_name": "waakeemeup97",
+        "location": "",
+        "description": "\u1d0a\u1d1cs\u1d1b \u1d00 \u029f\u1d0fs\u1d1b \u0299\u1d0f\u028f \u026a\u0274 \u1d1b\u029c\u026as \u0493\u1d1c\u1d04\u1d0b\u1d07\u1d05 \u1d1c\u1d18 \u1d21\u1d0f\u0280\u029f\u1d05.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 175,
+        "friends_count": 83,
+        "listed_count": 0,
+        "created_at": "Sun Sep 01 22:29:37 +0000 2019",
+        "favourites_count": 15602,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4180,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254224857774129154/HDq_cJu8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254224857774129154/HDq_cJu8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168289781945688065/1574653669",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:29 +0000 2020",
+        "id": 1256745410485510147,
+        "id_str": "1256745410485510147",
+        "text": "#OSegredoNaFloresta Cris, Daniel, Alex, Gonzales, o pai do Thiago e a m\u00e3e da Liz esperando quem vai ser o pr\u00f3ximo https://t.co/jHudRmn4qj",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256745406303817730,
+                    "id_str": "1256745406303817730",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDbSdvX0AIxwo0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDbSdvX0AIxwo0.jpg",
+                    "url": "https://t.co/jHudRmn4qj",
+                    "display_url": "pic.twitter.com/jHudRmn4qj",
+                    "expanded_url": "https://twitter.com/AdamNoany/status/1256745410485510147/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 205,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 205,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 194,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256745406303817730,
+                    "id_str": "1256745406303817730",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDbSdvX0AIxwo0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDbSdvX0AIxwo0.jpg",
+                    "url": "https://t.co/jHudRmn4qj",
+                    "display_url": "pic.twitter.com/jHudRmn4qj",
+                    "expanded_url": "https://twitter.com/AdamNoany/status/1256745410485510147/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 205,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 205,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 194,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 900441079765487617,
+            "id_str": "900441079765487617",
+            "name": "Adam Noany",
+            "screen_name": "AdamNoany",
+            "location": "",
+            "description": "he/Him\n\neu desenho coisas",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4,
+            "friends_count": 53,
+            "listed_count": 0,
+            "created_at": "Wed Aug 23 19:34:17 +0000 2017",
+            "favourites_count": 616,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 34,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249580388936298497/LVgvfmLP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249580388936298497/LVgvfmLP_normal.jpg",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

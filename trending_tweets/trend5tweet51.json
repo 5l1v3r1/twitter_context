@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:42:16 +0000 2020",
+    "id": 1256745858336321536,
+    "id_str": "1256745858336321536",
+    "text": "RT @roper_93: Apparently Murder Hornets are now in North America. Because on top of everything else, those are just what we need right now.\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "roper_93",
+                "name": "Covie",
+                "id": 2768271223,
+                "id_str": "2768271223",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1182470840761274368,
+        "id_str": "1182470840761274368",
+        "name": "Jeanne Koss",
+        "screen_name": "JeanneKoss",
+        "location": "",
+        "description": "Vote blue no matter who! I absolutely detest 45; he is the devil in a blonde  wig. \ud83c\udf0a\ud83c\udf0a\ud83c\udf0a #resist",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3081,
+        "friends_count": 3121,
+        "listed_count": 6,
+        "created_at": "Fri Oct 11 01:40:06 +0000 2019",
+        "favourites_count": 9851,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4660,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1184690904788951040/sJN9e0FU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1184690904788951040/sJN9e0FU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182470840761274368/1574399233",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:28:39 +0000 2020",
+        "id": 1256742431879507968,
+        "id_str": "1256742431879507968",
+        "text": "Apparently Murder Hornets are now in North America. Because on top of everything else, those are just what we need\u2026 https://t.co/0exzUd10O4",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0exzUd10O4",
+                    "expanded_url": "https://twitter.com/i/web/status/1256742431879507968",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2768271223,
+            "id_str": "2768271223",
+            "name": "Covie",
+            "screen_name": "roper_93",
+            "location": "",
+            "description": "\"Do not judge me by my successes, judge me by how many times I fell down and got back up again.\"\n- Nelson Mandela \n\n#FBR",
+            "url": "https://t.co/EywtvJSMwS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EywtvJSMwS",
+                            "expanded_url": "https://themindshield.com/",
+                            "display_url": "themindshield.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 32082,
+            "friends_count": 27513,
+            "listed_count": 36,
+            "created_at": "Mon Aug 25 22:44:48 +0000 2014",
+            "favourites_count": 57300,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13908,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1153452486126178304/7pXa7euV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153452486126178304/7pXa7euV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2768271223/1533407244",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 52,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

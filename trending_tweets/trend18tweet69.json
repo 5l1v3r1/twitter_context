@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:42:51 +0000 2020",
+    "id": 1256746004377788417,
+    "id_str": "1256746004377788417",
+    "text": "3\u4eba\u3068\u3082\u672d\u306b\u3055\u308c\u3066\u3066\u8349 #nitiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    12,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 304209859,
+        "id_str": "304209859",
+        "name": "\u5fe0\u5f10\u3084\u307e\u3044",
+        "screen_name": "raguna69",
+        "location": "\u591a\u5143\u5b87\u5b99\u306e\u3069\u3053\u304b",
+        "description": "\u30a2\u30cb\u30e1\u3084\u7279\u64ae\u306a\u3069\u306e\u5b9f\u6cc1\u591a\u3081\u3002\u30cb\u30b3\u30cb\u30b3\u52d5\u753b/\u5b9f\u6cc1\u52d5\u753b/\u958b\u5c01\uff0c\u30dc\u30a4\u30ed\u52d5\u753b / LoV1~4.0\u304f\u3089\u3044\u307e\u3067 / MTG:Modern/Legacy/EDH/Pauper/ \u65e7\u30b9\u30bf\u30f3\uff0c2\u30b5\u30a4\u30af\u30eb/\u57ce\u30d7\u30ed",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 235,
+        "friends_count": 989,
+        "listed_count": 6,
+        "created_at": "Tue May 24 03:41:50 +0000 2011",
+        "favourites_count": 248,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 43136,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191760596930162688/yZb3FJFO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191760596930162688/yZb3FJFO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/304209859/1444222566",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

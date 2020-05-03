@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:42:38 +0000 2020",
+    "id": 1256745949793312772,
+    "id_str": "1256745949793312772",
+    "text": "LIKE/RT TO JOIN OUR AU GC #WEAREINPAYNE",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WEAREINPAYNE",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2269604042,
+        "id_str": "2269604042",
+        "name": "\u064b\u03b9zzy\u2077\ud81a\uddf5 new edit\ud83d\udccc",
+        "screen_name": "VERSACEYEO",
+        "location": "United States",
+        "description": "#YEOSANG: don\u2019t be shy, give me lines",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 715,
+        "friends_count": 603,
+        "listed_count": 37,
+        "created_at": "Tue Dec 31 00:24:45 +0000 2013",
+        "favourites_count": 46589,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9970,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254134894315425792/_2N5JJ5__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254134894315425792/_2N5JJ5__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2269604042/1587844035",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,272 @@
+{
+    "created_at": "Sun May 03 00:42:28 +0000 2020",
+    "id": 1256745906940100608,
+    "id_str": "1256745906940100608",
+    "text": "RT @brianwaako1: @nbstv @FeffebussiMusic It's murder \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f #NBSSNL #NBSSNL #NBSSNL #NBSSNL",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    57,
+                    64
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    65,
+                    72
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    73,
+                    80
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    81,
+                    88
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "brianwaako1",
+                "name": "brian waako",
+                "id": 3528095367,
+                "id_str": "3528095367",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "nbstv",
+                "name": "NBS Television",
+                "id": 344718893,
+                "id_str": "344718893",
+                "indices": [
+                    17,
+                    23
+                ]
+            },
+            {
+                "screen_name": "FeffebussiMusic",
+                "name": "Feffe Bussi Music",
+                "id": 885260692324065280,
+                "id_str": "885260692324065280",
+                "indices": [
+                    24,
+                    40
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1166403568003428359,
+        "id_str": "1166403568003428359",
+        "name": "Raymond Kabiswa",
+        "screen_name": "RaymK50",
+        "location": "Bulenga Wakiso",
+        "description": "arguments, debates ,battles n competitions make my day",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 105,
+        "listed_count": 0,
+        "created_at": "Tue Aug 27 17:34:26 +0000 2019",
+        "favourites_count": 1451,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1162,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248742676767428609/S1GHU_ZV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248742676767428609/S1GHU_ZV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166403568003428359/1588367900",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:08:29 +0000 2020",
+        "id": 1256737355643396104,
+        "id_str": "1256737355643396104",
+        "text": "@nbstv @FeffebussiMusic It's murder \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f #NBSSNL #NBSSNL #NBSSNL #NBSSNL",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        40,
+                        47
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        48,
+                        55
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        56,
+                        63
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        64,
+                        71
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nbstv",
+                    "name": "NBS Television",
+                    "id": 344718893,
+                    "id_str": "344718893",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "screen_name": "FeffebussiMusic",
+                    "name": "Feffe Bussi Music",
+                    "id": 885260692324065280,
+                    "id_str": "885260692324065280",
+                    "indices": [
+                        7,
+                        23
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1256735175985299458,
+        "in_reply_to_status_id_str": "1256735175985299458",
+        "in_reply_to_user_id": 344718893,
+        "in_reply_to_user_id_str": "344718893",
+        "in_reply_to_screen_name": "nbstv",
+        "user": {
+            "id": 3528095367,
+            "id_str": "3528095367",
+            "name": "Waako Brian",
+            "screen_name": "brianwaako1",
+            "location": "Kampala, Uganda",
+            "description": "I love my lyf \ud83d\udc4c\ud83e\udd2b\ud83d\ude44\ud83e\udd37\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\u26c8\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30,
+            "friends_count": 302,
+            "listed_count": 0,
+            "created_at": "Wed Sep 02 23:32:52 +0000 2015",
+            "favourites_count": 43,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 53,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1004092592894742528/IVUGnaui_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004092592894742528/IVUGnaui_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3528095367/1528229302",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

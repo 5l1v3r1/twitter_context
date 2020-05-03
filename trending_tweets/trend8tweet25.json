@@ -1,0 +1,209 @@
+{
+    "created_at": "Sun May 03 00:42:41 +0000 2020",
+    "id": 1256745964813115392,
+    "id_str": "1256745964813115392",
+    "text": "RT @jkjiminssi: imagina ser a pessoa que vai casar com jeon jungkook e ter o privil\u00e9gio de sei l\u00e1, em um dia de chuva, abrir a janela quart\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jkjiminssi",
+                "name": "ON \u2077",
+                "id": 1037299286948700162,
+                "id_str": "1037299286948700162",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1069258726916403203,
+        "id_str": "1069258726916403203",
+        "name": "rafaela. \uf894",
+        "screen_name": "yoonstylz",
+        "location": "\ud83c\udfa8 \u2079/\u2089 cs | \ub0b4 \uc9d1",
+        "description": "\u3164 \u3164 \u3164 \u02d7\u02cf\u02cb \ud835\uddf9\ud835\uddfc.\ud835\ude03\ud835\uddf2.\ud835\uddf9\ud835\ude06 \u2752 \ud835\ude24\ud835\ude30\ud835\ude33\ud835\ude23\ud835\ude3a\ud835\ude2f\ud83e\uddf8\u17f9",
+        "url": "https://t.co/1Rfy3k00Wg",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1Rfy3k00Wg",
+                        "expanded_url": "http://maxon.xn--8ci",
+                        "display_url": "maxon.\u2730",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4059,
+        "friends_count": 4032,
+        "listed_count": 16,
+        "created_at": "Sun Dec 02 15:55:21 +0000 2018",
+        "favourites_count": 84568,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28183,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256557138584928256/zLe-YpEe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256557138584928256/zLe-YpEe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069258726916403203/1588378525",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:30:32 +0000 2020",
+        "id": 1256652307405684745,
+        "id_str": "1256652307405684745",
+        "text": "imagina ser a pessoa que vai casar com jeon jungkook e ter o privil\u00e9gio de sei l\u00e1, em um dia de chuva, abrir a jane\u2026 https://t.co/ZcLUuf1A2U",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ZcLUuf1A2U",
+                    "expanded_url": "https://twitter.com/i/web/status/1256652307405684745",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1037299286948700162,
+            "id_str": "1037299286948700162",
+            "name": "ON \u2077",
+            "screen_name": "jkjiminssi",
+            "location": "together, BAM! ",
+            "description": "#\uc804\uc815\uad6d \u2022 \ud83d\udc3e | fan account",
+            "url": "https://t.co/siy0QIptKB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/siy0QIptKB",
+                            "expanded_url": "https://my.w.tt/MD7VI8G0WZ",
+                            "display_url": "my.w.tt/MD7VI8G0WZ",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13145,
+            "friends_count": 8125,
+            "listed_count": 46,
+            "created_at": "Wed Sep 05 11:19:56 +0000 2018",
+            "favourites_count": 29447,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 19972,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1244579477394423810/1a0deIoZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244579477394423810/1a0deIoZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037299286948700162/1585488074",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1393,
+        "favorite_count": 4120,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1393,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

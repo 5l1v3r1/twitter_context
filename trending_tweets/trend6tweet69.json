@@ -1,0 +1,465 @@
+{
+    "created_at": "Sun May 03 00:35:33 +0000 2020",
+    "id": 1256744166450704393,
+    "id_str": "1256744166450704393",
+    "text": "RT @TanaBorsottob: Soy  Chile  soy libertad y #YoRechazo https://t.co/sxN0Nu8VsK",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "YoRechazo",
+                "indices": [
+                    46,
+                    56
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TanaBorsottob",
+                "name": "Tana Borsotto B \ud83c\udde8\ud83c\uddf1\ud83c\uddee\ud83c\uddf9#YoRechazo #UnidosYFirmes",
+                "id": 4011851177,
+                "id_str": "4011851177",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256726296094289920,
+                "id_str": "1256726296094289920",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256726296094289920/pu/img/KvPBdRzrzPTaV7ol.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256726296094289920/pu/img/KvPBdRzrzPTaV7ol.jpg",
+                "url": "https://t.co/sxN0Nu8VsK",
+                "display_url": "pic.twitter.com/sxN0Nu8VsK",
+                "expanded_url": "https://twitter.com/TanaBorsottob/status/1256726371423916035/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256726371423916035,
+                "source_status_id_str": "1256726371423916035",
+                "source_user_id": 4011851177,
+                "source_user_id_str": "4011851177"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256726296094289920,
+                "id_str": "1256726296094289920",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256726296094289920/pu/img/KvPBdRzrzPTaV7ol.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256726296094289920/pu/img/KvPBdRzrzPTaV7ol.jpg",
+                "url": "https://t.co/sxN0Nu8VsK",
+                "display_url": "pic.twitter.com/sxN0Nu8VsK",
+                "expanded_url": "https://twitter.com/TanaBorsottob/status/1256726371423916035/video/1",
+                "type": "video",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256726371423916035,
+                "source_status_id_str": "1256726371423916035",
+                "source_user_id": 4011851177,
+                "source_user_id_str": "4011851177",
+                "video_info": {
+                    "aspect_ratio": [
+                        4,
+                        3
+                    ],
+                    "duration_millis": 137633,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256726296094289920/pu/vid/480x360/6g2W39bfFrh7JI2U.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256726296094289920/pu/vid/360x270/Hi9neIa7z-wnJnkY.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256726296094289920/pu/vid/640x480/rgUG0CpL4DJ0W1EX.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256726296094289920/pu/pl/JsH9BIz_4twR9MiG.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 4011851177,
+                        "id_str": "4011851177",
+                        "name": "Tana Borsotto B \ud83c\udde8\ud83c\uddf1\ud83c\uddee\ud83c\uddf9#YoRechazo #UnidosYFirmes",
+                        "screen_name": "TanaBorsottob",
+                        "location": "",
+                        "description": "Mi cuenta anterior la perd\u00ed ,siempre por la derecha ,animalista ,donante ,Pi\u00f1erista. En el negocio de la construcci\u00f3n. \ud83d\udc36#YoRechazo #QuedateEnCasa",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 9365,
+                        "friends_count": 10285,
+                        "listed_count": 8,
+                        "created_at": "Wed Oct 21 20:09:04 +0000 2015",
+                        "favourites_count": 27158,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 41744,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1256410164338589696/jHeDmyHD_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256410164338589696/jHeDmyHD_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4011851177/1586974817",
+                        "profile_link_color": "ABB8C2",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 721694589229391874,
+        "id_str": "721694589229391874",
+        "name": "Genoveva",
+        "screen_name": "geno_ka",
+        "location": "Santiago, Chile",
+        "description": "Ser yo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1863,
+        "friends_count": 2168,
+        "listed_count": 1,
+        "created_at": "Sun Apr 17 13:39:33 +0000 2016",
+        "favourites_count": 40153,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34364,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/800449811220668416/2DnaIgAK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/800449811220668416/2DnaIgAK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/721694589229391874/1579017854",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:24:50 +0000 2020",
+        "id": 1256726371423916035,
+        "id_str": "1256726371423916035",
+        "text": "Soy  Chile  soy libertad y #YoRechazo https://t.co/sxN0Nu8VsK",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "YoRechazo",
+                    "indices": [
+                        27,
+                        37
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256726296094289920,
+                    "id_str": "1256726296094289920",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256726296094289920/pu/img/KvPBdRzrzPTaV7ol.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256726296094289920/pu/img/KvPBdRzrzPTaV7ol.jpg",
+                    "url": "https://t.co/sxN0Nu8VsK",
+                    "display_url": "pic.twitter.com/sxN0Nu8VsK",
+                    "expanded_url": "https://twitter.com/TanaBorsottob/status/1256726371423916035/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256726296094289920,
+                    "id_str": "1256726296094289920",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256726296094289920/pu/img/KvPBdRzrzPTaV7ol.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256726296094289920/pu/img/KvPBdRzrzPTaV7ol.jpg",
+                    "url": "https://t.co/sxN0Nu8VsK",
+                    "display_url": "pic.twitter.com/sxN0Nu8VsK",
+                    "expanded_url": "https://twitter.com/TanaBorsottob/status/1256726371423916035/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            4,
+                            3
+                        ],
+                        "duration_millis": 137633,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256726296094289920/pu/vid/480x360/6g2W39bfFrh7JI2U.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256726296094289920/pu/vid/360x270/Hi9neIa7z-wnJnkY.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256726296094289920/pu/vid/640x480/rgUG0CpL4DJ0W1EX.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256726296094289920/pu/pl/JsH9BIz_4twR9MiG.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4011851177,
+            "id_str": "4011851177",
+            "name": "Tana Borsotto B \ud83c\udde8\ud83c\uddf1\ud83c\uddee\ud83c\uddf9#YoRechazo #UnidosYFirmes",
+            "screen_name": "TanaBorsottob",
+            "location": "",
+            "description": "Mi cuenta anterior la perd\u00ed ,siempre por la derecha ,animalista ,donante ,Pi\u00f1erista. En el negocio de la construcci\u00f3n. \ud83d\udc36#YoRechazo #QuedateEnCasa",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9365,
+            "friends_count": 10285,
+            "listed_count": 8,
+            "created_at": "Wed Oct 21 20:09:04 +0000 2015",
+            "favourites_count": 27158,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 41744,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256410164338589696/jHeDmyHD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256410164338589696/jHeDmyHD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4011851177/1586974817",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 47,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

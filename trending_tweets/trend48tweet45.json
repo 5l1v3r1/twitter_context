@@ -1,0 +1,110 @@
+{
+    "created_at": "Sun May 03 00:39:25 +0000 2020",
+    "id": 1256745139239817219,
+    "id_str": "1256745139239817219",
+    "text": "@cirogomes @GloboNews CIRO, EU TE AMO!\n\nSe citar os professores de novo,.eu choro!!!\n\nJ\u00e1 ganhou meu voto, homem!!!\n#Edicao20",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Edicao20",
+                "indices": [
+                    115,
+                    124
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cirogomes",
+                "name": "Ciro Gomes",
+                "id": 33374761,
+                "id_str": "33374761",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "GloboNews",
+                "name": "GloboNews",
+                "id": 142393421,
+                "id_str": "142393421",
+                "indices": [
+                    11,
+                    21
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256733801570541575,
+    "in_reply_to_status_id_str": "1256733801570541575",
+    "in_reply_to_user_id": 33374761,
+    "in_reply_to_user_id_str": "33374761",
+    "in_reply_to_screen_name": "cirogomes",
+    "user": {
+        "id": 812354946364559361,
+        "id_str": "812354946364559361",
+        "name": "Henrique Cunha",
+        "screen_name": "Henriq_eCunha",
+        "location": "Rio de Janeiro, Brasil",
+        "description": "Casei e n\u00e3o vi vantagem alguma...pqp!!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 242,
+        "friends_count": 300,
+        "listed_count": 0,
+        "created_at": "Fri Dec 23 17:51:26 +0000 2016",
+        "favourites_count": 1118,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2288,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/845407550086483969/HuVsgujP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/845407550086483969/HuVsgujP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/812354946364559361/1487121878",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

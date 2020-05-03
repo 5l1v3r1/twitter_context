@@ -1,0 +1,223 @@
+{
+    "created_at": "Sun May 03 00:42:15 +0000 2020",
+    "id": 1256745853118636032,
+    "id_str": "1256745853118636032",
+    "text": "RT @melitta_hogarth: Hold strong, @DanielAndrewsMP!!  #insiders",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "insiders",
+                "indices": [
+                    54,
+                    63
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "melitta_hogarth",
+                "name": "Melitta Hogarth",
+                "id": 3312877610,
+                "id_str": "3312877610",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "DanielAndrewsMP",
+                "name": "Dan Andrews",
+                "id": 228535666,
+                "id_str": "228535666",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1134992325237587968,
+        "id_str": "1134992325237587968",
+        "name": "Kim Keamy",
+        "screen_name": "KKeamy",
+        "location": "Melbourne, Victoria",
+        "description": "Teacher education researcher, Melbourne Graduate School of Education. Interested in teachers' professional learning and leadership. Views shared are my own.",
+        "url": "https://t.co/AxxrpFhqVZ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/AxxrpFhqVZ",
+                        "expanded_url": "https://mydesire2learn.com/d2l/eP/presentations/presentation_preview_popup.d2l?presId=56399",
+                        "display_url": "mydesire2learn.com/d2l/eP/present\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 30,
+        "friends_count": 80,
+        "listed_count": 1,
+        "created_at": "Sun Jun 02 01:17:12 +0000 2019",
+        "favourites_count": 1357,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 90,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1134998398275280898/NAS0eY9t_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134998398275280898/NAS0eY9t_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1134992325237587968/1559439427",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:40:01 +0000 2020",
+        "id": 1256730193491668993,
+        "id_str": "1256730193491668993",
+        "text": "Hold strong, @DanielAndrewsMP!!  #insiders",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "insiders",
+                    "indices": [
+                        33,
+                        42
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DanielAndrewsMP",
+                    "name": "Dan Andrews",
+                    "id": 228535666,
+                    "id_str": "228535666",
+                    "indices": [
+                        13,
+                        29
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3312877610,
+            "id_str": "3312877610",
+            "name": "Melitta Hogarth",
+            "screen_name": "melitta_hogarth",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 567,
+            "friends_count": 371,
+            "listed_count": 6,
+            "created_at": "Wed Aug 12 00:47:17 +0000 2015",
+            "favourites_count": 2539,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 934,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1069162447422910464/3QPxLjiL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069162447422910464/3QPxLjiL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3312877610/1543743213",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

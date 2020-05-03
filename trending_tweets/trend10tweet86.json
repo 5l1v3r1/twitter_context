@@ -1,0 +1,94 @@
+{
+    "created_at": "Sun May 03 00:38:49 +0000 2020",
+    "id": 1256744989612113920,
+    "id_str": "1256744989612113920",
+    "text": "ZAIA\u30b9\u30da\u30c3\u30af\u3082\u30a2\u30fc\u30af\u5229\u7528\u3057\u3066\u4f5c\u3063\u305f\u3068\u304b\u3058\u3083\u3042\u308b\u307e\u3044\u306a\u5929\u6d25\u793e\u9577",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 747389737908895744,
+        "id_str": "747389737908895744",
+        "name": "TAC",
+        "screen_name": "TAC634526",
+        "location": "\u3053\u3053\u3067\u306f\u306a\u3044\u4f55\u51e6\u304b\u304b\u3089",
+        "description": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30b2\u30a4\u30c4\u30de\u30b8\u30a7\u30b9\u30c6\u30a3\uff01 \u307e\u3055\u306b\u751f\u8a95\u306e\u77ac\u9593\u3067\u3042\u308b\uff01/\u4e3b\u306b\u4e8c\u6b21\u5275\u4f5c\u5c0f\u8aac\u3092\u66f8\u304d\u307e\u3059\u3002\u307e\u308c\u306b\u30c7\u30ec\u30b9\u30c6\u3084Fate\u306e\u8a71\u3092\u3059\u308b\u3002",
+        "url": "https://t.co/d0IzWN6kZd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/d0IzWN6kZd",
+                        "expanded_url": "https://syosetu.org/?mode=user&uid=249480",
+                        "display_url": "syosetu.org/?mode=user&uid\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 268,
+        "friends_count": 368,
+        "listed_count": 11,
+        "created_at": "Mon Jun 27 11:22:54 +0000 2016",
+        "favourites_count": 99576,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 92125,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153237532651315200/fZ_YiJdk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153237532651315200/fZ_YiJdk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/747389737908895744/1568722706",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

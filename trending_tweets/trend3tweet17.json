@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745946727268356,
+    "id_str": "1256745946727268356",
+    "text": "Son arzumuz budur fani d\u00fcnyada:\n\"T\u00fcrk'\u00fcz, varaca\u011f\u0131z K\u0131z\u0131lelma'ya...\"\n\nZiya G\u00f6kalp\n #3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc https://t.co/hswLANYYhJ",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    83,
+                    103
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745939278143489,
+                "id_str": "1256745939278143489",
+                "indices": [
+                    104,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbxfOWoAEoFAq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbxfOWoAEoFAq.jpg",
+                "url": "https://t.co/hswLANYYhJ",
+                "display_url": "pic.twitter.com/hswLANYYhJ",
+                "expanded_url": "https://twitter.com/furkangocmenn/status/1256745946727268356/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 610,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 610,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 384,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745939278143489,
+                "id_str": "1256745939278143489",
+                "indices": [
+                    104,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbxfOWoAEoFAq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbxfOWoAEoFAq.jpg",
+                "url": "https://t.co/hswLANYYhJ",
+                "display_url": "pic.twitter.com/hswLANYYhJ",
+                "expanded_url": "https://twitter.com/furkangocmenn/status/1256745946727268356/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 610,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 610,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 384,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 954779224656830464,
+        "id_str": "954779224656830464",
+        "name": "Furkan",
+        "screen_name": "furkangocmenn",
+        "location": "Adana, T\u00fcrkiye",
+        "description": "Pral\u201914 \u00c7\u00fc/Sbf\u201919 \ud83d\udc89\nAdana \u015eehir Hastanesi",
+        "url": "https://t.co/t7TGtxiSUa",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/t7TGtxiSUa",
+                        "expanded_url": "http://Instagram.com/furkangocmn",
+                        "display_url": "Instagram.com/furkangocmn",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 141,
+        "friends_count": 163,
+        "listed_count": 0,
+        "created_at": "Sat Jan 20 18:14:40 +0000 2018",
+        "favourites_count": 4890,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 636,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248750113306087424/BA2ktvaP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248750113306087424/BA2ktvaP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954779224656830464/1578603112",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

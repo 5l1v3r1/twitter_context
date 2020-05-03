@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:42:43 +0000 2020",
+    "id": 1256745973176569856,
+    "id_str": "1256745973176569856",
+    "text": "RT @92jinlovrs: Se dan cuenta de lo bendecidos que somos por vivir en la misma era que jeon jungkook?? Gracias jungkook por existir \n\n@BTS_\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "92jinlovrs",
+                "name": "\u1d04\u029c\u1d0f\u0280\u026a\u0299\u1d00\u0274\u0262 \ud83c\udde6\ud83c\uddf7",
+                "id": 941027962144555008,
+                "id_str": "941027962144555008",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1141073481888669696,
+        "id_str": "1141073481888669696",
+        "name": "La chamaa\u2077\ud83d\ude3b\ud83c\uddf0\ud83c\uddf7",
+        "screen_name": "la_chamaaa",
+        "location": "Venezuela",
+        "description": "Welcome to my wold\ud83c\udf0e\u2728\n\ud83d\udccdVE\ud83c\uddfb\ud83c\uddea-CO\ud83c\udde8\ud83c\uddf4\ud83d\udccd\n\ud83e\udd1e\ud83c\udffbA.R.M.Y\ud83c\uddf0\ud83c\uddf7\n\ud83d\udc9aTae biased \ud83d\udc9a\n\ud83d\udc9ci purple u\ud83d\udc9c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 25,
+        "friends_count": 386,
+        "listed_count": 0,
+        "created_at": "Tue Jun 18 20:01:32 +0000 2019",
+        "favourites_count": 4567,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3957,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227408453305589760/At2pv67h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227408453305589760/At2pv67h_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141073481888669696/1581472000",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:00:35 +0000 2020",
+        "id": 1256690068934270976,
+        "id_str": "1256690068934270976",
+        "text": "Se dan cuenta de lo bendecidos que somos por vivir en la misma era que jeon jungkook?? Gracias jungkook por existir \n\n@BTS_twt",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BTS_twt",
+                    "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                    "id": 335141638,
+                    "id_str": "335141638",
+                    "indices": [
+                        118,
+                        126
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 941027962144555008,
+            "id_str": "941027962144555008",
+            "name": "\u1d04\u029c\u1d0f\u0280\u026a\u0299\u1d00\u0274\u0262 \ud83c\udde6\ud83c\uddf7",
+            "screen_name": "92jinlovrs",
+            "location": "BTChivas Zuculentas Squad",
+            "description": "Seokjin dijo '\u1d9c\u1d52\u1d50\u1d49 \u1d47\u1d49 \u1d50\u02b8 \u1d57\u1d49\u1d43\u1d9c\u02b0\u1d49\u02b3' y yo sali corriendo ~ cuenta s @hoseokarg ig: ksj_chori",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 104569,
+            "friends_count": 1586,
+            "listed_count": 192,
+            "created_at": "Wed Dec 13 19:32:04 +0000 2017",
+            "favourites_count": 22097,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 61562,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254419809166594048/XvLErPXy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254419809166594048/XvLErPXy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/941027962144555008/1572523378",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 294,
+        "favorite_count": 1187,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 294,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

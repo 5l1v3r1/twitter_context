@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:41:58 +0000 2020",
+    "id": 1256745783115874308,
+    "id_str": "1256745783115874308",
+    "text": "Sevdam\u0131za kimse engel olamaz \ud83d\udc99\ud83d\udc9b #Efsane113Yas\u0131nda https://t.co/nW48klfQF3",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113Yas\u0131nda",
+                "indices": [
+                    32,
+                    49
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745774806962176,
+                "id_str": "1256745774806962176",
+                "indices": [
+                    50,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbn6hXkAAysoB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbn6hXkAAysoB.jpg",
+                "url": "https://t.co/nW48klfQF3",
+                "display_url": "pic.twitter.com/nW48klfQF3",
+                "expanded_url": "https://twitter.com/burakahmet79/status/1256745783115874308/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 298,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745774806962176,
+                "id_str": "1256745774806962176",
+                "indices": [
+                    50,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbn6hXkAAysoB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbn6hXkAAysoB.jpg",
+                "url": "https://t.co/nW48klfQF3",
+                "display_url": "pic.twitter.com/nW48klfQF3",
+                "expanded_url": "https://twitter.com/burakahmet79/status/1256745783115874308/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 298,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 549545205,
+        "id_str": "549545205",
+        "name": "Ahmet Burak",
+        "screen_name": "burakahmet79",
+        "location": "",
+        "description": "Mehmet Akif Ersoy \u00dcniversitesi Hem\u015firelik 4/4 \ud83c\udf93FENERBAH\u00c7E",
+        "url": "https://t.co/KV5Cqj9FcH",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/KV5Cqj9FcH",
+                        "expanded_url": "http://Instagram.com/burakahmet79",
+                        "display_url": "Instagram.com/burakahmet79",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 244,
+        "friends_count": 294,
+        "listed_count": 0,
+        "created_at": "Mon Apr 09 18:59:06 +0000 2012",
+        "favourites_count": 20341,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 699,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240026554454945792/lyrZLnaM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240026554454945792/lyrZLnaM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/549545205/1566201050",
+        "profile_link_color": "FA0808",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

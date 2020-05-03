@@ -1,0 +1,427 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745983418875904,
+    "id_str": "1256745983418875904",
+    "text": "RT @taembrazada_: o tipo ideal de jeon jungkook\na thread; https://t.co/eL3Aks4Dlf",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "taembrazada_",
+                "name": "\u2020\u03b1\u2020\u03b1\u17f9\ud83e\udd8b",
+                "id": 1201893921883852808,
+                "id_str": "1201893921883852808",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256732115871453184,
+                "id_str": "1256732115871453184",
+                "indices": [
+                    58,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDPM3BX0AAlhCD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDPM3BX0AAlhCD.jpg",
+                "url": "https://t.co/eL3Aks4Dlf",
+                "display_url": "pic.twitter.com/eL3Aks4Dlf",
+                "expanded_url": "https://twitter.com/taembrazada_/status/1256732127519019008/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 454,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 736,
+                        "h": 1103,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 736,
+                        "h": 1103,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256732127519019008,
+                "source_status_id_str": "1256732127519019008",
+                "source_user_id": 1201893921883852808,
+                "source_user_id_str": "1201893921883852808"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256732115871453184,
+                "id_str": "1256732115871453184",
+                "indices": [
+                    58,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDPM3BX0AAlhCD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDPM3BX0AAlhCD.jpg",
+                "url": "https://t.co/eL3Aks4Dlf",
+                "display_url": "pic.twitter.com/eL3Aks4Dlf",
+                "expanded_url": "https://twitter.com/taembrazada_/status/1256732127519019008/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 454,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 736,
+                        "h": 1103,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 736,
+                        "h": 1103,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256732127519019008,
+                "source_status_id_str": "1256732127519019008",
+                "source_user_id": 1201893921883852808,
+                "source_user_id_str": "1201893921883852808"
+            },
+            {
+                "id": 1256732122620059648,
+                "id_str": "1256732122620059648",
+                "indices": [
+                    58,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDPNQKXYAAU4Y8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDPNQKXYAAU4Y8.jpg",
+                "url": "https://t.co/eL3Aks4Dlf",
+                "display_url": "pic.twitter.com/eL3Aks4Dlf",
+                "expanded_url": "https://twitter.com/taembrazada_/status/1256732127519019008/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 736,
+                        "h": 1104,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 736,
+                        "h": 1104,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 453,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256732127519019008,
+                "source_status_id_str": "1256732127519019008",
+                "source_user_id": 1201893921883852808,
+                "source_user_id_str": "1201893921883852808"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1251786860549951488,
+        "id_str": "1251786860549951488",
+        "name": "ntsyh_a",
+        "screen_name": "a_ntsyh",
+        "location": "",
+        "description": "you are the source of my smile and tears in the same time",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Sun Apr 19 08:17:13 +0000 2020",
+        "favourites_count": 70,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 206,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:47:42 +0000 2020",
+        "id": 1256732127519019008,
+        "id_str": "1256732127519019008",
+        "text": "o tipo ideal de jeon jungkook\na thread; https://t.co/eL3Aks4Dlf",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256732115871453184,
+                    "id_str": "1256732115871453184",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDPM3BX0AAlhCD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDPM3BX0AAlhCD.jpg",
+                    "url": "https://t.co/eL3Aks4Dlf",
+                    "display_url": "pic.twitter.com/eL3Aks4Dlf",
+                    "expanded_url": "https://twitter.com/taembrazada_/status/1256732127519019008/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 454,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 736,
+                            "h": 1103,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 1103,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256732115871453184,
+                    "id_str": "1256732115871453184",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDPM3BX0AAlhCD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDPM3BX0AAlhCD.jpg",
+                    "url": "https://t.co/eL3Aks4Dlf",
+                    "display_url": "pic.twitter.com/eL3Aks4Dlf",
+                    "expanded_url": "https://twitter.com/taembrazada_/status/1256732127519019008/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 454,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 736,
+                            "h": 1103,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 1103,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256732122620059648,
+                    "id_str": "1256732122620059648",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDPNQKXYAAU4Y8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDPNQKXYAAU4Y8.jpg",
+                    "url": "https://t.co/eL3Aks4Dlf",
+                    "display_url": "pic.twitter.com/eL3Aks4Dlf",
+                    "expanded_url": "https://twitter.com/taembrazada_/status/1256732127519019008/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 736,
+                            "h": 1104,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 1104,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 453,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1201893921883852808,
+            "id_str": "1201893921883852808",
+            "name": "\u2020\u03b1\u2020\u03b1\u17f9\ud83e\udd8b",
+            "screen_name": "taembrazada_",
+            "location": "",
+            "description": "\ud83e\udd8b\u2022\u043cy vo\u03b9ce: n\u00e3o sou criativa pra bio, mas sou apaixonada por bts e por miraculous quem amou?\ud83e\udd8b\n\uffeb \ua4b0fan account\ua4b1 kth+jjk \u00a0",
+            "url": "https://t.co/b3902FICYM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/b3902FICYM",
+                            "expanded_url": "https://twitter.com/ttaembrazada/status/1242243005446262784?s=19",
+                            "display_url": "twitter.com/ttaembrazada/s\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8061,
+            "friends_count": 8014,
+            "listed_count": 22,
+            "created_at": "Tue Dec 03 16:00:22 +0000 2019",
+            "favourites_count": 24149,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 18391,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256692662767419392/vP3s-Gkm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256692662767419392/vP3s-Gkm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201893921883852808/1588376191",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 51,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

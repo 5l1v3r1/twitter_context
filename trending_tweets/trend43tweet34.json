@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:40:17 +0000 2020",
+    "id": 1256745358237065216,
+    "id_str": "1256745358237065216",
+    "text": "RT @FeeBooths: So Long, Farewell\n#AwkwardFuneralSongs https://t.co/IyG3F2Ckod",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    33,
+                    53
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FeeBooths",
+                "name": "Richard H",
+                "id": 42040065,
+                "id_str": "42040065",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256722483375411200,
+                "id_str": "1256722483375411200",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDGcLLWkAA72wf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDGcLLWkAA72wf.jpg",
+                "url": "https://t.co/IyG3F2Ckod",
+                "display_url": "pic.twitter.com/IyG3F2Ckod",
+                "expanded_url": "https://twitter.com/FeeBooths/status/1256722489025191936/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 600,
+                        "h": 333,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 333,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 333,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256722489025191936,
+                "source_status_id_str": "1256722489025191936",
+                "source_user_id": 42040065,
+                "source_user_id_str": "42040065"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256722483375411200,
+                "id_str": "1256722483375411200",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDGcLLWkAA72wf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDGcLLWkAA72wf.jpg",
+                "url": "https://t.co/IyG3F2Ckod",
+                "display_url": "pic.twitter.com/IyG3F2Ckod",
+                "expanded_url": "https://twitter.com/FeeBooths/status/1256722489025191936/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 600,
+                        "h": 333,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 333,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 333,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256722489025191936,
+                "source_status_id_str": "1256722489025191936",
+                "source_user_id": 42040065,
+                "source_user_id_str": "42040065"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 730808638969810944,
+        "id_str": "730808638969810944",
+        "name": "Amber B.",
+        "screen_name": "__cocca",
+        "location": "",
+        "description": "All Around Bad Bitch, Cosmetologist, Wig Snatcher \u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 189,
+        "friends_count": 172,
+        "listed_count": 0,
+        "created_at": "Thu May 12 17:15:32 +0000 2016",
+        "favourites_count": 53768,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23387,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254632813426606081/sXjSUMux_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254632813426606081/sXjSUMux_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/730808638969810944/1587962782",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:09:24 +0000 2020",
+        "id": 1256722489025191936,
+        "id_str": "1256722489025191936",
+        "text": "So Long, Farewell\n#AwkwardFuneralSongs https://t.co/IyG3F2Ckod",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AwkwardFuneralSongs",
+                    "indices": [
+                        18,
+                        38
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256722483375411200,
+                    "id_str": "1256722483375411200",
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDGcLLWkAA72wf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDGcLLWkAA72wf.jpg",
+                    "url": "https://t.co/IyG3F2Ckod",
+                    "display_url": "pic.twitter.com/IyG3F2Ckod",
+                    "expanded_url": "https://twitter.com/FeeBooths/status/1256722489025191936/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 333,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256722483375411200,
+                    "id_str": "1256722483375411200",
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDGcLLWkAA72wf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDGcLLWkAA72wf.jpg",
+                    "url": "https://t.co/IyG3F2Ckod",
+                    "display_url": "pic.twitter.com/IyG3F2Ckod",
+                    "expanded_url": "https://twitter.com/FeeBooths/status/1256722489025191936/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 333,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 42040065,
+            "id_str": "42040065",
+            "name": "Richard H",
+            "screen_name": "FeeBooths",
+            "location": "The Island Of Long",
+            "description": "Just trying to get by in this crazy world..\nFound #Hashtag games & nothing has been the same since.\nOn Twitter since May 2009, started using it 7 years later",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3224,
+            "friends_count": 2291,
+            "listed_count": 42,
+            "created_at": "Sat May 23 15:05:56 +0000 2009",
+            "favourites_count": 10593,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 27176,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/816271809788203008/ltFyQnys_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/816271809788203008/ltFyQnys_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/42040065/1495650928",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 111,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

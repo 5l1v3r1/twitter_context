@@ -1,0 +1,380 @@
+{
+    "created_at": "Sun May 03 00:41:11 +0000 2020",
+    "id": 1256745587342532608,
+    "id_str": "1256745587342532608",
+    "text": "RT @VSertanejo: E A GENTE NEM FICOOOU\n\n#JeMBrahmaLive https://t.co/Kd3HAdaYSX",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    39,
+                    53
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VSertanejo",
+                "name": "Verso Sertanejo",
+                "id": 376785007,
+                "id_str": "376785007",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256719864775008257,
+                "id_str": "1256719864775008257",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDEDwIXYAEiV8t.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDEDwIXYAEiV8t.jpg",
+                "url": "https://t.co/Kd3HAdaYSX",
+                "display_url": "pic.twitter.com/Kd3HAdaYSX",
+                "expanded_url": "https://twitter.com/VSertanejo/status/1256719867257987073/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 524,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 524,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 524,
+                        "h": 298,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256719867257987073,
+                "source_status_id_str": "1256719867257987073",
+                "source_user_id": 376785007,
+                "source_user_id_str": "376785007"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256719864775008257,
+                "id_str": "1256719864775008257",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDEDwIXYAEiV8t.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDEDwIXYAEiV8t.jpg",
+                "url": "https://t.co/Kd3HAdaYSX",
+                "display_url": "pic.twitter.com/Kd3HAdaYSX",
+                "expanded_url": "https://twitter.com/VSertanejo/status/1256719867257987073/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 524,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 524,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 524,
+                        "h": 298,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256719867257987073,
+                "source_status_id_str": "1256719867257987073",
+                "source_user_id": 376785007,
+                "source_user_id_str": "376785007"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1171439898571575296,
+        "id_str": "1171439898571575296",
+        "name": "mariane\ud83e\uddda\ud83c\udffb\u200d\u2640\ufe0f",
+        "screen_name": "memanuellyms",
+        "location": "Sumar\u00e9, Brasil",
+        "description": "\ud83e\udd81",
+        "url": "https://t.co/yB48mp4yRE",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yB48mp4yRE",
+                        "expanded_url": "http://www.instagram.com/marianeemanuelly_",
+                        "display_url": "instagram.com/marianeemanuel\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 70,
+        "friends_count": 345,
+        "listed_count": 0,
+        "created_at": "Tue Sep 10 15:07:29 +0000 2019",
+        "favourites_count": 10125,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3239,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252798131026178049/fsNdTxat_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252798131026178049/fsNdTxat_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171439898571575296/1581192229",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:58:59 +0000 2020",
+        "id": 1256719867257987073,
+        "id_str": "1256719867257987073",
+        "text": "E A GENTE NEM FICOOOU\n\n#JeMBrahmaLive https://t.co/Kd3HAdaYSX",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        23,
+                        37
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256719864775008257,
+                    "id_str": "1256719864775008257",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDEDwIXYAEiV8t.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDEDwIXYAEiV8t.jpg",
+                    "url": "https://t.co/Kd3HAdaYSX",
+                    "display_url": "pic.twitter.com/Kd3HAdaYSX",
+                    "expanded_url": "https://twitter.com/VSertanejo/status/1256719867257987073/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 524,
+                            "h": 298,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 524,
+                            "h": 298,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 524,
+                            "h": 298,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256719864775008257,
+                    "id_str": "1256719864775008257",
+                    "indices": [
+                        38,
+                        61
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDEDwIXYAEiV8t.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDEDwIXYAEiV8t.jpg",
+                    "url": "https://t.co/Kd3HAdaYSX",
+                    "display_url": "pic.twitter.com/Kd3HAdaYSX",
+                    "expanded_url": "https://twitter.com/VSertanejo/status/1256719867257987073/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 524,
+                            "h": 298,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 524,
+                            "h": 298,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 524,
+                            "h": 298,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 376785007,
+            "id_str": "376785007",
+            "name": "Verso Sertanejo",
+            "screen_name": "VSertanejo",
+            "location": "",
+            "description": "Contatos comerciais via DM ou no e-mail versosertanejo@hotmail.com \ud83d\udce9",
+            "url": "https://t.co/dz7O73VQ6r",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dz7O73VQ6r",
+                            "expanded_url": "http://instagram.com/VSertanejo",
+                            "display_url": "instagram.com/VSertanejo",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 497471,
+            "friends_count": 8826,
+            "listed_count": 522,
+            "created_at": "Tue Sep 20 13:57:41 +0000 2011",
+            "favourites_count": 34174,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 54355,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253130740134526976/C2EzEvJ8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253130740134526976/C2EzEvJ8_normal.jpg",
+            "profile_link_color": "B40404",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 932,
+        "favorite_count": 2347,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 932,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

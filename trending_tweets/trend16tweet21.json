@@ -1,0 +1,381 @@
+{
+    "created_at": "Sun May 03 00:42:48 +0000 2020",
+    "id": 1256745990960398341,
+    "id_str": "1256745990960398341",
+    "text": "RT @cirogomes: #CiroNaGloboNews https://t.co/3f6t1R8HVI",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    15,
+                    31
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cirogomes",
+                "name": "Ciro Gomes",
+                "id": 33374761,
+                "id_str": "33374761",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744761916080129,
+                "id_str": "1256744761916080129",
+                "indices": [
+                    32,
+                    55
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDas9NXQAEpDrR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDas9NXQAEpDrR.jpg",
+                "url": "https://t.co/3f6t1R8HVI",
+                "display_url": "pic.twitter.com/3f6t1R8HVI",
+                "expanded_url": "https://twitter.com/cirogomes/status/1256744793331372034/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744793331372034,
+                "source_status_id_str": "1256744793331372034",
+                "source_user_id": 33374761,
+                "source_user_id_str": "33374761"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744761916080129,
+                "id_str": "1256744761916080129",
+                "indices": [
+                    32,
+                    55
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDas9NXQAEpDrR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDas9NXQAEpDrR.jpg",
+                "url": "https://t.co/3f6t1R8HVI",
+                "display_url": "pic.twitter.com/3f6t1R8HVI",
+                "expanded_url": "https://twitter.com/cirogomes/status/1256744793331372034/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744793331372034,
+                "source_status_id_str": "1256744793331372034",
+                "source_user_id": 33374761,
+                "source_user_id_str": "33374761"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 295356864,
+        "id_str": "295356864",
+        "name": "pats",
+        "screen_name": "tric0s",
+        "location": "S\u00e3o Paulo, Brasil",
+        "description": "emuxa dod\u00f3i da cabe\u00e7a que compartilha TikToks e reclama de car\u00eancia",
+        "url": "https://t.co/V7dcySyGzA",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/V7dcySyGzA",
+                        "expanded_url": "http://Instagram.com/tric0s",
+                        "display_url": "Instagram.com/tric0s",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 314,
+        "friends_count": 297,
+        "listed_count": 3,
+        "created_at": "Sun May 08 21:23:39 +0000 2011",
+        "favourites_count": 71722,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 136351,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CEF6EC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255756251587391488/rfqBFUSH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255756251587391488/rfqBFUSH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/295356864/1586574903",
+        "profile_link_color": "CC4E5C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:38:02 +0000 2020",
+        "id": 1256744793331372034,
+        "id_str": "1256744793331372034",
+        "text": "#CiroNaGloboNews https://t.co/3f6t1R8HVI",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256744761916080129,
+                    "id_str": "1256744761916080129",
+                    "indices": [
+                        17,
+                        40
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDas9NXQAEpDrR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDas9NXQAEpDrR.jpg",
+                    "url": "https://t.co/3f6t1R8HVI",
+                    "display_url": "pic.twitter.com/3f6t1R8HVI",
+                    "expanded_url": "https://twitter.com/cirogomes/status/1256744793331372034/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256744761916080129,
+                    "id_str": "1256744761916080129",
+                    "indices": [
+                        17,
+                        40
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDas9NXQAEpDrR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDas9NXQAEpDrR.jpg",
+                    "url": "https://t.co/3f6t1R8HVI",
+                    "display_url": "pic.twitter.com/3f6t1R8HVI",
+                    "expanded_url": "https://twitter.com/cirogomes/status/1256744793331372034/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 33374761,
+            "id_str": "33374761",
+            "name": "Ciro Gomes",
+            "screen_name": "cirogomes",
+            "location": "Fortaleza, Brasil",
+            "description": "Pai de 4 filhos, av\u00f4, j\u00e1 foi deputado, prefeito, governador e ministro.",
+            "url": "https://t.co/A2CXaxiF2E",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/A2CXaxiF2E",
+                            "expanded_url": "http://www.cirogomes.com.br",
+                            "display_url": "cirogomes.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 930514,
+            "friends_count": 173,
+            "listed_count": 2402,
+            "created_at": "Mon Apr 20 01:46:27 +0000 2009",
+            "favourites_count": 839,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 3390,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1212483656062849025/oLzyhVD7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212483656062849025/oLzyhVD7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33374761/1539295941",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 105,
+        "favorite_count": 591,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 105,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

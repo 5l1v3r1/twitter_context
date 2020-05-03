@@ -1,0 +1,514 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745927253114881,
+    "id_str": "1256745927253114881",
+    "text": "RT @nmayrag: Gino e Geno com certeza s\u00e3o a melhor dupla sertaneja, mas vcs n\u00e3o est\u00e3o preparados para est\u00e1 conversa https://t.co/j1m0ifYmgU",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nmayrag",
+                "name": "Mayra Gon\u00e7alves",
+                "id": 802306811344863232,
+                "id_str": "802306811344863232",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256732300785614849,
+                "id_str": "1256732300785614849",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDPXn4WAAEO5RR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDPXn4WAAEO5RR.jpg",
+                "url": "https://t.co/j1m0ifYmgU",
+                "display_url": "pic.twitter.com/j1m0ifYmgU",
+                "expanded_url": "https://twitter.com/nmayrag/status/1256732315339960328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256732315339960328,
+                "source_status_id_str": "1256732315339960328",
+                "source_user_id": 802306811344863232,
+                "source_user_id_str": "802306811344863232"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256732300785614849,
+                "id_str": "1256732300785614849",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDPXn4WAAEO5RR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDPXn4WAAEO5RR.jpg",
+                "url": "https://t.co/j1m0ifYmgU",
+                "display_url": "pic.twitter.com/j1m0ifYmgU",
+                "expanded_url": "https://twitter.com/nmayrag/status/1256732315339960328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256732315339960328,
+                "source_status_id_str": "1256732315339960328",
+                "source_user_id": 802306811344863232,
+                "source_user_id_str": "802306811344863232"
+            },
+            {
+                "id": 1256732309564383232,
+                "id_str": "1256732309564383232",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDPYIlXYAAwhrL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDPYIlXYAAwhrL.jpg",
+                "url": "https://t.co/j1m0ifYmgU",
+                "display_url": "pic.twitter.com/j1m0ifYmgU",
+                "expanded_url": "https://twitter.com/nmayrag/status/1256732315339960328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 707,
+                        "h": 366,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 707,
+                        "h": 366,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 352,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256732315339960328,
+                "source_status_id_str": "1256732315339960328",
+                "source_user_id": 802306811344863232,
+                "source_user_id_str": "802306811344863232"
+            },
+            {
+                "id": 1256732312169066502,
+                "id_str": "1256732312169066502",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDPYSSXsAYUkUr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDPYSSXsAYUkUr.jpg",
+                "url": "https://t.co/j1m0ifYmgU",
+                "display_url": "pic.twitter.com/j1m0ifYmgU",
+                "expanded_url": "https://twitter.com/nmayrag/status/1256732315339960328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1069,
+                        "h": 651,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 414,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1069,
+                        "h": 651,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256732315339960328,
+                "source_status_id_str": "1256732315339960328",
+                "source_user_id": 802306811344863232,
+                "source_user_id_str": "802306811344863232"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 559702206,
+        "id_str": "559702206",
+        "name": "Raquel Zeferino",
+        "screen_name": "RaquelViana27",
+        "location": "Conselheiro Pena, Brasil",
+        "description": "Instagram: raquelvzeferino:  https://t.co/dIWgUUHBsp\nSnap:raquelvzeferino",
+        "url": "https://t.co/xtIU0iS299",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/xtIU0iS299",
+                        "expanded_url": "https://www.instagram.com/raquelviana_zeferino/?ref=badge",
+                        "display_url": "instagram.com/raquelviana_ze\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/dIWgUUHBsp",
+                        "expanded_url": "https://www.instagram.com/raquelvzeferino/",
+                        "display_url": "instagram.com/raquelvzeferin\u2026",
+                        "indices": [
+                            29,
+                            52
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 223,
+        "friends_count": 1645,
+        "listed_count": 3,
+        "created_at": "Sat Apr 21 15:03:24 +0000 2012",
+        "favourites_count": 370,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 692,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865225729931345921/5lfn2hFq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865225729931345921/5lfn2hFq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/559702206/1459526698",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:48:27 +0000 2020",
+        "id": 1256732315339960328,
+        "id_str": "1256732315339960328",
+        "text": "Gino e Geno com certeza s\u00e3o a melhor dupla sertaneja, mas vcs n\u00e3o est\u00e3o preparados para est\u00e1 conversa https://t.co/j1m0ifYmgU",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256732300785614849,
+                    "id_str": "1256732300785614849",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDPXn4WAAEO5RR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDPXn4WAAEO5RR.jpg",
+                    "url": "https://t.co/j1m0ifYmgU",
+                    "display_url": "pic.twitter.com/j1m0ifYmgU",
+                    "expanded_url": "https://twitter.com/nmayrag/status/1256732315339960328/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256732300785614849,
+                    "id_str": "1256732300785614849",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDPXn4WAAEO5RR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDPXn4WAAEO5RR.jpg",
+                    "url": "https://t.co/j1m0ifYmgU",
+                    "display_url": "pic.twitter.com/j1m0ifYmgU",
+                    "expanded_url": "https://twitter.com/nmayrag/status/1256732315339960328/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256732309564383232,
+                    "id_str": "1256732309564383232",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDPYIlXYAAwhrL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDPYIlXYAAwhrL.jpg",
+                    "url": "https://t.co/j1m0ifYmgU",
+                    "display_url": "pic.twitter.com/j1m0ifYmgU",
+                    "expanded_url": "https://twitter.com/nmayrag/status/1256732315339960328/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 707,
+                            "h": 366,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 707,
+                            "h": 366,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256732312169066502,
+                    "id_str": "1256732312169066502",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDPYSSXsAYUkUr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDPYSSXsAYUkUr.jpg",
+                    "url": "https://t.co/j1m0ifYmgU",
+                    "display_url": "pic.twitter.com/j1m0ifYmgU",
+                    "expanded_url": "https://twitter.com/nmayrag/status/1256732315339960328/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1069,
+                            "h": 651,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 414,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1069,
+                            "h": 651,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 802306811344863232,
+            "id_str": "802306811344863232",
+            "name": "Mayra Gon\u00e7alves",
+            "screen_name": "nmayrag",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 21,
+            "friends_count": 32,
+            "listed_count": 0,
+            "created_at": "Sat Nov 26 00:23:44 +0000 2016",
+            "favourites_count": 106,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 47,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255671055806537729/cQjU-b6x_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255671055806537729/cQjU-b6x_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/802306811344863232/1588210291",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

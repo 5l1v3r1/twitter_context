@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:42:30 +0000 2020",
+    "id": 1256745917794967555,
+    "id_str": "1256745917794967555",
+    "text": "RT @RTErdogan: Bizim Allah'a can borcumuzdan, Milletimize hizmet borcumuzdan ba\u015fka kimseye eyvallah\u0131m\u0131z yoktur, olmayacakt\u0131r. \n\nNe yaparlar\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RTErdogan",
+                "name": "Recep Tayyip Erdo\u011fan",
+                "id": 68034431,
+                "id_str": "68034431",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1112102724684922882,
+        "id_str": "1112102724684922882",
+        "name": "Ay\u015feNur ENGiN",
+        "screen_name": "AysenurEngin34",
+        "location": "Bal\u0131kesir, T\u00fcrkiye",
+        "description": "Rize'li\ud83d\udc99\ud83d\udc9aDm\ud83d\udeab\u26a0\ufe0f\nsiz ask\u0131ya alsan\u0131zda ben burday\u0131m 3.c\u00fc hesab\u0131m\ud83d\ude0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 418,
+        "friends_count": 1126,
+        "listed_count": 0,
+        "created_at": "Sat Mar 30 21:22:06 +0000 2019",
+        "favourites_count": 12664,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3160,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248646095745347584/BLgBDq4M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248646095745347584/BLgBDq4M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112102724684922882/1586191094",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:00:01 +0000 2020",
+        "id": 1256674825814171648,
+        "id_str": "1256674825814171648",
+        "text": "Bizim Allah'a can borcumuzdan, Milletimize hizmet borcumuzdan ba\u015fka kimseye eyvallah\u0131m\u0131z yoktur, olmayacakt\u0131r. \n\nNe\u2026 https://t.co/eQ5zPZqgRW",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/eQ5zPZqgRW",
+                    "expanded_url": "https://twitter.com/i/web/status/1256674825814171648",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 68034431,
+            "id_str": "68034431",
+            "name": "Recep Tayyip Erdo\u011fan",
+            "screen_name": "RTErdogan",
+            "location": "Ankara, Turkey",
+            "description": "T\u00fcrkiye Cumhurba\u015fkan\u0131 ve AK Parti Genel Ba\u015fkan\u0131 - President of Turkey and AK Party Chairman",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15833250,
+            "friends_count": 94,
+            "listed_count": 12238,
+            "created_at": "Sun Aug 23 01:13:44 +0000 2009",
+            "favourites_count": 1,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 6679,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151410974240444416/yVvaD7hU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151410974240444416/yVvaD7hU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/68034431/1563352945",
+            "profile_link_color": "1E9EB3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 42440,
+        "favorite_count": 100765,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42440,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

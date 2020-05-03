@@ -1,0 +1,220 @@
+{
+    "created_at": "Sun May 03 00:42:50 +0000 2020",
+    "id": 1256746002213724165,
+    "id_str": "1256746002213724165",
+    "text": "\u270a\ud83c\udffb\ud83c\udf39A palavra com Ciro! #CiroNaGloboNews https://t.co/3WaynRdVd7",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    23,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/3WaynRdVd7",
+                "expanded_url": "https://twitter.com/contagemcorona1/status/1256733851705016321",
+                "display_url": "twitter.com/contagemcorona\u2026",
+                "indices": [
+                    40,
+                    63
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1358387893,
+        "id_str": "1358387893",
+        "name": "LepoG\ud83c\udd70\ufe0fLO\ud83c\udf39#\ud83c\udd70renaMRV\ud83c\udfdf",
+        "screen_name": "leporate",
+        "location": "Cidade do Galo",
+        "description": "Engenharia \u00e9 tudo. O @atletico tamb\u00e9m. Aqui \u00e9 Galo!",
+        "url": "https://t.co/DHh194zTSj",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/DHh194zTSj",
+                        "expanded_url": "http://www.atletico.com.br",
+                        "display_url": "atletico.com.br",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 400,
+        "friends_count": 1797,
+        "listed_count": 0,
+        "created_at": "Wed Apr 17 02:33:14 +0000 2013",
+        "favourites_count": 5349,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37887,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139607131613728768/L6movJwJ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139607131613728768/L6movJwJ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358387893/1398364552",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256733851705016321,
+    "quoted_status_id_str": "1256733851705016321",
+    "quoted_status": {
+        "created_at": "Sat May 02 23:54:33 +0000 2020",
+        "id": 1256733851705016321,
+        "id_str": "1256733851705016321",
+        "text": "PAR\u00c1:\n\nO sistema de verifica\u00e7\u00e3o de \u00f3bitos informou que, recebe em m\u00e9dia, 24 solicita\u00e7\u00f5es por semana de remo\u00e7\u00e3o por\u2026 https://t.co/5VPV7KFVDW",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/5VPV7KFVDW",
+                    "expanded_url": "https://twitter.com/i/web/status/1256733851705016321",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1245441853740191753,
+            "id_str": "1245441853740191753",
+            "name": "Contagem coronav\u00edrus - Brasil",
+            "screen_name": "contagemcorona1",
+            "location": "Brasil",
+            "description": "Atualizando a situa\u00e7\u00e3o da pandemia de COVID-19 no Brasil com not\u00edcias em tempo real. \n\nColabore enviando o seu relato.\n\nInforma\u00e7\u00e3o sem m\u00e1scara!\nApoie o projeto:",
+            "url": "https://t.co/qFQHon6BPe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/qFQHon6BPe",
+                            "expanded_url": "https://www.catarse.me/coronabrasiljornalismo?ref",
+                            "display_url": "catarse.me/coronabrasiljo\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2855,
+            "friends_count": 60,
+            "listed_count": 6,
+            "created_at": "Wed Apr 01 20:04:20 +0000 2020",
+            "favourites_count": 364,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2131,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250943025766977537/lAT70M3R_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250943025766977537/lAT70M3R_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245441853740191753/1585772065",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 40,
+        "favorite_count": 116,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

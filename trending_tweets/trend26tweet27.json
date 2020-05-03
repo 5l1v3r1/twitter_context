@@ -1,0 +1,191 @@
+{
+    "created_at": "Sun May 03 00:42:33 +0000 2020",
+    "id": 1256745930327457793,
+    "id_str": "1256745930327457793",
+    "text": "#OSegredoNaFloresta KKKKKKKKKKKK ARROMBADOS https://t.co/lfbuUBhbfc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    0,
+                    19
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/lfbuUBhbfc",
+                "expanded_url": "https://twitter.com/jsontxdd/status/1256745061737541638",
+                "display_url": "twitter.com/jsontxdd/statu\u2026",
+                "indices": [
+                    44,
+                    67
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4197770583,
+        "id_str": "4197770583",
+        "name": "aurea",
+        "screen_name": "plsmrcy",
+        "location": "",
+        "description": "rendida pelo casal do pop                                           \n\n(j\u00e1 lavaram suas m\u00e3os hj?)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3773,
+        "friends_count": 3016,
+        "listed_count": 16,
+        "created_at": "Mon Nov 16 00:13:36 +0000 2015",
+        "favourites_count": 22720,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27488,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241426074132795393/S5XMPQVG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241426074132795393/S5XMPQVG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4197770583/1580156650",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256745061737541638,
+    "quoted_status_id_str": "1256745061737541638",
+    "quoted_status": {
+        "created_at": "Sun May 03 00:39:06 +0000 2020",
+        "id": 1256745061737541638,
+        "id_str": "1256745061737541638",
+        "text": "oS ARROMBADOS S\u00c3O OU TRABALHAM COM OS EXOTERRORISTAS \n#OSegredoNaFloresta",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        54,
+                        73
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 871849483482656768,
+            "id_str": "871849483482656768",
+            "name": "\u0e95\u1972\u027e\u0269\ua646\u0269\u1972",
+            "screen_name": "jsontxdd",
+            "location": "\ud83c\udd54\ud83c\udd5b\ud83c\udd50/\ud83c\udd53\ud83c\udd54\ud83c\udd5b\ud83c\udd50",
+            "description": "\u043c\u03b1rv\u0454\u0142 \u2022 dc \u2022 s\u0167\u03b1r w\u03b1rs \u2022 \u03b1s\u00f8i\u03b1f \u2022 b\u00f8\u00f8ks\u0167\u03b1\u03b7 \u2022 \u0454x\u00f8 \u2022 \u03b1\u03b7i\u043c\u0454s \u2022",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1247,
+            "friends_count": 1647,
+            "listed_count": 1,
+            "created_at": "Mon Jun 05 22:01:29 +0000 2017",
+            "favourites_count": 31660,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1804,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254794378197061637/LEitZLms_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254794378197061637/LEitZLms_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/871849483482656768/1588006945",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

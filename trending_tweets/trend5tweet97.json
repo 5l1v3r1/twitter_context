@@ -1,0 +1,94 @@
+{
+    "created_at": "Sun May 03 00:41:58 +0000 2020",
+    "id": 1256745782054727681,
+    "id_str": "1256745782054727681",
+    "text": "ngl murder hornets are kind of pretty",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4903810938,
+        "id_str": "4903810938",
+        "name": "(\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
+        "screen_name": "elishevacado",
+        "location": "Bloomington, IN",
+        "description": "elisheva . 23 . theythem . scorpio . queer . jewish . direct care worker . remember that once you dreamed of being where you are now . \u05d3\u05df \u05dc\u05db\u05e3 \u05d6\u05db\u05d5\u05ea 10.04.18",
+        "url": "https://t.co/buZlSCLnpm",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/buZlSCLnpm",
+                        "expanded_url": "http://Instagram.com/elishevacado",
+                        "display_url": "Instagram.com/elishevacado",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 401,
+        "friends_count": 753,
+        "listed_count": 2,
+        "created_at": "Sat Feb 13 22:56:54 +0000 2016",
+        "favourites_count": 34913,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12872,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254865997745524743/qrWjPtM2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254865997745524743/qrWjPtM2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4903810938/1587972720",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:41:53 +0000 2020",
+    "id": 1256745760256901122,
+    "id_str": "1256745760256901122",
+    "text": "#WEAREINPAYNE",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WEAREINPAYNE",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1256745612848123904,
+    "in_reply_to_status_id_str": "1256745612848123904",
+    "in_reply_to_user_id": 3151223554,
+    "in_reply_to_user_id_str": "3151223554",
+    "in_reply_to_screen_name": "strwbrryyoongi",
+    "user": {
+        "id": 3151223554,
+        "id_str": "3151223554",
+        "name": "B2 | Zee \ud81a\uddf5\u2077 (nsfr)",
+        "screen_name": "strwbrryyoongi",
+        "location": "she|her ",
+        "description": "\ud83c\udf53jin zixuan best boy \ud83c\udf53",
+        "url": "https://t.co/WY8ls4e6oa",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/WY8ls4e6oa",
+                        "expanded_url": "http://bts.txt.mdzs.xn--c5h/",
+                        "display_url": "bts.txt.mdzs.\u263e",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 133,
+        "friends_count": 127,
+        "listed_count": 5,
+        "created_at": "Thu Apr 09 10:53:45 +0000 2015",
+        "favourites_count": 1808,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3289,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256672251619037185/K2nQK9Tu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256672251619037185/K2nQK9Tu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3151223554/1588448988",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

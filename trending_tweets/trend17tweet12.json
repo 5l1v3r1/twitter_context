@@ -1,0 +1,504 @@
+{
+    "created_at": "Sun May 03 00:42:45 +0000 2020",
+    "id": 1256745978302017543,
+    "id_str": "1256745978302017543",
+    "text": "RT @planetdoga: D\u00fcnyan\u0131n sahibi insanlar de\u011fildir adl\u0131 \u00e7al\u0131\u015fma..\n\u26a1\ufe0f#Ya\u011fmur https://t.co/ielZhb8xg8",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Ya\u011fmur",
+                "indices": [
+                    67,
+                    74
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "planetdoga",
+                "name": "Planet Do\u011fa",
+                "id": 1186603752,
+                "id_str": "1186603752",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256714369469210627,
+                "id_str": "1256714369469210627",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256714369469210627/pu/img/ZPhfOAygClizaW6S.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256714369469210627/pu/img/ZPhfOAygClizaW6S.jpg",
+                "url": "https://t.co/ielZhb8xg8",
+                "display_url": "pic.twitter.com/ielZhb8xg8",
+                "expanded_url": "https://twitter.com/planetdoga/status/1256714845132664834/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1520,
+                        "h": 832,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 372,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 657,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256714845132664834,
+                "source_status_id_str": "1256714845132664834",
+                "source_user_id": 1186603752,
+                "source_user_id_str": "1186603752"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256714369469210627,
+                "id_str": "1256714369469210627",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256714369469210627/pu/img/ZPhfOAygClizaW6S.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256714369469210627/pu/img/ZPhfOAygClizaW6S.jpg",
+                "url": "https://t.co/ielZhb8xg8",
+                "display_url": "pic.twitter.com/ielZhb8xg8",
+                "expanded_url": "https://twitter.com/planetdoga/status/1256714845132664834/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1520,
+                        "h": 832,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 372,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 657,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256714845132664834,
+                "source_status_id_str": "1256714845132664834",
+                "source_user_id": 1186603752,
+                "source_user_id_str": "1186603752",
+                "video_info": {
+                    "aspect_ratio": [
+                        95,
+                        52
+                    ],
+                    "duration_millis": 27733,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256714369469210627/pu/vid/1314x720/SXmq9-QuWD9V5bHe.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256714369469210627/pu/vid/656x360/_MInWwjoNqZnTE_k.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256714369469210627/pu/pl/crDs-5Ygt076ZrA6.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256714369469210627/pu/vid/492x270/uKL7fHZ16Tj0Kj-T.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1186603752,
+                        "id_str": "1186603752",
+                        "name": "Planet Do\u011fa",
+                        "screen_name": "planetdoga",
+                        "location": "planetdoga@icloud.com",
+                        "description": "Zarif ke\u015fifler, b\u00fcy\u00fcleyici g\u00f6rseller.",
+                        "url": "https://t.co/Ar330h9jI7",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/Ar330h9jI7",
+                                        "expanded_url": "http://instagram.com/gezgintivi",
+                                        "display_url": "instagram.com/gezgintivi",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 451331,
+                        "friends_count": 269,
+                        "listed_count": 197,
+                        "created_at": "Sat Feb 16 15:46:18 +0000 2013",
+                        "favourites_count": 1785,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 6506,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "E6D5C6",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/545085863713988609/U3PpqHwY_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/545085863713988609/U3PpqHwY_normal.jpeg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186603752/1396891464",
+                        "profile_link_color": "DCCAD9",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "AE95CA",
+                        "profile_text_color": "CCB5DC",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1106512633,
+        "id_str": "1106512633",
+        "name": "sultan",
+        "screen_name": "sultanteksen",
+        "location": "T\u00fcrkiye",
+        "description": "nobody",
+        "url": "https://t.co/PZz4nBHdHD",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/PZz4nBHdHD",
+                        "expanded_url": "http://instagram.com/sultanteksenn",
+                        "display_url": "instagram.com/sultanteksenn",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 272,
+        "friends_count": 206,
+        "listed_count": 0,
+        "created_at": "Sun Jan 20 15:19:09 +0000 2013",
+        "favourites_count": 2199,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1108,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256317231404912640/zdQK6jVk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256317231404912640/zdQK6jVk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106512633/1587157605",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:39:02 +0000 2020",
+        "id": 1256714845132664834,
+        "id_str": "1256714845132664834",
+        "text": "D\u00fcnyan\u0131n sahibi insanlar de\u011fildir adl\u0131 \u00e7al\u0131\u015fma..\n\u26a1\ufe0f#Ya\u011fmur https://t.co/ielZhb8xg8",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Ya\u011fmur",
+                    "indices": [
+                        51,
+                        58
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256714369469210627,
+                    "id_str": "1256714369469210627",
+                    "indices": [
+                        59,
+                        82
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256714369469210627/pu/img/ZPhfOAygClizaW6S.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256714369469210627/pu/img/ZPhfOAygClizaW6S.jpg",
+                    "url": "https://t.co/ielZhb8xg8",
+                    "display_url": "pic.twitter.com/ielZhb8xg8",
+                    "expanded_url": "https://twitter.com/planetdoga/status/1256714845132664834/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1520,
+                            "h": 832,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 657,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256714369469210627,
+                    "id_str": "1256714369469210627",
+                    "indices": [
+                        59,
+                        82
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256714369469210627/pu/img/ZPhfOAygClizaW6S.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256714369469210627/pu/img/ZPhfOAygClizaW6S.jpg",
+                    "url": "https://t.co/ielZhb8xg8",
+                    "display_url": "pic.twitter.com/ielZhb8xg8",
+                    "expanded_url": "https://twitter.com/planetdoga/status/1256714845132664834/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1520,
+                            "h": 832,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 657,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            95,
+                            52
+                        ],
+                        "duration_millis": 27733,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256714369469210627/pu/vid/1314x720/SXmq9-QuWD9V5bHe.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256714369469210627/pu/vid/656x360/_MInWwjoNqZnTE_k.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256714369469210627/pu/pl/crDs-5Ygt076ZrA6.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256714369469210627/pu/vid/492x270/uKL7fHZ16Tj0Kj-T.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1186603752,
+            "id_str": "1186603752",
+            "name": "Planet Do\u011fa",
+            "screen_name": "planetdoga",
+            "location": "planetdoga@icloud.com",
+            "description": "Zarif ke\u015fifler, b\u00fcy\u00fcleyici g\u00f6rseller.",
+            "url": "https://t.co/Ar330h9jI7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ar330h9jI7",
+                            "expanded_url": "http://instagram.com/gezgintivi",
+                            "display_url": "instagram.com/gezgintivi",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 451331,
+            "friends_count": 269,
+            "listed_count": 197,
+            "created_at": "Sat Feb 16 15:46:18 +0000 2013",
+            "favourites_count": 1785,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6506,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "E6D5C6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/545085863713988609/U3PpqHwY_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/545085863713988609/U3PpqHwY_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186603752/1396891464",
+            "profile_link_color": "DCCAD9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "AE95CA",
+            "profile_text_color": "CCB5DC",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 526,
+        "favorite_count": 3924,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 526,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

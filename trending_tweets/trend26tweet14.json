@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:50 +0000 2020",
+    "id": 1256745999818805248,
+    "id_str": "1256745999818805248",
+    "text": "RT @Lausmtf: #OSegredoNaFloresta\nchat vendo os personagens sofrendo sem poder fazer nada https://t.co/1xiIn5oHkj",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    13,
+                    32
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lausmtf",
+                "name": "\ud835\udc0c\ud835\udc1a\ud835\udc23\ud835\udc2e -\ud835\udfd4\ud835\udfce\ud835\udfce \ud835\udc1d\ud835\udc1e \ud835\udc22\ud835\udc27\ud835\udc2c\ud835\udc1a\ud835\udc27\ud835\udc22\ud835\udc1d\ud835\udc1a\ud835\udc1d\ud835\udc1e",
+                "id": 1077579098069913600,
+                "id_str": "1077579098069913600",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256702796134526976,
+                "id_str": "1256702796134526976",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC0iOfWsAAi0KH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC0iOfWsAAi0KH.jpg",
+                "url": "https://t.co/1xiIn5oHkj",
+                "display_url": "pic.twitter.com/1xiIn5oHkj",
+                "expanded_url": "https://twitter.com/Lausmtf/status/1256702805542424584/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 443,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 443,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 402,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256702805542424584,
+                "source_status_id_str": "1256702805542424584",
+                "source_user_id": 1077579098069913600,
+                "source_user_id_str": "1077579098069913600"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256702796134526976,
+                "id_str": "1256702796134526976",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC0iOfWsAAi0KH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC0iOfWsAAi0KH.jpg",
+                "url": "https://t.co/1xiIn5oHkj",
+                "display_url": "pic.twitter.com/1xiIn5oHkj",
+                "expanded_url": "https://twitter.com/Lausmtf/status/1256702805542424584/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 443,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 443,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 402,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256702805542424584,
+                "source_status_id_str": "1256702805542424584",
+                "source_user_id": 1077579098069913600,
+                "source_user_id_str": "1077579098069913600"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 747895493112512512,
+        "id_str": "747895493112512512",
+        "name": "\u30ca\u30a4\u30c0\u30f3\u30d1\u30fc\u30af\u2728",
+        "screen_name": "RinArmy1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 27,
+        "friends_count": 146,
+        "listed_count": 0,
+        "created_at": "Tue Jun 28 20:52:35 +0000 2016",
+        "favourites_count": 2047,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 537,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248734211525226500/wxqWQMEV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248734211525226500/wxqWQMEV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/747895493112512512/1586556413",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:51:11 +0000 2020",
+        "id": 1256702805542424584,
+        "id_str": "1256702805542424584",
+        "text": "#OSegredoNaFloresta\nchat vendo os personagens sofrendo sem poder fazer nada https://t.co/1xiIn5oHkj",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256702796134526976,
+                    "id_str": "1256702796134526976",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC0iOfWsAAi0KH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC0iOfWsAAi0KH.jpg",
+                    "url": "https://t.co/1xiIn5oHkj",
+                    "display_url": "pic.twitter.com/1xiIn5oHkj",
+                    "expanded_url": "https://twitter.com/Lausmtf/status/1256702805542424584/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 402,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256702796134526976,
+                    "id_str": "1256702796134526976",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC0iOfWsAAi0KH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC0iOfWsAAi0KH.jpg",
+                    "url": "https://t.co/1xiIn5oHkj",
+                    "display_url": "pic.twitter.com/1xiIn5oHkj",
+                    "expanded_url": "https://twitter.com/Lausmtf/status/1256702805542424584/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 402,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1077579098069913600,
+            "id_str": "1077579098069913600",
+            "name": "\ud835\udc0c\ud835\udc1a\ud835\udc23\ud835\udc2e -\ud835\udfd4\ud835\udfce\ud835\udfce \ud835\udc1d\ud835\udc1e \ud835\udc22\ud835\udc27\ud835\udc2c\ud835\udc1a\ud835\udc27\ud835\udc22\ud835\udc1d\ud835\udc1a\ud835\udc1d\ud835\udc1e",
+            "screen_name": "Lausmtf",
+            "location": "Brasil",
+            "description": "\u275d\ud835\udc15\ud835\udc22\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc2c\ud835\udc1e\ud835\udc26 \ud835\udc25\ud835\udc1e\ud835\udc2b \ud835\udc29\ud835\udc28\ud835\udc1d\ud835\udc1e \ud835\udc2c\ud835\udc1e\ud835\udc2b \ud835\udc29\ud835\udc1e\ud835\udc2b\ud835\udc22\ud835\udc20\ud835\udc28\ud835\udc2c\ud835\udc28. \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\ud835\udc13\ud835\udc1e \ud835\udc28\ud835\udc1b\ud835\udc2b\ud835\udc22\ud835\udc20\ud835\udc1a\ud835\udc26 \ud835\udc1a \ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc2b \ud835\udc27\ud835\udc28 \ud835\udc2a\ud835\udc2e\ud835\udc1e \ud835\udc1d\ud835\udc22\ud835\udc33\ud835\udc1e\ud835\udc26.\u275e",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20,
+            "friends_count": 141,
+            "listed_count": 0,
+            "created_at": "Tue Dec 25 14:57:32 +0000 2018",
+            "favourites_count": 5035,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 660,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256662501669945350/JJ7yZepV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256662501669945350/JJ7yZepV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077579098069913600/1586674755",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 88,
+        "favorite_count": 419,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 88,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

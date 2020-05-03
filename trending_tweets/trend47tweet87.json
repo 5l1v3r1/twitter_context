@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun May 03 00:30:12 +0000 2020",
+    "id": 1256742820620058624,
+    "id_str": "1256742820620058624",
+    "text": "@speaknow_louis #TeamAlwaysYou d",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    16,
+                    30
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "speaknow_louis",
+                "name": "\u043a\u03b1ren is seeing l&h",
+                "id": 612789166,
+                "id_str": "612789166",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256701326450450433,
+    "in_reply_to_status_id_str": "1256701326450450433",
+    "in_reply_to_user_id": 612789166,
+    "in_reply_to_user_id_str": "612789166",
+    "in_reply_to_screen_name": "speaknow_louis",
+    "user": {
+        "id": 3344039600,
+        "id_str": "3344039600",
+        "name": "gal loves l&h",
+        "screen_name": "haxrryoioi",
+        "location": "Louis heart",
+        "description": "But daddy I love him//5sos stan//Stream WALLS//Stream Fine Line//Stream No Shame//Stream Heartbreak Weather//STREAM CALM YALL",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 488,
+        "friends_count": 480,
+        "listed_count": 0,
+        "created_at": "Wed Aug 26 03:09:34 +0000 2015",
+        "favourites_count": 30002,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19704,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255724459194867712/_-uJJx3B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255724459194867712/_-uJJx3B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3344039600/1588223016",
+        "profile_link_color": "999999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:44 +0000 2020",
+    "id": 1256745975298887681,
+    "id_str": "1256745975298887681",
+    "text": "RT @EstherBirungi4: Zahara Toto is by far the best female entertainment TV presenter in this nation!!!!!! \n#NBSSNL https://t.co/rNH9fzMEiv",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    107,
+                    114
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EstherBirungi4",
+                "name": "Esther Birungi",
+                "id": 1147149366039392256,
+                "id_str": "1147149366039392256",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256697607176556546,
+                "id_str": "1256697607176556546",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCv0MHXkAIA3vb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCv0MHXkAIA3vb.jpg",
+                "url": "https://t.co/rNH9fzMEiv",
+                "display_url": "pic.twitter.com/rNH9fzMEiv",
+                "expanded_url": "https://twitter.com/EstherBirungi4/status/1256697627879628807/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256697627879628807,
+                "source_status_id_str": "1256697627879628807",
+                "source_user_id": 1147149366039392256,
+                "source_user_id_str": "1147149366039392256"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256697607176556546,
+                "id_str": "1256697607176556546",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCv0MHXkAIA3vb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCv0MHXkAIA3vb.jpg",
+                "url": "https://t.co/rNH9fzMEiv",
+                "display_url": "pic.twitter.com/rNH9fzMEiv",
+                "expanded_url": "https://twitter.com/EstherBirungi4/status/1256697627879628807/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256697627879628807,
+                "source_status_id_str": "1256697627879628807",
+                "source_user_id": 1147149366039392256,
+                "source_user_id_str": "1147149366039392256"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1149567718569345025,
+        "id_str": "1149567718569345025",
+        "name": "Malaikah\ud83c\uddfa\ud83c\uddec",
+        "screen_name": "Malaikah67",
+        "location": "Kampala, Uganda",
+        "description": "Life is way too precious to be wasted,,,, do watever makes u happy,,, go for ur first time everything,,, be wild be free @be life\ud83d\ude0c\ud83d\ude0a",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 278,
+        "friends_count": 175,
+        "listed_count": 0,
+        "created_at": "Fri Jul 12 06:34:36 +0000 2019",
+        "favourites_count": 5037,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1152,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1166723478034272257/upxN8_09_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166723478034272257/upxN8_09_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149567718569345025/1566642746",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:30:37 +0000 2020",
+        "id": 1256697627879628807,
+        "id_str": "1256697627879628807",
+        "text": "Zahara Toto is by far the best female entertainment TV presenter in this nation!!!!!! \n#NBSSNL https://t.co/rNH9fzMEiv",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        87,
+                        94
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256697607176556546,
+                    "id_str": "1256697607176556546",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCv0MHXkAIA3vb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCv0MHXkAIA3vb.jpg",
+                    "url": "https://t.co/rNH9fzMEiv",
+                    "display_url": "pic.twitter.com/rNH9fzMEiv",
+                    "expanded_url": "https://twitter.com/EstherBirungi4/status/1256697627879628807/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256697607176556546,
+                    "id_str": "1256697607176556546",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCv0MHXkAIA3vb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCv0MHXkAIA3vb.jpg",
+                    "url": "https://t.co/rNH9fzMEiv",
+                    "display_url": "pic.twitter.com/rNH9fzMEiv",
+                    "expanded_url": "https://twitter.com/EstherBirungi4/status/1256697627879628807/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1147149366039392256,
+            "id_str": "1147149366039392256",
+            "name": "Esther Birungi",
+            "screen_name": "EstherBirungi4",
+            "location": "",
+            "description": "BELIEVER IN CHRIST\ud83d\ude4f LEGAL SCHOLAR\ud83d\udc69\ud83c\udffb\u200d\u2696\ufe0f DIGITAL INFLUENCER ,\ud83e\udd74 LIBERAL FEMINIST,WOMEN\u2019S-ACTIVIST. Director @Ngirlchild_ug & Founder of THE BIRUNGI FOUNDATION",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 42708,
+            "friends_count": 4116,
+            "listed_count": 9,
+            "created_at": "Fri Jul 05 14:24:56 +0000 2019",
+            "favourites_count": 4225,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 24098,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256292480259153926/A46jHP-D_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256292480259153926/A46jHP-D_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1147149366039392256/1586702115",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 133,
+        "favorite_count": 698,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 133,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

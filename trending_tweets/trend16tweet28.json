@@ -1,0 +1,237 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745983221915648,
+    "id_str": "1256745983221915648",
+    "text": "RT @eqjuniormartins: @cirogomes pela leve com o @joaoamoedonovo, ele ainda \u00e9 #NOVO \n\nMentira, pega leve n\u00e3o! Desse a ripada sem d\u00f3!\n\ud83d\ude0e\ud83d\ude0e\ud83d\ude0e\n #C\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NOVO",
+                "indices": [
+                    77,
+                    82
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "eqjuniormartins",
+                "name": "Junior Martins",
+                "id": 982880425,
+                "id_str": "982880425",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "cirogomes",
+                "name": "Ciro Gomes",
+                "id": 33374761,
+                "id_str": "33374761",
+                "indices": [
+                    21,
+                    31
+                ]
+            },
+            {
+                "screen_name": "joaoamoedonovo",
+                "name": "Jo\u00e3o Amo\u00eado",
+                "id": 256730310,
+                "id_str": "256730310",
+                "indices": [
+                    48,
+                    63
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 54384106,
+        "id_str": "54384106",
+        "name": "Luiz Vinicius",
+        "screen_name": "luizviniciusS",
+        "location": "Tri\u00e2ngulo (das bermudas)",
+        "description": "(N\u00e3o) Sigo a manada. At\u00e9 por que se seguisse, seria bolsominion. Sou gente boa at\u00e9 voc\u00ea discordar de mim.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 165,
+        "friends_count": 154,
+        "listed_count": 4,
+        "created_at": "Tue Jul 07 00:11:31 +0000 2009",
+        "favourites_count": 3016,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8287,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091155199132139520/LIsmL7Lm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091155199132139520/LIsmL7Lm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54384106/1548370811",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "969696",
+        "profile_sidebar_fill_color": "DEDEDE",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:48:40 +0000 2020",
+        "id": 1256732370797047816,
+        "id_str": "1256732370797047816",
+        "text": "@cirogomes pela leve com o @joaoamoedonovo, ele ainda \u00e9 #NOVO \n\nMentira, pega leve n\u00e3o! Desse a ripada sem d\u00f3!\n\ud83d\ude0e\ud83d\ude0e\ud83d\ude0e\n #CiroNaGloboNews",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NOVO",
+                    "indices": [
+                        56,
+                        61
+                    ]
+                },
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        116,
+                        132
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "cirogomes",
+                    "name": "Ciro Gomes",
+                    "id": 33374761,
+                    "id_str": "33374761",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "joaoamoedonovo",
+                    "name": "Jo\u00e3o Amo\u00eado",
+                    "id": 256730310,
+                    "id_str": "256730310",
+                    "indices": [
+                        27,
+                        42
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 33374761,
+        "in_reply_to_user_id_str": "33374761",
+        "in_reply_to_screen_name": "cirogomes",
+        "user": {
+            "id": 982880425,
+            "id_str": "982880425",
+            "name": "Junior Martins",
+            "screen_name": "eqjuniormartins",
+            "location": "",
+            "description": "IFES - Instituto Federal do Esp\u00edrito Santo - Engenharia  And all a matter of time! \u00c9 tudo uma quest\u00e3o de tempo!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 197,
+            "friends_count": 1292,
+            "listed_count": 3,
+            "created_at": "Sat Dec 01 16:26:44 +0000 2012",
+            "favourites_count": 5208,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2182,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1234299382444503040/ZaGTJ8YU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234299382444503040/ZaGTJ8YU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/982880425/1436396995",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

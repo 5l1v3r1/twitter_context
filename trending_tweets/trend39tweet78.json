@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:18 +0000 2020",
+    "id": 1256745865420648448,
+    "id_str": "1256745865420648448",
+    "text": "RT @raulbatistarui1: #TodosContraLaMentiraM https://t.co/WCxgtOGVBH",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TodosContraLaMentiraM",
+                "indices": [
+                    21,
+                    43
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "raulbatistarui1",
+                "name": "#SaqueoPro",
+                "id": 3402257224,
+                "id_str": "3402257224",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256740634876141571,
+                "id_str": "1256740634876141571",
+                "indices": [
+                    44,
+                    67
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDW8uyXYAMEF1w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDW8uyXYAMEF1w.jpg",
+                "url": "https://t.co/WCxgtOGVBH",
+                "display_url": "pic.twitter.com/WCxgtOGVBH",
+                "expanded_url": "https://twitter.com/raulbatistarui1/status/1256740656711700480/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 687,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 487,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 687,
+                        "h": 960,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740656711700480,
+                "source_status_id_str": "1256740656711700480",
+                "source_user_id": 3402257224,
+                "source_user_id_str": "3402257224"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256740634876141571,
+                "id_str": "1256740634876141571",
+                "indices": [
+                    44,
+                    67
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDW8uyXYAMEF1w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDW8uyXYAMEF1w.jpg",
+                "url": "https://t.co/WCxgtOGVBH",
+                "display_url": "pic.twitter.com/WCxgtOGVBH",
+                "expanded_url": "https://twitter.com/raulbatistarui1/status/1256740656711700480/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 687,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 487,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 687,
+                        "h": 960,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740656711700480,
+                "source_status_id_str": "1256740656711700480",
+                "source_user_id": 3402257224,
+                "source_user_id_str": "3402257224"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1249809101699330048,
+        "id_str": "1249809101699330048",
+        "name": "Ra\u00fal Bustamante",
+        "screen_name": "RaulporsiempreK",
+        "location": "",
+        "description": "100 % K.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 154,
+        "friends_count": 161,
+        "listed_count": 0,
+        "created_at": "Mon Apr 13 21:19:01 +0000 2020",
+        "favourites_count": 3649,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4369,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249809950551007234/yf9l4VzZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249809950551007234/yf9l4VzZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249809101699330048/1587344407",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:21:36 +0000 2020",
+        "id": 1256740656711700480,
+        "id_str": "1256740656711700480",
+        "text": "#TodosContraLaMentiraM https://t.co/WCxgtOGVBH",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256740634876141571,
+                    "id_str": "1256740634876141571",
+                    "indices": [
+                        23,
+                        46
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDW8uyXYAMEF1w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDW8uyXYAMEF1w.jpg",
+                    "url": "https://t.co/WCxgtOGVBH",
+                    "display_url": "pic.twitter.com/WCxgtOGVBH",
+                    "expanded_url": "https://twitter.com/raulbatistarui1/status/1256740656711700480/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 687,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 487,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 687,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256740634876141571,
+                    "id_str": "1256740634876141571",
+                    "indices": [
+                        23,
+                        46
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDW8uyXYAMEF1w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDW8uyXYAMEF1w.jpg",
+                    "url": "https://t.co/WCxgtOGVBH",
+                    "display_url": "pic.twitter.com/WCxgtOGVBH",
+                    "expanded_url": "https://twitter.com/raulbatistarui1/status/1256740656711700480/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 687,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 487,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 687,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3402257224,
+            "id_str": "3402257224",
+            "name": "#SaqueoPro",
+            "screen_name": "raulbatistarui1",
+            "location": "",
+            "description": "He visto malos que se han vuelto buenos ,pero no he visto jamas un bruto volverse inteligente !! ( Juan D Per\u00f3n ) dedicado ! a #MacriLadron !",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5749,
+            "friends_count": 5350,
+            "listed_count": 8,
+            "created_at": "Tue Aug 04 03:26:45 +0000 2015",
+            "favourites_count": 25294,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 44346,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/767123504256970752/deMtl--r_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/767123504256970752/deMtl--r_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3402257224/1496181502",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

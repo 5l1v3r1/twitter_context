@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:42:09 +0000 2020",
+    "id": 1256745828854763521,
+    "id_str": "1256745828854763521",
+    "text": "RT @AvEkremOlgac: #Bitlis\u2019in \u00c7eltik\u00e7i karakolunda PKK\u2019l\u0131 ter\u00f6ristlerle \u00e7\u0131kan \u00e7at\u0131\u015fmada 2 Jandarma Uzman \u00c7avu\u015fumuz \u015fehit oldu. \u015eehitlerimize\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    18,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AvEkremOlgac",
+                "name": "Ekrem OL\u011eA\u00c7",
+                "id": 1197265028572946432,
+                "id_str": "1197265028572946432",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 346506802,
+        "id_str": "346506802",
+        "name": "orhan do\u011fan",
+        "screen_name": "564680efe",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 45,
+        "listed_count": 0,
+        "created_at": "Mon Aug 01 11:21:05 +0000 2011",
+        "favourites_count": 45,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131815998699573249/5wM2EuH8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131815998699573249/5wM2EuH8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:22:03 +0000 2020",
+        "id": 1256710569660383240,
+        "id_str": "1256710569660383240",
+        "text": "#Bitlis\u2019in \u00c7eltik\u00e7i karakolunda PKK\u2019l\u0131 ter\u00f6ristlerle \u00e7\u0131kan \u00e7at\u0131\u015fmada 2 Jandarma Uzman \u00c7avu\u015fumuz \u015fehit oldu. \u015eehitle\u2026 https://t.co/TtEAtZ8NSh",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/TtEAtZ8NSh",
+                    "expanded_url": "https://twitter.com/i/web/status/1256710569660383240",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1197265028572946432,
+            "id_str": "1197265028572946432",
+            "name": "Ekrem OL\u011eA\u00c7",
+            "screen_name": "AvEkremOlgac",
+            "location": "Siirt, T\u00fcrkiye",
+            "description": "AK Parti Siirt \u0130l Ba\u015fkan\u0131 Resm\u00ee Hesab\u0131",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2461,
+            "friends_count": 317,
+            "listed_count": 2,
+            "created_at": "Wed Nov 20 21:27:17 +0000 2019",
+            "favourites_count": 1437,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 239,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246792130753937408/vEZfVmfd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246792130753937408/vEZfVmfd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1197265028572946432/1574331698",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 58,
+        "favorite_count": 148,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

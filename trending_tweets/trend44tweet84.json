@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:34:11 +0000 2020",
+    "id": 1256743823981641734,
+    "id_str": "1256743823981641734",
+    "text": "Que parranda virtual tan sabrosa #AguilaEnVivo",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    33,
+                    46
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 313445288,
+        "id_str": "313445288",
+        "name": "M\ud83d\udc97",
+        "screen_name": "alvarezmarii14",
+        "location": "Barranquilla,Colombia! ",
+        "description": "Una mujer imperfecta amada por un Dios perfecto \u2764\ufe0f.\nPechichona, y complica'. Catadora de salchipapas con buena t\u00e1rtara.\nY, por \u00faltimo, \u00a1Junior t\u00fa pap\u00e1!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 329,
+        "friends_count": 388,
+        "listed_count": 0,
+        "created_at": "Wed Jun 08 17:26:48 +0000 2011",
+        "favourites_count": 3952,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4279,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255339988801241088/qT8OmuwZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255339988801241088/qT8OmuwZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/313445288/1574827503",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

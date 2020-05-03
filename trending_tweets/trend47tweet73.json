@@ -1,0 +1,271 @@
+{
+    "created_at": "Sun May 03 00:32:03 +0000 2020",
+    "id": 1256743286603165696,
+    "id_str": "1256743286603165696",
+    "text": "que est\u00e1 pasando?\u00a1!\n#TeamAlwaysYou\n https://t.co/VlfkmKTpaV",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    20,
+                    34
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256460918680100866,
+                "id_str": "1256460918680100866",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256460918680100866/pu/img/GaQUfSCmDZXqIMdF.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256460918680100866/pu/img/GaQUfSCmDZXqIMdF.jpg",
+                "url": "https://t.co/VlfkmKTpaV",
+                "display_url": "pic.twitter.com/VlfkmKTpaV",
+                "expanded_url": "https://twitter.com/nctvenami/status/1256461245714173953/video/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256461245714173953,
+                "source_status_id_str": "1256461245714173953",
+                "source_user_id": 1252661770902274048,
+                "source_user_id_str": "1252661770902274048"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256460918680100866,
+                "id_str": "1256460918680100866",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256460918680100866/pu/img/GaQUfSCmDZXqIMdF.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256460918680100866/pu/img/GaQUfSCmDZXqIMdF.jpg",
+                "url": "https://t.co/VlfkmKTpaV",
+                "display_url": "pic.twitter.com/VlfkmKTpaV",
+                "expanded_url": "https://twitter.com/nctvenami/status/1256461245714173953/video/1",
+                "type": "video",
+                "sizes": {
+                    "small": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 270,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256461245714173953,
+                "source_status_id_str": "1256461245714173953",
+                "source_user_id": 1252661770902274048,
+                "source_user_id_str": "1252661770902274048",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 84692,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256460918680100866/pu/pl/sqlCENiFJYdyVQgT.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256460918680100866/pu/vid/270x480/mv3pDHidWumVJNxM.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1252661770902274048,
+                        "id_str": "1252661770902274048",
+                        "name": "\u2022 \u1d1b\u029c\u1d07 \u1d04\u029c\u1d07s\u1d07\u1d07 \u0299\u1d0f\u028f \u1d0a\u1d1c\u0274\u0262\u1d21\u1d0f\u1d0f \u2022",
+                        "screen_name": "nctvenami",
+                        "location": "neocity",
+                        "description": "\ud835\udc8d\ud835\udc8d\ud835\udc90\ud835\udc93\ud835\udc82\ud835\udc8f\ud835\udc85\ud835\udc90 \ud835\udc91\ud835\udc90\ud835\udc93 \ud835\udc8f\ud835\udc84\ud835\udc95 \ud835\udc85\ud835\udc86\ud835\udc94\ud835\udc85\ud835\udc86 \ud835\udc89\ud835\udc82\ud835\udc84\ud835\udc86 61 \ud835\udc85\ud835\udc8a\ud835\udc82\ud835\udc94",
+                        "url": "https://t.co/Wf3Rev9WV0",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/Wf3Rev9WV0",
+                                        "expanded_url": "http://jungwoobestboy.ar",
+                                        "display_url": "jungwoobestboy.ar",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 504,
+                        "friends_count": 446,
+                        "listed_count": 3,
+                        "created_at": "Tue Apr 21 18:13:47 +0000 2020",
+                        "favourites_count": 1296,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 1540,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1253683557253500929/WzmiTo9o_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253683557253500929/WzmiTo9o_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252661770902274048/1587616209",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1252661770902274048,
+        "id_str": "1252661770902274048",
+        "name": "\u2022 \u1d1b\u029c\u1d07 \u1d04\u029c\u1d07s\u1d07\u1d07 \u0299\u1d0f\u028f \u1d0a\u1d1c\u0274\u0262\u1d21\u1d0f\u1d0f \u2022",
+        "screen_name": "nctvenami",
+        "location": "neocity",
+        "description": "\ud835\udc8d\ud835\udc8d\ud835\udc90\ud835\udc93\ud835\udc82\ud835\udc8f\ud835\udc85\ud835\udc90 \ud835\udc91\ud835\udc90\ud835\udc93 \ud835\udc8f\ud835\udc84\ud835\udc95 \ud835\udc85\ud835\udc86\ud835\udc94\ud835\udc85\ud835\udc86 \ud835\udc89\ud835\udc82\ud835\udc84\ud835\udc86 61 \ud835\udc85\ud835\udc8a\ud835\udc82\ud835\udc94",
+        "url": "https://t.co/Wf3Rev9WV0",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Wf3Rev9WV0",
+                        "expanded_url": "http://jungwoobestboy.ar",
+                        "display_url": "jungwoobestboy.ar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 504,
+        "friends_count": 446,
+        "listed_count": 3,
+        "created_at": "Tue Apr 21 18:13:47 +0000 2020",
+        "favourites_count": 1296,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1540,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253683557253500929/WzmiTo9o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253683557253500929/WzmiTo9o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252661770902274048/1587616209",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

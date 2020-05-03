@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:41:06 +0000 2020",
+    "id": 1256745563598606336,
+    "id_str": "1256745563598606336",
+    "text": "\u00c9 bem melhor falar a verdade, do que se arrepender...\n\u00f3ia a dica a\u00ed! Pia! #liveeduardaalves",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "liveeduardaalves",
+                "indices": [
+                    74,
+                    91
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 111949273,
+        "id_str": "111949273",
+        "name": "Anderson Reis",
+        "screen_name": "andeersonreis",
+        "location": "Recife",
+        "description": "Torcedor do Falid\u00e3o da Beberibe \u26ab\u26aa\ud83d\udd34",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 430,
+        "friends_count": 1053,
+        "listed_count": 0,
+        "created_at": "Sat Feb 06 18:21:56 +0000 2010",
+        "favourites_count": 99857,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7957,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "426666",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230131823654645761/eK_IpAgd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230131823654645761/eK_IpAgd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111949273/1579372008",
+        "profile_link_color": "444444",
+        "profile_sidebar_border_color": "444444",
+        "profile_sidebar_fill_color": "76A7A7",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

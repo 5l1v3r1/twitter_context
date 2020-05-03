@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun May 03 00:42:30 +0000 2020",
+    "id": 1256745917857894405,
+    "id_str": "1256745917857894405",
+    "text": "@Bielzau Estou assistindo de novo #mansaodaspocs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mansaodaspocs",
+                "indices": [
+                    34,
+                    48
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Bielzau",
+                "name": "\ud835\udd87\ud835\udd8e\ud835\udd8a\ud835\udd91",
+                "id": 1040707020444323845,
+                "id_str": "1040707020444323845",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256745766393126912,
+    "in_reply_to_status_id_str": "1256745766393126912",
+    "in_reply_to_user_id": 1040707020444323845,
+    "in_reply_to_user_id_str": "1040707020444323845",
+    "in_reply_to_screen_name": "Bielzau",
+    "user": {
+        "id": 1236476143680839681,
+        "id_str": "1236476143680839681",
+        "name": "OLHA O \ud83d\udccc\ud83d\udccc Adriana famosinha do Spax",
+        "screen_name": "thai_veras",
+        "location": "",
+        "description": "\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c\ud83d\ude18",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 342,
+        "friends_count": 1002,
+        "listed_count": 0,
+        "created_at": "Sun Mar 08 02:17:47 +0000 2020",
+        "favourites_count": 4305,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1237,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245356796094623745/3_ZoGc_C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245356796094623745/3_ZoGc_C_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236476143680839681/1585751173",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

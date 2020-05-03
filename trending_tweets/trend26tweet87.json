@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:41:20 +0000 2020",
+    "id": 1256745624067858436,
+    "id_str": "1256745624067858436",
+    "text": "RT @forvangogh: #OSegredoNaFloresta https://t.co/TrHkWAz14I",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    16,
+                    35
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "forvangogh",
+                "name": "gabriela",
+                "id": 3074250630,
+                "id_str": "3074250630",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256725545016049675,
+                "id_str": "1256725545016049675",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDJOYrXQAsdGm8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDJOYrXQAsdGm8.jpg",
+                "url": "https://t.co/TrHkWAz14I",
+                "display_url": "pic.twitter.com/TrHkWAz14I",
+                "expanded_url": "https://twitter.com/forvangogh/status/1256725549210370048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 900,
+                        "h": 851,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 851,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 643,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256725549210370048,
+                "source_status_id_str": "1256725549210370048",
+                "source_user_id": 3074250630,
+                "source_user_id_str": "3074250630"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256725545016049675,
+                "id_str": "1256725545016049675",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDJOYrXQAsdGm8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDJOYrXQAsdGm8.jpg",
+                "url": "https://t.co/TrHkWAz14I",
+                "display_url": "pic.twitter.com/TrHkWAz14I",
+                "expanded_url": "https://twitter.com/forvangogh/status/1256725549210370048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 900,
+                        "h": 851,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 851,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 643,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256725549210370048,
+                "source_status_id_str": "1256725549210370048",
+                "source_user_id": 3074250630,
+                "source_user_id_str": "3074250630"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1175607111222530054,
+        "id_str": "1175607111222530054",
+        "name": "\ud835\ude7b\ud835\ude8e\ud835\ude8c\ud835\udea2\u2122 \ud83d\udc7b | #OSegredoNaFloresta",
+        "screen_name": "nakahaba",
+        "location": "\ud835\uddcc\ud835\uddc1\ud835\uddbe / \ud835\uddc1\ud835\uddbe\ud835\uddcb",
+        "description": "\u2022| \u22b1 #bsd \u2022 #p5 \u2022 #bnha \u2022 #rwby \u2022 #ynm \u2022 etc \u22b0 |\u2022                                      \uff65*:.\uff61. .\uff61.:*\uff65\u309c\uff9f\uff65*\u2606 \ud835\udcaf\ud835\udcbd\ud835\udcbe\ud835\udcc8 \ud835\udcbe\ud835\udcc8 \ud835\udccc\ud835\udcbd\u212f\ud835\udcc7\u212f \ud835\udcce\u2134\ud835\udcca\ud835\udcc7 \ud835\udcbf\ud835\udcca\ud835\udcc8\ud835\udcc9\ud835\udcbe\ud835\udcb8\u212f \u212f\ud835\udcc3\ud835\udcb9\ud835\udcc8",
+        "url": "https://t.co/ZZo9q7QizQ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZZo9q7QizQ",
+                        "expanded_url": "http://adore.you",
+                        "display_url": "adore.you",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 130,
+        "friends_count": 340,
+        "listed_count": 0,
+        "created_at": "Sun Sep 22 03:08:02 +0000 2019",
+        "favourites_count": 1610,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 535,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254468068824268807/dkUqeThH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254468068824268807/dkUqeThH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1175607111222530054/1587684306",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:21:34 +0000 2020",
+        "id": 1256725549210370048,
+        "id_str": "1256725549210370048",
+        "text": "#OSegredoNaFloresta https://t.co/TrHkWAz14I",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256725545016049675,
+                    "id_str": "1256725545016049675",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDJOYrXQAsdGm8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDJOYrXQAsdGm8.jpg",
+                    "url": "https://t.co/TrHkWAz14I",
+                    "display_url": "pic.twitter.com/TrHkWAz14I",
+                    "expanded_url": "https://twitter.com/forvangogh/status/1256725549210370048/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 900,
+                            "h": 851,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 851,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 643,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256725545016049675,
+                    "id_str": "1256725545016049675",
+                    "indices": [
+                        20,
+                        43
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDJOYrXQAsdGm8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDJOYrXQAsdGm8.jpg",
+                    "url": "https://t.co/TrHkWAz14I",
+                    "display_url": "pic.twitter.com/TrHkWAz14I",
+                    "expanded_url": "https://twitter.com/forvangogh/status/1256725549210370048/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 900,
+                            "h": 851,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 851,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 643,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3074250630,
+            "id_str": "3074250630",
+            "name": "gabriela",
+            "screen_name": "forvangogh",
+            "location": "Namekusei",
+            "description": "swear to be overdramatic and true",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 95,
+            "friends_count": 231,
+            "listed_count": 0,
+            "created_at": "Wed Mar 11 23:53:51 +0000 2015",
+            "favourites_count": 97,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 736,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF691F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253453663428902914/YgL-QPVx_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253453663428902914/YgL-QPVx_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3074250630/1585345278",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 24,
+        "favorite_count": 53,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

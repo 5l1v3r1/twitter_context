@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:43:07 +0000 2020",
+    "id": 1256746074284396544,
+    "id_str": "1256746074284396544",
+    "text": "RT @insaatsendika: Bir baba o\u011flunun ba\u015fucunda..\nO\u011flu ya\u015fas\u0131n diye  g\u00f6z\u00fcn\u00fcn i\u00e7ine bak\u0131yor..\n#SesiDuy\u0130brahimYA\u015eASIN https://t.co/A2OUWouWOE",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                "indices": [
+                    91,
+                    113
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "insaatsendika",
+                "name": "\u0130n\u015faat-\u0130\u015f Sendikas\u0131",
+                "id": 2233331196,
+                "id_str": "2233331196",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256643943254708225,
+                "id_str": "1256643943254708225",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXB_AibX0AEYy50.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXB_AibX0AEYy50.jpg",
+                "url": "https://t.co/A2OUWouWOE",
+                "display_url": "pic.twitter.com/A2OUWouWOE",
+                "expanded_url": "https://twitter.com/insaatsendika/status/1256644005464547328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 626,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 626,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 626,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256644005464547328,
+                "source_status_id_str": "1256644005464547328",
+                "source_user_id": 2233331196,
+                "source_user_id_str": "2233331196"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256643943254708225,
+                "id_str": "1256643943254708225",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXB_AibX0AEYy50.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXB_AibX0AEYy50.jpg",
+                "url": "https://t.co/A2OUWouWOE",
+                "display_url": "pic.twitter.com/A2OUWouWOE",
+                "expanded_url": "https://twitter.com/insaatsendika/status/1256644005464547328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 626,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 626,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 626,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256644005464547328,
+                "source_status_id_str": "1256644005464547328",
+                "source_user_id": 2233331196,
+                "source_user_id_str": "2233331196"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2941960389,
+        "id_str": "2941960389",
+        "name": "I\u02e5Z\u2200N \ud83d\udca5",
+        "screen_name": "nazliyyyyy",
+        "location": "\u0130stanbul, T\u00fcrkiye",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 260,
+        "friends_count": 282,
+        "listed_count": 0,
+        "created_at": "Fri Dec 26 11:00:57 +0000 2014",
+        "favourites_count": 20257,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2934,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254593726162272257/BhEY2NU1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254593726162272257/BhEY2NU1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2941960389/1587772150",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:57:32 +0000 2020",
+        "id": 1256644005464547328,
+        "id_str": "1256644005464547328",
+        "text": "Bir baba o\u011flunun ba\u015fucunda..\nO\u011flu ya\u015fas\u0131n diye  g\u00f6z\u00fcn\u00fcn i\u00e7ine bak\u0131yor..\n#SesiDuy\u0130brahimYA\u015eASIN https://t.co/A2OUWouWOE",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                    "indices": [
+                        72,
+                        94
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256643943254708225,
+                    "id_str": "1256643943254708225",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXB_AibX0AEYy50.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXB_AibX0AEYy50.jpg",
+                    "url": "https://t.co/A2OUWouWOE",
+                    "display_url": "pic.twitter.com/A2OUWouWOE",
+                    "expanded_url": "https://twitter.com/insaatsendika/status/1256644005464547328/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256643943254708225,
+                    "id_str": "1256643943254708225",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXB_AibX0AEYy50.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXB_AibX0AEYy50.jpg",
+                    "url": "https://t.co/A2OUWouWOE",
+                    "display_url": "pic.twitter.com/A2OUWouWOE",
+                    "expanded_url": "https://twitter.com/insaatsendika/status/1256644005464547328/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2233331196,
+            "id_str": "2233331196",
+            "name": "\u0130n\u015faat-\u0130\u015f Sendikas\u0131",
+            "screen_name": "insaatsendika",
+            "location": "Kad\u0131k\u00f6y, \u0130ST.",
+            "description": "\u0130n\u015faat \u0130\u015f\u00e7ileri Sendikas\u0131 (\u0130n\u015faat-\u0130\u015f), 13 nolu in\u015faat i\u015fkolunda \u00f6rg\u00fctlenen ba\u011f\u0131ms\u0131z bir sendikad\u0131r.",
+            "url": "https://t.co/5cDXLC3eQ8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/5cDXLC3eQ8",
+                            "expanded_url": "http://insaatis.org",
+                            "display_url": "insaatis.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 21087,
+            "friends_count": 193,
+            "listed_count": 86,
+            "created_at": "Fri Dec 06 18:00:08 +0000 2013",
+            "favourites_count": 1265,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6486,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/712365274226253825/BKDfWzE2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/712365274226253825/BKDfWzE2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2233331196/1587622601",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1433,
+        "favorite_count": 4156,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1433,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

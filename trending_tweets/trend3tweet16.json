@@ -1,0 +1,309 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745947536789505,
+    "id_str": "1256745947536789505",
+    "text": "RT @Songllll19: #3may\u0131sT\u00fcrk\u00e7\u00fclerg\u00fcn\u00fc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3may\u0131sT\u00fcrk\u00e7\u00fclerg\u00fcn\u00fc",
+                "indices": [
+                    16,
+                    36
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Songllll19",
+                "name": "Song\u00fcl",
+                "id": 1177611846561480704,
+                "id_str": "1177611846561480704",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1090999006459842561,
+        "id_str": "1090999006459842561",
+        "name": "Mehmet Can TOKER",
+        "screen_name": "tokerr_33",
+        "location": "Alata, Erdemli",
+        "description": "mutlaka bir iz b\u0131rakaca\u011f\u0131z.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 175,
+        "friends_count": 160,
+        "listed_count": 0,
+        "created_at": "Thu Jan 31 15:43:27 +0000 2019",
+        "favourites_count": 11242,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 54,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193596013073879041/rBSa9cDO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193596013073879041/rBSa9cDO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090999006459842561/1575753246",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:14:37 +0000 2020",
+        "id": 1256678502843195397,
+        "id_str": "1256678502843195397",
+        "text": "#3may\u0131sT\u00fcrk\u00e7\u00fclerg\u00fcn\u00fc https://t.co/vXMvLbHd0v",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3may\u0131sT\u00fcrk\u00e7\u00fclerg\u00fcn\u00fc",
+                    "indices": [
+                        0,
+                        20
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/vXMvLbHd0v",
+                    "expanded_url": "https://twitter.com/TTAgrup/status/1256645817575899139",
+                    "display_url": "twitter.com/TTAgrup/status\u2026",
+                    "indices": [
+                        21,
+                        44
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1177611846561480704,
+            "id_str": "1177611846561480704",
+            "name": "Song\u00fcl",
+            "screen_name": "Songllll19",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 149,
+            "friends_count": 127,
+            "listed_count": 0,
+            "created_at": "Fri Sep 27 15:52:09 +0000 2019",
+            "favourites_count": 966,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 73,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250508343891853313/7Qpjjgzg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250508343891853313/7Qpjjgzg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1177611846561480704/1586508634",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256645817575899139,
+        "quoted_status_id_str": "1256645817575899139",
+        "quoted_status": {
+            "created_at": "Sat May 02 18:04:44 +0000 2020",
+            "id": 1256645817575899139,
+            "id_str": "1256645817575899139",
+            "text": "Ben her \u015feyden \u00f6nce bir T\u00fcrk milliyet\u00e7isiyim. B\u00f6yle do\u011fdum. B\u00f6yle \u00f6lece\u011fim.\n\nBa\u015fbu\u011f Mustafa Kemal ATAT\u00dcRK\u2026 https://t.co/o350rrCfwj",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/o350rrCfwj",
+                        "expanded_url": "https://twitter.com/i/web/status/1256645817575899139",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            107,
+                            130
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3825678327,
+                "id_str": "3825678327",
+                "name": "TTA Grup",
+                "screen_name": "TTAgrup",
+                "location": "T\u00fcrk\u00e7\u00fclerin Sesi",
+                "description": "T\u00fcrk'\u00fcz, T\u00fcrk\u00e7\u00fcy\u00fcz, Atat\u00fcrk\u00e7\u00fcy\u00fcz",
+                "url": "https://t.co/Tm9JoLXfmG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Tm9JoLXfmG",
+                                "expanded_url": "http://instagram.com/ttagrup",
+                                "display_url": "instagram.com/ttagrup",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 200093,
+                "friends_count": 41,
+                "listed_count": 181,
+                "created_at": "Wed Sep 30 16:42:53 +0000 2015",
+                "favourites_count": 26809,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 9056,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/929406711240232962/W1UJ4vtz_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/929406711240232962/W1UJ4vtz_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3825678327/1559039767",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2025,
+            "favorite_count": 9343,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "tr"
+        },
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256645817575899139,
+    "quoted_status_id_str": "1256645817575899139",
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

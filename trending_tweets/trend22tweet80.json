@@ -1,0 +1,91 @@
+{
+    "created_at": "Sun May 03 00:41:59 +0000 2020",
+    "id": 1256745788140552193,
+    "id_str": "1256745788140552193",
+    "text": "Australian politics lesson for youngsters.\nAn unintelligent egoist will surround himself with even lesser beings, u\u2026 https://t.co/DTcK97QzWB",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/DTcK97QzWB",
+                "expanded_url": "https://twitter.com/i/web/status/1256745788140552193",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2725445988,
+        "id_str": "2725445988",
+        "name": "\ud83d\udc28Sharty McScrote Cockwomble Esq",
+        "screen_name": "FlogWarrior",
+        "location": "Living on Ramindjeri land",
+        "description": "Atheist. Bad language Scholar\nZero tolerance for God-botherers of any variety & anyone practicing their arseholery on others\nLoath RWNJs and all things Latham .",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2581,
+        "friends_count": 2256,
+        "listed_count": 48,
+        "created_at": "Tue Aug 12 05:18:16 +0000 2014",
+        "favourites_count": 131219,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 84625,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352716",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213763154628366336/0Fkl6VSf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213763154628366336/0Fkl6VSf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2725445988/1584005281",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

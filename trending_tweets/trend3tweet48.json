@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun May 03 00:42:25 +0000 2020",
+    "id": 1256745894776639489,
+    "id_str": "1256745894776639489",
+    "text": "B\u00f6yle D\u00fczen, B\u00f6yle \u00c7a\u011f, B\u00f6yle Devran Kahrolsun\nVAKT\u0130YLE B\u0130R ATSIZ VARMI\u015e VAROLSUN\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc Kutlu Olsun!\u2026 https://t.co/vnP0woBhRh",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    82,
+                    102
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/vnP0woBhRh",
+                "expanded_url": "https://twitter.com/i/web/status/1256745894776639489",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 966293366,
+        "id_str": "966293366",
+        "name": "bttozar",
+        "screen_name": "btugcetozar",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 373,
+        "friends_count": 404,
+        "listed_count": 0,
+        "created_at": "Fri Nov 23 15:14:06 +0000 2012",
+        "favourites_count": 5986,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3250,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1042388651974516736/Wsjy2W2M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042388651974516736/Wsjy2W2M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/966293366/1583243938",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

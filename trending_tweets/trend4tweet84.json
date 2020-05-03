@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:42:01 +0000 2020",
+    "id": 1256745796432773121,
+    "id_str": "1256745796432773121",
+    "text": "RT @siyahlarveben: \u201ckederli g\u00fcnler olsa da bile seviyorum seni can\u0131 g\u00f6n\u00fclden\u201d #Efsane113Yas\u0131nda https://t.co/ffZ6sQlvGZ",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113Yas\u0131nda",
+                "indices": [
+                    78,
+                    95
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "siyahlarveben",
+                "name": "\ud835\udd46 \ud835\udd3e \u0130",
+                "id": 858114806754291712,
+                "id_str": "858114806754291712",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256723774021545984,
+                "id_str": "1256723774021545984",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDHnTNXsAA-jsc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDHnTNXsAA-jsc.jpg",
+                "url": "https://t.co/ffZ6sQlvGZ",
+                "display_url": "pic.twitter.com/ffZ6sQlvGZ",
+                "expanded_url": "https://twitter.com/siyahlarveben/status/1256723801800429568/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 497,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 497,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 451,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256723801800429568,
+                "source_status_id_str": "1256723801800429568",
+                "source_user_id": 858114806754291712,
+                "source_user_id_str": "858114806754291712"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256723774021545984,
+                "id_str": "1256723774021545984",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDHnTNXsAA-jsc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDHnTNXsAA-jsc.jpg",
+                "url": "https://t.co/ffZ6sQlvGZ",
+                "display_url": "pic.twitter.com/ffZ6sQlvGZ",
+                "expanded_url": "https://twitter.com/siyahlarveben/status/1256723801800429568/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 497,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 497,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 451,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256723801800429568,
+                "source_status_id_str": "1256723801800429568",
+                "source_user_id": 858114806754291712,
+                "source_user_id_str": "858114806754291712"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3401871161,
+        "id_str": "3401871161",
+        "name": "tuna",
+        "screen_name": "tnakpolat",
+        "location": "",
+        "description": "m\u00fcnferit",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 211,
+        "friends_count": 247,
+        "listed_count": 0,
+        "created_at": "Mon Aug 03 21:48:34 +0000 2015",
+        "favourites_count": 2899,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2415,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214698901237911555/4sMT9PGt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214698901237911555/4sMT9PGt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3401871161/1582153610",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:14:37 +0000 2020",
+        "id": 1256723801800429568,
+        "id_str": "1256723801800429568",
+        "text": "\u201ckederli g\u00fcnler olsa da bile seviyorum seni can\u0131 g\u00f6n\u00fclden\u201d #Efsane113Yas\u0131nda https://t.co/ffZ6sQlvGZ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Efsane113Yas\u0131nda",
+                    "indices": [
+                        59,
+                        76
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256723774021545984,
+                    "id_str": "1256723774021545984",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDHnTNXsAA-jsc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDHnTNXsAA-jsc.jpg",
+                    "url": "https://t.co/ffZ6sQlvGZ",
+                    "display_url": "pic.twitter.com/ffZ6sQlvGZ",
+                    "expanded_url": "https://twitter.com/siyahlarveben/status/1256723801800429568/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 497,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 497,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 451,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256723774021545984,
+                    "id_str": "1256723774021545984",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDHnTNXsAA-jsc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDHnTNXsAA-jsc.jpg",
+                    "url": "https://t.co/ffZ6sQlvGZ",
+                    "display_url": "pic.twitter.com/ffZ6sQlvGZ",
+                    "expanded_url": "https://twitter.com/siyahlarveben/status/1256723801800429568/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 497,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 497,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 451,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 858114806754291712,
+            "id_str": "858114806754291712",
+            "name": "\ud835\udd46 \ud835\udd3e \u0130",
+            "screen_name": "siyahlarveben",
+            "location": "\u0130zmir",
+            "description": "",
+            "url": "https://t.co/nJTTojfhi4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/nJTTojfhi4",
+                            "expanded_url": "http://nstagram.com/oguzulsy/",
+                            "display_url": "nstagram.com/oguzulsy/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15836,
+            "friends_count": 9399,
+            "listed_count": 13,
+            "created_at": "Sat Apr 29 00:24:47 +0000 2017",
+            "favourites_count": 61999,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22464,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256365226833981440/jk24vaJ__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256365226833981440/jk24vaJ__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/858114806754291712/1588044184",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 170,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

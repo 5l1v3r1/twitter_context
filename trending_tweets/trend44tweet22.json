@@ -1,0 +1,113 @@
+{
+    "created_at": "Sun May 03 00:40:16 +0000 2020",
+    "id": 1256745354005004288,
+    "id_str": "1256745354005004288",
+    "text": "\u201cNo me interesa conocer otras personas, porque contigo tengo todo ni\u00f1a hermosa...\u201d - La persona de mi vida \ud83d\ude0d @ElderDiaz01 \n#AguilaEnVivo",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    123,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElderDiaz01",
+                "name": "Elder Dayan",
+                "id": 182488284,
+                "id_str": "182488284",
+                "indices": [
+                    109,
+                    121
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 140685370,
+        "id_str": "140685370",
+        "name": "Liney Jim\u00e8nez",
+        "screen_name": "LineyJimenezR",
+        "location": "Bogot\u00e1 - Colombia",
+        "description": "De Caucasia/Antioquia, s\u00ed de Antioquia. Morena.",
+        "url": "https://t.co/qJqi7kC1KC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/qJqi7kC1KC",
+                        "expanded_url": "https://www.instagram.com/lineyjimenez",
+                        "display_url": "instagram.com/lineyjimenez",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 84,
+        "friends_count": 189,
+        "listed_count": 0,
+        "created_at": "Thu May 06 04:23:21 +0000 2010",
+        "favourites_count": 637,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3050,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249527927018000385/sprBn49b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249527927018000385/sprBn49b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140685370/1578541546",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

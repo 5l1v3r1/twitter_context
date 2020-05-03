@@ -1,0 +1,378 @@
+{
+    "created_at": "Sun May 03 00:40:49 +0000 2020",
+    "id": 1256745493545340928,
+    "id_str": "1256745493545340928",
+    "text": "RT @pineapplebreads: Age of Ultron is trending and you know what. It does deserve some rights. For this scene alone https://t.co/7tH2oVu7C5",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pineapplebreads",
+                "name": "jay \u2022",
+                "id": 1065074699351265281,
+                "id_str": "1065074699351265281",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256676396660920321,
+                "id_str": "1256676396660920321",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXCchkyXkAEqHUt.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXCchkyXkAEqHUt.jpg",
+                "url": "https://t.co/7tH2oVu7C5",
+                "display_url": "pic.twitter.com/7tH2oVu7C5",
+                "expanded_url": "https://twitter.com/pineapplebreads/status/1256676404437147661/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 500,
+                        "h": 250,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 250,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 500,
+                        "h": 250,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256676404437147661,
+                "source_status_id_str": "1256676404437147661",
+                "source_user_id": 1065074699351265281,
+                "source_user_id_str": "1065074699351265281"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256676396660920321,
+                "id_str": "1256676396660920321",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXCchkyXkAEqHUt.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXCchkyXkAEqHUt.jpg",
+                "url": "https://t.co/7tH2oVu7C5",
+                "display_url": "pic.twitter.com/7tH2oVu7C5",
+                "expanded_url": "https://twitter.com/pineapplebreads/status/1256676404437147661/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 500,
+                        "h": 250,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 250,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 500,
+                        "h": 250,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256676404437147661,
+                "source_status_id_str": "1256676404437147661",
+                "source_user_id": 1065074699351265281,
+                "source_user_id_str": "1065074699351265281",
+                "video_info": {
+                    "aspect_ratio": [
+                        2,
+                        1
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXCchkyXkAEqHUt.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1119537217029005312,
+        "id_str": "1119537217029005312",
+        "name": "Nasir Galadima",
+        "screen_name": "naseer_galads",
+        "location": "Federal Capital Territory, Nig",
+        "description": "Born ready\ud83d\udc4a\n#GGMU",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 30,
+        "listed_count": 0,
+        "created_at": "Sat Apr 20 09:44:07 +0000 2019",
+        "favourites_count": 91,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254478196768231426/YdV_nULy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254478196768231426/YdV_nULy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1119537217029005312/1583943954",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:06:17 +0000 2020",
+        "id": 1256676404437147661,
+        "id_str": "1256676404437147661",
+        "text": "Age of Ultron is trending and you know what. It does deserve some rights. For this scene alone https://t.co/7tH2oVu7C5",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256676396660920321,
+                    "id_str": "1256676396660920321",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXCchkyXkAEqHUt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXCchkyXkAEqHUt.jpg",
+                    "url": "https://t.co/7tH2oVu7C5",
+                    "display_url": "pic.twitter.com/7tH2oVu7C5",
+                    "expanded_url": "https://twitter.com/pineapplebreads/status/1256676404437147661/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 500,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 250,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256676396660920321,
+                    "id_str": "1256676396660920321",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXCchkyXkAEqHUt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXCchkyXkAEqHUt.jpg",
+                    "url": "https://t.co/7tH2oVu7C5",
+                    "display_url": "pic.twitter.com/7tH2oVu7C5",
+                    "expanded_url": "https://twitter.com/pineapplebreads/status/1256676404437147661/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 500,
+                            "h": 250,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 250,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            2,
+                            1
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXCchkyXkAEqHUt.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1065074699351265281,
+            "id_str": "1065074699351265281",
+            "name": "jay \u2022",
+            "screen_name": "pineapplebreads",
+            "location": "",
+            "description": "\ud83c\udf4d\ud83c\udf5e Illustrator and Game Artist. Cat enthusiast. Internet cryptid made of bread.",
+            "url": "https://t.co/CJ1ShkjVj5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CJ1ShkjVj5",
+                            "expanded_url": "http://pineapplebread.bigcartel.com",
+                            "display_url": "pineapplebread.bigcartel.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2532,
+            "friends_count": 165,
+            "listed_count": 18,
+            "created_at": "Wed Nov 21 02:49:31 +0000 2018",
+            "favourites_count": 3073,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1498,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245123895046352898/SUnPwfW-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245123895046352898/SUnPwfW-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065074699351265281/1585695645",
+            "profile_link_color": "819FF7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 190,
+        "favorite_count": 1297,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 190,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

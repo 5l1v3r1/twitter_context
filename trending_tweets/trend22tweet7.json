@@ -1,0 +1,301 @@
+{
+    "created_at": "Sun May 03 00:42:53 +0000 2020",
+    "id": 1256746011889827840,
+    "id_str": "1256746011889827840",
+    "text": "RT @Sir_Thomas_Wynn: @randlight @DougCameron51 @DanielAndrewsMP On #Insiders @DanTehanWannon attacked @DanielAndrewsMP for not rushing to o\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Insiders",
+                "indices": [
+                    67,
+                    76
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Sir_Thomas_Wynn",
+                "name": "Sir Thomas Wynn \u26ab\ufe0f",
+                "id": 1126229447252647936,
+                "id_str": "1126229447252647936",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "randlight",
+                "name": "Mari R",
+                "id": 384233102,
+                "id_str": "384233102",
+                "indices": [
+                    21,
+                    31
+                ]
+            },
+            {
+                "screen_name": "DougCameron51",
+                "name": "Doug Cameron",
+                "id": 2490890594,
+                "id_str": "2490890594",
+                "indices": [
+                    32,
+                    46
+                ]
+            },
+            {
+                "screen_name": "DanielAndrewsMP",
+                "name": "Dan Andrews",
+                "id": 228535666,
+                "id_str": "228535666",
+                "indices": [
+                    47,
+                    63
+                ]
+            },
+            {
+                "screen_name": "DanTehanWannon",
+                "name": "Dan Tehan",
+                "id": 139052672,
+                "id_str": "139052672",
+                "indices": [
+                    77,
+                    92
+                ]
+            },
+            {
+                "screen_name": "DanielAndrewsMP",
+                "name": "Dan Andrews",
+                "id": 228535666,
+                "id_str": "228535666",
+                "indices": [
+                    102,
+                    118
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2277555896,
+        "id_str": "2277555896",
+        "name": "Valen",
+        "screen_name": "Valen_of_Minbar",
+        "location": "Past, Present & Future. ",
+        "description": "...and this grey spirit yearning in desire \n to follow knowledge like a sinking star,  beyond the utmost bound of human thought.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3072,
+        "friends_count": 2795,
+        "listed_count": 328,
+        "created_at": "Sun Jan 05 12:33:12 +0000 2014",
+        "favourites_count": 37338,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 141848,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/602850048418844672/BNmMrofi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/602850048418844672/BNmMrofi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2277555896/1432558860",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:30:51 +0000 2020",
+        "id": 1256742983778529280,
+        "id_str": "1256742983778529280",
+        "text": "@randlight @DougCameron51 @DanielAndrewsMP On #Insiders @DanTehanWannon attacked @DanielAndrewsMP for not rushing t\u2026 https://t.co/Zh0GPgvqvD",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Insiders",
+                    "indices": [
+                        46,
+                        55
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "randlight",
+                    "name": "Mari R",
+                    "id": 384233102,
+                    "id_str": "384233102",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "DougCameron51",
+                    "name": "Doug Cameron",
+                    "id": 2490890594,
+                    "id_str": "2490890594",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "DanielAndrewsMP",
+                    "name": "Dan Andrews",
+                    "id": 228535666,
+                    "id_str": "228535666",
+                    "indices": [
+                        26,
+                        42
+                    ]
+                },
+                {
+                    "screen_name": "DanTehanWannon",
+                    "name": "Dan Tehan",
+                    "id": 139052672,
+                    "id_str": "139052672",
+                    "indices": [
+                        56,
+                        71
+                    ]
+                },
+                {
+                    "screen_name": "DanielAndrewsMP",
+                    "name": "Dan Andrews",
+                    "id": 228535666,
+                    "id_str": "228535666",
+                    "indices": [
+                        81,
+                        97
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Zh0GPgvqvD",
+                    "expanded_url": "https://twitter.com/i/web/status/1256742983778529280",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1256742708007165952,
+        "in_reply_to_status_id_str": "1256742708007165952",
+        "in_reply_to_user_id": 384233102,
+        "in_reply_to_user_id_str": "384233102",
+        "in_reply_to_screen_name": "randlight",
+        "user": {
+            "id": 1126229447252647936,
+            "id_str": "1126229447252647936",
+            "name": "Sir Thomas Wynn \u26ab\ufe0f",
+            "screen_name": "Sir_Thomas_Wynn",
+            "location": "",
+            "description": "Grandfather, retired Deputy Principal, owner of a Mobile Disco Co, music editor & arranger, blogger, author, geek, historian, (modest) & slightly psychic!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1414,
+            "friends_count": 492,
+            "listed_count": 10,
+            "created_at": "Wed May 08 20:56:39 +0000 2019",
+            "favourites_count": 1,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 29201,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1126242293306937344/GbHJ83vC_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126242293306937344/GbHJ83vC_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1126229447252647936/1557350447",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

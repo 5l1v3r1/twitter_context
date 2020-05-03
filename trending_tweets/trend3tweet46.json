@@ -1,0 +1,203 @@
+{
+    "created_at": "Sun May 03 00:42:25 +0000 2020",
+    "id": 1256745896194322432,
+    "id_str": "1256745896194322432",
+    "text": "#3mayisturkculergunu\n#3May\u0131sTuerkcuelerGuenue \n#3May\u0131s1944 \n#3may\u0131sruhu \n#yagmur \n#Efsane113Yas\u0131nda https://t.co/O3NlmwRppn",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3mayisturkculergunu",
+                "indices": [
+                    0,
+                    20
+                ]
+            },
+            {
+                "text": "3May\u0131sTuerkcuelerGuenue",
+                "indices": [
+                    21,
+                    45
+                ]
+            },
+            {
+                "text": "3May\u0131s1944",
+                "indices": [
+                    47,
+                    58
+                ]
+            },
+            {
+                "text": "3may\u0131sruhu",
+                "indices": [
+                    60,
+                    71
+                ]
+            },
+            {
+                "text": "yagmur",
+                "indices": [
+                    73,
+                    80
+                ]
+            },
+            {
+                "text": "Efsane113Yas\u0131nda",
+                "indices": [
+                    82,
+                    99
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745894004903948,
+                "id_str": "1256745894004903948",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbu2kX0Awrq4R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbu2kX0Awrq4R.jpg",
+                "url": "https://t.co/O3NlmwRppn",
+                "display_url": "pic.twitter.com/O3NlmwRppn",
+                "expanded_url": "https://twitter.com/strongwolf11/status/1256745896194322432/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745894004903948,
+                "id_str": "1256745894004903948",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbu2kX0Awrq4R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbu2kX0Awrq4R.jpg",
+                "url": "https://t.co/O3NlmwRppn",
+                "display_url": "pic.twitter.com/O3NlmwRppn",
+                "expanded_url": "https://twitter.com/strongwolf11/status/1256745896194322432/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1087459337130438657,
+        "id_str": "1087459337130438657",
+        "name": "\ud83e\udd82karamamba\ud83e\udd82",
+        "screen_name": "strongwolf11",
+        "location": "",
+        "description": "T\u00dcRK MILLIYETCISI\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 157,
+        "friends_count": 382,
+        "listed_count": 0,
+        "created_at": "Mon Jan 21 21:18:04 +0000 2019",
+        "favourites_count": 1441,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2967,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256584874544238592/e6n04--z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256584874544238592/e6n04--z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087459337130438657/1565350452",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

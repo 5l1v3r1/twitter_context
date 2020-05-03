@@ -1,0 +1,205 @@
+{
+    "created_at": "Sun May 03 00:41:03 +0000 2020",
+    "id": 1256745553053937664,
+    "id_str": "1256745553053937664",
+    "text": "RT @game365: \u304a\u3044\uff01\uff01\uff01\u30d7\u30ec\u30d0\u30f3\u53d7\u6ce8\u958b\u59cb\u3057\u3066\u304b\u3089ZAIA\u30b9\u30da\u30c3\u30af\u306e\u81f4\u547d\u7684\u306a\u6b20\u9665\u898b\u3064\u304b\u3063\u3066\u307e\u3059\u3051\u3069\uff01\uff01\uff01\uff01\uff01\uff01\uff01",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "game365",
+                "name": "\u304c\u3081\u308d\u3059",
+                "id": 99925379,
+                "id_str": "99925379",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 720573877823221760,
+        "id_str": "720573877823221760",
+        "name": "hamachi@\u9031\u672b\u6d6e\u4e0a",
+        "screen_name": "AkamiHamachi",
+        "location": "",
+        "description": "\u8da3\u5473\u7b49\u545f\u3044\u3066\u3044\u304f\u4e88\u5b9a\u3067\u3059\u3002 \u67b6\u7a7a\u30c7\u30e5\u30a8\u30eb(\u904a\u622f\u738b)\u306e\u52d5\u753b\u3082\u3061\u3087\u3063\u3068\u6295\u7a3f\u3057\u3066\u307e\u3059\u3002\u2192 https://t.co/F4FLvdEbox\nMMD\u2192\nhttps://t.co/m1LgQqqWo7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/F4FLvdEbox",
+                        "expanded_url": "http://www.nicovideo.jp/mylist/47360209",
+                        "display_url": "nicovideo.jp/mylist/47360209",
+                        "indices": [
+                            42,
+                            65
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/m1LgQqqWo7",
+                        "expanded_url": "http://www.nicovideo.jp/mylist/61065337",
+                        "display_url": "nicovideo.jp/mylist/61065337",
+                        "indices": [
+                            71,
+                            94
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 260,
+        "friends_count": 1589,
+        "listed_count": 4,
+        "created_at": "Thu Apr 14 11:26:14 +0000 2016",
+        "favourites_count": 87223,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 73181,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068471529933918209/IsW4CzN2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068471529933918209/IsW4CzN2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/720573877823221760/1510395806",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:25:35 +0000 2020",
+        "id": 1256741660513333248,
+        "id_str": "1256741660513333248",
+        "text": "\u304a\u3044\uff01\uff01\uff01\u30d7\u30ec\u30d0\u30f3\u53d7\u6ce8\u958b\u59cb\u3057\u3066\u304b\u3089ZAIA\u30b9\u30da\u30c3\u30af\u306e\u81f4\u547d\u7684\u306a\u6b20\u9665\u898b\u3064\u304b\u3063\u3066\u307e\u3059\u3051\u3069\uff01\uff01\uff01\uff01\uff01\uff01\uff01",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 99925379,
+            "id_str": "99925379",
+            "name": "\u304c\u3081\u308d\u3059",
+            "screen_name": "game365",
+            "location": "\u30c7\u30a3\u30b1\u30a4\u30c9\u306f\u73fe\u884c",
+            "description": "\u30cb\u30c1\u30a2\u30b5\u5b9f\u6cc1\u4e80\u3002\u5984\u60f3SS\u66f8\u3044\u305f\u308a\u3057\u307e\u3059\u3002\u6fc0\u304b\u308f\u30a2\u30a4\u30b3\u30f3\u306f\u3061\u3051\u3061\u3055\u3093(@tixiti_mayo)\u4f5c\u3002",
+            "url": "https://t.co/kBaA07fqVA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/kBaA07fqVA",
+                            "expanded_url": "http://gameros.hatenablog.com",
+                            "display_url": "gameros.hatenablog.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 19907,
+            "friends_count": 21721,
+            "listed_count": 262,
+            "created_at": "Mon Dec 28 11:15:12 +0000 2009",
+            "favourites_count": 74924,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 119261,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245456581895938048/J5vOB8Kr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245456581895938048/J5vOB8Kr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/99925379/1554155186",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 329,
+        "favorite_count": 371,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 329,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

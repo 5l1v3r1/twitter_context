@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:41:41 +0000 2020",
+    "id": 1256745710952816642,
+    "id_str": "1256745710952816642",
+    "text": "Gente a equipe Kelvin \u00e9 a exoterrorista ou a que n\u00e3o voltou da miss\u00e3o?\n#osegredonafloresta",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "osegredonafloresta",
+                "indices": [
+                    71,
+                    90
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 806328285684789248,
+        "id_str": "806328285684789248",
+        "name": "\ud835\udc7a\ud835\udc82\ud835\udc95\ud835\udc96\ud835\udc93\ud835\udc8f #IUxSUGA",
+        "screen_name": "yeojinshadow",
+        "location": "The ReVe Festival (ela/dela)",
+        "description": "( \u02d8\u0348 \u00b3\u02d8\u0348 )\u2661 \u20d7  #\u20de\ubc29\ud0c4\uc18c\ub144\ub2e8  \u02d6  #\u20de\uc774\ub2ec\uc758\uc18c\ub140 \u00a8\u032e\u2661\u00a8\u032e \u27b8 \u2071\u1d57'\u02e2\u00a0\u02b7\u02b3\u2071\u1d57\u1d57\u1d49\u207f\u00a0\u2071\u207f\u00a0\u1d57\u02b0\u1d49\u00a0\u1d47\u1d52\u1d52\u1d4f\u00a0\u1d52\u1da0\u00a0\u1d50\u02b8\u00a0\u02e1\u2071\u1da0\u1d49,\u00a0\u2071\u00a0\u02b7\u1d43\u02e2\u00a0\u1d48\u1d49\u02e2\u1d57\u2071\u207f\u1d49\u1d48\u00a0\u1d57\u1d52\u00a0\u02e1\u1d52\u1d5b\u1d49\u00a0\u02b8\u1d52\u1d58\u00a0\u1da0\u1d52\u02b3\u1d49\u1d5b\u1d49\u02b3. \u270d\ud83c\udffb\u2665\ufe0e\u1d4e #\u20de\uc138\ube10\ud2f4 #\u20de\uc704\ud0a4\ubbf8\ud0a4 #\u20de\uc544\uc774\uc624\uc544\uc774",
+        "url": "https://t.co/k0eJ1NuLE5",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/k0eJ1NuLE5",
+                        "expanded_url": "http://btsloona.xn--8ci",
+                        "display_url": "btsloona.\u2730",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1641,
+        "friends_count": 1268,
+        "listed_count": 23,
+        "created_at": "Wed Dec 07 02:43:38 +0000 2016",
+        "favourites_count": 88635,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 33760,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256314220993486851/gdjOkVv5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256314220993486851/gdjOkVv5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/806328285684789248/1588363625",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

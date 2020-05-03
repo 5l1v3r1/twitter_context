@@ -1,0 +1,142 @@
+{
+    "created_at": "Sun May 03 00:40:41 +0000 2020",
+    "id": 1256745461333049346,
+    "id_str": "1256745461333049346",
+    "text": "Top 5 favourite MCU movies:\n1. The Incredible @Hulk \n2. @Avengers: Infinity War \n3. #AvengersEndgame \n4. @Guardians\u2026 https://t.co/ZaKqMhtJ3n",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AvengersEndgame",
+                "indices": [
+                    84,
+                    100
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Hulk",
+                "name": "Incredible Hulk",
+                "id": 2352399006,
+                "id_str": "2352399006",
+                "indices": [
+                    46,
+                    51
+                ]
+            },
+            {
+                "screen_name": "Avengers",
+                "name": "The Avengers",
+                "id": 393852070,
+                "id_str": "393852070",
+                "indices": [
+                    56,
+                    65
+                ]
+            },
+            {
+                "screen_name": "Guardians",
+                "name": "GuardiansOfTheGalaxy",
+                "id": 701667727,
+                "id_str": "701667727",
+                "indices": [
+                    105,
+                    115
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ZaKqMhtJ3n",
+                "expanded_url": "https://twitter.com/i/web/status/1256745461333049346",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1090535526,
+        "id_str": "1090535526",
+        "name": "Ryan Leger",
+        "screen_name": "RyanLeger2",
+        "location": "Toronto, Ontario",
+        "description": "Student. Aspiring screenwriter and filmmaker.",
+        "url": "https://t.co/RRg5UQngwY",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/RRg5UQngwY",
+                        "expanded_url": "http://chng.it/nhJmzCD4Kr",
+                        "display_url": "chng.it/nhJmzCD4Kr",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 180,
+        "friends_count": 1444,
+        "listed_count": 6,
+        "created_at": "Tue Jan 15 00:11:20 +0000 2013",
+        "favourites_count": 3583,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10069,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3633278864/65972f06059ca12e93ed5c1bd6f77222_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3633278864/65972f06059ca12e93ed5c1bd6f77222_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

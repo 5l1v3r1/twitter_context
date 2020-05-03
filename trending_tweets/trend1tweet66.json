@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:22 +0000 2020",
+    "id": 1256745881891725312,
+    "id_str": "1256745881891725312",
+    "text": "RT @1lorenabrito: AH\nNem sei o que falar, dif\u00edcil acreditar\nT\u00d4 SOZINHO #SkolNoModoXandAviao https://t.co/aQlOgLtxV7",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SkolNoModoXandAviao",
+                "indices": [
+                    71,
+                    91
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "1lorenabrito",
+                "name": "\ud835\udcdb\ud835\udcf8\ud835\udcfb\ud835\udcee\ud835\udcf7\ud835\udcea \ud83c\udfe0",
+                "id": 345520905,
+                "id_str": "345520905",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745336879669248,
+                "id_str": "1256745336879669248",
+                "indices": [
+                    92,
+                    115
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbObHXYAAht6e.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbObHXYAAht6e.jpg",
+                "url": "https://t.co/aQlOgLtxV7",
+                "display_url": "pic.twitter.com/aQlOgLtxV7",
+                "expanded_url": "https://twitter.com/1lorenabrito/status/1256745339568209920/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 633,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 633,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 633,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256745339568209920,
+                "source_status_id_str": "1256745339568209920",
+                "source_user_id": 345520905,
+                "source_user_id_str": "345520905"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745336879669248,
+                "id_str": "1256745336879669248",
+                "indices": [
+                    92,
+                    115
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbObHXYAAht6e.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbObHXYAAht6e.jpg",
+                "url": "https://t.co/aQlOgLtxV7",
+                "display_url": "pic.twitter.com/aQlOgLtxV7",
+                "expanded_url": "https://twitter.com/1lorenabrito/status/1256745339568209920/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 633,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 633,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 633,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256745339568209920,
+                "source_status_id_str": "1256745339568209920",
+                "source_user_id": 345520905,
+                "source_user_id_str": "345520905"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1062172382213931008,
+        "id_str": "1062172382213931008",
+        "name": "S\u00f3 mais algu\u00e9m trancado em casa",
+        "screen_name": "alerfre8",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 83,
+        "friends_count": 82,
+        "listed_count": 0,
+        "created_at": "Tue Nov 13 02:36:44 +0000 2018",
+        "favourites_count": 579,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1147,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255676983440277507/BxPlwGXC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255676983440277507/BxPlwGXC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1062172382213931008/1588390625",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:12 +0000 2020",
+        "id": 1256745339568209920,
+        "id_str": "1256745339568209920",
+        "text": "AH\nNem sei o que falar, dif\u00edcil acreditar\nT\u00d4 SOZINHO #SkolNoModoXandAviao https://t.co/aQlOgLtxV7",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SkolNoModoXandAviao",
+                    "indices": [
+                        53,
+                        73
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256745336879669248,
+                    "id_str": "1256745336879669248",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDbObHXYAAht6e.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDbObHXYAAht6e.jpg",
+                    "url": "https://t.co/aQlOgLtxV7",
+                    "display_url": "pic.twitter.com/aQlOgLtxV7",
+                    "expanded_url": "https://twitter.com/1lorenabrito/status/1256745339568209920/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 633,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256745336879669248,
+                    "id_str": "1256745336879669248",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDbObHXYAAht6e.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDbObHXYAAht6e.jpg",
+                    "url": "https://t.co/aQlOgLtxV7",
+                    "display_url": "pic.twitter.com/aQlOgLtxV7",
+                    "expanded_url": "https://twitter.com/1lorenabrito/status/1256745339568209920/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 633,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 633,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 345520905,
+            "id_str": "345520905",
+            "name": "\ud835\udcdb\ud835\udcf8\ud835\udcfb\ud835\udcee\ud835\udcf7\ud835\udcea \ud83c\udfe0",
+            "screen_name": "1lorenabrito",
+            "location": "dentro do seu \u2661",
+            "description": "Nordestina\ud83c\udf35",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12916,
+            "friends_count": 9962,
+            "listed_count": 1,
+            "created_at": "Sat Jul 30 18:50:52 +0000 2011",
+            "favourites_count": 84988,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4716,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1238897185976090625/_XeuJv91_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238897185976090625/_XeuJv91_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/345520905/1585770290",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

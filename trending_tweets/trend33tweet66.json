@@ -1,0 +1,234 @@
+{
+    "created_at": "Sun May 03 00:43:05 +0000 2020",
+    "id": 1256746061953105920,
+    "id_str": "1256746061953105920",
+    "text": "RT @btsgaveme2wings: .@BTS_twt gan\u00f3 el premio al \"Grupo Musical Favorito\" en los #KCA2020. Los ganadores a esta respectiva categor\u00eda (BTS),\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KCA2020",
+                "indices": [
+                    81,
+                    89
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "btsgaveme2wings",
+                "name": "\u02d7\u02cf\u02cb \u1d30\u1da6\u1d49\u1d4d\u1d52 \u02ce\u02ca\u02d7 \ud83d\udd4a\ufe0f \u1d07\u1d20\u1d07\u0274\u1d1b\u1d0f: \u0299\u1d1b\ua731 \u1d0b\u1d04\u1d00 \ud83d\udccc",
+                "id": 395670586,
+                "id_str": "395670586",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    22,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1061789018722054144,
+        "id_str": "1061789018722054144",
+        "name": "\u1d56\u02b3\u1d52\u1d48 \u1d5b Bren\u2077 \ud83d\udc9c SweetNight",
+        "screen_name": "TaehyungieLand",
+        "location": "Argentina",
+        "description": "Ar \ud83c\udde6\ud83c\uddf7 || Fake love 08.18 || Estudiante de Lic. en Psicolog\u00eda || We are not seven, with you \u10e6",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2323,
+        "friends_count": 2091,
+        "listed_count": 3,
+        "created_at": "Mon Nov 12 01:13:23 +0000 2018",
+        "favourites_count": 13405,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31510,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255548249278238724/aWK_V55o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255548249278238724/aWK_V55o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061789018722054144/1588181005",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:33:20 +0000 2020",
+        "id": 1256743608847302659,
+        "id_str": "1256743608847302659",
+        "text": ".@BTS_twt gan\u00f3 el premio al \"Grupo Musical Favorito\" en los #KCA2020. Los ganadores a esta respectiva categor\u00eda (BT\u2026 https://t.co/dKKDD6lDpn",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KCA2020",
+                    "indices": [
+                        60,
+                        68
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BTS_twt",
+                    "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                    "id": 335141638,
+                    "id_str": "335141638",
+                    "indices": [
+                        1,
+                        9
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/dKKDD6lDpn",
+                    "expanded_url": "https://twitter.com/i/web/status/1256743608847302659",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 395670586,
+            "id_str": "395670586",
+            "name": "\u02d7\u02cf\u02cb \u1d30\u1da6\u1d49\u1d4d\u1d52 \u02ce\u02ca\u02d7 \ud83d\udd4a\ufe0f \u1d07\u1d20\u1d07\u0274\u1d1b\u1d0f: \u0299\u1d1b\ua731 \u1d0b\u1d04\u1d00 \ud83d\udccc",
+            "screen_name": "btsgaveme2wings",
+            "location": "\u2661 \u2026 \u203a\u1d00\u0280\u1d0d\u028f \u1d00\u0274\u1d05 \u1d18\u0280\u1d0f\u1d1c\u1d05 \u00b7\u1d25\u00b7 \ud83c\udde8\ud83c\uddf4",
+            "description": "#\ubc29\ud0c4\uc18c\ub144\ub2e8: \u2661\ub2f9\uc2e0\uc758 \uc0ac\ub791\uc774 \ub0b4 \uc778\uc0dd\uc5d0 \ub098\ud0c0\ub09c \uc774\ub798\ub85c \uc544\uce68\uc774 \uc544\ub984\ub2e4\uc6cc\uc84c\uc2b5\ub2c8\ub2e4\u2661 \u208d\u2728\u208e \u275d\u00ab\u1d1b\u1d07\u1d00\u1d0d\u1d21\u1d0f\u0280\u1d0b \u1d0d\u1d00\u1d0b\u1d07\ua731 \u1d1b\u029c\u1d07 \u1d05\u0280\u1d07\u1d00\u1d0d \u1d21\u1d0f\u0280\u1d0b\u00bb\u275e \u208d \ud83d\udc90 \ufe62 \ud83c\udf08 \u208e \ua4b0\u1d2e\u1d43\u1d9c\u1d4f\u1d58\u1d56 \u21b3 @imbtswings\ua4b1\u1da0\u1d43\u1d51 \u1d43\u1d9c\u1d9c\u2077\ud83d\udc97",
+            "url": "https://t.co/Pi6iBJSzw0",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Pi6iBJSzw0",
+                            "expanded_url": "https://twitter.com/imbtswings",
+                            "display_url": "twitter.com/imbtswings",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 64100,
+            "friends_count": 5315,
+            "listed_count": 169,
+            "created_at": "Sat Oct 22 01:52:02 +0000 2011",
+            "favourites_count": 31174,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 101834,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252451232876310528/8jZGkYg2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252451232876310528/8jZGkYg2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/395670586/1587442691",
+            "profile_link_color": "B95D5D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 61,
+        "favorite_count": 152,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 61,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

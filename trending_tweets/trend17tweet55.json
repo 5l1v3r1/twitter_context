@@ -1,0 +1,382 @@
+{
+    "created_at": "Sun May 03 00:42:13 +0000 2020",
+    "id": 1256745846563057670,
+    "id_str": "1256745846563057670",
+    "text": "RT @farahfeza: As\u0131l #Thor iki sene \u00f6nce \u0130zmir'de yapm\u0131\u015ft\u0131 \u015fovunu, 100. denemede falan yakalam\u0131\u015ft\u0131m bunu\u26a1 #ya\u011fmur https://t.co/TVdebBtpet",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Thor",
+                "indices": [
+                    20,
+                    25
+                ]
+            },
+            {
+                "text": "ya\u011fmur",
+                "indices": [
+                    105,
+                    112
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "farahfeza",
+                "name": "Feza",
+                "id": 3312146541,
+                "id_str": "3312146541",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256701799064576000,
+                "id_str": "1256701799064576000",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCzoMHWoAAU7N7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCzoMHWoAAU7N7.jpg",
+                "url": "https://t.co/TVdebBtpet",
+                "display_url": "pic.twitter.com/TVdebBtpet",
+                "expanded_url": "https://twitter.com/farahfeza/status/1256701813660815360/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 826,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1410,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 468,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256701813660815360,
+                "source_status_id_str": "1256701813660815360",
+                "source_user_id": 3312146541,
+                "source_user_id_str": "3312146541"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256701799064576000,
+                "id_str": "1256701799064576000",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCzoMHWoAAU7N7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCzoMHWoAAU7N7.jpg",
+                "url": "https://t.co/TVdebBtpet",
+                "display_url": "pic.twitter.com/TVdebBtpet",
+                "expanded_url": "https://twitter.com/farahfeza/status/1256701813660815360/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 826,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1410,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 468,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256701813660815360,
+                "source_status_id_str": "1256701813660815360",
+                "source_user_id": 3312146541,
+                "source_user_id_str": "3312146541"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1015339841695907840,
+        "id_str": "1015339841695907840",
+        "name": "\u2667 R A S \u00dc L\u2664 #EvdeKal",
+        "screen_name": "rasulfdn",
+        "location": "Tekirda\u011f, T\u00fcrkiye",
+        "description": "\u2022 My world \ud83c\uddf9\ud83c\uddf7 \uf8ff \u2022 #Tekirda\u011f / #Sivas \u2764\ufe0f",
+        "url": "https://t.co/GpnyVeaLlb",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/GpnyVeaLlb",
+                        "expanded_url": "http://www.instagram.com/rasulfdn",
+                        "display_url": "instagram.com/rasulfdn",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 331,
+        "friends_count": 383,
+        "listed_count": 2,
+        "created_at": "Fri Jul 06 21:00:57 +0000 2018",
+        "favourites_count": 1773,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1277,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1171521232832827392/X5WjEfmu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171521232832827392/X5WjEfmu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015339841695907840/1582478329",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:47:15 +0000 2020",
+        "id": 1256701813660815360,
+        "id_str": "1256701813660815360",
+        "text": "As\u0131l #Thor iki sene \u00f6nce \u0130zmir'de yapm\u0131\u015ft\u0131 \u015fovunu, 100. denemede falan yakalam\u0131\u015ft\u0131m bunu\u26a1 #ya\u011fmur https://t.co/TVdebBtpet",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Thor",
+                    "indices": [
+                        5,
+                        10
+                    ]
+                },
+                {
+                    "text": "ya\u011fmur",
+                    "indices": [
+                        90,
+                        97
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256701799064576000,
+                    "id_str": "1256701799064576000",
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCzoMHWoAAU7N7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCzoMHWoAAU7N7.jpg",
+                    "url": "https://t.co/TVdebBtpet",
+                    "display_url": "pic.twitter.com/TVdebBtpet",
+                    "expanded_url": "https://twitter.com/farahfeza/status/1256701813660815360/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 826,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1410,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 468,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256701799064576000,
+                    "id_str": "1256701799064576000",
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCzoMHWoAAU7N7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCzoMHWoAAU7N7.jpg",
+                    "url": "https://t.co/TVdebBtpet",
+                    "display_url": "pic.twitter.com/TVdebBtpet",
+                    "expanded_url": "https://twitter.com/farahfeza/status/1256701813660815360/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 826,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1410,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 468,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3312146541,
+            "id_str": "3312146541",
+            "name": "Feza",
+            "screen_name": "farahfeza",
+            "location": "\u0130zmir, T\u00fcrkiye",
+            "description": "Amerikal\u0131lar\u0131n da dedi\u011fi gibi, ciddiyet kediyi \u00f6ld\u00fcr\u00fcr.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 111,
+            "friends_count": 103,
+            "listed_count": 0,
+            "created_at": "Sun Jun 07 18:22:44 +0000 2015",
+            "favourites_count": 11371,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 180,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255760209638756353/jTttyofH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255760209638756353/jTttyofH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3312146541/1587059963",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 383,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

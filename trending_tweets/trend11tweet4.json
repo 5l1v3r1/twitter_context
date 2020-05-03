@@ -1,0 +1,296 @@
+{
+    "created_at": "Sun May 03 00:42:40 +0000 2020",
+    "id": 1256745959830310914,
+    "id_str": "1256745959830310914",
+    "text": "RT @itsjustanx: Since Age of Ultron is trending, let\u2019s bring back the moment Wanda Maximoff officially became an Avenger. https://t.co/O8lS\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "itsjustanx",
+                "name": "\ud835\udcea\ud835\udcc1\ud835\udcbe\ud835\udcb6\ud835\udcc8",
+                "id": 883142074299596800,
+                "id_str": "883142074299596800",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4883101323,
+        "id_str": "4883101323",
+        "name": "F L O R \u235f",
+        "screen_name": "flxrp_08",
+        "location": "D A Y  D R E A M",
+        "description": "Slytherin \ud83d\udc0d \nTimoth\u00e9e Chalamet \ud83d\udda4\n\u1d00\u1d20\u1d07\u0274\u0262\u1d07\u0280\ua731 \u1d00\ua731\ua731\u1d07\u1d0d\u0299\u029f\u1d07 \ud83d\udda4\nTeen Wolf \ud83d\udda4",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 91,
+        "friends_count": 274,
+        "listed_count": 0,
+        "created_at": "Sat Feb 06 22:02:37 +0000 2016",
+        "favourites_count": 19897,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1727,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255247427935895552/srZdZj1W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255247427935895552/srZdZj1W_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4883101323/1588109050",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:32:51 +0000 2020",
+        "id": 1256683092124852226,
+        "id_str": "1256683092124852226",
+        "text": "Since Age of Ultron is trending, let\u2019s bring back the moment Wanda Maximoff officially became an Avenger. https://t.co/O8lS594AFB",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256682969198182403,
+                    "id_str": "1256682969198182403",
+                    "indices": [
+                        106,
+                        129
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256682969198182403/pu/img/gomitBTBO-258II7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256682969198182403/pu/img/gomitBTBO-258II7.jpg",
+                    "url": "https://t.co/O8lS594AFB",
+                    "display_url": "pic.twitter.com/O8lS594AFB",
+                    "expanded_url": "https://twitter.com/itsjustanx/status/1256683092124852226/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256682969198182403,
+                    "id_str": "1256682969198182403",
+                    "indices": [
+                        106,
+                        129
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256682969198182403/pu/img/gomitBTBO-258II7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256682969198182403/pu/img/gomitBTBO-258II7.jpg",
+                    "url": "https://t.co/O8lS594AFB",
+                    "display_url": "pic.twitter.com/O8lS594AFB",
+                    "expanded_url": "https://twitter.com/itsjustanx/status/1256683092124852226/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 15600,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256682969198182403/pu/vid/480x270/9O2tCRj4y1NWD7Cu.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256682969198182403/pu/vid/640x360/6ljtslQAHNNNnzQk.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256682969198182403/pu/vid/1280x720/dMFmqSl-waxojnKr.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256682969198182403/pu/pl/mcTle7wF6FRFHzod.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 883142074299596800,
+            "id_str": "883142074299596800",
+            "name": "\ud835\udcea\ud835\udcc1\ud835\udcbe\ud835\udcb6\ud835\udcc8",
+            "screen_name": "itsjustanx",
+            "location": "",
+            "description": "#SorryForYourLoss S1&2 on @FacebookWatch #WandaVision on @DisneyPlus December 2020? #MultiverseOfMadness theaters March 25, 2022.",
+            "url": "https://t.co/MK608HNG11",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/MK608HNG11",
+                            "expanded_url": "https://www.facebook.com/sorryforyourloss/",
+                            "display_url": "facebook.com/sorryforyourlo\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16718,
+            "friends_count": 825,
+            "listed_count": 281,
+            "created_at": "Fri Jul 07 01:54:13 +0000 2017",
+            "favourites_count": 40952,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13593,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1232442896516833285/p-KTPFAz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232442896516833285/p-KTPFAz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/883142074299596800/1585419376",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 965,
+        "favorite_count": 4371,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 965,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

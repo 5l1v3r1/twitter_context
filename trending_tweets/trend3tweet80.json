@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:42:12 +0000 2020",
+    "id": 1256745841383088128,
+    "id_str": "1256745841383088128",
+    "text": "B\u00f6yle bir g\u00fcnde do\u011fmu\u015f olmakta benim i\u00e7in ayr\u0131 bir mutluluk sebebi\n\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc https://t.co/8CiEVT29zo",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    68,
+                    88
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745796139208704,
+                "id_str": "1256745796139208704",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745796139208704/pu/img/sAoxA1_HqyEp3S-v.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745796139208704/pu/img/sAoxA1_HqyEp3S-v.jpg",
+                "url": "https://t.co/8CiEVT29zo",
+                "display_url": "pic.twitter.com/8CiEVT29zo",
+                "expanded_url": "https://twitter.com/turkbeyi_0/status/1256745841383088128/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745796139208704,
+                "id_str": "1256745796139208704",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745796139208704/pu/img/sAoxA1_HqyEp3S-v.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745796139208704/pu/img/sAoxA1_HqyEp3S-v.jpg",
+                "url": "https://t.co/8CiEVT29zo",
+                "display_url": "pic.twitter.com/8CiEVT29zo",
+                "expanded_url": "https://twitter.com/turkbeyi_0/status/1256745841383088128/video/1",
+                "type": "video",
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 7708,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745796139208704/pu/pl/FX_EKXpEHoPi39mR.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745796139208704/pu/vid/480x270/6ZhpmryczPRoBXbF.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 782645350385324032,
+        "id_str": "782645350385324032",
+        "name": "\u0130LHAN\ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "turkbeyi_0",
+        "location": "T\u00fcrkiye",
+        "description": "Gazi \u00dcniversitesi \ud83c\udf93",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 61,
+        "friends_count": 140,
+        "listed_count": 0,
+        "created_at": "Sun Oct 02 18:16:07 +0000 2016",
+        "favourites_count": 200,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 324,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242785042138566658/rU33nNM9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242785042138566658/rU33nNM9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/782645350385324032/1585138055",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

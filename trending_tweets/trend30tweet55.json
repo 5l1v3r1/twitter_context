@@ -1,0 +1,378 @@
+{
+    "created_at": "Sun May 03 00:35:50 +0000 2020",
+    "id": 1256744237951004675,
+    "id_str": "1256744237951004675",
+    "text": "RT @sccplaris: SE \u00c9 PRA TE SERVIR E NUNCA MAIS CAIR DA MESMA REDE\n\nEU VOOOOOOOOOOOOU\n\nmood\n\n#LiveDoResgate https://t.co/IgOtmGqHRW",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveDoResgate",
+                "indices": [
+                    92,
+                    106
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sccplaris",
+                "name": "Larissa Lima",
+                "id": 116508260,
+                "id_str": "116508260",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256740235255468034,
+                "id_str": "1256740235255468034",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWleFX0AIMITD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWleFX0AIMITD.jpg",
+                "url": "https://t.co/IgOtmGqHRW",
+                "display_url": "pic.twitter.com/IgOtmGqHRW",
+                "expanded_url": "https://twitter.com/sccplaris/status/1256740264544292864/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 577,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1019,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1739,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740264544292864,
+                "source_status_id_str": "1256740264544292864",
+                "source_user_id": 116508260,
+                "source_user_id_str": "116508260"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256740235255468034,
+                "id_str": "1256740235255468034",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWleFX0AIMITD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWleFX0AIMITD.jpg",
+                "url": "https://t.co/IgOtmGqHRW",
+                "display_url": "pic.twitter.com/IgOtmGqHRW",
+                "expanded_url": "https://twitter.com/sccplaris/status/1256740264544292864/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 577,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1019,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1739,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740264544292864,
+                "source_status_id_str": "1256740264544292864",
+                "source_user_id": 116508260,
+                "source_user_id_str": "116508260"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 275970041,
+        "id_str": "275970041",
+        "name": "Loren Sid \u2728",
+        "screen_name": "_aLorenaa",
+        "location": "Par\u00e1, Brasil",
+        "description": "N\u00e3o me culpe, eu n\u00e3o sou daqui...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1613,
+        "friends_count": 1340,
+        "listed_count": 10,
+        "created_at": "Sat Apr 02 11:24:46 +0000 2011",
+        "favourites_count": 6430,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 47409,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199000454631440384/SE_teezY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199000454631440384/SE_teezY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/275970041/1574698964",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1A1819",
+        "profile_text_color": "C21B58",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:20:02 +0000 2020",
+        "id": 1256740264544292864,
+        "id_str": "1256740264544292864",
+        "text": "SE \u00c9 PRA TE SERVIR E NUNCA MAIS CAIR DA MESMA REDE\n\nEU VOOOOOOOOOOOOU\n\nmood\n\n#LiveDoResgate https://t.co/IgOtmGqHRW",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveDoResgate",
+                    "indices": [
+                        77,
+                        91
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256740235255468034,
+                    "id_str": "1256740235255468034",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWleFX0AIMITD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWleFX0AIMITD.jpg",
+                    "url": "https://t.co/IgOtmGqHRW",
+                    "display_url": "pic.twitter.com/IgOtmGqHRW",
+                    "expanded_url": "https://twitter.com/sccplaris/status/1256740264544292864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 577,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1019,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1739,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256740235255468034,
+                    "id_str": "1256740235255468034",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWleFX0AIMITD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWleFX0AIMITD.jpg",
+                    "url": "https://t.co/IgOtmGqHRW",
+                    "display_url": "pic.twitter.com/IgOtmGqHRW",
+                    "expanded_url": "https://twitter.com/sccplaris/status/1256740264544292864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 577,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1019,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1739,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 116508260,
+            "id_str": "116508260",
+            "name": "Larissa Lima",
+            "screen_name": "sccplaris",
+            "location": "Fortaleza, Brasil",
+            "description": "Crist\u00e3, corinthiana, cavando gra\u00e7a comum na psicologia e vivendo como uma narniana. https://t.co/pbUy93bLIA",
+            "url": "https://t.co/UvO3DoNBLm",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UvO3DoNBLm",
+                            "expanded_url": "http://www.servasdaverdade.com.br",
+                            "display_url": "servasdaverdade.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/pbUy93bLIA",
+                            "expanded_url": "http://instagram.com/servasdaverdade",
+                            "display_url": "instagram.com/servasdaverdade",
+                            "indices": [
+                                84,
+                                107
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 7303,
+            "friends_count": 645,
+            "listed_count": 27,
+            "created_at": "Mon Feb 22 18:21:42 +0000 2010",
+            "favourites_count": 15288,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4508,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1229203491211694082/ZHK2Cztr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229203491211694082/ZHK2Cztr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/116508260/1561684489",
+            "profile_link_color": "A88C74",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 54,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

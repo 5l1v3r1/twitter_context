@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:42:33 +0000 2020",
+    "id": 1256745931208306688,
+    "id_str": "1256745931208306688",
+    "text": "RT @akpartiadanail: Bizim Allah'a can borcumuzdan, Milletimize hizmet borcumuzdan ba\u015fka kimseye eyvallah\u0131m\u0131z yoktur, olmayacakt\u0131r. \n\nNe yap\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "akpartiadanail",
+                "name": "AK Parti Adana",
+                "id": 520201570,
+                "id_str": "520201570",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 918913553347817473,
+        "id_str": "918913553347817473",
+        "name": "\u015eahin Evren Yal\u00e7\u0131n",
+        "screen_name": "SahinEYalcin",
+        "location": "Adana, T\u00fcrkiye",
+        "description": "AK PARTI SARICAM GENCLIK KOLLARI TESKILAT BASKANI",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 669,
+        "friends_count": 892,
+        "listed_count": 1,
+        "created_at": "Fri Oct 13 18:57:18 +0000 2017",
+        "favourites_count": 37965,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9685,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/945953702145380352/vTrY27nM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/945953702145380352/vTrY27nM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918913553347817473/1582707906",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:36:00 +0000 2020",
+        "id": 1256683882767880193,
+        "id_str": "1256683882767880193",
+        "text": "Bizim Allah'a can borcumuzdan, Milletimize hizmet borcumuzdan ba\u015fka kimseye eyvallah\u0131m\u0131z yoktur, olmayacakt\u0131r. \n\nNe\u2026 https://t.co/ttMM8lXAdi",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ttMM8lXAdi",
+                    "expanded_url": "https://twitter.com/i/web/status/1256683882767880193",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 520201570,
+            "id_str": "520201570",
+            "name": "AK Parti Adana",
+            "screen_name": "akpartiadanail",
+            "location": "",
+            "description": "AK Parti Adana \u0130l Ba\u015fkanl\u0131\u011f\u0131",
+            "url": "https://t.co/kdow5WQApv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/kdow5WQApv",
+                            "expanded_url": "http://m.akparti.org.tr/site",
+                            "display_url": "m.akparti.org.tr/site",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8643,
+            "friends_count": 57,
+            "listed_count": 13,
+            "created_at": "Sat Mar 10 08:02:08 +0000 2012",
+            "favourites_count": 4155,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8303,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1148193051262799872/z3KlW8iD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148193051262799872/z3KlW8iD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/520201570/1577787296",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 25,
+        "favorite_count": 64,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

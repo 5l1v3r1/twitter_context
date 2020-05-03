@@ -1,0 +1,282 @@
+{
+    "created_at": "Sun May 03 00:42:34 +0000 2020",
+    "id": 1256745934022729729,
+    "id_str": "1256745934022729729",
+    "text": "RT @disi___aslan_: Bizim Allah'a can borcumuzdan, Milletimize hizmet borcumuzdan ba\u015fka kimseye eyvallah\u0131m\u0131z yoktur, olmayacakt\u0131r. \n\nNe yapa\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "disi___aslan_",
+                "name": "D\u0130\u015e\u0130 ASLAN",
+                "id": 1059172241114587142,
+                "id_str": "1059172241114587142",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 786810366252625920,
+        "id_str": "786810366252625920",
+        "name": "\u2764 BURHAN \ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "Bur_han_la",
+        "location": "",
+        "description": "EDEPLE GELEN L\u00dcTUFLA G\u0130DER #RE\u0130S\u0130NASLANLARI \ud83e\udd81",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16425,
+        "friends_count": 16210,
+        "listed_count": 17,
+        "created_at": "Fri Oct 14 06:06:24 +0000 2016",
+        "favourites_count": 126904,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 128013,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242131205287481349/tNwnwDQr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242131205287481349/tNwnwDQr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786810366252625920/1570656579",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:51:28 +0000 2020",
+        "id": 1256717976180424704,
+        "id_str": "1256717976180424704",
+        "text": "Bizim Allah'a can borcumuzdan, Milletimize hizmet borcumuzdan ba\u015fka kimseye eyvallah\u0131m\u0131z yoktur, olmayacakt\u0131r. \n\nNe\u2026 https://t.co/gYUbmb827A",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/gYUbmb827A",
+                    "expanded_url": "https://twitter.com/i/web/status/1256717976180424704",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1059172241114587142,
+            "id_str": "1059172241114587142",
+            "name": "D\u0130\u015e\u0130 ASLAN",
+            "screen_name": "disi___aslan_",
+            "location": "#ReisinAslanlar\u0131 ",
+            "description": "RE\u0130S\u0130N ASLANLARIYIZ",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11882,
+            "friends_count": 12376,
+            "listed_count": 6,
+            "created_at": "Sun Nov 04 19:55:15 +0000 2018",
+            "favourites_count": 147904,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 150745,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255173102180409344/spychtHc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255173102180409344/spychtHc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059172241114587142/1580469847",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256712372728848390,
+        "quoted_status_id_str": "1256712372728848390",
+        "quoted_status": {
+            "created_at": "Sat May 02 22:29:12 +0000 2020",
+            "id": 1256712372728848390,
+            "id_str": "1256712372728848390",
+            "text": "Bizim Allah'a can borcumuzdan, Milletimize hizmet borcumuzdan ba\u015fka kimseye eyvallah\u0131m\u0131z yoktur, olmayacakt\u0131r. \n\nNe\u2026 https://t.co/GQaSrhvkJT",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/GQaSrhvkJT",
+                        "expanded_url": "https://twitter.com/i/web/status/1256712372728848390",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "tr"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1242485920185679872,
+                "id_str": "1242485920185679872",
+                "name": "\ud83c\udd71\ud83c\udd70\ud83c\udd7b\ud83c\udd70 \ud83c\uddf9\ud83c\uddf7",
+                "screen_name": "Uysaltrk",
+                "location": "Denizli, T\u00fcrkiye",
+                "description": "Reisin ASLANLARI\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7\nAK SANCAK TIM\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1217,
+                "friends_count": 1320,
+                "listed_count": 0,
+                "created_at": "Tue Mar 24 16:18:40 +0000 2020",
+                "favourites_count": 812,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 428,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1251608053016920066/qiks68Y8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251608053016920066/qiks68Y8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242485920185679872/1585230874",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1256711986504663042,
+            "quoted_status_id_str": "1256711986504663042",
+            "retweet_count": 12,
+            "favorite_count": 24,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "tr"
+        },
+        "retweet_count": 23,
+        "favorite_count": 54,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256712372728848390,
+    "quoted_status_id_str": "1256712372728848390",
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

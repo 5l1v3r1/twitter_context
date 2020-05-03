@@ -1,0 +1,200 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745983238721536,
+    "id_str": "1256745983238721536",
+    "text": "RT @HilvanChp: #Bitlis'te \u015fehit d\u00fc\u015fen askerlerimize Allah\u2019tan rahmet, yaral\u0131 askerlerimize acil \u015fifalar diliyoruz.\nBa\u015f\u0131m\u0131z sa\u011f olsun. https\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    15,
+                    22
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HilvanChp",
+                "name": "CHP Hilvan \u0130l\u00e7e Ba\u015fkanl\u0131\u011f\u0131",
+                "id": 1197256789869420544,
+                "id_str": "1197256789869420544",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1221233747397435393,
+        "id_str": "1221233747397435393",
+        "name": "Sinan A\u015eAN",
+        "screen_name": "AsanSinan63",
+        "location": "",
+        "description": "\u015eanl\u0131urfa/Hilvan CHP Gen\u00e7lik Kollar\u0131 Ba\u015fkan\u0131 \ud83c\uddf9\ud83c\uddf7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 29,
+        "friends_count": 93,
+        "listed_count": 0,
+        "created_at": "Sun Jan 26 00:50:13 +0000 2020",
+        "favourites_count": 101,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 70,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233900802667896832/cFws6S6j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233900802667896832/cFws6S6j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221233747397435393/1580516604",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:14:18 +0000 2020",
+        "id": 1256708623104978945,
+        "id_str": "1256708623104978945",
+        "text": "#Bitlis'te \u015fehit d\u00fc\u015fen askerlerimize Allah\u2019tan rahmet, yaral\u0131 askerlerimize acil \u015fifalar diliyoruz.\nBa\u015f\u0131m\u0131z sa\u011f ols\u2026 https://t.co/7gscMNHEc8",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7gscMNHEc8",
+                    "expanded_url": "https://twitter.com/i/web/status/1256708623104978945",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1197256789869420544,
+            "id_str": "1197256789869420544",
+            "name": "CHP Hilvan \u0130l\u00e7e Ba\u015fkanl\u0131\u011f\u0131",
+            "screen_name": "HilvanChp",
+            "location": "",
+            "description": "\u0130l\u00e7e Ba\u015fkan\u0131 @mehmetcelalavci",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 56,
+            "friends_count": 79,
+            "listed_count": 0,
+            "created_at": "Wed Nov 20 20:54:08 +0000 2019",
+            "favourites_count": 278,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 69,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1197258243594174465/ue_FUY6e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197258243594174465/ue_FUY6e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1197256789869420544/1574283551",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

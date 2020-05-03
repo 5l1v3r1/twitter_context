@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745925525082113,
+    "id_str": "1256745925525082113",
+    "text": "RT @emine_tatl_yrds: Kim d\u00f6nerse d\u00f6ns\u00fcn Biz d\u00f6nmeyiz yolumuzdan \nyolun Yolumuz \ndavan davam\u0131zd\u0131r Reis\n bu Vatan\u0131n her zaman neferleri olara\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "emine_tatl_yrds",
+                "name": "Emine Tatl\u0131 Yurdda\u015f",
+                "id": 946091658835386368,
+                "id_str": "946091658835386368",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1082042644098887682,
+        "id_str": "1082042644098887682",
+        "name": "Mavi Pusulam",
+        "screen_name": "Sadece_Biri61",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1441,
+        "friends_count": 1740,
+        "listed_count": 0,
+        "created_at": "Sun Jan 06 22:34:04 +0000 2019",
+        "favourites_count": 27454,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26329,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220039638578057217/zmJLYC2l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220039638578057217/zmJLYC2l_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082042644098887682/1579715158",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:15:41 +0000 2020",
+        "id": 1256678768569135114,
+        "id_str": "1256678768569135114",
+        "text": "Kim d\u00f6nerse d\u00f6ns\u00fcn Biz d\u00f6nmeyiz yolumuzdan \nyolun Yolumuz \ndavan davam\u0131zd\u0131r Reis\n bu Vatan\u0131n her zaman neferleri ol\u2026 https://t.co/6d7NRlmRz8",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6d7NRlmRz8",
+                    "expanded_url": "https://twitter.com/i/web/status/1256678768569135114",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 946091658835386368,
+            "id_str": "946091658835386368",
+            "name": "Emine Tatl\u0131 Yurdda\u015f",
+            "screen_name": "emine_tatl_yrds",
+            "location": "Kayseri, T\u00fcrkiye",
+            "description": "YOLUN YOLUMUZDUR RE\u0130S\ud83c\uddf9\ud83c\uddf7 #KIZILELMA1grupBa\u015fkan\u0131 di\u011fer hsp @tatlyurddas \n\n\n(Bakmam insanda makama, y\u00fcre\u011fi g\u00fczel insan #ba\u015ftac\u0131d\u0131rBende)\n\n\n#g\u00fclleresevdali\ud83c\udf39DM\u274c\ud83d\udc8d",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2296,
+            "friends_count": 2440,
+            "listed_count": 0,
+            "created_at": "Wed Dec 27 18:53:23 +0000 2017",
+            "favourites_count": 14680,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 14304,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252378763330908160/e7u9p8Im_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252378763330908160/e7u9p8Im_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/946091658835386368/1587425436",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 63,
+        "favorite_count": 87,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 63,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

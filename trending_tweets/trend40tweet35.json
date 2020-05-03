@@ -1,0 +1,198 @@
+{
+    "created_at": "Sun May 03 00:42:13 +0000 2020",
+    "id": 1256745846101749766,
+    "id_str": "1256745846101749766",
+    "text": "@luscas Aleluia, arrepiei agora est\u00e1 ungido \n#RafaAdmXand #SkolNoModoXandAviao https://t.co/mPQeNgQ51x",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RafaAdmXand",
+                "indices": [
+                    45,
+                    57
+                ]
+            },
+            {
+                "text": "SkolNoModoXandAviao",
+                "indices": [
+                    58,
+                    78
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luscas",
+                "name": "luscas",
+                "id": 432983617,
+                "id_str": "432983617",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745836840660993,
+                "id_str": "1256745836840660993",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDbrhnWsAEVGxB.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDbrhnWsAEVGxB.jpg",
+                "url": "https://t.co/mPQeNgQ51x",
+                "display_url": "pic.twitter.com/mPQeNgQ51x",
+                "expanded_url": "https://twitter.com/JuliaAm46342528/status/1256745846101749766/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745836840660993,
+                "id_str": "1256745836840660993",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDbrhnWsAEVGxB.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDbrhnWsAEVGxB.jpg",
+                "url": "https://t.co/mPQeNgQ51x",
+                "display_url": "pic.twitter.com/mPQeNgQ51x",
+                "expanded_url": "https://twitter.com/JuliaAm46342528/status/1256745846101749766/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDbrhnWsAEVGxB.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256744064260673540,
+    "in_reply_to_status_id_str": "1256744064260673540",
+    "in_reply_to_user_id": 432983617,
+    "in_reply_to_user_id_str": "432983617",
+    "in_reply_to_screen_name": "luscas",
+    "user": {
+        "id": 1248077335485657090,
+        "id_str": "1248077335485657090",
+        "name": "megah",
+        "screen_name": "JuliaAm46342528",
+        "location": "",
+        "description": "entretenimento",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 27,
+        "friends_count": 78,
+        "listed_count": 0,
+        "created_at": "Thu Apr 09 02:36:50 +0000 2020",
+        "favourites_count": 4783,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1078,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256044834223251468/ahhRxZ8d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256044834223251468/ahhRxZ8d_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

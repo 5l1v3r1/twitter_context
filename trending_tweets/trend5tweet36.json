@@ -1,0 +1,361 @@
+{
+    "created_at": "Sun May 03 00:42:25 +0000 2020",
+    "id": 1256745896781516800,
+    "id_str": "1256745896781516800",
+    "text": "RT @JacobLenstar: the only threat bigger than murder hornets https://t.co/Aq0O23fXDI",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JacobLenstar",
+                "name": "Jacob Lenard",
+                "id": 206722133,
+                "id_str": "206722133",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256741387573194754,
+                "id_str": "1256741387573194754",
+                "indices": [
+                    61,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDXoizU8AIz_xo.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDXoizU8AIz_xo.png",
+                "url": "https://t.co/Aq0O23fXDI",
+                "display_url": "pic.twitter.com/Aq0O23fXDI",
+                "expanded_url": "https://twitter.com/JacobLenstar/status/1256741442791149569/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 333,
+                        "h": 278,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 333,
+                        "h": 278,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 333,
+                        "h": 278,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256741442791149569,
+                "source_status_id_str": "1256741442791149569",
+                "source_user_id": 206722133,
+                "source_user_id_str": "206722133"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256741387573194754,
+                "id_str": "1256741387573194754",
+                "indices": [
+                    61,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDXoizU8AIz_xo.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDXoizU8AIz_xo.png",
+                "url": "https://t.co/Aq0O23fXDI",
+                "display_url": "pic.twitter.com/Aq0O23fXDI",
+                "expanded_url": "https://twitter.com/JacobLenstar/status/1256741442791149569/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 333,
+                        "h": 278,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 333,
+                        "h": 278,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 333,
+                        "h": 278,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256741442791149569,
+                "source_status_id_str": "1256741442791149569",
+                "source_user_id": 206722133,
+                "source_user_id_str": "206722133"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1086773437186695169,
+        "id_str": "1086773437186695169",
+        "name": "Professional Dumbass (#SobbleSquad)",
+        "screen_name": "dumb_or",
+        "location": "Corners of the universe",
+        "description": "Storyboarder for Illumination Entertainment. PFP by @archdanmiiverse. AMAT (Assigned Male At Twitter). He/Him. E",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 42,
+        "friends_count": 623,
+        "listed_count": 1,
+        "created_at": "Sat Jan 19 23:52:33 +0000 2019",
+        "favourites_count": 16839,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6926,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1171908288205791239/ArumJQDA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171908288205791239/ArumJQDA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:24:43 +0000 2020",
+        "id": 1256741442791149569,
+        "id_str": "1256741442791149569",
+        "text": "the only threat bigger than murder hornets https://t.co/Aq0O23fXDI",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256741387573194754,
+                    "id_str": "1256741387573194754",
+                    "indices": [
+                        43,
+                        66
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDXoizU8AIz_xo.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDXoizU8AIz_xo.png",
+                    "url": "https://t.co/Aq0O23fXDI",
+                    "display_url": "pic.twitter.com/Aq0O23fXDI",
+                    "expanded_url": "https://twitter.com/JacobLenstar/status/1256741442791149569/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 333,
+                            "h": 278,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 333,
+                            "h": 278,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 333,
+                            "h": 278,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256741387573194754,
+                    "id_str": "1256741387573194754",
+                    "indices": [
+                        43,
+                        66
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDXoizU8AIz_xo.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDXoizU8AIz_xo.png",
+                    "url": "https://t.co/Aq0O23fXDI",
+                    "display_url": "pic.twitter.com/Aq0O23fXDI",
+                    "expanded_url": "https://twitter.com/JacobLenstar/status/1256741442791149569/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 333,
+                            "h": 278,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 333,
+                            "h": 278,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 333,
+                            "h": 278,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 206722133,
+            "id_str": "206722133",
+            "name": "Jacob Lenard",
+            "screen_name": "JacobLenstar",
+            "location": "Sherman Oaks, Los Angeles",
+            "description": "22 y/o animator, director, composer, archivist and thrifting enthusiast. I make animated shorts. https://t.co/h2CkcSd7j8",
+            "url": "https://t.co/DSfRP2sXi4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DSfRP2sXi4",
+                            "expanded_url": "http://www.lenstarproductions.com",
+                            "display_url": "lenstarproductions.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/h2CkcSd7j8",
+                            "expanded_url": "https://www.patreon.com/lenstarproductions",
+                            "display_url": "patreon.com/lenstarproduct\u2026",
+                            "indices": [
+                                97,
+                                120
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 8576,
+            "friends_count": 1310,
+            "listed_count": 31,
+            "created_at": "Sat Oct 23 15:33:19 +0000 2010",
+            "favourites_count": 41661,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17851,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1238167242526691329/_HEU2O5l_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238167242526691329/_HEU2O5l_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/206722133/1570162417",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 82,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "en"
+}

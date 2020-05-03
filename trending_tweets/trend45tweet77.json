@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:40:38 +0000 2020",
+    "id": 1256745445872762885,
+    "id_str": "1256745445872762885",
+    "text": "RT @pan_disspanya: tweet'i g\u00f6ren herkes tag'e destek versin l\u00fctfen\n#SesiDuy\u0130brahimYA\u015eASIN",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                "indices": [
+                    67,
+                    89
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pan_disspanya",
+                "name": "selin",
+                "id": 1100463590534991872,
+                "id_str": "1100463590534991872",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1182431713856757760,
+        "id_str": "1182431713856757760",
+        "name": "Bir Garip... Bir o\u011ful b\u00fcy\u00fctmelisin....",
+        "screen_name": "BirGarip47",
+        "location": "Anadolu",
+        "description": "Susun.! S\u0131ra neferi uyusun...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 141,
+        "friends_count": 185,
+        "listed_count": 0,
+        "created_at": "Thu Oct 10 23:04:36 +0000 2019",
+        "favourites_count": 6018,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12012,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254435443141226497/8gAKa4m7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254435443141226497/8gAKa4m7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182431713856757760/1588453198",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:51:46 +0000 2020",
+        "id": 1256718049975119875,
+        "id_str": "1256718049975119875",
+        "text": "tweet'i g\u00f6ren herkes tag'e destek versin l\u00fctfen\n#SesiDuy\u0130brahimYA\u015eASIN",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                    "indices": [
+                        48,
+                        70
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1100463590534991872,
+            "id_str": "1100463590534991872",
+            "name": "selin",
+            "screen_name": "pan_disspanya",
+            "location": "",
+            "description": "ba\u011f\u0131rmayacakt\u0131n Anton, art\u0131k a\u011fz\u0131n\u0131n yerini biliyorum",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 47,
+            "friends_count": 101,
+            "listed_count": 0,
+            "created_at": "Tue Feb 26 18:32:20 +0000 2019",
+            "favourites_count": 1348,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 175,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1237815170111602689/CLFRLwpl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237815170111602689/CLFRLwpl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100463590534991872/1584348722",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

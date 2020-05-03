@@ -1,0 +1,120 @@
+{
+    "created_at": "Sun May 03 00:40:55 +0000 2020",
+    "id": 1256745518086184960,
+    "id_str": "1256745518086184960",
+    "text": "garganta doendo de tanto cantar as m\u00fasicas do @bandaresgate \nmelhor live dessa quarentena todinha\n#LiveDoResgate #LiveBandaResgate",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveDoResgate",
+                "indices": [
+                    98,
+                    112
+                ]
+            },
+            {
+                "text": "LiveBandaResgate",
+                "indices": [
+                    113,
+                    130
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bandaresgate",
+                "name": "Banda Resgate",
+                "id": 16455380,
+                "id_str": "16455380",
+                "indices": [
+                    46,
+                    59
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3391350310,
+        "id_str": "3391350310",
+        "name": "sabela",
+        "screen_name": "chataqdoi",
+        "location": "quase bh",
+        "description": "uma garota q s\u00f3 quer desabafar sem ningu\u00e9m  encher o saco rs",
+        "url": "https://t.co/1Bq164ryhg",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1Bq164ryhg",
+                        "expanded_url": "https://www.instagram.com/?hl=pt-br",
+                        "display_url": "instagram.com/?hl=pt-br",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 169,
+        "friends_count": 155,
+        "listed_count": 0,
+        "created_at": "Tue Jul 28 01:42:37 +0000 2015",
+        "favourites_count": 12299,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6995,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243740909386244096/BcRenAuO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243740909386244096/BcRenAuO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3391350310/1581358642",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

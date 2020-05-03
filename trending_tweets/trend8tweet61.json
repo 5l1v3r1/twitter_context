@@ -1,0 +1,422 @@
+{
+    "created_at": "Sun May 03 00:42:34 +0000 2020",
+    "id": 1256745935914201090,
+    "id_str": "1256745935914201090",
+    "text": "RT @stankings7: Jeon jungkook and kim taehyung singing never not by lauv taekook we won \ud83d\ude2d\nhttps://t.co/G5rHjd32I8",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "stankings7",
+                "name": "JIRI\u2077 nsfr // FOLLOW LIMIT",
+                "id": 904497616813137920,
+                "id_str": "904497616813137920",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256657597027037185,
+                "id_str": "1256657597027037185",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256657597027037185/pu/img/vGixnA7OBXxbTExu.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256657597027037185/pu/img/vGixnA7OBXxbTExu.jpg",
+                "url": "https://t.co/G5rHjd32I8",
+                "display_url": "pic.twitter.com/G5rHjd32I8",
+                "expanded_url": "https://twitter.com/taekooksoIo/status/1256657688865447939/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 555,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 315,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 592,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256657688865447939,
+                "source_status_id_str": "1256657688865447939",
+                "source_user_id": 1173286608319188994,
+                "source_user_id_str": "1173286608319188994"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256657597027037185,
+                "id_str": "1256657597027037185",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256657597027037185/pu/img/vGixnA7OBXxbTExu.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256657597027037185/pu/img/vGixnA7OBXxbTExu.jpg",
+                "url": "https://t.co/G5rHjd32I8",
+                "display_url": "pic.twitter.com/G5rHjd32I8",
+                "expanded_url": "https://twitter.com/taekooksoIo/status/1256657688865447939/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 555,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 315,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 592,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256657688865447939,
+                "source_status_id_str": "1256657688865447939",
+                "source_user_id": 1173286608319188994,
+                "source_user_id_str": "1173286608319188994",
+                "video_info": {
+                    "aspect_ratio": [
+                        80,
+                        37
+                    ],
+                    "duration_millis": 33100,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256657597027037185/pu/vid/582x270/kb2UIGfT6FLznLk5.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256657597027037185/pu/pl/BdihyxKuufK-kPhe.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256657597027037185/pu/vid/1280x592/3joM2LKs28H5Nqh5.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256657597027037185/pu/vid/778x360/IS800EB8ZChWOJ6J.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 866572108318466048,
+        "id_str": "866572108318466048",
+        "name": "wayo\u2077 | \u2600\ud83d\udc30",
+        "screen_name": "taexbub",
+        "location": "",
+        "description": "BL | BTS | ANIME | TRUE BEAUTY",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 27,
+        "friends_count": 49,
+        "listed_count": 0,
+        "created_at": "Mon May 22 08:31:05 +0000 2017",
+        "favourites_count": 3154,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1331,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253718938141089803/5NEyQiEN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253718938141089803/5NEyQiEN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/866572108318466048/1579332283",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:07:49 +0000 2020",
+        "id": 1256661691183464449,
+        "id_str": "1256661691183464449",
+        "text": "Jeon jungkook and kim taehyung singing never not by lauv taekook we won \ud83d\ude2d\nhttps://t.co/G5rHjd32I8",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256657597027037185,
+                    "id_str": "1256657597027037185",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256657597027037185/pu/img/vGixnA7OBXxbTExu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256657597027037185/pu/img/vGixnA7OBXxbTExu.jpg",
+                    "url": "https://t.co/G5rHjd32I8",
+                    "display_url": "pic.twitter.com/G5rHjd32I8",
+                    "expanded_url": "https://twitter.com/taekooksoIo/status/1256657688865447939/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 555,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 315,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 592,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1256657688865447939,
+                    "source_status_id_str": "1256657688865447939",
+                    "source_user_id": 1173286608319188994,
+                    "source_user_id_str": "1173286608319188994"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256657597027037185,
+                    "id_str": "1256657597027037185",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256657597027037185/pu/img/vGixnA7OBXxbTExu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256657597027037185/pu/img/vGixnA7OBXxbTExu.jpg",
+                    "url": "https://t.co/G5rHjd32I8",
+                    "display_url": "pic.twitter.com/G5rHjd32I8",
+                    "expanded_url": "https://twitter.com/taekooksoIo/status/1256657688865447939/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 555,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 315,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 592,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1256657688865447939,
+                    "source_status_id_str": "1256657688865447939",
+                    "source_user_id": 1173286608319188994,
+                    "source_user_id_str": "1173286608319188994",
+                    "video_info": {
+                        "aspect_ratio": [
+                            80,
+                            37
+                        ],
+                        "duration_millis": 33100,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256657597027037185/pu/vid/582x270/kb2UIGfT6FLznLk5.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256657597027037185/pu/pl/BdihyxKuufK-kPhe.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256657597027037185/pu/vid/1280x592/3joM2LKs28H5Nqh5.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256657597027037185/pu/vid/778x360/IS800EB8ZChWOJ6J.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 904497616813137920,
+            "id_str": "904497616813137920",
+            "name": "JIRI\u2077 nsfr // FOLLOW LIMIT",
+            "screen_name": "stankings7",
+            "location": "\ud83c\uddf5\ud83c\udded ",
+            "description": "YOU ARE PRECIOUS, IMPORTANT, APPRECIATED AND LOVED // dm me if you need someone to talk with // OT7 BTS fan account // Backup @stanlegends07 //",
+            "url": "https://t.co/25Up2TZsSH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/25Up2TZsSH",
+                            "expanded_url": "https://curiouscat.me/stankings7",
+                            "display_url": "curiouscat.me/stankings7",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15905,
+            "friends_count": 11685,
+            "listed_count": 36,
+            "created_at": "Mon Sep 04 00:13:31 +0000 2017",
+            "favourites_count": 44496,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 54560,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254286339408707586/sXno7daO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254286339408707586/sXno7daO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/904497616813137920/1588067554",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1942,
+        "favorite_count": 5592,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1942,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,0 +1,213 @@
+{
+    "created_at": "Sun May 03 00:41:46 +0000 2020",
+    "id": 1256745731609604096,
+    "id_str": "1256745731609604096",
+    "text": "RT @cgBcUYtBTGx4fwd: #\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0 \n\u73fe\u5834\u306e\u533b\u5e2b\nPCR\u691c\u67fb\u306f\u7c21\u5358\u3067\u306f\u306a\u3044\n\n\u5009\u6301\u533b\u5e2b\n\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u51fa\u6765\u308b\u65bd\u8a2d\u3068\u8a2d\u5099\u304c\u3042\u308c\u3070PCR\u691c\u67fb\u306f\u51fa\u6765\u308b\n\n\u6c11\u9593\u306e\u691c\u67fb\u4f1a\u793e\u3082\n\u691c\u67fb\u306b\u5fc5\u8981\u306a\u85ac\u3084\u7dbf\u68d2\u3059\u3089\u8db3\u308a\u306a\u3044\u72b6\u614b\u3060\u3068\n\u5831\u90531930\u3067\u677e\u539f\u3068\u5ca1\u7530\u306f \n\u6c11\u9593\u306e\u691c\u67fb\u4f1a\u793e\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    21,
+                    31
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cgBcUYtBTGx4fwd",
+                "name": "ShiVaTa\u99c5\u524d",
+                "id": 1245874456024608768,
+                "id_str": "1245874456024608768",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 89049149,
+        "id_str": "89049149",
+        "name": "\u304c\u3093\u3068\u5171\u5b58\u4e2d, \u539f\u5b50\u529b\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u767a\u4ee4\u4e2d,\u9632\u707d,\u7bc0\u96fb,Z\uff81\uff6d\uff70\uff9d",
+        "screen_name": "Mutoh_Z",
+        "location": "\u8328\u57ce\u770c\u5357\u90e8(3/11\u66741m:0.07\u301c0.09\u03bcSv/h)",
+        "description": "Z\u30c1\u30e5\u30fc\u30f3\u3001\u96fb\u52d5\u30a2\u30b7\u30b9\u30c8\u81ea\u8ee2\u8eca\u3092\u542b\u3080\u8907\u6570\u306e\u84c4\u96fb\u578b\u30bd\u30fc\u30e9\u30fc\u30b7\u30b9\u30c6\u30e0\u3067\u7bc0\u96fb\u3084\u9632\u707d \u3001\u7bc0\u6cb9\u3057\u306a\u304c\u3089\u6e1b\u88ab\u66dd\u3082\u5b9f\u8df5\u4e2d\uff01\uff08\u653e\u5c04\u7dda\u304c\u767a\u304c\u3093\u306e\u30ea\u30b9\u30af\u56e0\u5b50\u306e\u4e00\u3064\u306e\u5f62\u8cea\u7d30\u80de\u816b(\u8840\u6db2\u304c\u3093)\u304c\u539f\u767a\u3067\u30bf\u30d0\u30b3\u3092\u5438\u308f\u306a\u3044\u306e\u3067\u5927\u5909\u73cd\u3057\u3044\u5589\u982d\u764c\u304c\u9996\u306e\u8907\u6570\u306e\u30ea\u30f3\u30d1\u306b\u8ee2\u79fb\u3057\u305f\u30b9\u30c6\u30fc\u30b84\u3068\u3057\u3066\u898b\u3064\u304b\u308a\u6297\u304c\u3093\u5264\u2192\u5e79\u7d30\u80de\u79fb\u690d\u2192\u9020\u8840\u505c\u6ede\u3067\u6cbb\u7642\u305b\u305a\u69d8\u5b50\u898b\u4e2d\uff01\uff09",
+        "url": "https://t.co/un4YPcHMWp",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/un4YPcHMWp",
+                        "expanded_url": "http://Z-Tune.jp",
+                        "display_url": "Z-Tune.jp",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 963,
+        "friends_count": 276,
+        "listed_count": 39,
+        "created_at": "Tue Nov 10 23:13:10 +0000 2009",
+        "favourites_count": 84225,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 299316,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637415173368614912/QPYHtr6y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637415173368614912/QPYHtr6y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89049149/1520485513",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:35:50 +0000 2020",
+        "id": 1256729140322947072,
+        "id_str": "1256729140322947072",
+        "text": "#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0 \n\u73fe\u5834\u306e\u533b\u5e2b\nPCR\u691c\u67fb\u306f\u7c21\u5358\u3067\u306f\u306a\u3044\n\n\u5009\u6301\u533b\u5e2b\n\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u51fa\u6765\u308b\u65bd\u8a2d\u3068\u8a2d\u5099\u304c\u3042\u308c\u3070PCR\u691c\u67fb\u306f\u51fa\u6765\u308b\n\n\u6c11\u9593\u306e\u691c\u67fb\u4f1a\u793e\u3082\n\u691c\u67fb\u306b\u5fc5\u8981\u306a\u85ac\u3084\u7dbf\u68d2\u3059\u3089\u8db3\u308a\u306a\u3044\u72b6\u614b\u3060\u3068\n\u5831\u90531930\u3067\u677e\u539f\u3068\u5ca1\u7530\u306f \n\u6c11\u9593\u306e\u691c\u2026 https://t.co/wQ5XzZG70C",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wQ5XzZG70C",
+                    "expanded_url": "https://twitter.com/i/web/status/1256729140322947072",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1245874456024608768,
+            "id_str": "1245874456024608768",
+            "name": "ShiVaTa\u99c5\u524d",
+            "screen_name": "cgBcUYtBTGx4fwd",
+            "location": "",
+            "description": "\u662d\u548c\u30b5\u30a6\u30ca\u3068\u30b5\u30a6\u30ca\u30b8\u30e3\u30f3\u30dc",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9,
+            "friends_count": 1,
+            "listed_count": 0,
+            "created_at": "Fri Apr 03 00:43:21 +0000 2020",
+            "favourites_count": 247,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 639,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255981119628963840/RjWLfMx0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255981119628963840/RjWLfMx0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245874456024608768/1588290263",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 32,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

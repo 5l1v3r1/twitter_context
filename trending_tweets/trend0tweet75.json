@@ -1,0 +1,96 @@
+{
+    "created_at": "Sun May 03 00:41:10 +0000 2020",
+    "id": 1256745581214654465,
+    "id_str": "1256745581214654465",
+    "text": "Jorge e Mateus matou e Xand t\u00e1 enterrando agora n\u00e9? \n\n#JeMBrahmaLive \n#SkolNoModoXandAviao",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    54,
+                    68
+                ]
+            },
+            {
+                "text": "SkolNoModoXandAviao",
+                "indices": [
+                    70,
+                    90
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 351927591,
+        "id_str": "351927591",
+        "name": "carol",
+        "screen_name": "_carolinalins",
+        "location": "",
+        "description": "n\u00e3o me leve a s\u00e9rio",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 556,
+        "friends_count": 223,
+        "listed_count": 2,
+        "created_at": "Tue Aug 09 22:34:28 +0000 2011",
+        "favourites_count": 7452,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24713,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256622540291702784/0o5QADhY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256622540291702784/0o5QADhY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/351927591/1588437136",
+        "profile_link_color": "9A26D4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "E062E0",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

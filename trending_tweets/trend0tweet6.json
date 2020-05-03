@@ -1,0 +1,367 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745922953961473,
+    "id_str": "1256745922953961473",
+    "text": "RT @diferentonabr: \"voc\u00ea vai chorar com todas as m\u00fasicas do jorge e mateus ???\"\n\neu:  \n#JeMBrahmaLive https://t.co/Z0x8FL1xAW",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    87,
+                    101
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diferentonabr",
+                "name": "Diferentona \ud83c\udfe1\ud83d\udc9b",
+                "id": 4696260698,
+                "id_str": "4696260698",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256693022475116547,
+                "id_str": "1256693022475116547",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCrpUxXYAM97jE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCrpUxXYAM97jE.jpg",
+                "url": "https://t.co/Z0x8FL1xAW",
+                "display_url": "pic.twitter.com/Z0x8FL1xAW",
+                "expanded_url": "https://twitter.com/diferentonabr/status/1256693028695224320/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 504,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 800,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256693028695224320,
+                "source_status_id_str": "1256693028695224320",
+                "source_user_id": 4696260698,
+                "source_user_id_str": "4696260698"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256693022475116547,
+                "id_str": "1256693022475116547",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCrpUxXYAM97jE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCrpUxXYAM97jE.jpg",
+                "url": "https://t.co/Z0x8FL1xAW",
+                "display_url": "pic.twitter.com/Z0x8FL1xAW",
+                "expanded_url": "https://twitter.com/diferentonabr/status/1256693028695224320/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 504,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 800,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256693028695224320,
+                "source_status_id_str": "1256693028695224320",
+                "source_user_id": 4696260698,
+                "source_user_id_str": "4696260698"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1209520599556595712,
+        "id_str": "1209520599556595712",
+        "name": "Xofana \ud83d\udc0d\ud83d\udcab",
+        "screen_name": "giiixxr",
+        "location": "Vinhedo, Brasil",
+        "description": "n\u00e3o me levem a s\u00e9rio kk",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 79,
+        "listed_count": 0,
+        "created_at": "Tue Dec 24 17:06:05 +0000 2019",
+        "favourites_count": 85,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255221939423109125/DvUXP5QK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255221939423109125/DvUXP5QK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209520599556595712/1588102640",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:12:20 +0000 2020",
+        "id": 1256693028695224320,
+        "id_str": "1256693028695224320",
+        "text": "\"voc\u00ea vai chorar com todas as m\u00fasicas do jorge e mateus ???\"\n\neu:  \n#JeMBrahmaLive https://t.co/Z0x8FL1xAW",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        68,
+                        82
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256693022475116547,
+                    "id_str": "1256693022475116547",
+                    "indices": [
+                        83,
+                        106
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCrpUxXYAM97jE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCrpUxXYAM97jE.jpg",
+                    "url": "https://t.co/Z0x8FL1xAW",
+                    "display_url": "pic.twitter.com/Z0x8FL1xAW",
+                    "expanded_url": "https://twitter.com/diferentonabr/status/1256693028695224320/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 504,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256693022475116547,
+                    "id_str": "1256693022475116547",
+                    "indices": [
+                        83,
+                        106
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCrpUxXYAM97jE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCrpUxXYAM97jE.jpg",
+                    "url": "https://t.co/Z0x8FL1xAW",
+                    "display_url": "pic.twitter.com/Z0x8FL1xAW",
+                    "expanded_url": "https://twitter.com/diferentonabr/status/1256693028695224320/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 504,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4696260698,
+            "id_str": "4696260698",
+            "name": "Diferentona \ud83c\udfe1\ud83d\udc9b",
+            "screen_name": "diferentonabr",
+            "location": "",
+            "description": "victor@diferentona.com",
+            "url": "https://t.co/FLMPKjjdUi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FLMPKjjdUi",
+                            "expanded_url": "https://instagram.com/diferentona",
+                            "display_url": "instagram.com/diferentona",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 173467,
+            "friends_count": 2427,
+            "listed_count": 196,
+            "created_at": "Sat Jan 02 13:22:17 +0000 2016",
+            "favourites_count": 14882,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 213,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254906421487054854/2TEnxE2C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254906421487054854/2TEnxE2C_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 228,
+        "favorite_count": 565,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 228,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

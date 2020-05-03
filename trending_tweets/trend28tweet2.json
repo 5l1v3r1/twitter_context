@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun May 03 00:43:02 +0000 2020",
+    "id": 1256746049236078592,
+    "id_str": "1256746049236078592",
+    "text": "Hello @OnAirRomeo\n@MostRequestLive, please play My Oh My by @Camila_Cabello ft @DaBabyDaBaby on #MostRequestedLive!! \ud83d\udd25\ud83d\udc83",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MostRequestedLive",
+                "indices": [
+                    96,
+                    114
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "OnAirRomeo",
+                "name": "On Air Romeo",
+                "id": 21590830,
+                "id_str": "21590830",
+                "indices": [
+                    6,
+                    17
+                ]
+            },
+            {
+                "screen_name": "MostRequestLive",
+                "name": "Most Requested Live",
+                "id": 108775893,
+                "id_str": "108775893",
+                "indices": [
+                    18,
+                    34
+                ]
+            },
+            {
+                "screen_name": "Camila_Cabello",
+                "name": "camila",
+                "id": 739784130,
+                "id_str": "739784130",
+                "indices": [
+                    60,
+                    75
+                ]
+            },
+            {
+                "screen_name": "DaBabyDaBaby",
+                "name": "DaBaby",
+                "id": 3004871415,
+                "id_str": "3004871415",
+                "indices": [
+                    79,
+                    92
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 695701965905518592,
+        "id_str": "695701965905518592",
+        "name": "mica loves camila",
+        "screen_name": "camilainloving",
+        "location": "camilizerlandia",
+        "description": "4/4 | in this house we stan the shark number #2 |  90% emo lyrics, 10% boludeces |       i saw shawn mendes | FAN ACCOUNT ||-//",
+        "url": "https://t.co/I7j6xuFQkY",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/I7j6xuFQkY",
+                        "expanded_url": "https://twitter.com/camilainloving/status/915767087905288197?s=19",
+                        "display_url": "twitter.com/camilainloving\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5356,
+        "friends_count": 993,
+        "listed_count": 95,
+        "created_at": "Fri Feb 05 20:14:09 +0000 2016",
+        "favourites_count": 65100,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 149232,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254279130172047360/I94Rcz_5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254279130172047360/I94Rcz_5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/695701965905518592/1587857405",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

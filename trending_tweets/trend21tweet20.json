@@ -1,0 +1,96 @@
+{
+    "created_at": "Sun May 03 00:42:40 +0000 2020",
+    "id": 1256745957540184065,
+    "id_str": "1256745957540184065",
+    "text": "Aww wey tin stonebwoy do u guys not 1 mpo hmm.....\n#AnlogaJunctionAlbum\n#3MusicAwards20",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AnlogaJunctionAlbum",
+                "indices": [
+                    51,
+                    71
+                ]
+            },
+            {
+                "text": "3MusicAwards20",
+                "indices": [
+                    72,
+                    87
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1092832404232916992,
+        "id_str": "1092832404232916992",
+        "name": "Nanaba Lytis",
+        "screen_name": "NLytis",
+        "location": "Kumasi",
+        "description": "Ma style",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 90,
+        "friends_count": 217,
+        "listed_count": 0,
+        "created_at": "Tue Feb 05 17:08:43 +0000 2019",
+        "favourites_count": 1777,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 185,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237723646963130368/UXS583jb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237723646963130368/UXS583jb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092832404232916992/1557393401",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

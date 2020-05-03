@@ -1,0 +1,192 @@
+{
+    "created_at": "Sun May 03 00:42:57 +0000 2020",
+    "id": 1256746032345559046,
+    "id_str": "1256746032345559046",
+    "text": "@dougoliverx #mansaodaspocs https://t.co/xfJ6lQt1Uz",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mansaodaspocs",
+                "indices": [
+                    13,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dougoliverx",
+                "name": "doug oliver",
+                "id": 709883764579635201,
+                "id_str": "709883764579635201",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256746021197094913,
+                "id_str": "1256746021197094913",
+                "indices": [
+                    28,
+                    51
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDb2QZWoAEHZwY.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDb2QZWoAEHZwY.jpg",
+                "url": "https://t.co/xfJ6lQt1Uz",
+                "display_url": "pic.twitter.com/xfJ6lQt1Uz",
+                "expanded_url": "https://twitter.com/CaioHudson18/status/1256746032345559046/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 220,
+                        "h": 186,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 220,
+                        "h": 186,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 220,
+                        "h": 186,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256746021197094913,
+                "id_str": "1256746021197094913",
+                "indices": [
+                    28,
+                    51
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDb2QZWoAEHZwY.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDb2QZWoAEHZwY.jpg",
+                "url": "https://t.co/xfJ6lQt1Uz",
+                "display_url": "pic.twitter.com/xfJ6lQt1Uz",
+                "expanded_url": "https://twitter.com/CaioHudson18/status/1256746032345559046/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "medium": {
+                        "w": 220,
+                        "h": 186,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 220,
+                        "h": 186,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 220,
+                        "h": 186,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        110,
+                        93
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDb2QZWoAEHZwY.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256745081735909382,
+    "in_reply_to_status_id_str": "1256745081735909382",
+    "in_reply_to_user_id": 709883764579635201,
+    "in_reply_to_user_id_str": "709883764579635201",
+    "in_reply_to_screen_name": "dougoliverx",
+    "user": {
+        "id": 1043723111051464704,
+        "id_str": "1043723111051464704",
+        "name": "Caio Del Rey",
+        "screen_name": "CaioHudson18",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 23,
+        "friends_count": 17,
+        "listed_count": 0,
+        "created_at": "Sun Sep 23 04:45:55 +0000 2018",
+        "favourites_count": 286,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 43,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256724143925575680/dAF31xU1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256724143925575680/dAF31xU1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1043723111051464704/1588461270",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

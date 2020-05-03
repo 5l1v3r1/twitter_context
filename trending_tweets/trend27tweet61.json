@@ -1,0 +1,187 @@
+{
+    "created_at": "Sun May 03 00:41:52 +0000 2020",
+    "id": 1256745756691660801,
+    "id_str": "1256745756691660801",
+    "text": "RT @noof43561: #\u0647\u0630\u0647_\u0627\u0644\u0633\u0646\u0647_\u0627\u0644\u0639\u064a\u062f_\u0641\u064a_\u0627\u0644\u0628\u064a\u062a \u0644\u0627 \u0625\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647 \u0628\u0646\u0639\u064a\u062f \u0645\u0639 \u0623\u0647\u0644\u0646\u0627\ud83d\ude45\ud83c\udffb\u200d\u2640\ufe0f",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u0647\u0630\u0647_\u0627\u0644\u0633\u0646\u0647_\u0627\u0644\u0639\u064a\u062f_\u0641\u064a_\u0627\u0644\u0628\u064a\u062a",
+                "indices": [
+                    15,
+                    40
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "noof43561",
+                "name": "noof4356",
+                "id": 1256742535545991178,
+                "id_str": "1256742535545991178",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ar",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1256742535545991178,
+        "id_str": "1256742535545991178",
+        "name": "noof4356",
+        "screen_name": "noof43561",
+        "location": "",
+        "description": "\u0645\u0627 \u0623\u0646\u062e\u0644\u0642 \u0645\u062b\u0644\u064a \u0634\u0628\u064a\u0647 \u0623\u0646\u0627 \u0643\u0644\u064a \u0641\u064a \u0647\u062f\u0648\u0626\u064a \u0641\u064a \u062c\u0646\u0648\u0646\u064a \u0641\u064a \u0635\u0641\u0627\u062a\u064a \u0645\u0639\u062c\u0632\u0629..\ud83d\udc9e",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Sun May 03 00:29:16 +0000 2020",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256742729947766786/T_hmM2v4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256742729947766786/T_hmM2v4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:37:38 +0000 2020",
+        "id": 1256744693079117825,
+        "id_str": "1256744693079117825",
+        "text": "#\u0647\u0630\u0647_\u0627\u0644\u0633\u0646\u0647_\u0627\u0644\u0639\u064a\u062f_\u0641\u064a_\u0627\u0644\u0628\u064a\u062a \u0644\u0627 \u0625\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647 \u0628\u0646\u0639\u064a\u062f \u0645\u0639 \u0623\u0647\u0644\u0646\u0627\ud83d\ude45\ud83c\udffb\u200d\u2640\ufe0f",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u0647\u0630\u0647_\u0627\u0644\u0633\u0646\u0647_\u0627\u0644\u0639\u064a\u062f_\u0641\u064a_\u0627\u0644\u0628\u064a\u062a",
+                    "indices": [
+                        0,
+                        25
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ar",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1256742535545991178,
+            "id_str": "1256742535545991178",
+            "name": "noof4356",
+            "screen_name": "noof43561",
+            "location": "",
+            "description": "\u0645\u0627 \u0623\u0646\u062e\u0644\u0642 \u0645\u062b\u0644\u064a \u0634\u0628\u064a\u0647 \u0623\u0646\u0627 \u0643\u0644\u064a \u0641\u064a \u0647\u062f\u0648\u0626\u064a \u0641\u064a \u062c\u0646\u0648\u0646\u064a \u0641\u064a \u0635\u0641\u0627\u062a\u064a \u0645\u0639\u062c\u0632\u0629..\ud83d\udc9e",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 0,
+            "listed_count": 0,
+            "created_at": "Sun May 03 00:29:16 +0000 2020",
+            "favourites_count": 2,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256742729947766786/T_hmM2v4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256742729947766786/T_hmM2v4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ar"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ar"
+}

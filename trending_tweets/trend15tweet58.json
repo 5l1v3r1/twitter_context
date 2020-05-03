@@ -1,0 +1,213 @@
+{
+    "created_at": "Sun May 03 00:42:16 +0000 2020",
+    "id": 1256745859238289412,
+    "id_str": "1256745859238289412",
+    "text": "RT @smmahmetdemir: #Bitlis\u2019te iftar vakti PKK\u2019l\u0131 hainlerin sald\u0131r\u0131s\u0131 sonucu \u015eehit olan kahramanlar\u0131m\u0131za Allah\u2019tan rahmet, ailelerine ba\u015fsa\u011f\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    19,
+                    26
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "smmahmetdemir",
+                "name": "Ahmet DEM\u0130R \ud83c\uddf9\ud83c\uddf7",
+                "id": 2233684031,
+                "id_str": "2233684031",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1221382214140809218,
+        "id_str": "1221382214140809218",
+        "name": "Osman G\u00fcne\u015f",
+        "screen_name": "OsmanGunestr",
+        "location": "",
+        "description": "Gelecek Partisi Ba\u011fc\u0131lar Mali ve \u0130dari \u0130\u015fler Ba\u015fkan\u0131\nUluslararas\u0131 Mazlumlar Derne\u011fi\n\nGenel Ba\u015fkan Yard\u0131mc\u0131s\u0131",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 86,
+        "friends_count": 40,
+        "listed_count": 0,
+        "created_at": "Sun Jan 26 10:39:59 +0000 2020",
+        "favourites_count": 288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 272,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243643674937999361/ZVj9i-La_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243643674937999361/ZVj9i-La_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221382214140809218/1585329156",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:41:35 +0000 2020",
+        "id": 1256715489126080516,
+        "id_str": "1256715489126080516",
+        "text": "#Bitlis\u2019te iftar vakti PKK\u2019l\u0131 hainlerin sald\u0131r\u0131s\u0131 sonucu \u015eehit olan kahramanlar\u0131m\u0131za Allah\u2019tan rahmet, ailelerine b\u2026 https://t.co/OC25Sk8M8L",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/OC25Sk8M8L",
+                    "expanded_url": "https://twitter.com/i/web/status/1256715489126080516",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2233684031,
+            "id_str": "2233684031",
+            "name": "Ahmet DEM\u0130R \ud83c\uddf9\ud83c\uddf7",
+            "screen_name": "smmahmetdemir",
+            "location": "Ba\u011fc\u0131lar, \u0130stanbul",
+            "description": "Gelecek Partisi Ba\u011fc\u0131lar Kurucu \u0130l\u00e7e Ba\u015fkan\u0131 | Serbest Muhasebeci Mali M\u00fc\u015favir | @bagcilargelecek",
+            "url": "https://t.co/LO6DlMAzTm",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LO6DlMAzTm",
+                            "expanded_url": "http://www.demirmuhasebe.net",
+                            "display_url": "demirmuhasebe.net",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1470,
+            "friends_count": 534,
+            "listed_count": 2,
+            "created_at": "Thu Dec 19 20:00:33 +0000 2013",
+            "favourites_count": 695,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 334,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1244679671238844418/rsfiOAcf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244679671238844418/rsfiOAcf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2233684031/1585391343",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

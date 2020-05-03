@@ -1,0 +1,387 @@
+{
+    "created_at": "Sun May 03 00:42:23 +0000 2020",
+    "id": 1256745888317390849,
+    "id_str": "1256745888317390849",
+    "text": "RT @NicoleAishah: @nbstv @FeffebussiMusic #NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL \n#NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    42,
+                    49
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    50,
+                    57
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    58,
+                    65
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    66,
+                    73
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    74,
+                    81
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    83,
+                    90
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    91,
+                    98
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    99,
+                    106
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    107,
+                    114
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    115,
+                    122
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    123,
+                    130
+                ]
+            },
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    131,
+                    138
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NicoleAishah",
+                "name": "Aishah Nicole",
+                "id": 1133083007332569094,
+                "id_str": "1133083007332569094",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "nbstv",
+                "name": "NBS Television",
+                "id": 344718893,
+                "id_str": "344718893",
+                "indices": [
+                    18,
+                    24
+                ]
+            },
+            {
+                "screen_name": "FeffebussiMusic",
+                "name": "Feffe Bussi Music",
+                "id": 885260692324065280,
+                "id_str": "885260692324065280",
+                "indices": [
+                    25,
+                    41
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1166403568003428359,
+        "id_str": "1166403568003428359",
+        "name": "Raymond Kabiswa",
+        "screen_name": "RaymK50",
+        "location": "Bulenga Wakiso",
+        "description": "arguments, debates ,battles n competitions make my day",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 105,
+        "listed_count": 0,
+        "created_at": "Tue Aug 27 17:34:26 +0000 2019",
+        "favourites_count": 1451,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1162,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248742676767428609/S1GHU_ZV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248742676767428609/S1GHU_ZV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166403568003428359/1588367900",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:08:26 +0000 2020",
+        "id": 1256737343446409216,
+        "id_str": "1256737343446409216",
+        "text": "@nbstv @FeffebussiMusic #NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL \n#NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL\n#NBSSNL\u2026 https://t.co/SSZvJOCXI9",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        24,
+                        31
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        32,
+                        39
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        40,
+                        47
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        48,
+                        55
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        56,
+                        63
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        65,
+                        72
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        73,
+                        80
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        81,
+                        88
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        89,
+                        96
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        97,
+                        104
+                    ]
+                },
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        105,
+                        112
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nbstv",
+                    "name": "NBS Television",
+                    "id": 344718893,
+                    "id_str": "344718893",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "screen_name": "FeffebussiMusic",
+                    "name": "Feffe Bussi Music",
+                    "id": 885260692324065280,
+                    "id_str": "885260692324065280",
+                    "indices": [
+                        7,
+                        23
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/SSZvJOCXI9",
+                    "expanded_url": "https://twitter.com/i/web/status/1256737343446409216",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        114,
+                        137
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1256735175985299458,
+        "in_reply_to_status_id_str": "1256735175985299458",
+        "in_reply_to_user_id": 344718893,
+        "in_reply_to_user_id_str": "344718893",
+        "in_reply_to_screen_name": "nbstv",
+        "user": {
+            "id": 1133083007332569094,
+            "id_str": "1133083007332569094",
+            "name": "Aishah Nicole",
+            "screen_name": "NicoleAishah",
+            "location": "",
+            "description": "my personality",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 207,
+            "friends_count": 408,
+            "listed_count": 0,
+            "created_at": "Mon May 27 18:50:15 +0000 2019",
+            "favourites_count": 1702,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 313,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1212786892552441857/3R5RG66P_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212786892552441857/3R5RG66P_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133083007332569094/1564403150",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

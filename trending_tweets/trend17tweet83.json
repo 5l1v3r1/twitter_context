@@ -1,0 +1,195 @@
+{
+    "created_at": "Sun May 03 00:41:51 +0000 2020",
+    "id": 1256745752568705025,
+    "id_str": "1256745752568705025",
+    "text": "RT @SeyhEdebali1: G\u00fcz ya\u011fmurlar\u0131ndan ka\u00e7abildi\u011fin kadar ka\u00e7; \n\u00c7\u00fcnk\u00fc g\u00fcz ya\u011fmuru yapraklar\u0131 d\u00f6kt\u00fc\u011f\u00fc gibi, seni de hasta eder; \n* \nAma bahar\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SeyhEdebali1",
+                "name": "\u015eeyh Edebali",
+                "id": 903432832386813955,
+                "id_str": "903432832386813955",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 708651757954531328,
+        "id_str": "708651757954531328",
+        "name": "\u0131brhm",
+        "screen_name": "yorulmzibrahim",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 416,
+        "friends_count": 525,
+        "listed_count": 0,
+        "created_at": "Sat Mar 12 13:52:00 +0000 2016",
+        "favourites_count": 54290,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12429,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152096132497051648/VdXdDCqI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152096132497051648/VdXdDCqI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:38:23 +0000 2020",
+        "id": 1256699583352225792,
+        "id_str": "1256699583352225792",
+        "text": "G\u00fcz ya\u011fmurlar\u0131ndan ka\u00e7abildi\u011fin kadar ka\u00e7; \n\u00c7\u00fcnk\u00fc g\u00fcz ya\u011fmuru yapraklar\u0131 d\u00f6kt\u00fc\u011f\u00fc gibi, seni de hasta eder; \n* \nAma\u2026 https://t.co/pGZuhUyQkW",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pGZuhUyQkW",
+                    "expanded_url": "https://twitter.com/i/web/status/1256699583352225792",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 903432832386813955,
+            "id_str": "903432832386813955",
+            "name": "\u015eeyh Edebali",
+            "screen_name": "SeyhEdebali1",
+            "location": "",
+            "description": "Bu hesap #Osmanl\u0131 n\u0131n mimari #OsmanGazi nin kay\u0131n babas\u0131, #ErtugrulGazi nin ak\u0131l hocas\u0131, #\u015eeyhEdebali yi tan\u0131tmak i\u00e7in gayri resmi a\u00e7\u0131lm\u0131\u015ft\u0131r #Ottoman",
+            "url": "https://t.co/2lO1TkqQjY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2lO1TkqQjY",
+                            "expanded_url": "https://instagram.com/seyhedebali1",
+                            "display_url": "instagram.com/seyhedebali1",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 232493,
+            "friends_count": 151557,
+            "listed_count": 159,
+            "created_at": "Fri Sep 01 01:42:27 +0000 2017",
+            "favourites_count": 152,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 921,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/903438962823503872/5WSOG9T8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/903438962823503872/5WSOG9T8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/903432832386813955/1518711771",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 434,
+        "favorite_count": 2986,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 434,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

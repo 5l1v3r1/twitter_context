@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:41:12 +0000 2020",
+    "id": 1256745589062144001,
+    "id_str": "1256745589062144001",
+    "text": "RT @EdebiyatResmi: ''\u00c7ocuklar\u0131n \u00f6ld\u00fcr\u00fcld\u00fc\u011f\u00fc yerde kimse masum olamaz.''  \n- Turgut Uyar\n\n #KopsunK\u0131yamet https://t.co/wtmdg0wrS4",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KopsunK\u0131yamet",
+                "indices": [
+                    90,
+                    104
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EdebiyatResmi",
+                "name": "Edebiyat\u0131n Resmi",
+                "id": 1123501533696598016,
+                "id_str": "1123501533696598016",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256528714902507520,
+                "id_str": "1256528714902507520",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXAWNXXXkAAaxZ4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXAWNXXXkAAaxZ4.jpg",
+                "url": "https://t.co/wtmdg0wrS4",
+                "display_url": "pic.twitter.com/wtmdg0wrS4",
+                "expanded_url": "https://twitter.com/EdebiyatResmi/status/1256528717536464896/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 449,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 681,
+                        "h": 450,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 681,
+                        "h": 450,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256528717536464896,
+                "source_status_id_str": "1256528717536464896",
+                "source_user_id": 1123501533696598016,
+                "source_user_id_str": "1123501533696598016"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256528714902507520,
+                "id_str": "1256528714902507520",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXAWNXXXkAAaxZ4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXAWNXXXkAAaxZ4.jpg",
+                "url": "https://t.co/wtmdg0wrS4",
+                "display_url": "pic.twitter.com/wtmdg0wrS4",
+                "expanded_url": "https://twitter.com/EdebiyatResmi/status/1256528717536464896/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 449,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 681,
+                        "h": 450,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 681,
+                        "h": 450,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256528717536464896,
+                "source_status_id_str": "1256528717536464896",
+                "source_user_id": 1123501533696598016,
+                "source_user_id_str": "1123501533696598016"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 995188670,
+        "id_str": "995188670",
+        "name": "irem ama tuti olan",
+        "screen_name": "iroosssss",
+        "location": "MAN\u0130SA",
+        "description": "BE\u015e\u0130KTA\u015e",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 967,
+        "friends_count": 801,
+        "listed_count": 0,
+        "created_at": "Fri Dec 07 14:34:01 +0000 2012",
+        "favourites_count": 23916,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3353,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B56E1C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254566698956488706/lyuWgo9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254566698956488706/lyuWgo9a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/995188670/1565301126",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "D1B4EA",
+        "profile_sidebar_fill_color": "A682C2",
+        "profile_text_color": "5C050E",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 10:19:26 +0000 2020",
+        "id": 1256528717536464896,
+        "id_str": "1256528717536464896",
+        "text": "''\u00c7ocuklar\u0131n \u00f6ld\u00fcr\u00fcld\u00fc\u011f\u00fc yerde kimse masum olamaz.''  \n- Turgut Uyar\n\n #KopsunK\u0131yamet https://t.co/wtmdg0wrS4",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KopsunK\u0131yamet",
+                    "indices": [
+                        71,
+                        85
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256528714902507520,
+                    "id_str": "1256528714902507520",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXAWNXXXkAAaxZ4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXAWNXXXkAAaxZ4.jpg",
+                    "url": "https://t.co/wtmdg0wrS4",
+                    "display_url": "pic.twitter.com/wtmdg0wrS4",
+                    "expanded_url": "https://twitter.com/EdebiyatResmi/status/1256528717536464896/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 449,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 681,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 681,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256528714902507520,
+                    "id_str": "1256528714902507520",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXAWNXXXkAAaxZ4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXAWNXXXkAAaxZ4.jpg",
+                    "url": "https://t.co/wtmdg0wrS4",
+                    "display_url": "pic.twitter.com/wtmdg0wrS4",
+                    "expanded_url": "https://twitter.com/EdebiyatResmi/status/1256528717536464896/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 449,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 681,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 681,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1123501533696598016,
+            "id_str": "1123501533696598016",
+            "name": "Edebiyat\u0131n Resmi",
+            "screen_name": "EdebiyatResmi",
+            "location": "",
+            "description": "Hi\u00e7bir siyasi g\u00f6r\u00fc\u015f bildirmez",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 838,
+            "friends_count": 36,
+            "listed_count": 0,
+            "created_at": "Wed May 01 08:16:54 +0000 2019",
+            "favourites_count": 238,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 90,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251304124764864516/cTwtOs08_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251304124764864516/cTwtOs08_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1123501533696598016/1587172143",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 431,
+        "favorite_count": 2658,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 431,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

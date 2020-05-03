@@ -1,0 +1,285 @@
+{
+    "created_at": "Sun May 03 00:43:06 +0000 2020",
+    "id": 1256746068995432449,
+    "id_str": "1256746068995432449",
+    "text": "TE AMAMOS FELIPE PRIOR #mansaodaspocs #followtrick #KCA2020 https://t.co/AvJJl26mOh",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mansaodaspocs",
+                "indices": [
+                    23,
+                    37
+                ]
+            },
+            {
+                "text": "followtrick",
+                "indices": [
+                    38,
+                    50
+                ]
+            },
+            {
+                "text": "KCA2020",
+                "indices": [
+                    51,
+                    59
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1252751800349925381,
+                "id_str": "1252751800349925381",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252751800349925381/pu/img/wIl-bvvy4xR0gFx5.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252751800349925381/pu/img/wIl-bvvy4xR0gFx5.jpg",
+                "url": "https://t.co/AvJJl26mOh",
+                "display_url": "pic.twitter.com/AvJJl26mOh",
+                "expanded_url": "https://twitter.com/jeonrlips/status/1252751865525174273/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 320,
+                        "h": 564,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 320,
+                        "h": 564,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 320,
+                        "h": 564,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1252751865525174273,
+                "source_status_id_str": "1252751865525174273",
+                "source_user_id": 1117769415884517377,
+                "source_user_id_str": "1117769415884517377"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1252751800349925381,
+                "id_str": "1252751800349925381",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252751800349925381/pu/img/wIl-bvvy4xR0gFx5.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252751800349925381/pu/img/wIl-bvvy4xR0gFx5.jpg",
+                "url": "https://t.co/AvJJl26mOh",
+                "display_url": "pic.twitter.com/AvJJl26mOh",
+                "expanded_url": "https://twitter.com/jeonrlips/status/1252751865525174273/video/1",
+                "type": "video",
+                "sizes": {
+                    "medium": {
+                        "w": 320,
+                        "h": 564,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 320,
+                        "h": 564,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 320,
+                        "h": 564,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1252751865525174273,
+                "source_status_id_str": "1252751865525174273",
+                "source_user_id": 1117769415884517377,
+                "source_user_id_str": "1117769415884517377",
+                "video_info": {
+                    "aspect_ratio": [
+                        80,
+                        141
+                    ],
+                    "duration_millis": 64823,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1252751800349925381/pu/vid/320x564/Lydd511hx97vYYWz.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1252751800349925381/pu/pl/hu0ntNviINLYP1ck.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1117769415884517377,
+                        "id_str": "1117769415884517377",
+                        "name": "mundinho jeongguk br",
+                        "screen_name": "jeonrlips",
+                        "location": "bts & bp & idle.",
+                        "description": "",
+                        "url": "https://t.co/7TlRCe67jd",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/7TlRCe67jd",
+                                        "expanded_url": "https://curiouscat.me/euphoriaw",
+                                        "display_url": "curiouscat.me/euphoriaw",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 2447,
+                        "friends_count": 2442,
+                        "listed_count": 12,
+                        "created_at": "Mon Apr 15 12:39:30 +0000 2019",
+                        "favourites_count": 12304,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 17387,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1255677837937389568/6EYMp0qo_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255677837937389568/6EYMp0qo_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117769415884517377/1588268896",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1117769415884517377,
+        "id_str": "1117769415884517377",
+        "name": "mundinho jeongguk br",
+        "screen_name": "jeonrlips",
+        "location": "bts & bp & idle.",
+        "description": "",
+        "url": "https://t.co/7TlRCe67jd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7TlRCe67jd",
+                        "expanded_url": "https://curiouscat.me/euphoriaw",
+                        "display_url": "curiouscat.me/euphoriaw",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2447,
+        "friends_count": 2442,
+        "listed_count": 12,
+        "created_at": "Mon Apr 15 12:39:30 +0000 2019",
+        "favourites_count": 12304,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17387,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255677837937389568/6EYMp0qo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255677837937389568/6EYMp0qo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117769415884517377/1588268896",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

@@ -1,0 +1,411 @@
+{
+    "created_at": "Sun May 03 00:42:01 +0000 2020",
+    "id": 1256745797502357507,
+    "id_str": "1256745797502357507",
+    "text": "RT @Art29CNA: \u00bf #TodosContraLaMentiraM ???\n\n\u00bfQu\u00e9 hay de esto??? Y despu\u00e9s nos dicen que la justicia de AHORA es \"independiente\".\n\nS\u00ed, c\u00f3mo\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TodosContraLaMentiraM",
+                "indices": [
+                    16,
+                    38
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Art29CNA",
+                "name": "ArCecilia",
+                "id": 991421934,
+                "id_str": "991421934",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1185349820631932928,
+        "id_str": "1185349820631932928",
+        "name": "Cristian",
+        "screen_name": "Cristia84040414",
+        "location": "Argentino",
+        "description": "Banco al presidente republicano Mauricio Macri. No a la dictadura ni al amedrentamiento estatal q no acepta voces disidentes.Por la Libertad siempre!Censura No.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1004,
+        "friends_count": 1361,
+        "listed_count": 0,
+        "created_at": "Sat Oct 19 00:20:05 +0000 2019",
+        "favourites_count": 10432,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16910,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185352662373621765/BjqsZve4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185352662373621765/BjqsZve4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:22:45 +0000 2020",
+        "id": 1256740948895244288,
+        "id_str": "1256740948895244288",
+        "text": "\u00bf #TodosContraLaMentiraM ???\n\n\u00bfQu\u00e9 hay de esto??? Y despu\u00e9s nos dicen que la justicia de AHORA es \"independiente\".\u2026 https://t.co/KQSAjFzDOB",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        2,
+                        24
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KQSAjFzDOB",
+                    "expanded_url": "https://twitter.com/i/web/status/1256740948895244288",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 991421934,
+            "id_str": "991421934",
+            "name": "ArCecilia",
+            "screen_name": "Art29CNA",
+            "location": "",
+            "description": "De alpargatazo f\u00e1cil, no me banco los atropellos, ni la sedici\u00f3n ni el golpismo. \nConstitucionalista y republicana, a mucha honra.\nCerebros de arena, abstenerse",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3042,
+            "friends_count": 1646,
+            "listed_count": 14,
+            "created_at": "Wed Dec 05 17:42:23 +0000 2012",
+            "favourites_count": 36454,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 155040,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2936426204/cd19ce2ad1609ffbb794ac65fd9f5671_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2936426204/cd19ce2ad1609ffbb794ac65fd9f5671_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/991421934/1375195647",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256737762969034755,
+        "quoted_status_id_str": "1256737762969034755",
+        "quoted_status": {
+            "created_at": "Sun May 03 00:10:06 +0000 2020",
+            "id": 1256737762969034755,
+            "id_str": "1256737762969034755",
+            "text": "MEMORIA, CFK a Parrilli: \"Hay que salir a apretar a los jueces\"... https://t.co/E3X8u5Wfli",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1256737710624198657,
+                        "id_str": "1256737710624198657",
+                        "indices": [
+                            67,
+                            90
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256737710624198657/pu/img/SBBMHYPafo8XPRgM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256737710624198657/pu/img/SBBMHYPafo8XPRgM.jpg",
+                        "url": "https://t.co/E3X8u5Wfli",
+                        "display_url": "pic.twitter.com/E3X8u5Wfli",
+                        "expanded_url": "https://twitter.com/danilerer/status/1256737762969034755/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 640,
+                                "h": 348,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 348,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 348,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1256737710624198657,
+                        "id_str": "1256737710624198657",
+                        "indices": [
+                            67,
+                            90
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256737710624198657/pu/img/SBBMHYPafo8XPRgM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256737710624198657/pu/img/SBBMHYPafo8XPRgM.jpg",
+                        "url": "https://t.co/E3X8u5Wfli",
+                        "display_url": "pic.twitter.com/E3X8u5Wfli",
+                        "expanded_url": "https://twitter.com/danilerer/status/1256737762969034755/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "large": {
+                                "w": 640,
+                                "h": 348,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 348,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 348,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                160,
+                                87
+                            ],
+                            "duration_millis": 17667,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1256737710624198657/pu/vid/496x270/NAdB3lZeSZc8IWYV.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1256737710624198657/pu/pl/g0VI67-XTf3y75US.m3u8?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1256737710624198657/pu/vid/640x348/AWOkshh2YdMxG3Zu.mp4?tag=10"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 52772832,
+                "id_str": "52772832",
+                "name": "Dani Lerer",
+                "screen_name": "danilerer",
+                "location": "",
+                "description": "Nuestro desaf\u00edo es terminar con la impunidad y recuperar lo robado.\nLuchando contra la Judeofobia.\nhttps://t.co/Gvxor38htk",
+                "url": "https://t.co/tsoPl50gGV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/tsoPl50gGV",
+                                "expanded_url": "https://www.instagram.com/dani.lerer/",
+                                "display_url": "instagram.com/dani.lerer/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Gvxor38htk",
+                                "expanded_url": "https://www.facebook.com/Dani-Lerer-112002570389616/",
+                                "display_url": "facebook.com/Dani-Lerer-112\u2026",
+                                "indices": [
+                                    99,
+                                    122
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 17208,
+                "friends_count": 832,
+                "listed_count": 76,
+                "created_at": "Wed Jul 01 16:30:48 +0000 2009",
+                "favourites_count": 121650,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 25612,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/589114107669811201/XJ_o2HL__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/589114107669811201/XJ_o2HL__normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 45,
+            "favorite_count": 39,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 6,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256737762969034755,
+    "quoted_status_id_str": "1256737762969034755",
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

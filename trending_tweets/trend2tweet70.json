@@ -1,0 +1,500 @@
+{
+    "created_at": "Sun May 03 00:42:33 +0000 2020",
+    "id": 1256745929912320000,
+    "id_str": "1256745929912320000",
+    "text": "RT @uzunabdurrahman: R\u00fck\u00fb d\u0131\u015f\u0131nda e\u011filmeyecek ba\u015flar burada m\u0131?\n#BuYoldanD\u00f6nmeyece\u011fiz https://t.co/z0mUvhaybk",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    64,
+                    85
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "uzunabdurrahman",
+                "name": "Abdurrahman Uzun",
+                "id": 252280359,
+                "id_str": "252280359",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256680304472920071,
+                "id_str": "1256680304472920071",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256680304472920071/pu/img/9Ufh29GpAEUa3qAw.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256680304472920071/pu/img/9Ufh29GpAEUa3qAw.jpg",
+                "url": "https://t.co/z0mUvhaybk",
+                "display_url": "pic.twitter.com/z0mUvhaybk",
+                "expanded_url": "https://twitter.com/uzunabdurrahman/status/1256680549873258497/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256680549873258497,
+                "source_status_id_str": "1256680549873258497",
+                "source_user_id": 252280359,
+                "source_user_id_str": "252280359"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256680304472920071,
+                "id_str": "1256680304472920071",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256680304472920071/pu/img/9Ufh29GpAEUa3qAw.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256680304472920071/pu/img/9Ufh29GpAEUa3qAw.jpg",
+                "url": "https://t.co/z0mUvhaybk",
+                "display_url": "pic.twitter.com/z0mUvhaybk",
+                "expanded_url": "https://twitter.com/uzunabdurrahman/status/1256680549873258497/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256680549873258497,
+                "source_status_id_str": "1256680549873258497",
+                "source_user_id": 252280359,
+                "source_user_id_str": "252280359",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 39188,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256680304472920071/pu/vid/640x360/YhxcaM3xiaea0FNh.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256680304472920071/pu/vid/480x270/IWt5BYKk5s_Ga6aQ.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256680304472920071/pu/pl/xXrnk6OihM3m0ZPm.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 252280359,
+                        "id_str": "252280359",
+                        "name": "Abdurrahman Uzun",
+                        "screen_name": "uzunabdurrahman",
+                        "location": "\u0130stanbul, T\u00fcrkiye",
+                        "description": "\ud83d\udd17@TurkiyeHaberM Genel Yay\u0131n Y\u00f6netmeni | Dertli Bir Anadolu Evlad\u0131 | Ara\u015ft\u0131rmac\u0131 | Gazeteci | Program Yap\u0131mc\u0131s\u0131 | \ud83d\udcf8https://t.co/wsPbGSOY2l | \ud83d\udccc@UzerMedya",
+                        "url": "https://t.co/QfVRct4kYA",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/QfVRct4kYA",
+                                        "expanded_url": "http://abdurrahmanuzun.com/",
+                                        "display_url": "abdurrahmanuzun.com",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/wsPbGSOY2l",
+                                        "expanded_url": "http://instagram.com/abdurrahmanuzun",
+                                        "display_url": "instagram.com/abdurrahmanuzun",
+                                        "indices": [
+                                            114,
+                                            137
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 218074,
+                        "friends_count": 1424,
+                        "listed_count": 235,
+                        "created_at": "Mon Feb 14 21:42:14 +0000 2011",
+                        "favourites_count": 26951,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 8832,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1053530040590393345/sdklBnH2_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053530040590393345/sdklBnH2_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/252280359/1524739396",
+                        "profile_link_color": "27BABA",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1248747768866357249,
+        "id_str": "1248747768866357249",
+        "name": "Sancak",
+        "screen_name": "Sancak94208526",
+        "location": "",
+        "description": "Do\u011fruyol",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 162,
+        "friends_count": 165,
+        "listed_count": 0,
+        "created_at": "Fri Apr 10 23:01:12 +0000 2020",
+        "favourites_count": 1742,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2049,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249116265127559169/nxOMABZ5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249116265127559169/nxOMABZ5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:22:45 +0000 2020",
+        "id": 1256680549873258497,
+        "id_str": "1256680549873258497",
+        "text": "R\u00fck\u00fb d\u0131\u015f\u0131nda e\u011filmeyecek ba\u015flar burada m\u0131?\n#BuYoldanD\u00f6nmeyece\u011fiz https://t.co/z0mUvhaybk",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        43,
+                        64
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256680304472920071,
+                    "id_str": "1256680304472920071",
+                    "indices": [
+                        65,
+                        88
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256680304472920071/pu/img/9Ufh29GpAEUa3qAw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256680304472920071/pu/img/9Ufh29GpAEUa3qAw.jpg",
+                    "url": "https://t.co/z0mUvhaybk",
+                    "display_url": "pic.twitter.com/z0mUvhaybk",
+                    "expanded_url": "https://twitter.com/uzunabdurrahman/status/1256680549873258497/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256680304472920071,
+                    "id_str": "1256680304472920071",
+                    "indices": [
+                        65,
+                        88
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256680304472920071/pu/img/9Ufh29GpAEUa3qAw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256680304472920071/pu/img/9Ufh29GpAEUa3qAw.jpg",
+                    "url": "https://t.co/z0mUvhaybk",
+                    "display_url": "pic.twitter.com/z0mUvhaybk",
+                    "expanded_url": "https://twitter.com/uzunabdurrahman/status/1256680549873258497/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 39188,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256680304472920071/pu/vid/640x360/YhxcaM3xiaea0FNh.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256680304472920071/pu/vid/480x270/IWt5BYKk5s_Ga6aQ.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256680304472920071/pu/pl/xXrnk6OihM3m0ZPm.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 252280359,
+            "id_str": "252280359",
+            "name": "Abdurrahman Uzun",
+            "screen_name": "uzunabdurrahman",
+            "location": "\u0130stanbul, T\u00fcrkiye",
+            "description": "\ud83d\udd17@TurkiyeHaberM Genel Yay\u0131n Y\u00f6netmeni | Dertli Bir Anadolu Evlad\u0131 | Ara\u015ft\u0131rmac\u0131 | Gazeteci | Program Yap\u0131mc\u0131s\u0131 | \ud83d\udcf8https://t.co/wsPbGSOY2l | \ud83d\udccc@UzerMedya",
+            "url": "https://t.co/QfVRct4kYA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/QfVRct4kYA",
+                            "expanded_url": "http://abdurrahmanuzun.com/",
+                            "display_url": "abdurrahmanuzun.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wsPbGSOY2l",
+                            "expanded_url": "http://instagram.com/abdurrahmanuzun",
+                            "display_url": "instagram.com/abdurrahmanuzun",
+                            "indices": [
+                                114,
+                                137
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 218074,
+            "friends_count": 1424,
+            "listed_count": 235,
+            "created_at": "Mon Feb 14 21:42:14 +0000 2011",
+            "favourites_count": 26951,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 8832,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1053530040590393345/sdklBnH2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053530040590393345/sdklBnH2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/252280359/1524739396",
+            "profile_link_color": "27BABA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1782,
+        "favorite_count": 8992,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1782,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

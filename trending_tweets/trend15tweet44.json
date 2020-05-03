@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:42:22 +0000 2020",
+    "id": 1256745884353564673,
+    "id_str": "1256745884353564673",
+    "text": "RT @suleymanarslan_: \u0130ftar vakti hain ter\u00f6ristlerin sald\u0131r\u0131s\u0131 sonucu #Bitlis\u2019te \u015fehit olan askerlerimize Allah\u2019tan rahmet, yaral\u0131 askerleri\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    69,
+                    76
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "suleymanarslan_",
+                "name": "S\u00fcleyman Arslan",
+                "id": 521494559,
+                "id_str": "521494559",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 789396896833949702,
+        "id_str": "789396896833949702",
+        "name": "Yama\u00e7",
+        "screen_name": "yamacofficial",
+        "location": "Akdeniz",
+        "description": "Hayat\u0131 bir korsan gibi ya\u015famak varken neden yanl\u0131\u015f yollara sapar insan...?",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 65781,
+        "friends_count": 11139,
+        "listed_count": 35,
+        "created_at": "Fri Oct 21 09:24:21 +0000 2016",
+        "favourites_count": 20063,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1012,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072912234924396544/PKEtoxHe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072912234924396544/PKEtoxHe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789396896833949702/1544637186",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:20:15 +0000 2020",
+        "id": 1256740316268441611,
+        "id_str": "1256740316268441611",
+        "text": "\u0130ftar vakti hain ter\u00f6ristlerin sald\u0131r\u0131s\u0131 sonucu #Bitlis\u2019te \u015fehit olan askerlerimize Allah\u2019tan rahmet, yaral\u0131 askerl\u2026 https://t.co/JXPB3zJlSF",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        48,
+                        55
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JXPB3zJlSF",
+                    "expanded_url": "https://twitter.com/i/web/status/1256740316268441611",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 521494559,
+            "id_str": "521494559",
+            "name": "S\u00fcleyman Arslan",
+            "screen_name": "suleymanarslan_",
+            "location": "Ankara, T\u00fcrkiye",
+            "description": "T\u00fcrkiye \u0130nsan Haklar\u0131 ve E\u015fitlik Kurumu (T\u0130HEK) Ba\u015fkan\u0131/The Chairman of Human Rights and Equality Institution of Turkey",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4731,
+            "friends_count": 652,
+            "listed_count": 7,
+            "created_at": "Sun Mar 11 17:17:17 +0000 2012",
+            "favourites_count": 867,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1125,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1031630265725145088/s7o3Ozj8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031630265725145088/s7o3Ozj8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/521494559/1583961987",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

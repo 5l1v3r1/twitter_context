@@ -1,0 +1,481 @@
+{
+    "created_at": "Sun May 03 00:42:40 +0000 2020",
+    "id": 1256745958722940928,
+    "id_str": "1256745958722940928",
+    "text": "RT @mehmetay01: Ey zaman, ey tarih \u015fahitsin \n\n#BuYoldanD\u00f6nmeyece\u011fiz https://t.co/MYe8WvWa0D",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    46,
+                    67
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mehmetay01",
+                "name": "Mehmet Ay",
+                "id": 173102878,
+                "id_str": "173102878",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256690845417381888,
+                "id_str": "1256690845417381888",
+                "indices": [
+                    68,
+                    91
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256690845417381888/pu/img/b0rVooJK-WdTyZgN.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256690845417381888/pu/img/b0rVooJK-WdTyZgN.jpg",
+                "url": "https://t.co/MYe8WvWa0D",
+                "display_url": "pic.twitter.com/MYe8WvWa0D",
+                "expanded_url": "https://twitter.com/mehmetay01/status/1256690957791236096/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256690957791236096,
+                "source_status_id_str": "1256690957791236096",
+                "source_user_id": 173102878,
+                "source_user_id_str": "173102878"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256690845417381888,
+                "id_str": "1256690845417381888",
+                "indices": [
+                    68,
+                    91
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256690845417381888/pu/img/b0rVooJK-WdTyZgN.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256690845417381888/pu/img/b0rVooJK-WdTyZgN.jpg",
+                "url": "https://t.co/MYe8WvWa0D",
+                "display_url": "pic.twitter.com/MYe8WvWa0D",
+                "expanded_url": "https://twitter.com/mehmetay01/status/1256690957791236096/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256690957791236096,
+                "source_status_id_str": "1256690957791236096",
+                "source_user_id": 173102878,
+                "source_user_id_str": "173102878",
+                "video_info": {
+                    "aspect_ratio": [
+                        20,
+                        11
+                    ],
+                    "duration_millis": 130047,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256690845417381888/pu/vid/640x352/ohz6vXT0T7C4DW1p.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256690845417381888/pu/pl/ir_7u66Ac2md0lVZ.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256690845417381888/pu/vid/490x270/Ga399CehoUKJLnbc.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 173102878,
+                        "id_str": "173102878",
+                        "name": "Mehmet Ay",
+                        "screen_name": "mehmetay01",
+                        "location": "Adana ",
+                        "description": "AK Parti Adana \u0130l Ba\u015fkan\u0131",
+                        "url": "https://t.co/dhRHppb9kn",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/dhRHppb9kn",
+                                        "expanded_url": "http://www.akparti.org.tr",
+                                        "display_url": "akparti.org.tr",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 15492,
+                        "friends_count": 697,
+                        "listed_count": 8,
+                        "created_at": "Sat Jul 31 12:49:23 +0000 2010",
+                        "favourites_count": 881,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 7510,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "C0DEED",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1232652082261483520/lYMvDxSh_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232652082261483520/lYMvDxSh_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/173102878/1581785284",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3082949482,
+        "id_str": "3082949482",
+        "name": "cenker Y\u00fccel",
+        "screen_name": "uzman2008",
+        "location": "Adana, T\u00fcrkiye",
+        "description": ",B S\u0131n\u0131f\u0131 \u0130SG uzman\u0131,RTE \ud83c\uddf9\ud83c\uddf7AFAD G\u00d6N\u00dcLL\u00dc",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4546,
+        "friends_count": 4693,
+        "listed_count": 0,
+        "created_at": "Tue Mar 10 01:05:18 +0000 2015",
+        "favourites_count": 6301,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17862,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072359999907786753/di5QMNcb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072359999907786753/di5QMNcb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3082949482/1547962451",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:04:07 +0000 2020",
+        "id": 1256690957791236096,
+        "id_str": "1256690957791236096",
+        "text": "Ey zaman, ey tarih \u015fahitsin \n\n#BuYoldanD\u00f6nmeyece\u011fiz https://t.co/MYe8WvWa0D",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        30,
+                        51
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256690845417381888,
+                    "id_str": "1256690845417381888",
+                    "indices": [
+                        52,
+                        75
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256690845417381888/pu/img/b0rVooJK-WdTyZgN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256690845417381888/pu/img/b0rVooJK-WdTyZgN.jpg",
+                    "url": "https://t.co/MYe8WvWa0D",
+                    "display_url": "pic.twitter.com/MYe8WvWa0D",
+                    "expanded_url": "https://twitter.com/mehmetay01/status/1256690957791236096/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256690845417381888,
+                    "id_str": "1256690845417381888",
+                    "indices": [
+                        52,
+                        75
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256690845417381888/pu/img/b0rVooJK-WdTyZgN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256690845417381888/pu/img/b0rVooJK-WdTyZgN.jpg",
+                    "url": "https://t.co/MYe8WvWa0D",
+                    "display_url": "pic.twitter.com/MYe8WvWa0D",
+                    "expanded_url": "https://twitter.com/mehmetay01/status/1256690957791236096/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            20,
+                            11
+                        ],
+                        "duration_millis": 130047,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256690845417381888/pu/vid/640x352/ohz6vXT0T7C4DW1p.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256690845417381888/pu/pl/ir_7u66Ac2md0lVZ.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256690845417381888/pu/vid/490x270/Ga399CehoUKJLnbc.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 173102878,
+            "id_str": "173102878",
+            "name": "Mehmet Ay",
+            "screen_name": "mehmetay01",
+            "location": "Adana ",
+            "description": "AK Parti Adana \u0130l Ba\u015fkan\u0131",
+            "url": "https://t.co/dhRHppb9kn",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dhRHppb9kn",
+                            "expanded_url": "http://www.akparti.org.tr",
+                            "display_url": "akparti.org.tr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15492,
+            "friends_count": 697,
+            "listed_count": 8,
+            "created_at": "Sat Jul 31 12:49:23 +0000 2010",
+            "favourites_count": 881,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 7510,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1232652082261483520/lYMvDxSh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232652082261483520/lYMvDxSh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/173102878/1581785284",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 294,
+        "favorite_count": 659,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 294,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

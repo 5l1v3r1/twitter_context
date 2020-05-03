@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun May 03 00:42:33 +0000 2020",
+    "id": 1256745931174752259,
+    "id_str": "1256745931174752259",
+    "text": "@dougoliverx EU #MansaoDasPocs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MansaoDasPocs",
+                "indices": [
+                    16,
+                    30
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dougoliverx",
+                "name": "doug oliver",
+                "id": 709883764579635201,
+                "id_str": "709883764579635201",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256739216610021376,
+    "in_reply_to_status_id_str": "1256739216610021376",
+    "in_reply_to_user_id": 709883764579635201,
+    "in_reply_to_user_id_str": "709883764579635201",
+    "in_reply_to_screen_name": "dougoliverx",
+    "user": {
+        "id": 1053097892804771840,
+        "id_str": "1053097892804771840",
+        "name": "Carlos \u26a1",
+        "screen_name": "eujosecarlos1",
+        "location": "",
+        "description": "so vim pelos memes",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 47,
+        "friends_count": 280,
+        "listed_count": 0,
+        "created_at": "Fri Oct 19 01:37:58 +0000 2018",
+        "favourites_count": 13041,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1020,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251702561641582598/1RlJPrfU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251702561641582598/1RlJPrfU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1053097892804771840/1587164657",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

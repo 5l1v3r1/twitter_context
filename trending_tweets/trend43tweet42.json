@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun May 03 00:39:27 +0000 2020",
+    "id": 1256745147745939457,
+    "id_str": "1256745147745939457",
+    "text": "RT @charley_ck14: We Are Never Ever Getting Back Together #AwkwardFuneralSongs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    58,
+                    78
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "charley_ck14",
+                "name": "CK",
+                "id": 3286887050,
+                "id_str": "3286887050",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 473842563,
+        "id_str": "473842563",
+        "name": "craig onetweetwonder",
+        "screen_name": "craigflynn1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11791,
+        "friends_count": 9043,
+        "listed_count": 116,
+        "created_at": "Wed Jan 25 11:39:31 +0000 2012",
+        "favourites_count": 108814,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 120519,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/964064833996980224/PDlH7pwr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/964064833996980224/PDlH7pwr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/473842563/1463960984",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:50:59 +0000 2020",
+        "id": 1256732954098896896,
+        "id_str": "1256732954098896896",
+        "text": "We Are Never Ever Getting Back Together #AwkwardFuneralSongs",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AwkwardFuneralSongs",
+                    "indices": [
+                        40,
+                        60
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3286887050,
+            "id_str": "3286887050",
+            "name": "CK",
+            "screen_name": "charley_ck14",
+            "location": "USA",
+            "description": "People say I\u2019m skeptical, but I don\u2019t believe it. 3X @midnight TOTD winner. Cohost of @2GirlsAndATag, @4KinFunTags, & Host of @HoosierMamaTags",
+            "url": "https://t.co/rWiSckwUVB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/rWiSckwUVB",
+                            "expanded_url": "https://twitter.com/search?q=from%3Acharley_ck14%20-filter%3Areplies&",
+                            "display_url": "twitter.com/search?q=from%\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22551,
+            "friends_count": 8090,
+            "listed_count": 310,
+            "created_at": "Tue Jul 21 22:10:47 +0000 2015",
+            "favourites_count": 193216,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 171190,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1209177057323888640/2boNlxJ3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209177057323888640/2boNlxJ3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3286887050/1572647811",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

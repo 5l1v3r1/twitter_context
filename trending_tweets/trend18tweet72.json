@@ -1,0 +1,116 @@
+{
+    "created_at": "Sun May 03 00:42:51 +0000 2020",
+    "id": 1256746003488632833,
+    "id_str": "1256746003488632833",
+    "text": "\u3084\u3060\u30fc\uff01\u3086\u3046\u304d\u3083\u3093\u304c\u672d\u3092\u8aad\u3080\u306a\u3093\u3066\uff01\uff01\uff01  #tvasahi #nitiasa  #nichiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "tvasahi",
+                "indices": [
+                    22,
+                    30
+                ]
+            },
+            {
+                "text": "nitiasa",
+                "indices": [
+                    31,
+                    39
+                ]
+            },
+            {
+                "text": "nichiasa",
+                "indices": [
+                    41,
+                    50
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 53331646,
+        "id_str": "53331646",
+        "name": "\uff76\uff7d\uff9e\uff90\uff9d\u26a1( \u3063\u00b4\uff65\u03c9\uff65)\u256e=\u035f\u035f\u035e\u035e \ud83c\udfd0\u5c0f\u91ce\u5bfa\u304f\u3093\u597d\u304d\u3059\u304e\u3066\uff80\uff8b\u3093\u3067\u3057\u307e\u3046",
+        "screen_name": "kazumincreampie",
+        "location": "\u5c71\u53e3\u770c\u5b87\u90e8\u5e0220\u5e74\u2192\u5e83\u5cf6\u5e02\u897f\u533a2\u5e74\u2192\u5c71\u53e3\u770c\u4e0b\u95a2\u5e0215\u5e74\u76ee",
+        "description": "\u6700\u9ad8\u306b\u3057\u3066\u6700\u5f37\u306e\u30bb\u30f3\u30bf\u30fc(\u79c1\u898b)\u3001JT\u30b5\u30f3\u30c0\u30fc\u30ba\u5e83\u5cf6\u306e#2\u3001\u5c0f\u91ce\u5bfa\u592a\u5fd7\u304f\u3093\u306e\u307f\u3092\u63a8\u3059\u751f\u7269\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u3059( *\u02d8 \u00b3\u02d8)\u2661\u2661\u2661\u5730\u5143\u5c71\u53e3\u3088\u308a\u5143\u8077\u5834\u5e83\u5cf6\u306e\u304c\u597d\u304d\u3067\u3059(\u25cf\u00b4\u03c9`\u25cf)\u4ed6\u306f\u8da3\u5473(\u8d85\u591a\u8da3\u5473)\u3092\u3064\u3076\u3084\u3044\u3066\u307e\u3059\u3002\u3002\u3002\u9996\u30d4\u30a2\u30b9\u8033\u3044\u3063\u3071\u3044\u30d4\u30a2\u30b9\u306e\u4eba",
+        "url": "https://t.co/rOfMPYrGFU",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/rOfMPYrGFU",
+                        "expanded_url": "http://bcnr33-trans-am.doorblog.jp/",
+                        "display_url": "bcnr33-trans-am.doorblog.jp",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 526,
+        "friends_count": 2738,
+        "listed_count": 18,
+        "created_at": "Fri Jul 03 08:17:30 +0000 2009",
+        "favourites_count": 20445,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 59419,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205391902360518656/cnXpVJCq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205391902360518656/cnXpVJCq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53331646/1572161098",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

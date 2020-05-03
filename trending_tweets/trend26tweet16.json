@@ -1,0 +1,408 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745983444123651,
+    "id_str": "1256745983444123651",
+    "text": "RT @NtanhaMo: A Liz enquanto todo mundo subindo a escada\n#OSegredoNaFloresta",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    57,
+                    76
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NtanhaMo",
+                "name": "Mo\ud83c\udf1anTanha",
+                "id": 1179128105060974597,
+                "id_str": "1179128105060974597",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1168289781945688065,
+        "id_str": "1168289781945688065",
+        "name": "\u04a1\u03b1\u2113\u03b5\u03c3",
+        "screen_name": "waakeemeup97",
+        "location": "",
+        "description": "\u1d0a\u1d1cs\u1d1b \u1d00 \u029f\u1d0fs\u1d1b \u0299\u1d0f\u028f \u026a\u0274 \u1d1b\u029c\u026as \u0493\u1d1c\u1d04\u1d0b\u1d07\u1d05 \u1d1c\u1d18 \u1d21\u1d0f\u0280\u029f\u1d05.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 175,
+        "friends_count": 83,
+        "listed_count": 0,
+        "created_at": "Sun Sep 01 22:29:37 +0000 2019",
+        "favourites_count": 15602,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4180,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254224857774129154/HDq_cJu8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254224857774129154/HDq_cJu8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168289781945688065/1574653669",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:53 +0000 2020",
+        "id": 1256745509827510273,
+        "id_str": "1256745509827510273",
+        "text": "A Liz enquanto todo mundo subindo a escada\n#OSegredoNaFloresta https://t.co/8XDI5dOFHX",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        43,
+                        62
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/8XDI5dOFHX",
+                    "expanded_url": "https://twitter.com/diegoosauer/status/1256352349322444800",
+                    "display_url": "twitter.com/diegoosauer/st\u2026",
+                    "indices": [
+                        63,
+                        86
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1179128105060974597,
+            "id_str": "1179128105060974597",
+            "name": "Mo\ud83c\udf1anTanha",
+            "screen_name": "NtanhaMo",
+            "location": "Terra Dos Sonhos",
+            "description": "saco de vacilo\nrid\u00edculo \nembuste...",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16,
+            "friends_count": 110,
+            "listed_count": 0,
+            "created_at": "Tue Oct 01 20:17:13 +0000 2019",
+            "favourites_count": 2672,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1171,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1241127462123307009/0XVfunXL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241127462123307009/0XVfunXL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1179128105060974597/1569962686",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256352349322444800,
+        "quoted_status_id_str": "1256352349322444800",
+        "quoted_status": {
+            "created_at": "Fri May 01 22:38:36 +0000 2020",
+            "id": 1256352349322444800,
+            "id_str": "1256352349322444800",
+            "text": "quando voc\u00ea deita e continua b\u00eabado https://t.co/r6zPX2a90t",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1256352317361840132,
+                        "id_str": "1256352317361840132",
+                        "indices": [
+                            36,
+                            59
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256352317361840132/pu/img/e5mcWe45PXwtXRO_.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256352317361840132/pu/img/e5mcWe45PXwtXRO_.jpg",
+                        "url": "https://t.co/r6zPX2a90t",
+                        "display_url": "pic.twitter.com/r6zPX2a90t",
+                        "expanded_url": "https://twitter.com/diegoosauer/status/1256352349322444800/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 704,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 665,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 704,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1256352317361840132,
+                        "id_str": "1256352317361840132",
+                        "indices": [
+                            36,
+                            59
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256352317361840132/pu/img/e5mcWe45PXwtXRO_.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256352317361840132/pu/img/e5mcWe45PXwtXRO_.jpg",
+                        "url": "https://t.co/r6zPX2a90t",
+                        "display_url": "pic.twitter.com/r6zPX2a90t",
+                        "expanded_url": "https://twitter.com/diegoosauer/status/1256352349322444800/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 704,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 665,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 704,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                45,
+                                44
+                            ],
+                            "duration_millis": 9867,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1256352317361840132/pu/vid/368x360/IQsqO07Hp75JckIb.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1256352317361840132/pu/vid/720x704/_UZ3KLGpunTOyoXE.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1256352317361840132/pu/vid/276x270/5VRlls66Yyd7VHA_.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1256352317361840132/pu/pl/EzkGlQ4TRm--RfEt.m3u8?tag=10"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1055225547926790144,
+                "id_str": "1055225547926790144",
+                "name": "dieguito",
+                "screen_name": "diegoosauer",
+                "location": "no seu \u2764",
+                "description": "um jovem sem rumo na vida tentando melhorar seu dia com tweets sem gra\u00e7a | parceria via dm\ud83d\udce9",
+                "url": "https://t.co/HLuDDGVSnS",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/HLuDDGVSnS",
+                                "expanded_url": "http://Instagram.com/diegosauerrr",
+                                "display_url": "Instagram.com/diegosauerrr",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9507,
+                "friends_count": 7536,
+                "listed_count": 1,
+                "created_at": "Wed Oct 24 22:32:30 +0000 2018",
+                "favourites_count": 18627,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1887,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1248811751417745409/PzMlGzre_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248811751417745409/PzMlGzre_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055225547926790144/1573010250",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8197,
+            "favorite_count": 20451,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        },
+        "retweet_count": 3,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256352349322444800,
+    "quoted_status_id_str": "1256352349322444800",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

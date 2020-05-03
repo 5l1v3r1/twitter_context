@@ -1,0 +1,240 @@
+{
+    "created_at": "Sun May 03 00:35:18 +0000 2020",
+    "id": 1256744106992246786,
+    "id_str": "1256744106992246786",
+    "text": "RT @cristianguerra: Gracias @CervezaAguila por traernos un momentos de esparcimiento virtual. #AguilaEnVivo  @FESVALLENATO y @CanalTelecari\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    94,
+                    107
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cristianguerra",
+                "name": "Cristian Guerra",
+                "id": 46132028,
+                "id_str": "46132028",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "CervezaAguila",
+                "name": "Cerveza Aguila",
+                "id": 95684520,
+                "id_str": "95684520",
+                "indices": [
+                    28,
+                    42
+                ]
+            },
+            {
+                "screen_name": "FESVALLENATO",
+                "name": "Festival Vallenato",
+                "id": 240305141,
+                "id_str": "240305141",
+                "indices": [
+                    109,
+                    122
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 809040451806363648,
+        "id_str": "809040451806363648",
+        "name": "Luis Javier Castellanos",
+        "screen_name": "luisjacastella",
+        "location": "",
+        "description": "Director de Contrataci\u00f3n de Positiva Compa\u00f1\u00eda de Seguros. Ex Director de Contrataci\u00f3n del ICBF y del DPS. Ex Jefe del Grupo \u00c9lite contra Colusiones de la SIC.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 194,
+        "friends_count": 86,
+        "listed_count": 0,
+        "created_at": "Wed Dec 14 14:20:49 +0000 2016",
+        "favourites_count": 12766,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11806,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/837340983704584193/fT588OVa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/837340983704584193/fT588OVa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:41:47 +0000 2020",
+        "id": 1256730635793829888,
+        "id_str": "1256730635793829888",
+        "text": "Gracias @CervezaAguila por traernos un momentos de esparcimiento virtual. #AguilaEnVivo  @FESVALLENATO y\u2026 https://t.co/J9t0r5TX9e",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AguilaEnVivo",
+                    "indices": [
+                        74,
+                        87
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CervezaAguila",
+                    "name": "Cerveza Aguila",
+                    "id": 95684520,
+                    "id_str": "95684520",
+                    "indices": [
+                        8,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "FESVALLENATO",
+                    "name": "Festival Vallenato",
+                    "id": 240305141,
+                    "id_str": "240305141",
+                    "indices": [
+                        89,
+                        102
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/J9t0r5TX9e",
+                    "expanded_url": "https://twitter.com/i/web/status/1256730635793829888",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        106,
+                        129
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 46132028,
+            "id_str": "46132028",
+            "name": "Cristian Guerra",
+            "screen_name": "cristianguerra",
+            "location": "Colombia",
+            "description": "Activista , Licenciado en Ciencias Naturales y educaci\u00f3n ambiental. \nMis opiniones son personales y no comprometen a nadie",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2630,
+            "friends_count": 2986,
+            "listed_count": 22,
+            "created_at": "Wed Jun 10 15:04:34 +0000 2009",
+            "favourites_count": 21228,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 18847,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255602584867528707/tNcPa2XL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255602584867528707/tNcPa2XL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/46132028/1567448954",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,200 @@
+{
+    "created_at": "Sun May 03 00:42:23 +0000 2020",
+    "id": 1256745889311404032,
+    "id_str": "1256745889311404032",
+    "text": "\u00c9 por essas e outras que eu tor\u00e7o pro V\u00edrus!\n\nTE AMAMOS FELIPE PRIOR #OrePorBolsonaro https://t.co/raDz6j3K5Y",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    69,
+                    85
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745827483234306,
+                "id_str": "1256745827483234306",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbq-wXsAIZixC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbq-wXsAIZixC.jpg",
+                "url": "https://t.co/raDz6j3K5Y",
+                "display_url": "pic.twitter.com/raDz6j3K5Y",
+                "expanded_url": "https://twitter.com/RimaAssunto/status/1256745889311404032/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 247,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 247,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 247,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745827483234306,
+                "id_str": "1256745827483234306",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbq-wXsAIZixC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbq-wXsAIZixC.jpg",
+                "url": "https://t.co/raDz6j3K5Y",
+                "display_url": "pic.twitter.com/raDz6j3K5Y",
+                "expanded_url": "https://twitter.com/RimaAssunto/status/1256745889311404032/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 247,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 247,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 247,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 360993204,
+        "id_str": "360993204",
+        "name": "R.A Vlog #Rumo50K",
+        "screen_name": "RimaAssunto",
+        "location": "Rio de Janeiro, Brasil",
+        "description": "V\u00eddeos que provavelmente m\u00e3e nenhuma deixaria um filho assistir.  Conhe\u00e7a ;) https://t.co/2kcQo4MwDB \nInstagram: https://t.co/UKWMryxOP2",
+        "url": "https://t.co/yd8BwH7DOj",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yd8BwH7DOj",
+                        "expanded_url": "https://goo.gl/Zbor02",
+                        "display_url": "goo.gl/Zbor02",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/2kcQo4MwDB",
+                        "expanded_url": "http://www.youtube.com/c/RimaAssuntoVlog",
+                        "display_url": "youtube.com/c/RimaAssuntoV\u2026",
+                        "indices": [
+                            77,
+                            100
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/UKWMryxOP2",
+                        "expanded_url": "http://bit.ly/2B92XcH",
+                        "display_url": "bit.ly/2B92XcH",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 3017,
+        "friends_count": 17,
+        "listed_count": 5,
+        "created_at": "Wed Aug 24 02:32:44 +0000 2011",
+        "favourites_count": 8795,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 111153,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "14610D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193607091694514178/1SJGRlHZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193607091694514178/1SJGRlHZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/360993204/1517376756",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "010A04",
+        "profile_sidebar_fill_color": "10570A",
+        "profile_text_color": "18F50C",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

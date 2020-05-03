@@ -1,0 +1,217 @@
+{
+    "created_at": "Sun May 03 00:42:01 +0000 2020",
+    "id": 1256745794843095040,
+    "id_str": "1256745794843095040",
+    "text": "RT @Cay7265: Babas\u0131 de\u011fil sadece bir aktivist bebe\u011fin sesini avrupaya duyurmaya \u00e7al\u0131\u015ft\u0131 ama olmad\u0131 \u2753\n\n\u00c7\u00fcnk\u00fc bu gariplerin tek karde\u015fi var o\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Cay7265",
+                "name": "Bir yetimin g\u00f6z\u00fcyle bak d\u00fcnyaya\u2753",
+                "id": 1013516081720446982,
+                "id_str": "1013516081720446982",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 568871212,
+        "id_str": "568871212",
+        "name": "sami \u00f6zsakarya",
+        "screen_name": "samizsakarya",
+        "location": "Ankara",
+        "description": "Adam ald\u0131rmada ge\u00e7 git! , diyemem ald\u0131r\u0131r\u0131m.\n\u00c7i\u011fnerim, \u00e7i\u011fnenirim, hakk\u0131 tutar kald\u0131r\u0131r\u0131m!\nZalimin hasm\u0131y\u0131m amma severim mazlumu...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1164,
+        "friends_count": 1909,
+        "listed_count": 1,
+        "created_at": "Wed May 02 06:57:15 +0000 2012",
+        "favourites_count": 5918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5640,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250712608421879808/Sty87oMN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250712608421879808/Sty87oMN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/568871212/1566815680",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:21:24 +0000 2020",
+        "id": 1256680209597837312,
+        "id_str": "1256680209597837312",
+        "text": "Babas\u0131 de\u011fil sadece bir aktivist bebe\u011fin sesini avrupaya duyurmaya \u00e7al\u0131\u015ft\u0131 ama olmad\u0131 \u2753\n\n\u00c7\u00fcnk\u00fc bu gariplerin tek ka\u2026 https://t.co/zVn82ZIc4B",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/zVn82ZIc4B",
+                    "expanded_url": "https://twitter.com/i/web/status/1256680209597837312",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1013516081720446982,
+            "id_str": "1013516081720446982",
+            "name": "Bir yetimin g\u00f6z\u00fcyle bak d\u00fcnyaya\u2753",
+            "screen_name": "Cay7265",
+            "location": "\u0130stanbul, T\u00fcrkiye",
+            "description": "MAR\u0130FET YET\u0130M G\u00dcLD\u00dcRMEKTE\u261d\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13492,
+            "friends_count": 14646,
+            "listed_count": 14,
+            "created_at": "Sun Jul 01 20:13:58 +0000 2018",
+            "favourites_count": 68481,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 5187,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1078730912156839937/tbcDiJsm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078730912156839937/tbcDiJsm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013516081720446982/1588272493",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "5e02a0f0d91c76d2",
+            "url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+            "place_type": "city",
+            "name": "\u0130stanbul",
+            "full_name": "\u0130stanbul, T\u00fcrkiye",
+            "country_code": "TR",
+            "country": "Turkey",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            28.6321043,
+                            40.8027337
+                        ],
+                        [
+                            29.3783413,
+                            40.8027337
+                        ],
+                        [
+                            29.3783413,
+                            41.2399073
+                        ],
+                        [
+                            28.6321043,
+                            41.2399073
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 224,
+        "favorite_count": 413,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 224,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

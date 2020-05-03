@@ -1,0 +1,281 @@
+{
+    "created_at": "Sun May 03 00:39:18 +0000 2020",
+    "id": 1256745110911492099,
+    "id_str": "1256745110911492099",
+    "text": "https://t.co/HyLCezwyTq q tiene q ver un chino bailando \n#noahschnappisoverparty",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "noahschnappisoverparty",
+                "indices": [
+                    57,
+                    80
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1252419380782067715,
+                "id_str": "1252419380782067715",
+                "indices": [
+                    0,
+                    23
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252419380782067715/pu/img/Y8k9WuG0eCazoNas.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252419380782067715/pu/img/Y8k9WuG0eCazoNas.jpg",
+                "url": "https://t.co/HyLCezwyTq",
+                "display_url": "pic.twitter.com/HyLCezwyTq",
+                "expanded_url": "https://twitter.com/_m1nhee/status/1252419730926735361/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 608,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 608,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1252419730926735361,
+                "source_status_id_str": "1252419730926735361",
+                "source_user_id": 771827456382676992,
+                "source_user_id_str": "771827456382676992"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1252419380782067715,
+                "id_str": "1252419380782067715",
+                "indices": [
+                    0,
+                    23
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252419380782067715/pu/img/Y8k9WuG0eCazoNas.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252419380782067715/pu/img/Y8k9WuG0eCazoNas.jpg",
+                "url": "https://t.co/HyLCezwyTq",
+                "display_url": "pic.twitter.com/HyLCezwyTq",
+                "expanded_url": "https://twitter.com/_m1nhee/status/1252419730926735361/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 608,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 608,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1252419730926735361,
+                "source_status_id_str": "1252419730926735361",
+                "source_user_id": 771827456382676992,
+                "source_user_id_str": "771827456382676992",
+                "video_info": {
+                    "aspect_ratio": [
+                        76,
+                        135
+                    ],
+                    "duration_millis": 76743,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1252419380782067715/pu/pl/U9EZgtzJBYMxviUS.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1252419380782067715/pu/vid/320x568/lztd4A_Cg_fNJU6D.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1252419380782067715/pu/vid/360x638/AmO-SE00HBlyOEPd.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1252419380782067715/pu/vid/608x1080/WAZRSgojie1L1QQB.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 771827456382676992,
+                        "id_str": "771827456382676992",
+                        "name": "avril\u21ba FLY HIGH X1",
+                        "screen_name": "_m1nhee",
+                        "location": "ALLEN ALLEN ALLEN ALLEN ALLEN ",
+                        "description": "ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN",
+                        "url": "https://t.co/pNXABA8f0M",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/pNXABA8f0M",
+                                        "expanded_url": "http://ALLEN.xn--c6h/",
+                                        "display_url": "ALLEN.\u2661",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 712,
+                        "friends_count": 584,
+                        "listed_count": 12,
+                        "created_at": "Fri Sep 02 21:49:40 +0000 2016",
+                        "favourites_count": 50953,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 17400,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1252108822413561857/VCQLRZzD_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252108822413561857/VCQLRZzD_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/771827456382676992/1578704343",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 771827456382676992,
+        "id_str": "771827456382676992",
+        "name": "avril\u21ba FLY HIGH X1",
+        "screen_name": "_m1nhee",
+        "location": "ALLEN ALLEN ALLEN ALLEN ALLEN ",
+        "description": "ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN ALLEN",
+        "url": "https://t.co/pNXABA8f0M",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/pNXABA8f0M",
+                        "expanded_url": "http://ALLEN.xn--c6h/",
+                        "display_url": "ALLEN.\u2661",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 712,
+        "friends_count": 584,
+        "listed_count": 12,
+        "created_at": "Fri Sep 02 21:49:40 +0000 2016",
+        "favourites_count": 50953,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17400,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252108822413561857/VCQLRZzD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252108822413561857/VCQLRZzD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/771827456382676992/1578704343",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

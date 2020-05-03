@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun May 03 00:42:53 +0000 2020",
+    "id": 1256746012363894785,
+    "id_str": "1256746012363894785",
+    "text": "@_jeefyz ME SEGUEE BRASILEIRAAAAA #mansaodaspocs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mansaodaspocs",
+                "indices": [
+                    34,
+                    48
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_jeefyz",
+                "name": "jessica",
+                "id": 1127780297700007936,
+                "id_str": "1127780297700007936",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256740088224133121,
+    "in_reply_to_status_id_str": "1256740088224133121",
+    "in_reply_to_user_id": 1127780297700007936,
+    "in_reply_to_user_id_str": "1127780297700007936",
+    "in_reply_to_screen_name": "_jeefyz",
+    "user": {
+        "id": 3251719414,
+        "id_str": "3251719414",
+        "name": "d a n",
+        "screen_name": "newdanxs",
+        "location": "Recife",
+        "description": "eu tenho cara de santa mas de santa n\u00e3o sou nada eu sou bem \u00e9 satan\u00e1s",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6696,
+        "friends_count": 6153,
+        "listed_count": 2,
+        "created_at": "Wed May 13 14:16:12 +0000 2015",
+        "favourites_count": 11804,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26458,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227077633793495040/nj5pYJex_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227077633793495040/nj5pYJex_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3251719414/1554346290",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

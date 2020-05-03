@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:41:09 +0000 2020",
+    "id": 1256745576630272000,
+    "id_str": "1256745576630272000",
+    "text": "RT @Cacaquercaqui: Se a base dos assombrados for a fucking casa do Virgulino no meio da floresta \n\nEu vou \n\nFicar nem um pouco surpresa, pq\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Cacaquercaqui",
+                "name": "Carie Noir| est\u00e1 de luto #OSegredoNaFloresta",
+                "id": 1088185286021079050,
+                "id_str": "1088185286021079050",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 829424295419985920,
+        "id_str": "829424295419985920",
+        "name": "\ud83d\udcab Lel\u00ea (\u25cd\u2022\u1d17\u2022\u25cd)\u2727*\u3002",
+        "screen_name": "Idol_care",
+        "location": "Quinta do Conde, Portugal",
+        "description": "\ud83d\udcab",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 65,
+        "friends_count": 19,
+        "listed_count": 1,
+        "created_at": "Wed Feb 08 20:18:56 +0000 2017",
+        "favourites_count": 2398,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2430,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254230944451637250/OMKbsI6G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254230944451637250/OMKbsI6G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/829424295419985920/1587923199",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:33 +0000 2020",
+        "id": 1256745427334029313,
+        "id_str": "1256745427334029313",
+        "text": "Se a base dos assombrados for a fucking casa do Virgulino no meio da floresta \n\nEu vou \n\nFicar nem um pouco surpres\u2026 https://t.co/Zdrih0rnCr",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Zdrih0rnCr",
+                    "expanded_url": "https://twitter.com/i/web/status/1256745427334029313",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1088185286021079050,
+            "id_str": "1088185286021079050",
+            "name": "Carie Noir| est\u00e1 de luto #OSegredoNaFloresta",
+            "screen_name": "Cacaquercaqui",
+            "location": "",
+            "description": "-8000 de sanidade \nComo eu vim para aqui eu s\u00f3 tenho 6 anos",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9,
+            "friends_count": 137,
+            "listed_count": 0,
+            "created_at": "Wed Jan 23 21:22:44 +0000 2019",
+            "favourites_count": 9614,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 175,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1199542320238120960/geVbkeVX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199542320238120960/geVbkeVX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088185286021079050/1587248165",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

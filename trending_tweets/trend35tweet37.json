@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:42:13 +0000 2020",
+    "id": 1256745844482519041,
+    "id_str": "1256745844482519041",
+    "text": "#TheTitleOfTrumpsMemoir https://t.co/mYmAqTtzwl",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745828548440065,
+                "id_str": "1256745828548440065",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbrCuVcAEY6Wj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbrCuVcAEY6Wj.jpg",
+                "url": "https://t.co/mYmAqTtzwl",
+                "display_url": "pic.twitter.com/mYmAqTtzwl",
+                "expanded_url": "https://twitter.com/aleprechaunist/status/1256745844482519041/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 806,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1004,
+                        "h": 1494,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 457,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745828548440065,
+                "id_str": "1256745828548440065",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbrCuVcAEY6Wj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbrCuVcAEY6Wj.jpg",
+                "url": "https://t.co/mYmAqTtzwl",
+                "display_url": "pic.twitter.com/mYmAqTtzwl",
+                "expanded_url": "https://twitter.com/aleprechaunist/status/1256745844482519041/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 806,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1004,
+                        "h": 1494,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 457,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 961710457,
+        "id_str": "961710457",
+        "name": "Trump is a #PandemicProfiteer- stop #TrumpGenocide",
+        "screen_name": "aleprechaunist",
+        "location": "The Arid Zone",
+        "description": "I block MAGAts, Bernie Bros and \ud83c\uddf7\ud83c\uddfa\ud83e\udd16 (but I repeat myself)",
+        "url": "https://t.co/nIVqkYIM7p",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/nIVqkYIM7p",
+                        "expanded_url": "https://www.impeachnow.org/",
+                        "display_url": "impeachnow.org",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 984,
+        "friends_count": 784,
+        "listed_count": 27,
+        "created_at": "Wed Nov 21 03:48:11 +0000 2012",
+        "favourites_count": 11304,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 53734,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254614964670586880/XaZ7y7d2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254614964670586880/XaZ7y7d2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/961710457/1588036680",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

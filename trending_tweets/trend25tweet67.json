@@ -1,0 +1,354 @@
+{
+    "created_at": "Sun May 03 00:42:18 +0000 2020",
+    "id": 1256745868637679616,
+    "id_str": "1256745868637679616",
+    "text": "RT @nmariat: Vamos orar por Bolsonaro.\n#OrePorBolsonaro https://t.co/th0619e0ZB",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    39,
+                    55
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nmariat",
+                "name": "Nmariat",
+                "id": 68574886,
+                "id_str": "68574886",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744450627440642,
+                "id_str": "1256744450627440642",
+                "indices": [
+                    56,
+                    79
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaa1kXkAILVeU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaa1kXkAILVeU.jpg",
+                "url": "https://t.co/th0619e0ZB",
+                "display_url": "pic.twitter.com/th0619e0ZB",
+                "expanded_url": "https://twitter.com/nmariat/status/1256744453722775552/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 332,
+                        "h": 315,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 332,
+                        "h": 315,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 332,
+                        "h": 315,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744453722775552,
+                "source_status_id_str": "1256744453722775552",
+                "source_user_id": 68574886,
+                "source_user_id_str": "68574886"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744450627440642,
+                "id_str": "1256744450627440642",
+                "indices": [
+                    56,
+                    79
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaa1kXkAILVeU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaa1kXkAILVeU.jpg",
+                "url": "https://t.co/th0619e0ZB",
+                "display_url": "pic.twitter.com/th0619e0ZB",
+                "expanded_url": "https://twitter.com/nmariat/status/1256744453722775552/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 332,
+                        "h": 315,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 332,
+                        "h": 315,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 332,
+                        "h": 315,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744453722775552,
+                "source_status_id_str": "1256744453722775552",
+                "source_user_id": 68574886,
+                "source_user_id_str": "68574886"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1022450954518650882,
+        "id_str": "1022450954518650882",
+        "name": "Linda Tannus",
+        "screen_name": "LindaTannus",
+        "location": "Uberl\u00e2ndia, Brasil",
+        "description": "Ante pt !!Deus em primeiro lugar \ud83e\udd47",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7897,
+        "friends_count": 6247,
+        "listed_count": 2,
+        "created_at": "Thu Jul 26 11:57:58 +0000 2018",
+        "favourites_count": 178561,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 144584,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1023301093391065096/7beFcavX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023301093391065096/7beFcavX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:36:41 +0000 2020",
+        "id": 1256744453722775552,
+        "id_str": "1256744453722775552",
+        "text": "Vamos orar por Bolsonaro.\n#OrePorBolsonaro https://t.co/th0619e0ZB",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OrePorBolsonaro",
+                    "indices": [
+                        26,
+                        42
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256744450627440642,
+                    "id_str": "1256744450627440642",
+                    "indices": [
+                        43,
+                        66
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDaa1kXkAILVeU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDaa1kXkAILVeU.jpg",
+                    "url": "https://t.co/th0619e0ZB",
+                    "display_url": "pic.twitter.com/th0619e0ZB",
+                    "expanded_url": "https://twitter.com/nmariat/status/1256744453722775552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 332,
+                            "h": 315,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 332,
+                            "h": 315,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 332,
+                            "h": 315,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256744450627440642,
+                    "id_str": "1256744450627440642",
+                    "indices": [
+                        43,
+                        66
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDaa1kXkAILVeU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDaa1kXkAILVeU.jpg",
+                    "url": "https://t.co/th0619e0ZB",
+                    "display_url": "pic.twitter.com/th0619e0ZB",
+                    "expanded_url": "https://twitter.com/nmariat/status/1256744453722775552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 332,
+                            "h": 315,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 332,
+                            "h": 315,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 332,
+                            "h": 315,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 68574886,
+            "id_str": "68574886",
+            "name": "Nmariat",
+            "screen_name": "nmariat",
+            "location": "Santos, Brasil",
+            "description": "Sou brasileira, de direita, quero lutar e estar junto com quem defende o pa\u00eds!\ud83c\udde7\ud83c\uddf7\ud83d\udc9a\ud83d\udc9b",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3498,
+            "friends_count": 4768,
+            "listed_count": 2,
+            "created_at": "Tue Aug 25 01:48:48 +0000 2009",
+            "favourites_count": 6199,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14936,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1243404179265085441/d_p94hDr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243404179265085441/d_p94hDr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/68574886/1580161542",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

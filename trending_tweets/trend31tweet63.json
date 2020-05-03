@@ -1,0 +1,416 @@
+{
+    "created_at": "Sun May 03 00:41:30 +0000 2020",
+    "id": 1256745665197223937,
+    "id_str": "1256745665197223937",
+    "text": "RT @GUCCIJlMIN: @filmfics VOTE FOR JIMIN. HIS FLOOR IS THE SILENT ONE. #WEAREINPAYNE #silentoneau https://t.co/AMIhvzCY0E",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WEAREINPAYNE",
+                "indices": [
+                    71,
+                    84
+                ]
+            },
+            {
+                "text": "silentoneau",
+                "indices": [
+                    85,
+                    97
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GUCCIJlMIN",
+                "name": "jenna\u2077 JUNGKOOK",
+                "id": 863920751774244864,
+                "id_str": "863920751774244864",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "filmfics",
+                "name": "\u200e\u064b",
+                "id": 1004122823554732032,
+                "id_str": "1004122823554732032",
+                "indices": [
+                    16,
+                    25
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256725463747174402,
+                "id_str": "1256725463747174402",
+                "indices": [
+                    98,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDJJp7WoAIyNJh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDJJp7WoAIyNJh.jpg",
+                "url": "https://t.co/AMIhvzCY0E",
+                "display_url": "pic.twitter.com/AMIhvzCY0E",
+                "expanded_url": "https://twitter.com/GUCCIJlMIN/status/1256725465957634048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1124,
+                        "h": 741,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1124,
+                        "h": 741,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 448,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256725465957634048,
+                "source_status_id_str": "1256725465957634048",
+                "source_user_id": 863920751774244864,
+                "source_user_id_str": "863920751774244864"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256725463747174402,
+                "id_str": "1256725463747174402",
+                "indices": [
+                    98,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDJJp7WoAIyNJh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDJJp7WoAIyNJh.jpg",
+                "url": "https://t.co/AMIhvzCY0E",
+                "display_url": "pic.twitter.com/AMIhvzCY0E",
+                "expanded_url": "https://twitter.com/GUCCIJlMIN/status/1256725465957634048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1124,
+                        "h": 741,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1124,
+                        "h": 741,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 448,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256725465957634048,
+                "source_status_id_str": "1256725465957634048",
+                "source_user_id": 863920751774244864,
+                "source_user_id_str": "863920751774244864"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1226585536166531074,
+        "id_str": "1226585536166531074",
+        "name": "\u2730 izzy\u2077",
+        "screen_name": "sunnihxpe",
+        "location": "",
+        "description": "#JIN: i love army with my whole ass. i would say heart but my ass is bigger \u2661\n\n( fan account )",
+        "url": "https://t.co/ko5PogeTCC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ko5PogeTCC",
+                        "expanded_url": "https://sunnihxpe.carrd.co/",
+                        "display_url": "sunnihxpe.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 544,
+        "friends_count": 552,
+        "listed_count": 9,
+        "created_at": "Sun Feb 09 19:17:34 +0000 2020",
+        "favourites_count": 24767,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6499,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252733714565603328/dqHEgsoy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252733714565603328/dqHEgsoy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226585536166531074/1588102200",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:21:14 +0000 2020",
+        "id": 1256725465957634048,
+        "id_str": "1256725465957634048",
+        "text": "@filmfics VOTE FOR JIMIN. HIS FLOOR IS THE SILENT ONE. #WEAREINPAYNE #silentoneau https://t.co/AMIhvzCY0E",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WEAREINPAYNE",
+                    "indices": [
+                        55,
+                        68
+                    ]
+                },
+                {
+                    "text": "silentoneau",
+                    "indices": [
+                        69,
+                        81
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "filmfics",
+                    "name": "\u200e\u064b",
+                    "id": 1004122823554732032,
+                    "id_str": "1004122823554732032",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256725463747174402,
+                    "id_str": "1256725463747174402",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDJJp7WoAIyNJh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDJJp7WoAIyNJh.jpg",
+                    "url": "https://t.co/AMIhvzCY0E",
+                    "display_url": "pic.twitter.com/AMIhvzCY0E",
+                    "expanded_url": "https://twitter.com/GUCCIJlMIN/status/1256725465957634048/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1124,
+                            "h": 741,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1124,
+                            "h": 741,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 448,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256725463747174402,
+                    "id_str": "1256725463747174402",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDJJp7WoAIyNJh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDJJp7WoAIyNJh.jpg",
+                    "url": "https://t.co/AMIhvzCY0E",
+                    "display_url": "pic.twitter.com/AMIhvzCY0E",
+                    "expanded_url": "https://twitter.com/GUCCIJlMIN/status/1256725465957634048/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1124,
+                            "h": 741,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1124,
+                            "h": 741,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 448,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1256721559559036928,
+        "in_reply_to_status_id_str": "1256721559559036928",
+        "in_reply_to_user_id": 1004122823554732032,
+        "in_reply_to_user_id_str": "1004122823554732032",
+        "in_reply_to_screen_name": "filmfics",
+        "user": {
+            "id": 863920751774244864,
+            "id_str": "863920751774244864",
+            "name": "jenna\u2077 JUNGKOOK",
+            "screen_name": "GUCCIJlMIN",
+            "location": "",
+            "description": "ugh!",
+            "url": "https://t.co/T7x485DFal",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/T7x485DFal",
+                            "expanded_url": "https://curiouscat.me/GUCCIJlMIN",
+                            "display_url": "curiouscat.me/GUCCIJlMIN",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2278,
+            "friends_count": 1078,
+            "listed_count": 34,
+            "created_at": "Mon May 15 00:55:32 +0000 2017",
+            "favourites_count": 67254,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 50791,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256654202429939713/XpzSnZGZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256654202429939713/XpzSnZGZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/863920751774244864/1588444659",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 69,
+        "favorite_count": 357,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 69,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

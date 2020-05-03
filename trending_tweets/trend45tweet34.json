@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:41:55 +0000 2020",
+    "id": 1256745769341718529,
+    "id_str": "1256745769341718529",
+    "text": "RT @perawezzz: Nerede bir t\u00fcrk\u00fc s\u00f6yleyen g\u00f6r\u00fcrsen korkma yan\u0131na otur.. \u00c7\u00fcnk\u00fc k\u00f6t\u00fc insanlar\u0131n t\u00fcrk\u00fcleri yoktur...\ud83c\udf3e\ud83c\udf3b\ud83c\udf42 Rt\\Destek canlar \n#Grup\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "perawezzz",
+                "name": "Peraw\u00eaz \ud83c\udf88\ud83c\udf3c",
+                "id": 1221934419855990784,
+                "id_str": "1221934419855990784",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1063923243713773569,
+        "id_str": "1063923243713773569",
+        "name": "Zeynep Ay\u00e7i\u00e7ek",
+        "screen_name": "Jiyan_2108",
+        "location": "Artvin / Amed",
+        "description": "\ud83d\udc95Ahmet Kaya\ud83d\udc95",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 191,
+        "friends_count": 180,
+        "listed_count": 0,
+        "created_at": "Sat Nov 17 22:34:02 +0000 2018",
+        "favourites_count": 1953,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 192,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256533093218947072/Y93cB578_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256533093218947072/Y93cB578_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063923243713773569/1577051433",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:02:43 +0000 2020",
+        "id": 1256645310031507457,
+        "id_str": "1256645310031507457",
+        "text": "Nerede bir t\u00fcrk\u00fc s\u00f6yleyen g\u00f6r\u00fcrsen korkma yan\u0131na otur.. \u00c7\u00fcnk\u00fc k\u00f6t\u00fc insanlar\u0131n t\u00fcrk\u00fcleri yoktur...\ud83c\udf3e\ud83c\udf3b\ud83c\udf42 Rt\\Destek canl\u2026 https://t.co/yiIR3apODG",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/yiIR3apODG",
+                    "expanded_url": "https://twitter.com/i/web/status/1256645310031507457",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1221934419855990784,
+            "id_str": "1221934419855990784",
+            "name": "Peraw\u00eaz \ud83c\udf88\ud83c\udf3c",
+            "screen_name": "perawezzz",
+            "location": "Diyarbak\u0131r, T\u00fcrkiye",
+            "description": "\ud83c\udf3f Dengbej dinleyip birbirinizi sevin.\ud83c\udf3c\ud83c\udf3b\ud83c\udf3a \nUmuda olan inanc\u0131m\u0131z  mavi gibi sonsuz olsun \ud83d\udd4a\ud83e\udd8b",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3355,
+            "friends_count": 3368,
+            "listed_count": 0,
+            "created_at": "Mon Jan 27 23:14:39 +0000 2020",
+            "favourites_count": 7453,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 943,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256250155575250946/Qtssuhh2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256250155575250946/Qtssuhh2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221934419855990784/1583575170",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 207,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

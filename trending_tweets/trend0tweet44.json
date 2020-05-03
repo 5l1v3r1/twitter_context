@@ -1,0 +1,147 @@
+{
+    "created_at": "Sun May 03 00:41:47 +0000 2020",
+    "id": 1256745738324901888,
+    "id_str": "1256745738324901888",
+    "text": "@BrahmaCerveja Que live top Parab\u00e9ns #JeMBrahmaLive e #Brahma com essa geladeira ainda, sem coment\u00e1rios #EuQuero",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    37,
+                    51
+                ]
+            },
+            {
+                "text": "Brahma",
+                "indices": [
+                    54,
+                    61
+                ]
+            },
+            {
+                "text": "EuQuero",
+                "indices": [
+                    104,
+                    112
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BrahmaCerveja",
+                "name": "Brahma (de \ud83c\udfe0)",
+                "id": 92842904,
+                "id_str": "92842904",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256735990288433154,
+    "in_reply_to_status_id_str": "1256735990288433154",
+    "in_reply_to_user_id": 92842904,
+    "in_reply_to_user_id_str": "92842904",
+    "in_reply_to_screen_name": "BrahmaCerveja",
+    "user": {
+        "id": 144586582,
+        "id_str": "144586582",
+        "name": "\u25e4 \u2720 \u25e2Jean Pierre Ayrao\u25e4 \u2720 \u25e2",
+        "screen_name": "JEANPIERREAYRAO",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 30,
+        "friends_count": 212,
+        "listed_count": 0,
+        "created_at": "Sun May 16 18:52:26 +0000 2010",
+        "favourites_count": 322,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 403,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253835973588406275/39zFPT3a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253835973588406275/39zFPT3a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/144586582/1576360731",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "8396fe91f4ae1005",
+        "url": "https://api.twitter.com/1.1/geo/id/8396fe91f4ae1005.json",
+        "place_type": "city",
+        "name": "Pouso Alegre",
+        "full_name": "Pouso Alegre, Brasil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -46.0647631,
+                        -22.4152811
+                    ],
+                    [
+                        -45.8170519,
+                        -22.4152811
+                    ],
+                    [
+                        -45.8170519,
+                        -22.110648
+                    ],
+                    [
+                        -46.0647631,
+                        -22.110648
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

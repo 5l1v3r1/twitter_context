@@ -1,0 +1,187 @@
+{
+    "created_at": "Sun May 03 00:41:30 +0000 2020",
+    "id": 1256745666119901191,
+    "id_str": "1256745666119901191",
+    "text": "SAUDADE DE COLAR NA GRADE E TENTAR PEGAR A TOALHINHA, N\u00c9 MINHA FILHA?\n#JeMBrahmaLive #LiveJeM https://t.co/ijBhQqq1sY",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    70,
+                    84
+                ]
+            },
+            {
+                "text": "LiveJeM",
+                "indices": [
+                    85,
+                    93
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745661061611529,
+                "id_str": "1256745661061611529",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbhSyXQAkHD94.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbhSyXQAkHD94.jpg",
+                "url": "https://t.co/ijBhQqq1sY",
+                "display_url": "pic.twitter.com/ijBhQqq1sY",
+                "expanded_url": "https://twitter.com/sertanejando_sa/status/1256745666119901191/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 848,
+                        "h": 476,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 848,
+                        "h": 476,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745661061611529,
+                "id_str": "1256745661061611529",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbhSyXQAkHD94.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbhSyXQAkHD94.jpg",
+                "url": "https://t.co/ijBhQqq1sY",
+                "display_url": "pic.twitter.com/ijBhQqq1sY",
+                "expanded_url": "https://twitter.com/sertanejando_sa/status/1256745666119901191/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 848,
+                        "h": 476,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 848,
+                        "h": 476,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1233173681750364162,
+        "id_str": "1233173681750364162",
+        "name": "Sertanejando com Sueli Alves",
+        "screen_name": "sertanejando_sa",
+        "location": "",
+        "description": "Jornalista \ud83c\udf93\nMeio caipira \ud83e\udd20\nSonhadora \ud83d\udcad\nCompartilho aqui parte da minha ess\u00eancia! \ud83e\udd81\n#Sertanejo\n\ud83d\udccdSantos\ud83d\udccdS\u00e3o Paulo\ud83d\udccdDF\ud83d\udccdPVH\n\ud83d\udce9contatosertanejando@gmail.com",
+        "url": "https://t.co/HagL8qDF4e",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/HagL8qDF4e",
+                        "expanded_url": "https://www.instagram.com/sertanejando_sa/",
+                        "display_url": "instagram.com/sertanejando_s\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 145,
+        "listed_count": 0,
+        "created_at": "Thu Feb 27 23:35:04 +0000 2020",
+        "favourites_count": 408,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 234,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233176426586742789/qpGhqg4N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233176426586742789/qpGhqg4N_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

@@ -1,0 +1,109 @@
+{
+    "created_at": "Sun May 03 00:42:55 +0000 2020",
+    "id": 1256746021029212160,
+    "id_str": "1256746021029212160",
+    "text": "\u3046\u3049\u3044\uff01\u3063\u3066\u307f\u3093\u306a\u8a00\u3046\u3068\u308b\u3084\u3093 #nitiasa #\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    16,
+                    24
+                ]
+            },
+            {
+                "text": "\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc",
+                "indices": [
+                    25,
+                    33
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 547239203,
+        "id_str": "547239203",
+        "name": "\u5bfa\u7530\u307e\u3089\u304b\u3059\ud83d\udc83",
+        "screen_name": "wakemeup_28",
+        "location": "\uff8c\uff78\uff7c\uff8f",
+        "description": "((Q(\uff65\u03c9\uff65Q)\uff7c\uff6c\uff76\uff7c\uff6c\uff76\nID\u304c\u623b\u305b\u306a\u304f\u306a\u3063\u305f\u306e\u3067\u3059\u304c @wakemeup8 \u3060\u3063\u305f\u3084\u3064\u3067\u3059\u3002\n\u597d\u304d\u306a\u3082\u306e\u3068\u304b\u306f\uff82\uff72\uff8c\uff9f\uff9b\u898b\u3066\u306d",
+        "url": "https://t.co/277KMNdsxN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/277KMNdsxN",
+                        "expanded_url": "https://twpf.jp/wakemeup_28",
+                        "display_url": "twpf.jp/wakemeup_28",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 819,
+        "friends_count": 962,
+        "listed_count": 15,
+        "created_at": "Sat Apr 07 01:58:42 +0000 2012",
+        "favourites_count": 10728,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 57502,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236639687000731648/-BBuSair_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236639687000731648/-BBuSair_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/547239203/1537744201",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

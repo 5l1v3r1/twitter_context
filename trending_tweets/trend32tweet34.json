@@ -1,0 +1,88 @@
+{
+    "created_at": "Sun May 03 00:42:06 +0000 2020",
+    "id": 1256745815235682304,
+    "id_str": "1256745815235682304",
+    "text": "\u30c1\u30cf\u300c\u8ce2\u3044\u6307\u5c0e\u8005\u3001\u99ac\u9e7f\u306a\u6307\u5c0e\u8005\u3068\u4ed5\u5206\u3051\u3057\u3066\u3044\u308b\u3051\u3069\u3001\u5b89\u500d\u9996\u76f8\u306f\u3001\u3069\u3063\u3061\u306e\u6307\u5c0e\u8005\u3068\u8a00\u3046\u306e\u304b\u306a( \u00b4\u30fc\uff40)y-~~\u3002\u5f8c\u8005\u306b\u6c7a\u307e\u3063\u3066\u308b\u3088( T_T)\uff3c(^-^ )\u3002\u300d #\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    81,
+                    91
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 100907142,
+        "id_str": "100907142",
+        "name": "\u534a\u7530\u3000\u6226\u8eca\u6574\u5099\u5175",
+        "screen_name": "zaku2010",
+        "location": "\u7b2c\uff13\uff12\u666e\u901a\u79d1\u9023\u968a\u7b2c\uff11\u4e2d\u968a\u62c5\u5f53\u5730\u57df",
+        "description": "\u59bb\u3068\u4e8c\u4eba\u306e\u5b50\u4f9b\u305f\u3061\u3068\u5171\u306b\u6226\u8eca\u306b\u611b\u60c5\u3092\u3055\u3055\u3052\u308b\u7537\u3067\u3059\u3002 \r\n\r\n\u5bfe\u4eba\u95a2\u4fc2\u3067\u610f\u898b\u3092\u767a\u8a00\u3067\u304d\u306a\u3044\u3000\u3078\u305f\u308c\u3067\u3059\u3002\r\n\r\n\u5c0f\u5fc3\u8005\u3067\u3059\u3002\u30b9\u30c8\u30ec\u30b9\u767a\u6563\u306b\u30c4\u30a4\u30fc\u30c9\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059\u3002\r\n\r\n\u5927\u76ee\u306b\u898b\u3066\u304f\u3060\u3055\u3044\uff01\u69cb\u3063\u3066\u304f\u308c\u308b\u7686\u3055\u3093\u306b\u300c\u611f\u8b1d\uff01\u300d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 968,
+        "friends_count": 1269,
+        "listed_count": 23,
+        "created_at": "Fri Jan 01 05:06:22 +0000 2010",
+        "favourites_count": 3505,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 65091,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1753605177/PICT0004_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1753605177/PICT0004_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

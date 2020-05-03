@@ -1,0 +1,111 @@
+{
+    "created_at": "Sun May 03 00:39:35 +0000 2020",
+    "id": 1256745183174987776,
+    "id_str": "1256745183174987776",
+    "text": "#AwkwardFuneralSongs\nI Love The Dead\n@alicecooper \nhttps://t.co/dSKMGnSMJX",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    0,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alicecooper",
+                "name": "Alice Cooper",
+                "id": 78644388,
+                "id_str": "78644388",
+                "indices": [
+                    37,
+                    49
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/dSKMGnSMJX",
+                "expanded_url": "https://www.youtube.com/watch?v=UpKGfFw8FEA",
+                "display_url": "youtube.com/watch?v=UpKGfF\u2026",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 19795320,
+        "id_str": "19795320",
+        "name": "Simian Flu pandemic",
+        "screen_name": "PhoenixRichard",
+        "location": "Sonoran Desert bedouin",
+        "description": "World\u2019s first Marketing SOCIALologist\nSEO, Mobile, #1 Search Rank\nCertified speaker\nScience the hell out of digital marketing via SEO, \nmobile & social media",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 631,
+        "friends_count": 36,
+        "listed_count": 104,
+        "created_at": "Fri Jan 30 23:29:40 +0000 2009",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 254,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255937092904816640/mRol_fzE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255937092904816640/mRol_fzE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19795320/1588273654",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

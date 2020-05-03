@@ -1,0 +1,377 @@
+{
+    "created_at": "Sun May 03 00:41:29 +0000 2020",
+    "id": 1256745661694832641,
+    "id_str": "1256745661694832641",
+    "text": "RT @bettybeat: \u3010PCR\u691c\u67fb\u306e\u6291\u5236\u306b\u3064\u3044\u3066\u3011\n\uff62\u4f8b\u3048\u3070\u3054\u98ef\u3092\u98df\u3079\u308b\u6642\u306b\u5fc5\u8981\u306a\u304a\u7bb8\u304c\u306a\u3044\u72b6\u6cc1\u3002\u305d\u308c\u3092\u305a\u3063\u3068\u3084\u3063\u3066\u308b\u3002\n\u305d\u308c\u306f\u4f55\u6545\uff1f\n\u56fd\u304c\u3084\u308d\u3046\u3068\u3057\u3066\u3044\u306a\u3044\u304b\u3089\u3002\n\u691c\u67fb\u3092\u6c7a\u3081\u308b\u306e\u306f\u73fe\u5834\u3067\u3042\u308b\u306e\u306b\uff63\n #\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0 https://t.co/Brnw9830rE",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    105,
+                    115
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bettybeat",
+                "name": "\u30b5\u30c1\u30a8",
+                "id": 112095723,
+                "id_str": "112095723",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256728766618890240,
+                "id_str": "1256728766618890240",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDMJ6FVcAAIdSX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDMJ6FVcAAIdSX.jpg",
+                "url": "https://t.co/Brnw9830rE",
+                "display_url": "pic.twitter.com/Brnw9830rE",
+                "expanded_url": "https://twitter.com/bettybeat/status/1256728772750880769/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 372,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 656,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1120,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256728772750880769,
+                "source_status_id_str": "1256728772750880769",
+                "source_user_id": 112095723,
+                "source_user_id_str": "112095723"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256728766618890240,
+                "id_str": "1256728766618890240",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDMJ6FVcAAIdSX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDMJ6FVcAAIdSX.jpg",
+                "url": "https://t.co/Brnw9830rE",
+                "display_url": "pic.twitter.com/Brnw9830rE",
+                "expanded_url": "https://twitter.com/bettybeat/status/1256728772750880769/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 372,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 656,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1120,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256728772750880769,
+                "source_status_id_str": "1256728772750880769",
+                "source_user_id": 112095723,
+                "source_user_id_str": "112095723"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1220188120567541760,
+        "id_str": "1220188120567541760",
+        "name": "\u30ad\u30e3\u30b5\u30ea\u30f3",
+        "screen_name": "OJMKyY3pKTQukV4",
+        "location": "",
+        "description": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ec\u30c8\u30ea\u30d0\u30fc\u304c\u5927\u597d\u304d\u2764",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 26,
+        "friends_count": 54,
+        "listed_count": 0,
+        "created_at": "Thu Jan 23 03:35:04 +0000 2020",
+        "favourites_count": 10709,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5684,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221313596820348928/raMQ6OxG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221313596820348928/raMQ6OxG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:34:22 +0000 2020",
+        "id": 1256728772750880769,
+        "id_str": "1256728772750880769",
+        "text": "\u3010PCR\u691c\u67fb\u306e\u6291\u5236\u306b\u3064\u3044\u3066\u3011\n\uff62\u4f8b\u3048\u3070\u3054\u98ef\u3092\u98df\u3079\u308b\u6642\u306b\u5fc5\u8981\u306a\u304a\u7bb8\u304c\u306a\u3044\u72b6\u6cc1\u3002\u305d\u308c\u3092\u305a\u3063\u3068\u3084\u3063\u3066\u308b\u3002\n\u305d\u308c\u306f\u4f55\u6545\uff1f\n\u56fd\u304c\u3084\u308d\u3046\u3068\u3057\u3066\u3044\u306a\u3044\u304b\u3089\u3002\n\u691c\u67fb\u3092\u6c7a\u3081\u308b\u306e\u306f\u73fe\u5834\u3067\u3042\u308b\u306e\u306b\uff63\n #\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0 https://t.co/Brnw9830rE",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                    "indices": [
+                        90,
+                        100
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256728766618890240,
+                    "id_str": "1256728766618890240",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDMJ6FVcAAIdSX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDMJ6FVcAAIdSX.jpg",
+                    "url": "https://t.co/Brnw9830rE",
+                    "display_url": "pic.twitter.com/Brnw9830rE",
+                    "expanded_url": "https://twitter.com/bettybeat/status/1256728772750880769/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 656,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1120,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256728766618890240,
+                    "id_str": "1256728766618890240",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDMJ6FVcAAIdSX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDMJ6FVcAAIdSX.jpg",
+                    "url": "https://t.co/Brnw9830rE",
+                    "display_url": "pic.twitter.com/Brnw9830rE",
+                    "expanded_url": "https://twitter.com/bettybeat/status/1256728772750880769/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 656,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1120,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 112095723,
+            "id_str": "112095723",
+            "name": "\u30b5\u30c1\u30a8",
+            "screen_name": "bettybeat",
+            "location": "\u5e7b\u60f3\u3088\u308a\u30ea\u30a2\u30eb\u306a\u3068\u3053\u308d",
+            "description": "\u982d\u3088\u308a\u8eab\u4f53\u306b\u8a18\u61b6\u3059\u308b\u3053\u3068\u306e\u65b9\u304c\u597d\u304d\u307f\u305f\u3044\u3067\u3059\u3002YOGA\u54f2\u5b66\u306e\u52c9\u5f37\u3092\u3057\u3066\u3044\u307e\u3059\u3002\u898b\u3048\u306a\u3044\u3082\u306e\u3092\u63a2\u3057\u3066\u3044\u307e\u3059.. \u4ee3\u3005\u6728\u30a2\u30f3\u30c0\u30fc\u30b6\u30e9\u30a4\u30c8TT3-11\u671f\u5352\u696d/\u5168\u7c73\u30e8\u30ac\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9RYT200 / THINK GLOBAL ACT LOCAL!\u3010\u30c4\u30a4\u30ad\u30e3\u30b9\u3011https://t.co/f947sWHBLo",
+            "url": "https://t.co/y2lYKQ4rI1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/y2lYKQ4rI1",
+                            "expanded_url": "http://bettybeat.exblog.jp/",
+                            "display_url": "bettybeat.exblog.jp",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/f947sWHBLo",
+                            "expanded_url": "http://ja.twitcasting.tv/bettybeat",
+                            "display_url": "ja.twitcasting.tv/bettybeat",
+                            "indices": [
+                                125,
+                                148
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 2973,
+            "friends_count": 567,
+            "listed_count": 56,
+            "created_at": "Sun Feb 07 07:38:59 +0000 2010",
+            "favourites_count": 10494,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 62575,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/758620530559758336/ZL-yIHUJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/758620530559758336/ZL-yIHUJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/112095723/1433514425",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 228,
+        "favorite_count": 412,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 228,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

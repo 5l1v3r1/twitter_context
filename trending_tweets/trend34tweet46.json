@@ -1,0 +1,107 @@
+{
+    "created_at": "Sun May 03 00:38:01 +0000 2020",
+    "id": 1256744789388623872,
+    "id_str": "1256744789388623872",
+    "text": "maiko\u306e\u6708\u5b50\u306e\u6b63\u4f53\u306f\u30cf\u30af\u30c8\u30a6\u30ef\u30b7\u3067\u3059\uff01\u7d76\u5bfe\u306b\u30cf\u30af\u30c8\u30a6\u30ef\u30b7\u3067\u3059\uff01\uff01\uff01\n#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c #shindanmaker\nhttps://t.co/eLDugV1Xau",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    36,
+                    49
+                ]
+            },
+            {
+                "text": "shindanmaker",
+                "indices": [
+                    50,
+                    63
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/eLDugV1Xau",
+                "expanded_url": "https://shindanmaker.com/984766",
+                "display_url": "shindanmaker.com/984766",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2345084839,
+        "id_str": "2345084839",
+        "name": "maiko",
+        "screen_name": "benrinnes",
+        "location": "japan",
+        "description": "maiko\u3067\u3059\u3002\u98ef\u30a2\u30ab\u300213\u5e74\u3076\u308a\u304a\u7d75\u63cf\u304d\u518d\u958b\u3002\u9280\u9b42\u9280\u6708\u300180\u5e74\u4ee3\u30a2\u30cb\u30e1\u3001\u30df\u30cb\u30c1\u30e5\u30a2\u3001\u98df\u54c1\u30b5\u30f3\u30d7\u30eb\u3001\u5ec3\u589f\u3001\u592a\u967d\u306e\u5854\u3001\u304a\u3063\u3071\u3044\u3001\u65e5\u5e38\u3064\u3076\u3084\u304d\u3001RT\u591a\u3057\u3001\u7121\u65ad\u8ee2\u8f09\u7981\u6b62\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1692,
+        "friends_count": 439,
+        "listed_count": 47,
+        "created_at": "Sat Feb 15 12:46:27 +0000 2014",
+        "favourites_count": 228396,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 164217,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256083207880970240/Tbfyst6E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256083207880970240/Tbfyst6E_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2345084839/1588431097",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "ja"
+}

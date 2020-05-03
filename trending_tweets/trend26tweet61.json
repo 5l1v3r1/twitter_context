@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:41:54 +0000 2020",
+    "id": 1256745765646581765,
+    "id_str": "1256745765646581765",
+    "text": "RT @desastrw: Vc disse os arrombados?\n\n#OSegredoNaFloresta https://t.co/Sxsr1lUEoP",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    39,
+                    58
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "desastrw",
+                "name": "Liz Stan \u2604\ufe0f #OSegredoNaFloresta \ud83c\udf03",
+                "id": 1386923604,
+                "id_str": "1386923604",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744857441353729,
+                "id_str": "1256744857441353729",
+                "indices": [
+                    59,
+                    82
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDayhEXQAEPmaX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDayhEXQAEPmaX.jpg",
+                "url": "https://t.co/Sxsr1lUEoP",
+                "display_url": "pic.twitter.com/Sxsr1lUEoP",
+                "expanded_url": "https://twitter.com/desastrw/status/1256744859907567617/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1129,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1129,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 385,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744859907567617,
+                "source_status_id_str": "1256744859907567617",
+                "source_user_id": 1386923604,
+                "source_user_id_str": "1386923604"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744857441353729,
+                "id_str": "1256744857441353729",
+                "indices": [
+                    59,
+                    82
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDayhEXQAEPmaX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDayhEXQAEPmaX.jpg",
+                "url": "https://t.co/Sxsr1lUEoP",
+                "display_url": "pic.twitter.com/Sxsr1lUEoP",
+                "expanded_url": "https://twitter.com/desastrw/status/1256744859907567617/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1129,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1129,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 385,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744859907567617,
+                "source_status_id_str": "1256744859907567617",
+                "source_user_id": 1386923604,
+                "source_user_id_str": "1386923604"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 968200756523397120,
+        "id_str": "968200756523397120",
+        "name": "\ud83c\udf52Kakyoin's Boyfriend\ud83c\udf52",
+        "screen_name": "Rzer0w",
+        "location": "\u2606Universe\u2606",
+        "description": "/ / \u2606 Heir of Space \u2606 / / \ud83c\udf1c Dersian \ud83c\udf1c / / Match with:@TheRukesu / /\u2666@TheMuseLyzzie / /\u2666@Sellseetos / /\u2666@TheRukesu / /",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1101,
+        "friends_count": 1199,
+        "listed_count": 12,
+        "created_at": "Mon Feb 26 19:07:03 +0000 2018",
+        "favourites_count": 15662,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7847,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256050490095349765/Nfvo81ES_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256050490095349765/Nfvo81ES_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/968200756523397120/1588354657",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:38:18 +0000 2020",
+        "id": 1256744859907567617,
+        "id_str": "1256744859907567617",
+        "text": "Vc disse os arrombados?\n\n#OSegredoNaFloresta https://t.co/Sxsr1lUEoP",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        25,
+                        44
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256744857441353729,
+                    "id_str": "1256744857441353729",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDayhEXQAEPmaX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDayhEXQAEPmaX.jpg",
+                    "url": "https://t.co/Sxsr1lUEoP",
+                    "display_url": "pic.twitter.com/Sxsr1lUEoP",
+                    "expanded_url": "https://twitter.com/desastrw/status/1256744859907567617/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1129,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1129,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256744857441353729,
+                    "id_str": "1256744857441353729",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDayhEXQAEPmaX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDayhEXQAEPmaX.jpg",
+                    "url": "https://t.co/Sxsr1lUEoP",
+                    "display_url": "pic.twitter.com/Sxsr1lUEoP",
+                    "expanded_url": "https://twitter.com/desastrw/status/1256744859907567617/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1129,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1129,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1386923604,
+            "id_str": "1386923604",
+            "name": "Liz Stan \u2604\ufe0f #OSegredoNaFloresta \ud83c\udf03",
+            "screen_name": "desastrw",
+            "location": "",
+            "description": "TRIX \nbored",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 104,
+            "friends_count": 353,
+            "listed_count": 1,
+            "created_at": "Sun Apr 28 13:16:30 +0000 2013",
+            "favourites_count": 41347,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4651,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246612143363043336/YdoeFd8d_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246612143363043336/YdoeFd8d_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1386923604/1586050466",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

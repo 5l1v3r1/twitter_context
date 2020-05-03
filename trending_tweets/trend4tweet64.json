@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:42:10 +0000 2020",
+    "id": 1256745833854308361,
+    "id_str": "1256745833854308361",
+    "text": "a\u015fk\u0131nla co\u015fkunla sen hep \u00e7ok ya\u015fa!\n#efsane113yas\u0131nda https://t.co/lgpXTUnO1T",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "efsane113yas\u0131nda",
+                "indices": [
+                    35,
+                    52
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745818163425280,
+                "id_str": "1256745818163425280",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbqcCWsAA_cm3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbqcCWsAA_cm3.jpg",
+                "url": "https://t.co/lgpXTUnO1T",
+                "display_url": "pic.twitter.com/lgpXTUnO1T",
+                "expanded_url": "https://twitter.com/04damla13/status/1256745833854308361/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 1136,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 1136,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745818163425280,
+                "id_str": "1256745818163425280",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbqcCWsAA_cm3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbqcCWsAA_cm3.jpg",
+                "url": "https://t.co/lgpXTUnO1T",
+                "display_url": "pic.twitter.com/lgpXTUnO1T",
+                "expanded_url": "https://twitter.com/04damla13/status/1256745833854308361/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 1136,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 1136,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1151239404658315264,
+        "id_str": "1151239404658315264",
+        "name": "Damla",
+        "screen_name": "04damla13",
+        "location": "\u0130stanbul, T\u00fcrkiye",
+        "description": "bo\u015f bele\u015f",
+        "url": "https://t.co/DaF1YPoog4",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/DaF1YPoog4",
+                        "expanded_url": "https://instagram.com/dqmlanaz?https://instagram.com/dqmlanaz?r=nametag",
+                        "display_url": "instagram.com/dqmlanaz?https\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 775,
+        "friends_count": 297,
+        "listed_count": 0,
+        "created_at": "Tue Jul 16 21:17:17 +0000 2019",
+        "favourites_count": 18581,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 168,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256209007800397825/1Uk1Xae__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256209007800397825/1Uk1Xae__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1151239404658315264/1563312643",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

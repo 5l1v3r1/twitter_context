@@ -1,0 +1,192 @@
+{
+    "created_at": "Sun May 03 00:38:30 +0000 2020",
+    "id": 1256744909249232896,
+    "id_str": "1256744909249232896",
+    "text": "Momma, I'm Coming Home\n#AwkwardFuneralSongs\n@MomandMeTags https://t.co/NqOh2E8kuq",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    23,
+                    43
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MomandMeTags",
+                "name": "MomandMeTags",
+                "id": 1117498647984386048,
+                "id_str": "1117498647984386048",
+                "indices": [
+                    44,
+                    57
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744903171686400,
+                "id_str": "1256744903171686400",
+                "indices": [
+                    58,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDa1LbUwAAV-ot.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDa1LbUwAAV-ot.jpg",
+                "url": "https://t.co/NqOh2E8kuq",
+                "display_url": "pic.twitter.com/NqOh2E8kuq",
+                "expanded_url": "https://twitter.com/RtotheTtotheC/status/1256744909249232896/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 244,
+                        "h": 176,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 244,
+                        "h": 176,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 244,
+                        "h": 176,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744903171686400,
+                "id_str": "1256744903171686400",
+                "indices": [
+                    58,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDa1LbUwAAV-ot.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDa1LbUwAAV-ot.jpg",
+                "url": "https://t.co/NqOh2E8kuq",
+                "display_url": "pic.twitter.com/NqOh2E8kuq",
+                "expanded_url": "https://twitter.com/RtotheTtotheC/status/1256744909249232896/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 244,
+                        "h": 176,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 244,
+                        "h": 176,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 244,
+                        "h": 176,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        61,
+                        44
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDa1LbUwAAV-ot.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 27385111,
+        "id_str": "27385111",
+        "name": "Richie the C",
+        "screen_name": "RtotheTtotheC",
+        "location": "",
+        "description": "Twitterature\n#Kaboom.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4634,
+        "friends_count": 5090,
+        "listed_count": 120,
+        "created_at": "Sun Mar 29 05:13:05 +0000 2009",
+        "favourites_count": 130499,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 168055,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/856062917560516610/E2q5XVtX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/856062917560516610/E2q5XVtX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27385111/1366728150",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

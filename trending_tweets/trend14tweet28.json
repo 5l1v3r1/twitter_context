@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:34:35 +0000 2020",
+    "id": 1256743923097239554,
+    "id_str": "1256743923097239554",
+    "text": "RT @smithtiagosmith: Quem nao gosta de armandinho vai se fude, to nem ai",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "smithtiagosmith",
+                "name": "tiagosmithlemedoprado",
+                "id": 752332025219153920,
+                "id_str": "752332025219153920",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 201107290,
+        "id_str": "201107290",
+        "name": "nalu",
+        "screen_name": "naluuuuuuuuuuu",
+        "location": "Itu, S\u00e3o Paulo",
+        "description": "onda - sol - universo - paz      \ud83c\udf31",
+        "url": "https://t.co/CnQZvNqBHJ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/CnQZvNqBHJ",
+                        "expanded_url": "https://medium.com/@nalutomba",
+                        "display_url": "medium.com/@nalutomba",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 310,
+        "friends_count": 189,
+        "listed_count": 0,
+        "created_at": "Mon Oct 11 02:50:00 +0000 2010",
+        "favourites_count": 22075,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28562,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0A6F0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237204586391318529/YcuLWrvD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237204586391318529/YcuLWrvD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/201107290/1587698971",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "83BFDB",
+        "profile_text_color": "242324",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:37:03 +0000 2020",
+        "id": 1256684148825227266,
+        "id_str": "1256684148825227266",
+        "text": "Quem nao gosta de armandinho vai se fude, to nem ai",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 752332025219153920,
+            "id_str": "752332025219153920",
+            "name": "tiagosmithlemedoprado",
+            "screen_name": "smithtiagosmith",
+            "location": "",
+            "description": "Vaz\u00e3o para evolu\u00e7\u00e3o. https://t.co/R50p1CpAuD",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/R50p1CpAuD",
+                            "expanded_url": "http://www.instagram.com/artiagosmith",
+                            "display_url": "instagram.com/artiagosmith",
+                            "indices": [
+                                21,
+                                44
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 92,
+            "friends_count": 490,
+            "listed_count": 0,
+            "created_at": "Mon Jul 11 02:41:47 +0000 2016",
+            "favourites_count": 1310,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1517,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1004430309146988545/k70ZDhcJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1004430309146988545/k70ZDhcJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/752332025219153920/1505414653",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

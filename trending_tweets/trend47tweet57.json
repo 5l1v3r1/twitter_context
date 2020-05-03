@@ -1,0 +1,313 @@
+{
+    "created_at": "Sun May 03 00:34:10 +0000 2020",
+    "id": 1256743820827467777,
+    "id_str": "1256743820827467777",
+    "text": "RT @abialdana1215: El #TeamAlwaysYou tenemos esta joyita de canci\u00f3n\nIT WAS ALWAYS YOU \nIT WAS ALWAYS YOU \n#TeamAlwaysYou https://t.co/mgX1D\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    22,
+                    36
+                ]
+            },
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    106,
+                    120
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "abialdana1215",
+                "name": "abi.aldana",
+                "id": 1203127754306342914,
+                "id_str": "1203127754306342914",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1228164608973660162,
+        "id_str": "1228164608973660162",
+        "name": "Angy Gamboa",
+        "screen_name": "angygamboa3",
+        "location": "Lima, Peru",
+        "description": "19\u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Fri Feb 14 03:50:50 +0000 2020",
+        "favourites_count": 157,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 54,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228164841120006147/89RpJ7Xt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228164841120006147/89RpJ7Xt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228164608973660162/1581653258",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:19:13 +0000 2020",
+        "id": 1256724959566708737,
+        "id_str": "1256724959566708737",
+        "text": "El #TeamAlwaysYou tenemos esta joyita de canci\u00f3n\nIT WAS ALWAYS YOU \nIT WAS ALWAYS YOU \n#TeamAlwaysYou https://t.co/mgX1D4zRc6",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TeamAlwaysYou",
+                    "indices": [
+                        3,
+                        17
+                    ]
+                },
+                {
+                    "text": "TeamAlwaysYou",
+                    "indices": [
+                        87,
+                        101
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256724896006180875,
+                    "id_str": "1256724896006180875",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256724896006180875/pu/img/6_gaZU5UYLiFp9Tr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256724896006180875/pu/img/6_gaZU5UYLiFp9Tr.jpg",
+                    "url": "https://t.co/mgX1D4zRc6",
+                    "display_url": "pic.twitter.com/mgX1D4zRc6",
+                    "expanded_url": "https://twitter.com/abialdana1215/status/1256724959566708737/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256724896006180875,
+                    "id_str": "1256724896006180875",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256724896006180875/pu/img/6_gaZU5UYLiFp9Tr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256724896006180875/pu/img/6_gaZU5UYLiFp9Tr.jpg",
+                    "url": "https://t.co/mgX1D4zRc6",
+                    "display_url": "pic.twitter.com/mgX1D4zRc6",
+                    "expanded_url": "https://twitter.com/abialdana1215/status/1256724959566708737/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 26688,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256724896006180875/pu/vid/320x568/BDkNVrtWjhHm22wR.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256724896006180875/pu/vid/360x640/0wyDm5wYVcClnHCP.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256724896006180875/pu/pl/Y8jiZ63FbpJpMUkF.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256724896006180875/pu/vid/720x1280/LCsXA8enIyuj8e2I.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1203127754306342914,
+            "id_str": "1203127754306342914",
+            "name": "abi.aldana",
+            "screen_name": "abialdana1215",
+            "location": "",
+            "description": "larry 4ever\ud83d\udc9a\ud83d\udc99",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 28,
+            "friends_count": 40,
+            "listed_count": 0,
+            "created_at": "Sat Dec 07 01:43:29 +0000 2019",
+            "favourites_count": 2894,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 799,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250888119974584326/CpbBPh8p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250888119974584326/CpbBPh8p_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1203127754306342914/1587160799",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

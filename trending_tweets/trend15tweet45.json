@@ -1,0 +1,240 @@
+{
+    "created_at": "Sun May 03 00:42:21 +0000 2020",
+    "id": 1256745880809541634,
+    "id_str": "1256745880809541634",
+    "text": "RT @ismailcatakli: Biliyoruz ki ac\u0131m\u0131z\u0131 hafifletmeyecek ama m\u00fcbarek #Ramazan gecesi, #Sahur vaktinde ahdimiz olsun, #Bitlis\u2019de kaybetti\u011fimi\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Ramazan",
+                "indices": [
+                    68,
+                    76
+                ]
+            },
+            {
+                "text": "Sahur",
+                "indices": [
+                    85,
+                    91
+                ]
+            },
+            {
+                "text": "Bitlis",
+                "indices": [
+                    116,
+                    123
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ismailcatakli",
+                "name": "\u0130smail \u00c7ATAKLI",
+                "id": 726321190520930304,
+                "id_str": "726321190520930304",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 936492595,
+        "id_str": "936492595",
+        "name": "R\u0131dvan Gazi Yald\u0131zci",
+        "screen_name": "RYaldzc",
+        "location": "",
+        "description": "Devletimiz var olsun \ud83c\uddf9\ud83c\uddf7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 85,
+        "friends_count": 128,
+        "listed_count": 0,
+        "created_at": "Fri Nov 09 09:21:09 +0000 2012",
+        "favourites_count": 9701,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1309,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183856224749707264/p5sytK-F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183856224749707264/p5sytK-F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/936492595/1401984981",
+        "profile_link_color": "2FA8D4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:35:18 +0000 2020",
+        "id": 1256744104559546372,
+        "id_str": "1256744104559546372",
+        "text": "Biliyoruz ki ac\u0131m\u0131z\u0131 hafifletmeyecek ama m\u00fcbarek #Ramazan gecesi, #Sahur vaktinde ahdimiz olsun, #Bitlis\u2019de kaybett\u2026 https://t.co/qYYlyT9IAk",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Ramazan",
+                    "indices": [
+                        49,
+                        57
+                    ]
+                },
+                {
+                    "text": "Sahur",
+                    "indices": [
+                        66,
+                        72
+                    ]
+                },
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        97,
+                        104
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qYYlyT9IAk",
+                    "expanded_url": "https://twitter.com/i/web/status/1256744104559546372",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 726321190520930304,
+            "id_str": "726321190520930304",
+            "name": "\u0130smail \u00c7ATAKLI",
+            "screen_name": "ismailcatakli",
+            "location": "Ankara, T\u00fcrkiye",
+            "description": "\u0130\u00e7i\u015fleri Bakan Yard\u0131mc\u0131s\u0131 - Vali | Deputy Minister of Turkish Interior Ministry - Governor",
+            "url": "https://t.co/78RkQLxH4O",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/78RkQLxH4O",
+                            "expanded_url": "http://instagram.com/ismail.catakli",
+                            "display_url": "instagram.com/ismail.catakli",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16656,
+            "friends_count": 789,
+            "listed_count": 17,
+            "created_at": "Sat Apr 30 08:04:01 +0000 2016",
+            "favourites_count": 1019,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 2273,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248622635572854794/a2G_UUX8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248622635572854794/a2G_UUX8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/726321190520930304/1544774627",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 74,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

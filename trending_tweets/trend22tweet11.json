@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:42:50 +0000 2020",
+    "id": 1256746002645540864,
+    "id_str": "1256746002645540864",
+    "text": "RT @greensinspa: I dunno but would suspect a failure in leadership occurs when a Minister resorts to playing politics lighting a fuse to bl\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "greensinspa",
+                "name": "\ud83d\udca7BettyG",
+                "id": 2401117104,
+                "id_str": "2401117104",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2249533080,
+        "id_str": "2249533080",
+        "name": "\ud83d\udca7Valerie Austin",
+        "screen_name": "valarie_austin",
+        "location": "Victoria, Australia",
+        "description": "Architecture",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 143,
+        "friends_count": 252,
+        "listed_count": 5,
+        "created_at": "Tue Dec 17 00:29:38 +0000 2013",
+        "favourites_count": 16884,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9981,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/759129773238923264/ytpD16GI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/759129773238923264/ytpD16GI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2249533080/1469825619",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:34:11 +0000 2020",
+        "id": 1256728724038287360,
+        "id_str": "1256728724038287360",
+        "text": "I dunno but would suspect a failure in leadership occurs when a Minister resorts to playing politics lighting a fus\u2026 https://t.co/5N7sZhVwzx",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/5N7sZhVwzx",
+                    "expanded_url": "https://twitter.com/i/web/status/1256728724038287360",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2401117104,
+            "id_str": "2401117104",
+            "name": "\ud83d\udca7BettyG",
+            "screen_name": "greensinspa",
+            "location": "Sydney Australia",
+            "description": "Nonsense Free Zone Feminist, Social Justice Activism PhD Candidate",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4281,
+            "friends_count": 2986,
+            "listed_count": 129,
+            "created_at": "Fri Mar 21 07:07:40 +0000 2014",
+            "favourites_count": 86249,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 141535,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1023151214085586944/2QpybT_e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023151214085586944/2QpybT_e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2401117104/1490421216",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

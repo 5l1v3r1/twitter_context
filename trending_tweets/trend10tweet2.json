@@ -1,0 +1,200 @@
+{
+    "created_at": "Sun May 03 00:42:45 +0000 2020",
+    "id": 1256745982093488128,
+    "id_str": "1256745982093488128",
+    "text": "RT @Takayamt031127: #\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3 34\n\n\uff65AI\u306f\u8fb2\u696d\u306b\u3082\u9032\u51fa\u3057\u3066\u304d\u305f\n\uff65\u79c1\u670d\u59ff\u306e\u552f\u963f\u3061\u3083\u3093\n\uff65\u6ec5\u306f\u96f7\u306e\u30c7\u30fc\u30bf\u3092\u596a\u3044\u306b\u6765\u305f\n\uff6517\u8a71\u4ee5\u6765\u306e\u30b7\u30e3\u30a4\u30cb\u30f3\u30b0\u30db\u30c3\u30d1\u30fc\n\uff65\u552f\u963f\u3061\u3083\u3093\u306e\u6050\u308d\u3057\u304f\u65e9\u3044\u624b\u5200\n\uff65\u6ec5\u306e\u5143\u306b\u306a\u3063\u305f\u306e\u306f\u6216\u4eba\u306e\u7236\u89aa\n\uff65ZAIA\u30b9\u30da\u30c3\u30af\u66b4\u8d70\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3",
+                "indices": [
+                    20,
+                    31
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Takayamt031127",
+                "name": "\u30bf\u30ab\u30e4@\u30a2\u30cb\u30e1&\u7279\u64ae\u57a2\uff03\u51dbfam",
+                "id": 3305717820,
+                "id_str": "3305717820",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 821257162169065472,
+        "id_str": "821257162169065472",
+        "name": "\u30c9\u30e9\u30a4\u306f\u305f\u307e\u3093\u30cd\u30fc\u30ca\uff21\uff33\uff37",
+        "screen_name": "nenalove0913",
+        "location": "\u30cd\u30fc\u30ca\u3061\u3083\u3093\u306e\u96a3\u306e\u5e2d(\u5927\u5206\u770c)",
+        "description": "@00_MIQANT \u3055\u3093\u304b\u3089\u30cd\u30fc\u30ca\u3061\u3083\u3093\u306e\u53ef\u611b\u3044\u30a2\u30a4\u30b3\u30f3\uff13\u7a2e\u3092\u6708\u6bce\u306b\u4f7f\u308f\u305b\u3066\u9802\u3044\u3066\u307e\u3059( \uff9f\u2200\uff9f)\n\n\u30a8\u30af\u30d0\uff12/\u904a\u622f\u738b/\u30ea\u30f3\u30af\u30b9/\uff36\uff27/\u30c7\u30e5\u30a8\u30de/\u30d7\u30ec\u30a4\u30ba/\u7279\u64ae/\u30c8\u30e9\u30a4\u30a8\u30a4\u30b8\u7b49\u2026\u30b9\u30ed\u30fc\u30cd\u7cfb\u3001\u30a2\u30eb\u30b1\u30fc\u3001\u30d0\u30eb\u30d0\u30c8\u30b9\u7cfb\u7b49\u306e\u9df2\u5c3e\u3055\u3093\u30c7\u30b6\u30a4\u30f3\u304c\u304a\u6c17\u306b\u5165\u308a\u306a\u30f2\u30bf\u30af\u2026#\u305f\u307e\u3093\u30cd\u30fc\u30ca\n\n@jie65uN7C9qCuKt\u2190\u65e7\u57a2",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2497,
+        "friends_count": 2770,
+        "listed_count": 22,
+        "created_at": "Tue Jan 17 07:25:40 +0000 2017",
+        "favourites_count": 87118,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 91891,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255956179894759424/l7JLZJCx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255956179894759424/l7JLZJCx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/821257162169065472/1587079870",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:35:24 +0000 2020",
+        "id": 1256744129393909760,
+        "id_str": "1256744129393909760",
+        "text": "#\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3 34\n\n\uff65AI\u306f\u8fb2\u696d\u306b\u3082\u9032\u51fa\u3057\u3066\u304d\u305f\n\uff65\u79c1\u670d\u59ff\u306e\u552f\u963f\u3061\u3083\u3093\n\uff65\u6ec5\u306f\u96f7\u306e\u30c7\u30fc\u30bf\u3092\u596a\u3044\u306b\u6765\u305f\n\uff6517\u8a71\u4ee5\u6765\u306e\u30b7\u30e3\u30a4\u30cb\u30f3\u30b0\u30db\u30c3\u30d1\u30fc\n\uff65\u552f\u963f\u3061\u3083\u3093\u306e\u6050\u308d\u3057\u304f\u65e9\u3044\u624b\u5200\n\uff65\u6ec5\u306e\u5143\u306b\u306a\u3063\u305f\u306e\u306f\u6216\u4eba\u306e\u7236\u89aa\n\uff65ZAIA\u30b9\u30da\u30c3\u2026 https://t.co/ctzcIGcLIK",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ctzcIGcLIK",
+                    "expanded_url": "https://twitter.com/i/web/status/1256744129393909760",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3305717820,
+            "id_str": "3305717820",
+            "name": "\u30bf\u30ab\u30e4@\u30a2\u30cb\u30e1&\u7279\u64ae\u57a2\uff03\u51dbfam",
+            "screen_name": "Takayamt031127",
+            "location": "",
+            "description": "\u30a2\u30cb\u30e1/\u7279\u64ae\u304c\u5927\u597d\u304d\u57a2\n\n#\u30a2\u30cb\u30e1\u57a2\u3068\u7e4b\u304c\u308a\u305f\u3044\n#\u7279\u64ae\u597d\u304d\u3068\u7e4b\u304c\u308a\u305f\u3044\n\n\u8da3\u5473\u304c\u5408\u3046\u4eba\u30d5\u30a9\u30ed\u30d0100%\n\u8ab0\u3067\u3082\u6c17\u8efd\u306b\u30d5\u30a9\u30ed\u30fc\u3057\u3066\u306d\ud83d\ude0a\n\u7121\u8a00\u30d5\u30a9\u30ed\u30fc\u3092\u304a\u8a31\u3057\u304f\u3060\u3055\u3044\n\n\u7279\u64ae\u30fb\u30a2\u30cb\u30e1\u304c\u597d\u304d\u306a\u4eba\u3068\u4ef2\u826f\u304f\u306a\u308a\u305f\u3044\n\n#\u51dbfam",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9331,
+            "friends_count": 7679,
+            "listed_count": 30,
+            "created_at": "Tue Aug 04 06:38:38 +0000 2015",
+            "favourites_count": 22585,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17647,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1127748794500575233/Z6n4AW7y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127748794500575233/Z6n4AW7y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3305717820/1588316038",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

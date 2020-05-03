@@ -1,0 +1,194 @@
+{
+    "created_at": "Sun May 03 00:38:14 +0000 2020",
+    "id": 1256744843348508674,
+    "id_str": "1256744843348508674",
+    "text": "#AwkwardFuneralSongs\n\nMan in the box https://t.co/vpYvmdDuZz",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    0,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744835563900929,
+                "id_str": "1256744835563900929",
+                "indices": [
+                    37,
+                    60
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDaxPkX0AEdf0c.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDaxPkX0AEdf0c.jpg",
+                "url": "https://t.co/vpYvmdDuZz",
+                "display_url": "pic.twitter.com/vpYvmdDuZz",
+                "expanded_url": "https://twitter.com/Jaberookie/status/1256744843348508674/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 292,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 292,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 292,
+                        "h": 214,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744835563900929,
+                "id_str": "1256744835563900929",
+                "indices": [
+                    37,
+                    60
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDaxPkX0AEdf0c.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDaxPkX0AEdf0c.jpg",
+                "url": "https://t.co/vpYvmdDuZz",
+                "display_url": "pic.twitter.com/vpYvmdDuZz",
+                "expanded_url": "https://twitter.com/Jaberookie/status/1256744843348508674/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 292,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 292,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 292,
+                        "h": 214,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        146,
+                        107
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDaxPkX0AEdf0c.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 451278823,
+        "id_str": "451278823",
+        "name": "Jaberookie",
+        "screen_name": "Jaberookie",
+        "location": "Everywhere,Nowhere",
+        "description": "I like my coffee moist. \nI like my comedy dark.",
+        "url": "https://t.co/z3sngh9mqh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/z3sngh9mqh",
+                        "expanded_url": "https://mobile.twitter.com/search?q=From%3AJaberookie&src=typed_query&f=live",
+                        "display_url": "mobile.twitter.com/search?q=From%\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 822,
+        "friends_count": 1299,
+        "listed_count": 29,
+        "created_at": "Sat Dec 31 07:30:27 +0000 2011",
+        "favourites_count": 2369,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4385,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255514272731463680/L8xjgKNq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255514272731463680/L8xjgKNq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/451278823/1588134774",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

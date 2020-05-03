@@ -1,0 +1,130 @@
+{
+    "created_at": "Sun May 03 00:42:57 +0000 2020",
+    "id": 1256746030403551234,
+    "id_str": "1256746030403551234",
+    "text": "@ProjetoFasx @moacirsalvatore @Bielzau @dougoliverx me sigam por favor \ud83d\udc96 #mansaodaspocs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mansaodaspocs",
+                "indices": [
+                    73,
+                    87
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ProjetoFasx",
+                "name": "Projeto F\u00e3s\ud83c\udfaf",
+                "id": 1217161162682486785,
+                "id_str": "1217161162682486785",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "moacirsalvatore",
+                "name": "Moacir Salvatore",
+                "id": 595407747,
+                "id_str": "595407747",
+                "indices": [
+                    13,
+                    29
+                ]
+            },
+            {
+                "screen_name": "Bielzau",
+                "name": "\ud835\udd87\ud835\udd8e\ud835\udd8a\ud835\udd91",
+                "id": 1040707020444323845,
+                "id_str": "1040707020444323845",
+                "indices": [
+                    30,
+                    38
+                ]
+            },
+            {
+                "screen_name": "dougoliverx",
+                "name": "doug oliver",
+                "id": 709883764579635201,
+                "id_str": "709883764579635201",
+                "indices": [
+                    39,
+                    51
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256733828221108226,
+    "in_reply_to_status_id_str": "1256733828221108226",
+    "in_reply_to_user_id": 1217161162682486785,
+    "in_reply_to_user_id_str": "1217161162682486785",
+    "in_reply_to_screen_name": "ProjetoFasx",
+    "user": {
+        "id": 1157059820266164230,
+        "id_str": "1157059820266164230",
+        "name": "m\u0251nu.",
+        "screen_name": "icaruskcce",
+        "location": "\u2022lmj \u2022nbhd \u2022oned \u20225H",
+        "description": "fan account \u00d7 normani's voice: incomodei",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2167,
+        "friends_count": 1584,
+        "listed_count": 10,
+        "created_at": "Thu Aug 01 22:45:33 +0000 2019",
+        "favourites_count": 39020,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27588,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256479873209708544/PX1Dk5XR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256479873209708544/PX1Dk5XR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1157059820266164230/1588403119",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

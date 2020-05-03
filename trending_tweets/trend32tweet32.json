@@ -1,0 +1,111 @@
+{
+    "created_at": "Sun May 03 00:42:11 +0000 2020",
+    "id": 1256745835959705600,
+    "id_str": "1256745835959705600",
+    "text": "\u4e2d\u83ef\u306e\u7a7a\u6bcd\u306e\u30ab\u30bf\u30d1\u30eb\u30c8\u4e0a\u3092\u5411\u3044\u3066\u3044\u308b\u3093\u3060\uff57\n #\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    23,
+                    33
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 62016061,
+        "id_str": "62016061",
+        "name": "neweiji",
+        "screen_name": "neweiji",
+        "location": "\u5ca1\u5c71",
+        "description": "\u80a9\u66f8\u304d\uff1a\u6a2a\u7740\u7269\u306e\u93e1\r\nhttp://t.co/MJV4bjnurM",
+        "url": "https://t.co/Gonr01rM9u",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Gonr01rM9u",
+                        "expanded_url": "http://ven84430.blog133.fc2.com/",
+                        "display_url": "ven84430.blog133.fc2.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "http://t.co/MJV4bjnurM",
+                        "expanded_url": "http://twitpic.com/photos/neweiji",
+                        "display_url": "twitpic.com/photos/neweiji",
+                        "indices": [
+                            11,
+                            33
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 109,
+        "friends_count": 136,
+        "listed_count": 20,
+        "created_at": "Sat Aug 01 11:30:24 +0000 2009",
+        "favourites_count": 5118,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18400,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/500546699/000_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/500546699/000_normal.jpg",
+        "profile_link_color": "C90043",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "492394",
+        "profile_text_color": "010301",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

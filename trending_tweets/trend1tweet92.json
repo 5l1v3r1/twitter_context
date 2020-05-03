@@ -1,0 +1,286 @@
+{
+    "created_at": "Sun May 03 00:42:12 +0000 2020",
+    "id": 1256745839797641219,
+    "id_str": "1256745839797641219",
+    "text": "RT @OficialAvioes: @suamusica @XandAviao @WaguimEliteCds T\u00f4 de olho\ud83d\udc40 #SkolNoModoXandAviao",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SkolNoModoXandAviao",
+                "indices": [
+                    69,
+                    89
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "OficialAvioes",
+                "name": "Avi\u00f5es",
+                "id": 93879817,
+                "id_str": "93879817",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "suamusica",
+                "name": "SuaMusica.com.br",
+                "id": 196314090,
+                "id_str": "196314090",
+                "indices": [
+                    19,
+                    29
+                ]
+            },
+            {
+                "screen_name": "XandAviao",
+                "name": "XAND AVI\u00c3O",
+                "id": 162211380,
+                "id_str": "162211380",
+                "indices": [
+                    30,
+                    40
+                ]
+            },
+            {
+                "screen_name": "WaguimEliteCds",
+                "name": "Wagner Barbosa Filho",
+                "id": 50202649,
+                "id_str": "50202649",
+                "indices": [
+                    41,
+                    56
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 196314090,
+        "id_str": "196314090",
+        "name": "SuaMusica.com.br",
+        "screen_name": "suamusica",
+        "location": "",
+        "description": "A maior plataforma de m\u00fasicas para artistas independentes! Download e streaming gr\u00e1tis! Instagram: @SuaMusica / YouTube: https://t.co/1Cq0q2loRE",
+        "url": "https://t.co/4TuSMdoQGL",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/4TuSMdoQGL",
+                        "expanded_url": "http://www.suamusica.com.br",
+                        "display_url": "suamusica.com.br",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1Cq0q2loRE",
+                        "expanded_url": "http://youtube.com/suamusica",
+                        "display_url": "youtube.com/suamusica",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 35186,
+        "friends_count": 1902,
+        "listed_count": 36,
+        "created_at": "Tue Sep 28 20:58:14 +0000 2010",
+        "favourites_count": 914,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 416624,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D7F1FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240710840170557440/YM-o-ZtL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240710840170557440/YM-o-ZtL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196314090/1584643492",
+        "profile_link_color": "00384D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "1A191A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:10 +0000 2020",
+        "id": 1256745330424586243,
+        "id_str": "1256745330424586243",
+        "text": "@suamusica @XandAviao @WaguimEliteCds T\u00f4 de olho\ud83d\udc40 #SkolNoModoXandAviao",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SkolNoModoXandAviao",
+                    "indices": [
+                        50,
+                        70
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "suamusica",
+                    "name": "SuaMusica.com.br",
+                    "id": 196314090,
+                    "id_str": "196314090",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "XandAviao",
+                    "name": "XAND AVI\u00c3O",
+                    "id": 162211380,
+                    "id_str": "162211380",
+                    "indices": [
+                        11,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "WaguimEliteCds",
+                    "name": "Wagner Barbosa Filho",
+                    "id": 50202649,
+                    "id_str": "50202649",
+                    "indices": [
+                        22,
+                        37
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1256745010957090818,
+        "in_reply_to_status_id_str": "1256745010957090818",
+        "in_reply_to_user_id": 196314090,
+        "in_reply_to_user_id_str": "196314090",
+        "in_reply_to_screen_name": "suamusica",
+        "user": {
+            "id": 93879817,
+            "id_str": "93879817",
+            "name": "Avi\u00f5es",
+            "screen_name": "OficialAvioes",
+            "location": "Brasil",
+            "description": "Twitter atualizado pela Assessoria e equipe do site oficial do Avi\u00f5es. Siga @xandaviao #Comandante \u274c\u2708",
+            "url": "https://t.co/oZ1UIn2W6i",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/oZ1UIn2W6i",
+                            "expanded_url": "http://youtube.com/xandaviao",
+                            "display_url": "youtube.com/xandaviao",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 708448,
+            "friends_count": 79,
+            "listed_count": 712,
+            "created_at": "Tue Dec 01 15:25:47 +0000 2009",
+            "favourites_count": 2546,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 35125,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254822169319702531/6rzWpuYT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254822169319702531/6rzWpuYT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/93879817/1587996482",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

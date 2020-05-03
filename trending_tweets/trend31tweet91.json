@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:40:34 +0000 2020",
+    "id": 1256745432044232711,
+    "id_str": "1256745432044232711",
+    "text": "RT @GUCCIJlMIN: don\u2019t trust a single man in this #WEAREINPAYNE https://t.co/jG9Yos3PHI",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WEAREINPAYNE",
+                "indices": [
+                    49,
+                    62
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GUCCIJlMIN",
+                "name": "jenna\u2077 JUNGKOOK",
+                "id": 863920751774244864,
+                "id_str": "863920751774244864",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256723188714782720,
+                "id_str": "1256723188714782720",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDHFOxXQAAAw07.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDHFOxXQAAAw07.jpg",
+                "url": "https://t.co/jG9Yos3PHI",
+                "display_url": "pic.twitter.com/jG9Yos3PHI",
+                "expanded_url": "https://twitter.com/GUCCIJlMIN/status/1256723203273170950/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 780,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 442,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1125,
+                        "h": 1731,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256723203273170950,
+                "source_status_id_str": "1256723203273170950",
+                "source_user_id": 863920751774244864,
+                "source_user_id_str": "863920751774244864"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256723188714782720,
+                "id_str": "1256723188714782720",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDHFOxXQAAAw07.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDHFOxXQAAAw07.jpg",
+                "url": "https://t.co/jG9Yos3PHI",
+                "display_url": "pic.twitter.com/jG9Yos3PHI",
+                "expanded_url": "https://twitter.com/GUCCIJlMIN/status/1256723203273170950/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 780,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 442,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1125,
+                        "h": 1731,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256723203273170950,
+                "source_status_id_str": "1256723203273170950",
+                "source_user_id": 863920751774244864,
+                "source_user_id_str": "863920751774244864"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 973384066824318976,
+        "id_str": "973384066824318976",
+        "name": "theo !",
+        "screen_name": "tgummy_smile",
+        "location": "they/them",
+        "description": "use to be a normal twt acc\nthen i turned into a mcr/frank iero stan twt\nnow bts/min yoongi stan twt",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 86,
+        "friends_count": 1032,
+        "listed_count": 0,
+        "created_at": "Tue Mar 13 02:23:40 +0000 2018",
+        "favourites_count": 19708,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4721,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245858652441006081/cNAdMr7b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245858652441006081/cNAdMr7b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/973384066824318976/1585870825",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:12:15 +0000 2020",
+        "id": 1256723203273170950,
+        "id_str": "1256723203273170950",
+        "text": "don\u2019t trust a single man in this #WEAREINPAYNE https://t.co/jG9Yos3PHI",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WEAREINPAYNE",
+                    "indices": [
+                        33,
+                        46
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256723188714782720,
+                    "id_str": "1256723188714782720",
+                    "indices": [
+                        47,
+                        70
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDHFOxXQAAAw07.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDHFOxXQAAAw07.jpg",
+                    "url": "https://t.co/jG9Yos3PHI",
+                    "display_url": "pic.twitter.com/jG9Yos3PHI",
+                    "expanded_url": "https://twitter.com/GUCCIJlMIN/status/1256723203273170950/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 780,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 442,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1125,
+                            "h": 1731,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256723188714782720,
+                    "id_str": "1256723188714782720",
+                    "indices": [
+                        47,
+                        70
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDHFOxXQAAAw07.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDHFOxXQAAAw07.jpg",
+                    "url": "https://t.co/jG9Yos3PHI",
+                    "display_url": "pic.twitter.com/jG9Yos3PHI",
+                    "expanded_url": "https://twitter.com/GUCCIJlMIN/status/1256723203273170950/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 780,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 442,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1125,
+                            "h": 1731,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 863920751774244864,
+            "id_str": "863920751774244864",
+            "name": "jenna\u2077 JUNGKOOK",
+            "screen_name": "GUCCIJlMIN",
+            "location": "",
+            "description": "ugh!",
+            "url": "https://t.co/T7x485DFal",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/T7x485DFal",
+                            "expanded_url": "https://curiouscat.me/GUCCIJlMIN",
+                            "display_url": "curiouscat.me/GUCCIJlMIN",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2278,
+            "friends_count": 1078,
+            "listed_count": 34,
+            "created_at": "Mon May 15 00:55:32 +0000 2017",
+            "favourites_count": 67254,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 50791,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256654202429939713/XpzSnZGZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256654202429939713/XpzSnZGZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/863920751774244864/1588444659",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 31,
+        "favorite_count": 302,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

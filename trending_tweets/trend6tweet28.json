@@ -1,0 +1,173 @@
+{
+    "created_at": "Sun May 03 00:39:39 +0000 2020",
+    "id": 1256745197901426688,
+    "id_str": "1256745197901426688",
+    "text": "Gino e Geno! Pra lembrar do meu av\u00f4..\ud83d\ude0d https://t.co/hEFMfZjGT6",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744914676744192,
+                "id_str": "1256744914676744192",
+                "indices": [
+                    39,
+                    62
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDa12SWAAA0f0q.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDa12SWAAA0f0q.jpg",
+                "url": "https://t.co/hEFMfZjGT6",
+                "display_url": "pic.twitter.com/hEFMfZjGT6",
+                "expanded_url": "https://twitter.com/novackborges/status/1256745197901426688/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1152,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744914676744192,
+                "id_str": "1256744914676744192",
+                "indices": [
+                    39,
+                    62
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDa12SWAAA0f0q.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDa12SWAAA0f0q.jpg",
+                "url": "https://t.co/hEFMfZjGT6",
+                "display_url": "pic.twitter.com/hEFMfZjGT6",
+                "expanded_url": "https://twitter.com/novackborges/status/1256745197901426688/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1152,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 709362296758390784,
+        "id_str": "709362296758390784",
+        "name": "The Novack\u00b0",
+        "screen_name": "novackborges",
+        "location": "Distrito Federal, Brasil",
+        "description": "Cat\u00f3lico Apost\u00f3lico Romano \u26ea Filho de Maria 25,\n\ud83d\udccdBAIANO\\GOIANO \ud83d\ude0e\ud83e\udd20\nDe sangue CRUZMALTINO.. VASCO/+/",
+        "url": "https://t.co/7xOyxILJJf",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7xOyxILJJf",
+                        "expanded_url": "https://www.facebook.com/novack.renato?ref=bookmarks",
+                        "display_url": "facebook.com/novack.renato?\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 207,
+        "friends_count": 223,
+        "listed_count": 1,
+        "created_at": "Mon Mar 14 12:55:25 +0000 2016",
+        "favourites_count": 1409,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1631,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246217153457598465/D0ns9hnO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246217153457598465/D0ns9hnO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/709362296758390784/1506681875",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

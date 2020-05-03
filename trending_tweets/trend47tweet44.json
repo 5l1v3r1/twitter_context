@@ -1,0 +1,367 @@
+{
+    "created_at": "Sun May 03 00:36:00 +0000 2020",
+    "id": 1256744282909704193,
+    "id_str": "1256744282909704193",
+    "text": "RT @biebsrell: \u00a1Falta una hora, gente!\n\nRespondan 10 veces usando \"IT WAS ALWAYS YOU\", #TeamAlwaysYou y #WallsOlympics https://t.co/Pu6cfqY\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    87,
+                    101
+                ]
+            },
+            {
+                "text": "WallsOlympics",
+                "indices": [
+                    104,
+                    118
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "biebsrell",
+                "name": "larrysoul \ud83c\uddf2\ud83c\uddfd \u2022 calm",
+                "id": 812906263084466176,
+                "id_str": "812906263084466176",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1228164608973660162,
+        "id_str": "1228164608973660162",
+        "name": "Angy Gamboa",
+        "screen_name": "angygamboa3",
+        "location": "Lima, Peru",
+        "description": "19\u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 9,
+        "listed_count": 0,
+        "created_at": "Fri Feb 14 03:50:50 +0000 2020",
+        "favourites_count": 157,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 54,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228164841120006147/89RpJ7Xt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228164841120006147/89RpJ7Xt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228164608973660162/1581653258",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:57:12 +0000 2020",
+        "id": 1256719416483610624,
+        "id_str": "1256719416483610624",
+        "text": "\u00a1Falta una hora, gente!\n\nRespondan 10 veces usando \"IT WAS ALWAYS YOU\", #TeamAlwaysYou y #WallsOlympics https://t.co/Pu6cfqYeie",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TeamAlwaysYou",
+                    "indices": [
+                        72,
+                        86
+                    ]
+                },
+                {
+                    "text": "WallsOlympics",
+                    "indices": [
+                        89,
+                        103
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256719376759304193,
+                    "id_str": "1256719376759304193",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDDnWIWsAEDc0p.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDDnWIWsAEDc0p.jpg",
+                    "url": "https://t.co/Pu6cfqYeie",
+                    "display_url": "pic.twitter.com/Pu6cfqYeie",
+                    "expanded_url": "https://twitter.com/biebsrell/status/1256719416483610624/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256719376759304193,
+                    "id_str": "1256719376759304193",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDDnWIWsAEDc0p.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDDnWIWsAEDc0p.jpg",
+                    "url": "https://t.co/Pu6cfqYeie",
+                    "display_url": "pic.twitter.com/Pu6cfqYeie",
+                    "expanded_url": "https://twitter.com/biebsrell/status/1256719416483610624/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256719379666001925,
+                    "id_str": "1256719379666001925",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDDng9XYAUcQ5r.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDDng9XYAUcQ5r.jpg",
+                    "url": "https://t.co/Pu6cfqYeie",
+                    "display_url": "pic.twitter.com/Pu6cfqYeie",
+                    "expanded_url": "https://twitter.com/biebsrell/status/1256719416483610624/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256719394425765896,
+                    "id_str": "1256719394425765896",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDDoX8XgAggDVH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDDoX8XgAggDVH.jpg",
+                    "url": "https://t.co/Pu6cfqYeie",
+                    "display_url": "pic.twitter.com/Pu6cfqYeie",
+                    "expanded_url": "https://twitter.com/biebsrell/status/1256719416483610624/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 812906263084466176,
+            "id_str": "812906263084466176",
+            "name": "larrysoul \ud83c\uddf2\ud83c\uddfd \u2022 calm",
+            "screen_name": "biebsrell",
+            "location": "groff\u2022samberg\u2022gaga",
+            "description": "\u00abDon't fuck with my freedom\u00bb || So many rock bands for one bio. ----------- @ughesm \u2661 -----------",
+            "url": "https://t.co/czkI8KNrGX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/czkI8KNrGX",
+                            "expanded_url": "http://lm-5sos-halsey.xn--c5h/",
+                            "display_url": "lm-5sos-halsey.\u263e",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33194,
+            "friends_count": 16997,
+            "listed_count": 219,
+            "created_at": "Sun Dec 25 06:22:10 +0000 2016",
+            "favourites_count": 66635,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254240786994118656/s3R8QP6t_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254240786994118656/s3R8QP6t_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/812906263084466176/1508894753",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 44,
+        "favorite_count": 83,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 44,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

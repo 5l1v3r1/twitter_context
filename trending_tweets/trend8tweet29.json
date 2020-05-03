@@ -1,0 +1,210 @@
+{
+    "created_at": "Sun May 03 00:42:40 +0000 2020",
+    "id": 1256745959368921088,
+    "id_str": "1256745959368921088",
+    "text": "RT @hoscass: Engra\u00e7ado que os dois v\u00eddeos IC\u00d4NICOS postados pelo Jungkook nesse site foi usando essa camisa... \n\nCamisa da sorte \u00e9 pros fra\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "hoscass",
+                "name": "\ud835\udcab\ud835\udcb6\ud835\udcc3\u2079\u00b2'\u2661",
+                "id": 1063560685597204480,
+                "id_str": "1063560685597204480",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1162116655482396679,
+        "id_str": "1162116655482396679",
+        "name": "\ud835\udc8d\ud835\udc82\ud835\udc93\ud835\udc8a\ud835\udc89\u2077\uf894",
+        "screen_name": "btsflyw",
+        "location": "  aRMy  | \u2022\u0493\u1d00\u0274 \u1d00\u1d04\u1d04\u1d0f\u1d1c\u0274\u1d1b\u2022 |",
+        "description": "\u262a\ufe0e\u22c6 #\ubc29\ud0c4\uc18c\ub144\ub2e8  \u2022 \ud835\udff3\u2032\uc77c\uacf1 \u22c5 \ud835\uddd0\ud835\uddbe \ud835\uddd0\ud835\uddbe\ud835\uddcb\ud835\uddbe \ud835\uddfc\ud835\uddfb\ud835\uddf9\ud835\ude06 \ud835\ude00\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddfb, \ud835\uddbb\ud835\uddce\ud835\uddcd\u205f\ud835\uddd0\ud835\uddbe\u205f\ud835\uddc1\ud835\uddba\ud835\uddcf\ud835\uddbe \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddee\ud835\uddf9\ud835\uddf9 \ud835\uddfb\ud835\uddfc\ud835\ude04. \u2726 @BTS_twt",
+        "url": "https://t.co/cLeA3kGlYX",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/cLeA3kGlYX",
+                        "expanded_url": "https://ot7.xn--9e8d",
+                        "display_url": "ot7.\ud80c\udf6f",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3300,
+        "friends_count": 3140,
+        "listed_count": 5,
+        "created_at": "Thu Aug 15 21:39:36 +0000 2019",
+        "favourites_count": 59703,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 60679,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237081803762081792/Hls4jNQH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237081803762081792/Hls4jNQH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1162116655482396679/1588025711",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:45:20 +0000 2020",
+        "id": 1256716429711286272,
+        "id_str": "1256716429711286272",
+        "text": "Engra\u00e7ado que os dois v\u00eddeos IC\u00d4NICOS postados pelo Jungkook nesse site foi usando essa camisa... \n\nCamisa da sorte\u2026 https://t.co/rUl6ksXO3p",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/rUl6ksXO3p",
+                    "expanded_url": "https://twitter.com/i/web/status/1256716429711286272",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1063560685597204480,
+            "id_str": "1063560685597204480",
+            "name": "\ud835\udcab\ud835\udcb6\ud835\udcc3\u2079\u00b2'\u2661",
+            "screen_name": "hoscass",
+            "location": "Magic shop \u2661",
+            "description": "#\ubc18\ub2e8\uc18c\ub144\ub2e8 \u208a\u02da.\u0f04 you remind me of the color yellow, and all the happy things that comes with it. \u2740*\u0cc3 (\u2741\u1d17\u0348\u02ec\u1d17\u0348)  \u0f09\u2027\u208a\u02da\u2727 { Fan account } \u2661*:.\u2727",
+            "url": "https://t.co/BGN357ulP2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BGN357ulP2",
+                            "expanded_url": "http://vante.xn--r4h",
+                            "display_url": "vante.\u262a",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 26754,
+            "friends_count": 14558,
+            "listed_count": 22,
+            "created_at": "Fri Nov 16 22:33:22 +0000 2018",
+            "favourites_count": 33646,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 17209,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245175124829052928/sOU_Wz-J_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245175124829052928/sOU_Wz-J_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063560685597204480/1585707887",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 145,
+        "favorite_count": 492,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 145,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

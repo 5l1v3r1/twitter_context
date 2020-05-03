@@ -1,0 +1,508 @@
+{
+    "created_at": "Sun May 03 00:42:20 +0000 2020",
+    "id": 1256745875919028228,
+    "id_str": "1256745875919028228",
+    "text": "RT @Ahura1907: Heybetinden s\u0131\u011fd\u0131ramad\u0131k seni yere g\u00f6\u011fe @Fenerbahce\n\n#Efsane113Ya\u015f\u0131nda https://t.co/9LqLD8DF2J",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113Ya\u015f\u0131nda",
+                "indices": [
+                    68,
+                    85
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ahura1907",
+                "name": "Yusuf",
+                "id": 803338100,
+                "id_str": "803338100",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Fenerbahce",
+                "name": "Fenerbah\u00e7e SK - \ud83c\udfe0#EvdeKal",
+                "id": 11525172,
+                "id_str": "11525172",
+                "indices": [
+                    55,
+                    66
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1209694653274042368,
+                "id_str": "1209694653274042368",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209694653274042368/pu/img/OSP4oXsYCVqw067o.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209694653274042368/pu/img/OSP4oXsYCVqw067o.jpg",
+                "url": "https://t.co/9LqLD8DF2J",
+                "display_url": "pic.twitter.com/9LqLD8DF2J",
+                "expanded_url": "https://twitter.com/Ahura1907/status/1256699495938654208/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256699495938654208,
+                "source_status_id_str": "1256699495938654208",
+                "source_user_id": 803338100,
+                "source_user_id_str": "803338100"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1209694653274042368,
+                "id_str": "1209694653274042368",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209694653274042368/pu/img/OSP4oXsYCVqw067o.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209694653274042368/pu/img/OSP4oXsYCVqw067o.jpg",
+                "url": "https://t.co/9LqLD8DF2J",
+                "display_url": "pic.twitter.com/9LqLD8DF2J",
+                "expanded_url": "https://twitter.com/Ahura1907/status/1256699495938654208/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256699495938654208,
+                "source_status_id_str": "1256699495938654208",
+                "source_user_id": 803338100,
+                "source_user_id_str": "803338100",
+                "video_info": {
+                    "aspect_ratio": [
+                        20,
+                        11
+                    ],
+                    "duration_millis": 135100,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1209694653274042368/pu/pl/hAkRuORGAsqzyiej.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1209694653274042368/pu/vid/640x352/XrV-rN0XErCkloi8.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1209694653274042368/pu/vid/490x270/8dJlL_gY6SpO3a60.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "title": "",
+                    "description": "",
+                    "embeddable": true,
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 803338100,
+                        "id_str": "803338100",
+                        "name": "Yusuf",
+                        "screen_name": "Ahura1907",
+                        "location": "\u0130stanbul, T\u00fcrkiye",
+                        "description": "\u028f\u1d00\u1d18\u0280\u1d00\u1d0b \u1d05\u00f6\u1d0b\u1d07\u0280 \u0299\u026a\u0280 \u028f\u1d00\u0274\u0131\u1d0d\u0131\u1d22 \u0299\u026a\u0280 \u028f\u1d00\u0274\u0131\u1d0d\u0131\u1d22 \u0493\u1d07\u0274\u1d07\u0280\u0299\u1d00\u029c\u00e7\u1d07 @Fenerbahce",
+                        "url": "https://t.co/VyOuRY1jpz",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/VyOuRY1jpz",
+                                        "expanded_url": "http://fenerbahce.org",
+                                        "display_url": "fenerbahce.org",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 11481,
+                        "friends_count": 11408,
+                        "listed_count": 2,
+                        "created_at": "Tue Sep 04 22:26:57 +0000 2012",
+                        "favourites_count": 104020,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 6702,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1253702292265631745/pHAttCzW_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253702292265631745/pHAttCzW_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/803338100/1583880129",
+                        "profile_link_color": "1B95E0",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "000000",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1080536933976231936,
+        "id_str": "1080536933976231936",
+        "name": "Markus Berk",
+        "screen_name": "berkkcirik",
+        "location": "\u00c7anakkale, T\u00fcrkiye",
+        "description": "\u00e7om\u00fc",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 71,
+        "listed_count": 0,
+        "created_at": "Wed Jan 02 18:50:55 +0000 2019",
+        "favourites_count": 1042,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 93,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1172179713810403331/57KJm45W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172179713810403331/57KJm45W_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080536933976231936/1546456053",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:38:02 +0000 2020",
+        "id": 1256699495938654208,
+        "id_str": "1256699495938654208",
+        "text": "Heybetinden s\u0131\u011fd\u0131ramad\u0131k seni yere g\u00f6\u011fe @Fenerbahce\n\n#Efsane113Ya\u015f\u0131nda https://t.co/9LqLD8DF2J",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Efsane113Ya\u015f\u0131nda",
+                    "indices": [
+                        53,
+                        70
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Fenerbahce",
+                    "name": "Fenerbah\u00e7e SK - \ud83c\udfe0#EvdeKal",
+                    "id": 11525172,
+                    "id_str": "11525172",
+                    "indices": [
+                        40,
+                        51
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1209694653274042368,
+                    "id_str": "1209694653274042368",
+                    "indices": [
+                        71,
+                        94
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209694653274042368/pu/img/OSP4oXsYCVqw067o.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209694653274042368/pu/img/OSP4oXsYCVqw067o.jpg",
+                    "url": "https://t.co/9LqLD8DF2J",
+                    "display_url": "pic.twitter.com/9LqLD8DF2J",
+                    "expanded_url": "https://twitter.com/Ahura1907/status/1256699495938654208/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1209694653274042368,
+                    "id_str": "1209694653274042368",
+                    "indices": [
+                        71,
+                        94
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209694653274042368/pu/img/OSP4oXsYCVqw067o.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209694653274042368/pu/img/OSP4oXsYCVqw067o.jpg",
+                    "url": "https://t.co/9LqLD8DF2J",
+                    "display_url": "pic.twitter.com/9LqLD8DF2J",
+                    "expanded_url": "https://twitter.com/Ahura1907/status/1256699495938654208/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            20,
+                            11
+                        ],
+                        "duration_millis": 135100,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1209694653274042368/pu/pl/hAkRuORGAsqzyiej.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1209694653274042368/pu/vid/640x352/XrV-rN0XErCkloi8.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1209694653274042368/pu/vid/490x270/8dJlL_gY6SpO3a60.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 803338100,
+            "id_str": "803338100",
+            "name": "Yusuf",
+            "screen_name": "Ahura1907",
+            "location": "\u0130stanbul, T\u00fcrkiye",
+            "description": "\u028f\u1d00\u1d18\u0280\u1d00\u1d0b \u1d05\u00f6\u1d0b\u1d07\u0280 \u0299\u026a\u0280 \u028f\u1d00\u0274\u0131\u1d0d\u0131\u1d22 \u0299\u026a\u0280 \u028f\u1d00\u0274\u0131\u1d0d\u0131\u1d22 \u0493\u1d07\u0274\u1d07\u0280\u0299\u1d00\u029c\u00e7\u1d07 @Fenerbahce",
+            "url": "https://t.co/VyOuRY1jpz",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VyOuRY1jpz",
+                            "expanded_url": "http://fenerbahce.org",
+                            "display_url": "fenerbahce.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11481,
+            "friends_count": 11408,
+            "listed_count": 2,
+            "created_at": "Tue Sep 04 22:26:57 +0000 2012",
+            "favourites_count": 104020,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6702,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253702292265631745/pHAttCzW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253702292265631745/pHAttCzW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/803338100/1583880129",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 75,
+        "favorite_count": 435,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 75,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

@@ -1,0 +1,225 @@
+{
+    "created_at": "Sun May 03 00:42:33 +0000 2020",
+    "id": 1256745929547362304,
+    "id_str": "1256745929547362304",
+    "text": "RT @carolcuritiba: Todo mundo espera alguma coisa de um s\u00e1bado \u00e0 noite!! \ud83c\udfb6   #LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    77,
+                    86
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "carolcuritiba",
+                "name": "Carolina Curitiba \ud83e\udda5",
+                "id": 42156021,
+                "id_str": "42156021",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 765762781207461888,
+        "id_str": "765762781207461888",
+        "name": "prof@de\u2665\ufe0fnovo",
+        "screen_name": "DCorujas",
+        "location": "Rio de Janeiro, Brasil",
+        "description": "4.0: N\u00e3o sou exemplo de moralidade, casada 2x,  mas sinceridade tem. \nProf de artes com amor,\nm\u00e3e de 3\nhttps://t.co/T4STgjZYMj",
+        "url": "https://t.co/x1t2HLUwgK",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/x1t2HLUwgK",
+                        "expanded_url": "https://curiouscat.me/DCorujas",
+                        "display_url": "curiouscat.me/DCorujas",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/T4STgjZYMj",
+                        "expanded_url": "https://www.instagram.com/dalianacorujas",
+                        "display_url": "instagram.com/dalianacorujas",
+                        "indices": [
+                            103,
+                            126
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1833,
+        "friends_count": 3332,
+        "listed_count": 0,
+        "created_at": "Wed Aug 17 04:10:49 +0000 2016",
+        "favourites_count": 12001,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238632822451077120/VYF5FqKV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238632822451077120/VYF5FqKV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/765762781207461888/1586438805",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:37:48 +0000 2020",
+        "id": 1256744734971899911,
+        "id_str": "1256744734971899911",
+        "text": "Todo mundo espera alguma coisa de um s\u00e1bado \u00e0 noite!! \ud83c\udfb6   #LiveLulu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveLulu",
+                    "indices": [
+                        58,
+                        67
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 42156021,
+            "id_str": "42156021",
+            "name": "Carolina Curitiba \ud83e\udda5",
+            "screen_name": "carolcuritiba",
+            "location": "La La Land",
+            "description": "",
+            "url": "https://t.co/xuLbnjKlzk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xuLbnjKlzk",
+                            "expanded_url": "http://instagram.com/carolcuritiba",
+                            "display_url": "instagram.com/carolcuritiba",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1235,
+            "friends_count": 322,
+            "listed_count": 59,
+            "created_at": "Sun May 24 03:31:15 +0000 2009",
+            "favourites_count": 1747,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 41155,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/958441879690989568/k68ArNzR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/958441879690989568/k68ArNzR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/42156021/1378017191",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "B486D9",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

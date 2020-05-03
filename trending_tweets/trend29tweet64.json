@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:40 +0000 2020",
+    "id": 1256745960325156867,
+    "id_str": "1256745960325156867",
+    "text": "Que inteligente esse jogo de imagens \ud83d\udc4f #LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    39,
+                    48
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1699326978,
+        "id_str": "1699326978",
+        "name": "Karoline Peter",
+        "screen_name": "karolinepeter_",
+        "location": "Herval, Brasil",
+        "description": "\u2648 Ariana \n\ud83c\udde6\ud83c\uddf9 Colorada\n\ud83c\udf99\ufe0f Desde 1997 reclamando das coisas\n\ud83d\udde3\ufe0f Comentadora de jogos e, agora, de lives",
+        "url": "https://t.co/sRIxnRPaRk",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/sRIxnRPaRk",
+                        "expanded_url": "http://instagram.com/karolinepeter",
+                        "display_url": "instagram.com/karolinepeter",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 229,
+        "friends_count": 425,
+        "listed_count": 0,
+        "created_at": "Sun Aug 25 14:35:23 +0000 2013",
+        "favourites_count": 2474,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8101,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251731785186258944/yk27zggX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251731785186258944/yk27zggX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699326978/1533000384",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

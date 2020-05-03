@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:43:00 +0000 2020",
+    "id": 1256746043179483136,
+    "id_str": "1256746043179483136",
+    "text": "RT @victorfyt: \u00bf#TodosContraLaMentiraM lo dicen por el 100% de inflaci\u00f3n,  el 50% de quita en el salario, el 60% de pobreza, el d\u00f3lar a 120\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TodosContraLaMentiraM",
+                "indices": [
+                    16,
+                    38
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "victorfyt",
+                "name": "Dr. Victor Tut\u00fa",
+                "id": 1055431634,
+                "id_str": "1055431634",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3579222736,
+        "id_str": "3579222736",
+        "name": "Nancy Mengual",
+        "screen_name": "NandociNancy",
+        "location": "San Telmo",
+        "description": "Todo lo puedo en Cristo que me fortalece\ud83d\udc99\ud83d\udc99",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1997,
+        "friends_count": 2369,
+        "listed_count": 2,
+        "created_at": "Mon Sep 07 17:40:58 +0000 2015",
+        "favourites_count": 181585,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 176471,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642524161672368128/walWW1Z7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642524161672368128/walWW1Z7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3579222736/1442023938",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:17:31 +0000 2020",
+        "id": 1256739629736304641,
+        "id_str": "1256739629736304641",
+        "text": "\u00bf#TodosContraLaMentiraM lo dicen por el 100% de inflaci\u00f3n,  el 50% de quita en el salario, el 60% de pobreza, el d\u00f3\u2026 https://t.co/PYnQg9bleu",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        1,
+                        23
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PYnQg9bleu",
+                    "expanded_url": "https://twitter.com/i/web/status/1256739629736304641",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1055431634,
+            "id_str": "1055431634",
+            "name": "Dr. Victor Tut\u00fa",
+            "screen_name": "victorfyt",
+            "location": "Everywhere",
+            "description": "El totalitarismo est\u00e1 a la vuelta de la esquina. Depende de nosotros.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 55034,
+            "friends_count": 539,
+            "listed_count": 120,
+            "created_at": "Wed Jan 02 15:52:51 +0000 2013",
+            "favourites_count": 633820,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 217715,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1187525117234024448/V4j_kw7y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187525117234024448/V4j_kw7y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055431634/1574186354",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 71,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

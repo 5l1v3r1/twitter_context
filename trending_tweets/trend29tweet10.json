@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:42:59 +0000 2020",
+    "id": 1256746037705879556,
+    "id_str": "1256746037705879556",
+    "text": "RT @LuluSantos: Hj \u00e0 noite p\u00f5e um look bom-b\u00e1s-ti-co, faz um vd e tagueia a gente q no final vamos fazer um clip e vc pode ser a estrela! Q\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LuluSantos",
+                "name": "Lulu Santos",
+                "id": 123580195,
+                "id_str": "123580195",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 882006556182708224,
+        "id_str": "882006556182708224",
+        "name": "Henrique Dam\u00e1sio",
+        "screen_name": "HenriqueDamasi",
+        "location": "Campinas, SP Brasil\ud83c\udde7\ud83c\uddf7",
+        "description": "\ud83d\ude37\ud83d\ude37\ud83d\ude37\ud83d\ude37\ud83d\ude37",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 77,
+        "friends_count": 1393,
+        "listed_count": 0,
+        "created_at": "Mon Jul 03 22:42:04 +0000 2017",
+        "favourites_count": 3350,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1775,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250787594201333760/7ma-lVm5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250787594201333760/7ma-lVm5_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:48:40 +0000 2020",
+        "id": 1256641772438130696,
+        "id_str": "1256641772438130696",
+        "text": "Hj \u00e0 noite p\u00f5e um look bom-b\u00e1s-ti-co, faz um vd e tagueia a gente q no final vamos fazer um clip e vc pode ser a es\u2026 https://t.co/PzckQhax44",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PzckQhax44",
+                    "expanded_url": "https://twitter.com/i/web/status/1256641772438130696",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 123580195,
+            "id_str": "123580195",
+            "name": "Lulu Santos",
+            "screen_name": "LuluSantos",
+            "location": "Rio de Janeiro, Brasil",
+            "description": "Astrol\u00e1bia\u269c\ufe0f\ud83d\udd31",
+            "url": "https://t.co/5R5u38m37y",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/5R5u38m37y",
+                            "expanded_url": "http://www.lulusantos.com.br",
+                            "display_url": "lulusantos.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1560998,
+            "friends_count": 778,
+            "listed_count": 524,
+            "created_at": "Tue Mar 16 14:53:41 +0000 2010",
+            "favourites_count": 9285,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 13705,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248981220110807040/r_-rKipx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248981220110807040/r_-rKipx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/123580195/1580648385",
+            "profile_link_color": "751E14",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F93205",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 238,
+        "favorite_count": 2280,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 238,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

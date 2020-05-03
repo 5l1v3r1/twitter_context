@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:51 +0000 2020",
+    "id": 1256746005137027072,
+    "id_str": "1256746005137027072",
+    "text": "\u7d75\u672d\u306e\u9854w\n#nitiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    6,
+                    14
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2904025680,
+        "id_str": "2904025680",
+        "name": "\u305f\u3064\u3084@HEARTS",
+        "screen_name": "39108_hearts",
+        "location": "\u3061\u3047\u308b\uff06\u3055\u304a\u308a\u3093\u770c\u306e\u30c6\u30ec\u6771\u304c\u6620\u308b\u5730\u57df",
+        "description": "30\u4ee3\u534a\u3070\u306e\u304a\u3063\u3055\u3093\u3002\u30d9\u30ea\u30ad\u30e5\u30fc\uff06\uff19\u671f\u6eba\u611b\u306e\u30cf\u30ed\u30d7\u30edDD\u3067\u7279\u64ae\u30f2\u30bf\u3002\u30cf\u30ed\u30d7\u30ed\uff06\u7279\u64ae\uff06\u6620\u753b\u57a2(\u5e74\u9593\u65b0\u4f5c\u6620\u753b250\u672c\u4ee5\u4e0a\u9451\u8cde)\u3002\u62d7\u3089\u305b\u6c17\u5473\u3068\u652f\u96e2\u6ec5\u88c2\u306a\u30c4\u30a4\u30fc\u30c8\u304c\u4e3b\u3002\u7279\u64ae\u306f\u4f55\u3067\u3082\u597d\u304d\u3002\u65e5\u66dc\u306e\u671d\u306f\u5b9f\u6cc1\u3067\u8d85\u3046\u308b\u3055\u3044\u3067\u3059\u3002RT\u9b54\u3002\u30a6\u30b6\u3044\u4e8b\u3053\u306e\u4e0a\u306a\u3044\u70ba\u3001\u975e\u30d5\u30a9\u30ed\u30fc\uff06\u30df\u30e5\u30fc\u30c8\u63a8\u5968\u3002\u30d5\u30a9\u30ed\u30d0\u306f\u6c17\u307e\u3050\u308c\u3002FF\u5916\u304b\u3089\u306e\u30ea\u30d7\u306f\u6c17\u4ed8\u304d\u307e\u305b\u3093\u3002",
+        "url": "https://t.co/LDHsHwvAuD",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/LDHsHwvAuD",
+                        "expanded_url": "http://twpf.jp/39108_hearts",
+                        "display_url": "twpf.jp/39108_hearts",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 191,
+        "friends_count": 292,
+        "listed_count": 4,
+        "created_at": "Wed Nov 19 02:20:26 +0000 2014",
+        "favourites_count": 39165,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 95602,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0024FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1067339995621416960/rV1W3EL2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067339995621416960/rV1W3EL2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2904025680/1497825168",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

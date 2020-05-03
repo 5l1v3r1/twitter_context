@@ -1,0 +1,168 @@
+{
+    "created_at": "Sun May 03 00:32:18 +0000 2020",
+    "id": 1256743348427198470,
+    "id_str": "1256743348427198470",
+    "text": "#AguilaEnVivo gracias x alegrar esta tarde, sabemos q entre todos saldremos fortalecidos. Gracias aguila. https://t.co/8dj0cq6clF",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256743338985881605,
+                "id_str": "1256743338985881605",
+                "indices": [
+                    106,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZaIYXgAU4R1J.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZaIYXgAU4R1J.jpg",
+                "url": "https://t.co/8dj0cq6clF",
+                "display_url": "pic.twitter.com/8dj0cq6clF",
+                "expanded_url": "https://twitter.com/AlexanderGrass1/status/1256743348427198470/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 335,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 592,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1010,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256743338985881605,
+                "id_str": "1256743338985881605",
+                "indices": [
+                    106,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZaIYXgAU4R1J.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZaIYXgAU4R1J.jpg",
+                "url": "https://t.co/8dj0cq6clF",
+                "display_url": "pic.twitter.com/8dj0cq6clF",
+                "expanded_url": "https://twitter.com/AlexanderGrass1/status/1256743348427198470/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 335,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 592,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1010,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 356405783,
+        "id_str": "356405783",
+        "name": "pedrograssmvz",
+        "screen_name": "AlexanderGrass1",
+        "location": "barrancabermeja.",
+        "description": "Pedro Alexander Grass Altuve... Medico Veterinario Zootecnista UNIPAZ, Locutor T\u00e9cnico Fedequinas.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 177,
+        "friends_count": 726,
+        "listed_count": 0,
+        "created_at": "Tue Aug 16 20:14:34 +0000 2011",
+        "favourites_count": 539,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 644,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765746365070737414/rhlQVDc8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/765746365070737414/rhlQVDc8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/356405783/1471403134",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,194 @@
+{
+    "created_at": "Sun May 03 00:42:36 +0000 2020",
+    "id": 1256745942260334594,
+    "id_str": "1256745942260334594",
+    "text": "RT @mariantoniazzi_: @rrealityz meu privy vive\n\nTE AMAMOS FELIPE PRIOR",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mariantoniazzi_",
+                "name": "mari \ud83c\udf7b",
+                "id": 1030057255784333312,
+                "id_str": "1030057255784333312",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "rrealityz",
+                "name": "l\u00edvia",
+                "id": 4231200677,
+                "id_str": "4231200677",
+                "indices": [
+                    21,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 823649693154627584,
+        "id_str": "823649693154627584",
+        "name": "Helen \ud83c\udf7a",
+        "screen_name": "helenlameri",
+        "location": "\ud83d\udc68\u200d\u2708\ufe0f",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 334,
+        "friends_count": 603,
+        "listed_count": 0,
+        "created_at": "Mon Jan 23 21:52:44 +0000 2017",
+        "favourites_count": 18606,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 65898,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/954453463513161728/MMxKg5Cr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/954453463513161728/MMxKg5Cr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/823649693154627584/1559189398",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:07:33 +0000 2020",
+        "id": 1256737120129110018,
+        "id_str": "1256737120129110018",
+        "text": "@rrealityz meu privy vive\n\nTE AMAMOS FELIPE PRIOR",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rrealityz",
+                    "name": "l\u00edvia",
+                    "id": 4231200677,
+                    "id_str": "4231200677",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1256733955623129088,
+        "in_reply_to_status_id_str": "1256733955623129088",
+        "in_reply_to_user_id": 4231200677,
+        "in_reply_to_user_id_str": "4231200677",
+        "in_reply_to_screen_name": "rrealityz",
+        "user": {
+            "id": 1030057255784333312,
+            "id_str": "1030057255784333312",
+            "name": "mari \ud83c\udf7b",
+            "screen_name": "mariantoniazzi_",
+            "location": "incoerente e contradit\u00f3ria",
+            "description": "como voc\u00eas gostam de encher o meu saco",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2460,
+            "friends_count": 2083,
+            "listed_count": 4,
+            "created_at": "Thu Aug 16 11:42:42 +0000 2018",
+            "favourites_count": 52459,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 27241,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255872706807029761/YjvWk7QW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255872706807029761/YjvWk7QW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1030057255784333312/1588259715",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

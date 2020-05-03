@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:42:26 +0000 2020",
+    "id": 1256745898513707008,
+    "id_str": "1256745898513707008",
+    "text": "RT @marstakiidunya: \u0130nsana en \u00e7ok \u015fiir yak\u0131\u015f\u0131r, g\u00f6ky\u00fcz\u00fcne ya\u011fmur, sar\u0131ya lacivert.  #Efsane113Ya\u015f\u0131nda https://t.co/7u8yMgaZSC",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113Ya\u015f\u0131nda",
+                "indices": [
+                    84,
+                    101
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "marstakiidunya",
+                "name": "Meri \ud83e\uddda\ud83c\udffd\u200d\u2640\ufe0f",
+                "id": 1219561696609566720,
+                "id_str": "1219561696609566720",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256700191941500929,
+                "id_str": "1256700191941500929",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCyKpHWoAEa0Y3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCyKpHWoAEa0Y3.jpg",
+                "url": "https://t.co/7u8yMgaZSC",
+                "display_url": "pic.twitter.com/7u8yMgaZSC",
+                "expanded_url": "https://twitter.com/marstakiidunya/status/1256700221440102401/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 750,
+                        "h": 1334,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 382,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256700221440102401,
+                "source_status_id_str": "1256700221440102401",
+                "source_user_id": 1219561696609566720,
+                "source_user_id_str": "1219561696609566720"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256700191941500929,
+                "id_str": "1256700191941500929",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCyKpHWoAEa0Y3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCyKpHWoAEa0Y3.jpg",
+                "url": "https://t.co/7u8yMgaZSC",
+                "display_url": "pic.twitter.com/7u8yMgaZSC",
+                "expanded_url": "https://twitter.com/marstakiidunya/status/1256700221440102401/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 750,
+                        "h": 1334,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 382,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256700221440102401,
+                "source_status_id_str": "1256700221440102401",
+                "source_user_id": 1219561696609566720,
+                "source_user_id_str": "1219561696609566720"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1189207028599791616,
+        "id_str": "1189207028599791616",
+        "name": "Aykut Aslanba\u015f",
+        "screen_name": "AslanbasAykut",
+        "location": "",
+        "description": "Psikolojik Dan\u0131\u015fman Rehber \u00d6\u011fretmen Hep Projesi",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 179,
+        "friends_count": 211,
+        "listed_count": 0,
+        "created_at": "Tue Oct 29 15:47:13 +0000 2019",
+        "favourites_count": 1692,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 911,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205234443860021254/9VZmR1Q2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205234443860021254/9VZmR1Q2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1189207028599791616/1572513145",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:40:55 +0000 2020",
+        "id": 1256700221440102401,
+        "id_str": "1256700221440102401",
+        "text": "\u0130nsana en \u00e7ok \u015fiir yak\u0131\u015f\u0131r, g\u00f6ky\u00fcz\u00fcne ya\u011fmur, sar\u0131ya lacivert.  #Efsane113Ya\u015f\u0131nda https://t.co/7u8yMgaZSC",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Efsane113Ya\u015f\u0131nda",
+                    "indices": [
+                        64,
+                        81
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256700191941500929,
+                    "id_str": "1256700191941500929",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCyKpHWoAEa0Y3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCyKpHWoAEa0Y3.jpg",
+                    "url": "https://t.co/7u8yMgaZSC",
+                    "display_url": "pic.twitter.com/7u8yMgaZSC",
+                    "expanded_url": "https://twitter.com/marstakiidunya/status/1256700221440102401/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256700191941500929,
+                    "id_str": "1256700191941500929",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCyKpHWoAEa0Y3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCyKpHWoAEa0Y3.jpg",
+                    "url": "https://t.co/7u8yMgaZSC",
+                    "display_url": "pic.twitter.com/7u8yMgaZSC",
+                    "expanded_url": "https://twitter.com/marstakiidunya/status/1256700221440102401/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1219561696609566720,
+            "id_str": "1219561696609566720",
+            "name": "Meri \ud83e\uddda\ud83c\udffd\u200d\u2640\ufe0f",
+            "screen_name": "marstakiidunya",
+            "location": "",
+            "description": "Fenerbah\u00e7e d\u0131\u015f\u0131nda \u00f6zel hayat\u0131m\u0131z yoktur. Koruyucu Aile,Evlat Edinme Derne\u011fi \u00dcyesi @korevankara",
+            "url": "https://t.co/hdR1N3As66",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/hdR1N3As66",
+                            "expanded_url": "https://www.birliktecinselistismarionleyebiliriz.org",
+                            "display_url": "\u2026liktecinselistismarionleyebiliriz.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 939,
+            "friends_count": 392,
+            "listed_count": 1,
+            "created_at": "Tue Jan 21 10:05:49 +0000 2020",
+            "favourites_count": 7955,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1897,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254879429559570432/kUUsuMTb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254879429559570432/kUUsuMTb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219561696609566720/1587570412",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 36,
+        "favorite_count": 422,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

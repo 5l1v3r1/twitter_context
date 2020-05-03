@@ -1,0 +1,110 @@
+{
+    "created_at": "Sun May 03 00:42:17 +0000 2020",
+    "id": 1256745860932800513,
+    "id_str": "1256745860932800513",
+    "text": "@_ayshaamal @UmarAli53344799 LwKi tosigala Ku battle  ebintu bya corona nabivako \n#NBSSNL",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    82,
+                    89
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_ayshaamal",
+                "name": "_ayshaamal",
+                "id": 1100324428855066624,
+                "id_str": "1100324428855066624",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "UmarAli53344799",
+                "name": "Thugz Mansion",
+                "id": 1247854977277661184,
+                "id_str": "1247854977277661184",
+                "indices": [
+                    12,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256744236797636610,
+    "in_reply_to_status_id_str": "1256744236797636610",
+    "in_reply_to_user_id": 1100324428855066624,
+    "in_reply_to_user_id_str": "1100324428855066624",
+    "in_reply_to_screen_name": "_ayshaamal",
+    "user": {
+        "id": 1130932878286757889,
+        "id_str": "1130932878286757889",
+        "name": "proud journalist/ marketer\ud83c\uddfa\ud83c\uddec",
+        "screen_name": "Sf77644437",
+        "location": "",
+        "description": "journalist, marketer, passionate at women empowerment\nf.B: sylivia focus \nInstagram : sylivia focus \n\nremind me my past @ your risk coz yr not a time machine.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2085,
+        "friends_count": 2105,
+        "listed_count": 2,
+        "created_at": "Tue May 21 20:26:24 +0000 2019",
+        "favourites_count": 7721,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3207,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174096998737285120/4KuRToz5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174096998737285120/4KuRToz5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130932878286757889/1558802487",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

@@ -1,0 +1,168 @@
+{
+    "created_at": "Sun May 03 00:42:09 +0000 2020",
+    "id": 1256745828494049282,
+    "id_str": "1256745828494049282",
+    "text": "Ne Mutlu T\u00fcrk\u00fcm diyene.\n\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc https://t.co/7ZMVC1xykh",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    25,
+                    45
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745817676922880,
+                "id_str": "1256745817676922880",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbqaOXQAAOo6O.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbqaOXQAAOo6O.jpg",
+                "url": "https://t.co/7ZMVC1xykh",
+                "display_url": "pic.twitter.com/7ZMVC1xykh",
+                "expanded_url": "https://twitter.com/Madina7419/status/1256745828494049282/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 648,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1144,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1952,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745817676922880,
+                "id_str": "1256745817676922880",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbqaOXQAAOo6O.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbqaOXQAAOo6O.jpg",
+                "url": "https://t.co/7ZMVC1xykh",
+                "display_url": "pic.twitter.com/7ZMVC1xykh",
+                "expanded_url": "https://twitter.com/Madina7419/status/1256745828494049282/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 648,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1144,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1952,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1219312164852436992,
+        "id_str": "1219312164852436992",
+        "name": "\u00d6zge",
+        "screen_name": "Madina7419",
+        "location": "",
+        "description": "\u00d6\u011fretmen.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 47,
+        "listed_count": 0,
+        "created_at": "Mon Jan 20 17:34:17 +0000 2020",
+        "favourites_count": 333,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 165,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233680741256568834/gkD5OoTC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233680741256568834/gkD5OoTC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219312164852436992/1582234605",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

@@ -1,0 +1,295 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745946530144264,
+    "id_str": "1256745946530144264",
+    "text": "RT @aefakibaba: Ne yaparlarsa yaps\u0131nlar... Biz #BuYoldanD\u00f6nmeyece\u011fiz.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    47,
+                    68
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "aefakibaba",
+                "name": "Ahmet E\u015fref Fak\u0131baba",
+                "id": 3152745814,
+                "id_str": "3152745814",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3357330172,
+        "id_str": "3357330172",
+        "name": "\u0130SMA\u0130L USANMAZ",
+        "screen_name": "IsmailUsanmaz",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 56,
+        "friends_count": 23,
+        "listed_count": 0,
+        "created_at": "Fri Jul 03 18:59:03 +0000 2015",
+        "favourites_count": 189,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 184,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/617045318765391872/aJI1-jqa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/617045318765391872/aJI1-jqa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:45:58 +0000 2020",
+        "id": 1256686393566343170,
+        "id_str": "1256686393566343170",
+        "text": "Ne yaparlarsa yaps\u0131nlar... Biz #BuYoldanD\u00f6nmeyece\u011fiz. https://t.co/FdSjTWGoKo",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        31,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FdSjTWGoKo",
+                    "expanded_url": "https://twitter.com/RTErdogan/status/1256674825814171648",
+                    "display_url": "twitter.com/RTErdogan/stat\u2026",
+                    "indices": [
+                        54,
+                        77
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3152745814,
+            "id_str": "3152745814",
+            "name": "Ahmet E\u015fref Fak\u0131baba",
+            "screen_name": "aefakibaba",
+            "location": "Ankara, \u015eanl\u0131urfa, T\u00fcrkiye",
+            "description": "Genel Cerrahi Uzman\u0131 - \u015eanl\u0131urfa Eski Belediye Ba\u015fkan\u0131 - 25. 26. D\u00f6nem \u015e.Urfa Mv. - 66.H\u00fck\u00fcmet G\u0131da, Tar\u0131m ve Hayvanc\u0131l\u0131k Bakan\u0131 27. D\u00f6nem \u015eanl\u0131urfa Mv.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 235213,
+            "friends_count": 502,
+            "listed_count": 129,
+            "created_at": "Thu Apr 09 20:33:38 +0000 2015",
+            "favourites_count": 836,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 8255,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151111321456390144/v_8IiYhg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151111321456390144/v_8IiYhg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3152745814/1531132309",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256674825814171648,
+        "quoted_status_id_str": "1256674825814171648",
+        "quoted_status": {
+            "created_at": "Sat May 02 20:00:01 +0000 2020",
+            "id": 1256674825814171648,
+            "id_str": "1256674825814171648",
+            "text": "Bizim Allah'a can borcumuzdan, Milletimize hizmet borcumuzdan ba\u015fka kimseye eyvallah\u0131m\u0131z yoktur, olmayacakt\u0131r. \n\nNe\u2026 https://t.co/eQ5zPZqgRW",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/eQ5zPZqgRW",
+                        "expanded_url": "https://twitter.com/i/web/status/1256674825814171648",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "tr"
+            },
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 68034431,
+                "id_str": "68034431",
+                "name": "Recep Tayyip Erdo\u011fan",
+                "screen_name": "RTErdogan",
+                "location": "Ankara, Turkey",
+                "description": "T\u00fcrkiye Cumhurba\u015fkan\u0131 ve AK Parti Genel Ba\u015fkan\u0131 - President of Turkey and AK Party Chairman",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 15833250,
+                "friends_count": 94,
+                "listed_count": 12238,
+                "created_at": "Sun Aug 23 01:13:44 +0000 2009",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 6679,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1151410974240444416/yVvaD7hU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151410974240444416/yVvaD7hU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/68034431/1563352945",
+                "profile_link_color": "1E9EB3",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 42440,
+            "favorite_count": 100765,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "tr"
+        },
+        "retweet_count": 41,
+        "favorite_count": 262,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256674825814171648,
+    "quoted_status_id_str": "1256674825814171648",
+    "retweet_count": 41,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

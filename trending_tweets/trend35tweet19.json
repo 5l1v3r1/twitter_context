@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:42:43 +0000 2020",
+    "id": 1256745970785611776,
+    "id_str": "1256745970785611776",
+    "text": "RT @kurteichenwald: #TheTitleOfTrumpsMemoir I'm Great with the Word's Highest IQ and I Saved America and All the Haters are Losers.\n\n...or,\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    20,
+                    43
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kurteichenwald",
+                "name": "Kurt Eichenwald",
+                "id": 215207998,
+                "id_str": "215207998",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 910178105154609152,
+        "id_str": "910178105154609152",
+        "name": "kae e stoddard",
+        "screen_name": "kae_stoddard",
+        "location": "Colorado, USA",
+        "description": "Graduate of CSU, history major, animal lover, progressive but moderate, AF brat, country before party always, ALL ROADS LEAD TO PUTIN #ILLEGITIMATEPRESIDENT",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8253,
+        "friends_count": 8950,
+        "listed_count": 10,
+        "created_at": "Tue Sep 19 16:25:45 +0000 2017",
+        "favourites_count": 158844,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 103611,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1074052109757083648/PTPGiRD0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074052109757083648/PTPGiRD0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/910178105154609152/1546282790",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:31:35 +0000 2020",
+        "id": 1256728069383086080,
+        "id_str": "1256728069383086080",
+        "text": "#TheTitleOfTrumpsMemoir I'm Great with the Word's Highest IQ and I Saved America and All the Haters are Losers.\n\n..\u2026 https://t.co/Sa9udVYktb",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Sa9udVYktb",
+                    "expanded_url": "https://twitter.com/i/web/status/1256728069383086080",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 215207998,
+            "id_str": "215207998",
+            "name": "Kurt Eichenwald",
+            "screen_name": "kurteichenwald",
+            "location": "",
+            "description": "New York Times bestselling author.",
+            "url": "https://t.co/U47RHolkoG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/U47RHolkoG",
+                            "expanded_url": "http://www.kurteichenwald.com",
+                            "display_url": "kurteichenwald.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 480368,
+            "friends_count": 2177,
+            "listed_count": 5479,
+            "created_at": "Sat Nov 13 08:33:44 +0000 2010",
+            "favourites_count": 383,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 83513,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1075560867951828992/PdJvCxzq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075560867951828992/PdJvCxzq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/215207998/1535573388",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 96,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

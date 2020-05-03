@@ -1,0 +1,92 @@
+{
+    "created_at": "Sun May 03 00:16:46 +0000 2020",
+    "id": 1256739439423959040,
+    "id_str": "1256739439423959040",
+    "text": "\ud83d\udcdb\ud83d\udcdb\ud83d\udcdb\ud83d\udcdb\ud83d\udcdb\ud83d\udcdb\ud83d\udcdb\ud83d\udcdb\n\n*\u0648\u062f\u0627\u0639\u0627 \u0644\u0627\u0644\u0645 \u0627\u0644\u0645\u0639\u062f\u0629 \u0648\u0627\u0644\u0642\u0648\u0644\u0648\u0646*\n\n*\u0646\u0639\u0645 \u0644\u0635\u062d\u0629 \u0627\u0641\u0636\u0644*\n\n*\u0645\u0639 \u0639\u0635\u064a\u0631 \u0627\u0644\u0645\u0639\u062c\u0632\u0629 \u0627\u0644\u0648\u0641\u064a\u0631\u0627 \u0635\u0628\u0627\u0631*\n\n*\u0627\u0637\u0644\u0628\u0629 \u0627\u0644\u0627\u0646 \u0648\u062a\u0645\u062a\u0639 \u0628\u0635\u062d\u0629 \u0627\u0641\u0636\u2026 https://t.co/plkeovBQ3C",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/plkeovBQ3C",
+                "expanded_url": "https://twitter.com/i/web/status/1256739439423959040",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ar",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1246070372362928129,
+        "id_str": "1246070372362928129",
+        "name": "\ud83d\udc9a\u0627\u0644\u062b\u0646\u0627\u0621 \u2066\ud83c\uddf8\ud83c\udde6\u2069\u2066\ud83c\uddf8\ud83c\udde6\u2069",
+        "screen_name": "L9eOY0jDZQZB3IA",
+        "location": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "description": "\u200f\u200e#\u0627\u0644\u062d\u0644\u0645\u2066\u2764\ufe0f\u2069\u200e#\u0633\u064a\u062f \u0627\u0644\u0627\u062e\u0644\u0627\u0642\u2066\u2764\ufe0f\u2069",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 210,
+        "friends_count": 225,
+        "listed_count": 0,
+        "created_at": "Fri Apr 03 13:42:00 +0000 2020",
+        "favourites_count": 5393,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 555,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246926817480585218/tCa0snXc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246926817480585218/tCa0snXc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246070372362928129/1586125495",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ar"
+}

@@ -1,0 +1,454 @@
+{
+    "created_at": "Sun May 03 00:42:41 +0000 2020",
+    "id": 1256745963990978560,
+    "id_str": "1256745963990978560",
+    "text": "RT @travian2626: Reisin de dedi\u011fi gibi,Topunuz gelin #BuYoldanD\u00f6nmeyece\u011fiz https://t.co/8vdssowlR1",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    53,
+                    74
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "travian2626",
+                "name": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7MELEK\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+                "id": 1216604515,
+                "id_str": "1216604515",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256743396351389697,
+                "id_str": "1256743396351389697",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743396351389697/pu/img/rvgGIsp5gaWejiUg.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743396351389697/pu/img/rvgGIsp5gaWejiUg.jpg",
+                "url": "https://t.co/8vdssowlR1",
+                "display_url": "pic.twitter.com/8vdssowlR1",
+                "expanded_url": "https://twitter.com/travian2626/status/1256743522864115713/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743522864115713,
+                "source_status_id_str": "1256743522864115713",
+                "source_user_id": 1216604515,
+                "source_user_id_str": "1216604515"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256743396351389697,
+                "id_str": "1256743396351389697",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743396351389697/pu/img/rvgGIsp5gaWejiUg.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743396351389697/pu/img/rvgGIsp5gaWejiUg.jpg",
+                "url": "https://t.co/8vdssowlR1",
+                "display_url": "pic.twitter.com/8vdssowlR1",
+                "expanded_url": "https://twitter.com/travian2626/status/1256743522864115713/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743522864115713,
+                "source_status_id_str": "1256743522864115713",
+                "source_user_id": 1216604515,
+                "source_user_id_str": "1216604515",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 43333,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743396351389697/pu/vid/640x360/JoNGH9AQJSV92tLm.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743396351389697/pu/vid/480x270/eWrlAVAhR_ETzlZo.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743396351389697/pu/pl/-WT98DFJl4CHsGcd.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1216604515,
+                        "id_str": "1216604515",
+                        "name": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7MELEK\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+                        "screen_name": "travian2626",
+                        "location": "",
+                        "description": "Ne i\u00e7in sava\u015ft\u0131\u011f\u0131na dikkat et!\nbazen huzur i\u00e7inde olmak hakl\u0131 olmaktan\ndaha iyidir...R.Will",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 430,
+                        "friends_count": 327,
+                        "listed_count": 1,
+                        "created_at": "Sun Feb 24 21:24:36 +0000 2013",
+                        "favourites_count": 598,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 1163,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "CC3366",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1253685668934492162/o_7eX4yb_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253685668934492162/o_7eX4yb_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216604515/1580495641",
+                        "profile_link_color": "CC3366",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "E6F6F9",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3431889125,
+        "id_str": "3431889125",
+        "name": "ibrahim Feyzio\u011flu",
+        "screen_name": "IFeyzioglu",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 207,
+        "listed_count": 0,
+        "created_at": "Wed Aug 19 19:12:04 +0000 2015",
+        "favourites_count": 1058,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 608,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640879740367302657/eJos4ffC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640879740367302657/eJos4ffC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:32:59 +0000 2020",
+        "id": 1256743522864115713,
+        "id_str": "1256743522864115713",
+        "text": "Reisin de dedi\u011fi gibi,Topunuz gelin #BuYoldanD\u00f6nmeyece\u011fiz https://t.co/8vdssowlR1",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        36,
+                        57
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256743396351389697,
+                    "id_str": "1256743396351389697",
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743396351389697/pu/img/rvgGIsp5gaWejiUg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743396351389697/pu/img/rvgGIsp5gaWejiUg.jpg",
+                    "url": "https://t.co/8vdssowlR1",
+                    "display_url": "pic.twitter.com/8vdssowlR1",
+                    "expanded_url": "https://twitter.com/travian2626/status/1256743522864115713/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256743396351389697,
+                    "id_str": "1256743396351389697",
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743396351389697/pu/img/rvgGIsp5gaWejiUg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743396351389697/pu/img/rvgGIsp5gaWejiUg.jpg",
+                    "url": "https://t.co/8vdssowlR1",
+                    "display_url": "pic.twitter.com/8vdssowlR1",
+                    "expanded_url": "https://twitter.com/travian2626/status/1256743522864115713/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 43333,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256743396351389697/pu/vid/640x360/JoNGH9AQJSV92tLm.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256743396351389697/pu/vid/480x270/eWrlAVAhR_ETzlZo.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256743396351389697/pu/pl/-WT98DFJl4CHsGcd.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1216604515,
+            "id_str": "1216604515",
+            "name": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7MELEK\ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7",
+            "screen_name": "travian2626",
+            "location": "",
+            "description": "Ne i\u00e7in sava\u015ft\u0131\u011f\u0131na dikkat et!\nbazen huzur i\u00e7inde olmak hakl\u0131 olmaktan\ndaha iyidir...R.Will",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 430,
+            "friends_count": 327,
+            "listed_count": 1,
+            "created_at": "Sun Feb 24 21:24:36 +0000 2013",
+            "favourites_count": 598,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1163,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "CC3366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253685668934492162/o_7eX4yb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253685668934492162/o_7eX4yb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216604515/1580495641",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

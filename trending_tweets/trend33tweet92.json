@@ -1,0 +1,618 @@
+{
+    "created_at": "Sun May 03 00:43:04 +0000 2020",
+    "id": 1256746059411468288,
+    "id_str": "1256746059411468288",
+    "text": "RT @vminggukx: OMG YAAAAAAS I MISSED THEM SO MUCH!!!!!!\n\n #BTSxKCA #KCA2020 @BTS_twt https://t.co/cF44yaO4pi",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BTSxKCA",
+                "indices": [
+                    58,
+                    66
+                ]
+            },
+            {
+                "text": "KCA2020",
+                "indices": [
+                    67,
+                    75
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "vminggukx",
+                "name": "DADDEH \u2077",
+                "id": 1362074610,
+                "id_str": "1362074610",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    76,
+                    84
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256738820759801856,
+                "id_str": "1256738820759801856",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDVTIrU0AAVJ1E.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDVTIrU0AAVJ1E.jpg",
+                "url": "https://t.co/cF44yaO4pi",
+                "display_url": "pic.twitter.com/cF44yaO4pi",
+                "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 375,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 911,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 911,
+                        "h": 502,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738875688407043,
+                "source_status_id_str": "1256738875688407043",
+                "source_user_id": 1362074610,
+                "source_user_id_str": "1362074610"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256738820759801856,
+                "id_str": "1256738820759801856",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDVTIrU0AAVJ1E.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDVTIrU0AAVJ1E.jpg",
+                "url": "https://t.co/cF44yaO4pi",
+                "display_url": "pic.twitter.com/cF44yaO4pi",
+                "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 375,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 911,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 911,
+                        "h": 502,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738875688407043,
+                "source_status_id_str": "1256738875688407043",
+                "source_user_id": 1362074610,
+                "source_user_id_str": "1362074610"
+            },
+            {
+                "id": 1256738820751409153,
+                "id_str": "1256738820751409153",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDVTIpUwAECjtg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDVTIpUwAECjtg.jpg",
+                "url": "https://t.co/cF44yaO4pi",
+                "display_url": "pic.twitter.com/cF44yaO4pi",
+                "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 702,
+                        "h": 386,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 702,
+                        "h": 386,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 374,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738875688407043,
+                "source_status_id_str": "1256738875688407043",
+                "source_user_id": 1362074610,
+                "source_user_id_str": "1362074610"
+            },
+            {
+                "id": 1256738820751454208,
+                "id_str": "1256738820751454208",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDVTIpVcAALvHI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDVTIpVcAALvHI.jpg",
+                "url": "https://t.co/cF44yaO4pi",
+                "display_url": "pic.twitter.com/cF44yaO4pi",
+                "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 375,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 911,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 911,
+                        "h": 502,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738875688407043,
+                "source_status_id_str": "1256738875688407043",
+                "source_user_id": 1362074610,
+                "source_user_id_str": "1362074610"
+            },
+            {
+                "id": 1256738820780773376,
+                "id_str": "1256738820780773376",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDVTIwU0AAbI7y.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDVTIwU0AAbI7y.jpg",
+                "url": "https://t.co/cF44yaO4pi",
+                "display_url": "pic.twitter.com/cF44yaO4pi",
+                "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 375,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 911,
+                        "h": 502,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 911,
+                        "h": 502,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738875688407043,
+                "source_status_id_str": "1256738875688407043",
+                "source_user_id": 1362074610,
+                "source_user_id_str": "1362074610"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1186395434513772544,
+        "id_str": "1186395434513772544",
+        "name": "Kat",
+        "screen_name": "Kasia_Jakub_",
+        "location": "",
+        "description": "StAn BtS oR dIe",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 128,
+        "listed_count": 0,
+        "created_at": "Mon Oct 21 21:35:02 +0000 2019",
+        "favourites_count": 6137,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5585,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245328699806883841/DmgQCatT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245328699806883841/DmgQCatT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186395434513772544/1585744542",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:14:31 +0000 2020",
+        "id": 1256738875688407043,
+        "id_str": "1256738875688407043",
+        "text": "OMG YAAAAAAS I MISSED THEM SO MUCH!!!!!!\n\n #BTSxKCA #KCA2020 @BTS_twt https://t.co/cF44yaO4pi",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BTSxKCA",
+                    "indices": [
+                        43,
+                        51
+                    ]
+                },
+                {
+                    "text": "KCA2020",
+                    "indices": [
+                        52,
+                        60
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BTS_twt",
+                    "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                    "id": 335141638,
+                    "id_str": "335141638",
+                    "indices": [
+                        61,
+                        69
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256738820759801856,
+                    "id_str": "1256738820759801856",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDVTIrU0AAVJ1E.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDVTIrU0AAVJ1E.jpg",
+                    "url": "https://t.co/cF44yaO4pi",
+                    "display_url": "pic.twitter.com/cF44yaO4pi",
+                    "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 911,
+                            "h": 502,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 911,
+                            "h": 502,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256738820759801856,
+                    "id_str": "1256738820759801856",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDVTIrU0AAVJ1E.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDVTIrU0AAVJ1E.jpg",
+                    "url": "https://t.co/cF44yaO4pi",
+                    "display_url": "pic.twitter.com/cF44yaO4pi",
+                    "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 911,
+                            "h": 502,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 911,
+                            "h": 502,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256738820751409153,
+                    "id_str": "1256738820751409153",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDVTIpUwAECjtg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDVTIpUwAECjtg.jpg",
+                    "url": "https://t.co/cF44yaO4pi",
+                    "display_url": "pic.twitter.com/cF44yaO4pi",
+                    "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 702,
+                            "h": 386,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 702,
+                            "h": 386,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 374,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256738820751454208,
+                    "id_str": "1256738820751454208",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDVTIpVcAALvHI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDVTIpVcAALvHI.jpg",
+                    "url": "https://t.co/cF44yaO4pi",
+                    "display_url": "pic.twitter.com/cF44yaO4pi",
+                    "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 911,
+                            "h": 502,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 911,
+                            "h": 502,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256738820780773376,
+                    "id_str": "1256738820780773376",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDVTIwU0AAbI7y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDVTIwU0AAbI7y.jpg",
+                    "url": "https://t.co/cF44yaO4pi",
+                    "display_url": "pic.twitter.com/cF44yaO4pi",
+                    "expanded_url": "https://twitter.com/vminggukx/status/1256738875688407043/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 911,
+                            "h": 502,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 911,
+                            "h": 502,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1362074610,
+            "id_str": "1362074610",
+            "name": "DADDEH \u2077",
+            "screen_name": "vminggukx",
+            "location": "Republic of the Philippines",
+            "description": "yes, I belong to BTS, hbu? | OT7 | Disclaimer: This is purely a FAN ACCOUNT for entertainment purposes only.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33890,
+            "friends_count": 17334,
+            "listed_count": 53,
+            "created_at": "Thu Apr 18 14:36:58 +0000 2013",
+            "favourites_count": 5116,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 34962,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256029433070186497/4v0s55U1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256029433070186497/4v0s55U1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362074610/1588295729",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 353,
+        "favorite_count": 805,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 353,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

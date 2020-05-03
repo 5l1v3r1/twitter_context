@@ -1,0 +1,137 @@
+{
+    "created_at": "Sun May 03 00:42:50 +0000 2020",
+    "id": 1256746000271552513,
+    "id_str": "1256746000271552513",
+    "text": "\u5f7c\u5973\u306b\u3082\u8ca0\u3051\u305f\u304f\u306a\u3044\u6c17\u6301\u3061\u304c\u3042\u308b\u30fb\u30fb\u30fb\uff1f #\u9b54\u9032\u6226\u968a\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc #\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc #SHT #nichiasa #nitiasa #tvasahi",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u9b54\u9032\u6226\u968a\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc",
+                "indices": [
+                    21,
+                    33
+                ]
+            },
+            {
+                "text": "\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc",
+                "indices": [
+                    34,
+                    42
+                ]
+            },
+            {
+                "text": "SHT",
+                "indices": [
+                    43,
+                    47
+                ]
+            },
+            {
+                "text": "nichiasa",
+                "indices": [
+                    48,
+                    57
+                ]
+            },
+            {
+                "text": "nitiasa",
+                "indices": [
+                    58,
+                    66
+                ]
+            },
+            {
+                "text": "tvasahi",
+                "indices": [
+                    67,
+                    75
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://sites.google.com/site/tweentwitterclient/\" rel=\"nofollow\">Tween</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 6257772,
+        "id_str": "6257772",
+        "name": "\u3044\u3057\u3072\u308d",
+        "screen_name": "ishihiro1403",
+        "location": "\u90fd\u5185\u21c4[\u84b2\u7530]\u21c4\u5ddd\u5d0e",
+        "description": "[eternal dream 2020] 20\u4ee3\u5f8c\u534a/\u60c5\u5831\u4e2d\u6bd2/\u591a\u8da3\u5473/\u97f3\u30b2\u30fc\u30aa\u30fc\u30eb\u30e9\u30a6\u30f3\u30c0\u30fc/\u8eca\u30b2\u30fc/\u30b2\u30fc\u30e0/\u30a2\u30cb\u30e1/\u30cb\u30c1\u30a2\u30b5/\u5b9f\u6cc1/\u8b0e\u89e3\u304d/\u3084\u308b\u304d\u6765\u3044/\u5984\u60f3\u597d\u304detc..",
+        "url": "https://t.co/jJTmpU1Zv9",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/jJTmpU1Zv9",
+                        "expanded_url": "http://ihilog.blog.jp/",
+                        "display_url": "ihilog.blog.jp",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1424,
+        "friends_count": 2780,
+        "listed_count": 91,
+        "created_at": "Wed May 23 10:52:01 +0000 2007",
+        "favourites_count": 20757,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 293974,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1212043307687108608/oEPcLWy9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212043307687108608/oEPcLWy9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6257772/1497023529",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

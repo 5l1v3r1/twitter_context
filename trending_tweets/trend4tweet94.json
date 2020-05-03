@@ -1,0 +1,168 @@
+{
+    "created_at": "Sun May 03 00:41:54 +0000 2020",
+    "id": 1256745766506430464,
+    "id_str": "1256745766506430464",
+    "text": "#Efsane113Yas\u0131nda https://t.co/aNOLeH6kUb",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113Yas\u0131nda",
+                "indices": [
+                    0,
+                    17
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745761045467136,
+                "id_str": "1256745761045467136",
+                "indices": [
+                    18,
+                    41
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbnHQX0AA2Lrt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbnHQX0AA2Lrt.jpg",
+                "url": "https://t.co/aNOLeH6kUb",
+                "display_url": "pic.twitter.com/aNOLeH6kUb",
+                "expanded_url": "https://twitter.com/talha_smsk/status/1256745766506430464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 567,
+                        "h": 561,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 567,
+                        "h": 561,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 567,
+                        "h": 561,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745761045467136,
+                "id_str": "1256745761045467136",
+                "indices": [
+                    18,
+                    41
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbnHQX0AA2Lrt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbnHQX0AA2Lrt.jpg",
+                "url": "https://t.co/aNOLeH6kUb",
+                "display_url": "pic.twitter.com/aNOLeH6kUb",
+                "expanded_url": "https://twitter.com/talha_smsk/status/1256745766506430464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 567,
+                        "h": 561,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 567,
+                        "h": 561,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 567,
+                        "h": 561,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1143249354414788609,
+        "id_str": "1143249354414788609",
+        "name": "Talha \u015eim\u015fek",
+        "screen_name": "talha_smsk",
+        "location": "Bafra, Samsun",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 121,
+        "friends_count": 125,
+        "listed_count": 0,
+        "created_at": "Mon Jun 24 20:07:41 +0000 2019",
+        "favourites_count": 2858,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 77,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1224018020617592834/2H7nzyDv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224018020617592834/2H7nzyDv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143249354414788609/1586658679",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

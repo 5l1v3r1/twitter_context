@@ -1,0 +1,213 @@
+{
+    "created_at": "Sun May 03 00:42:42 +0000 2020",
+    "id": 1256745968088887297,
+    "id_str": "1256745968088887297",
+    "text": "RT @DiyanetVakfi: #Bitlis\u2019in Sehi b\u00f6lgesinde ter\u00f6ristlerle \u00e7\u0131kan \u00e7at\u0131\u015fmada \u015fehit olan askerlerimize Allah\u2019tan rahmet, yaral\u0131 askerlerimize\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    18,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DiyanetVakfi",
+                "name": "T\u00fcrkiye Diyanet Vakf\u0131",
+                "id": 718765592,
+                "id_str": "718765592",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1181293599834742795,
+        "id_str": "1181293599834742795",
+        "name": "Nev\u015fehir \u0130l M\u00fcft\u00fcl\u00fc\u011f\u00fc",
+        "screen_name": "nevshrmuftulugu",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 63,
+        "friends_count": 13,
+        "listed_count": 1,
+        "created_at": "Mon Oct 07 19:42:15 +0000 2019",
+        "favourites_count": 18,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 268,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1181293743405580288/V6uPJM1j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181293743405580288/V6uPJM1j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1181293599834742795/1570477507",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:26:20 +0000 2020",
+        "id": 1256696551847624704,
+        "id_str": "1256696551847624704",
+        "text": "#Bitlis\u2019in Sehi b\u00f6lgesinde ter\u00f6ristlerle \u00e7\u0131kan \u00e7at\u0131\u015fmada \u015fehit olan askerlerimize Allah\u2019tan rahmet, yaral\u0131 askerler\u2026 https://t.co/JCH68ofrhc",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JCH68ofrhc",
+                    "expanded_url": "https://twitter.com/i/web/status/1256696551847624704",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 718765592,
+            "id_str": "718765592",
+            "name": "T\u00fcrkiye Diyanet Vakf\u0131",
+            "screen_name": "DiyanetVakfi",
+            "location": "Ankara, T\u00fcrkiye",
+            "description": "T\u00fcrkiye Diyanet Vakf\u0131 Resmi Twitter Hesab\u0131\n@TDVint",
+            "url": "https://t.co/eM35Y12sVs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/eM35Y12sVs",
+                            "expanded_url": "http://www.tdv.org",
+                            "display_url": "tdv.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 110501,
+            "friends_count": 122,
+            "listed_count": 122,
+            "created_at": "Thu Jul 26 21:05:52 +0000 2012",
+            "favourites_count": 2690,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 22037,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151368812429742080/f4irciKb_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151368812429742080/f4irciKb_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/718765592/1587051816",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 58,
+        "favorite_count": 211,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

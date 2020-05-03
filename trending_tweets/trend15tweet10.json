@@ -1,0 +1,281 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745983393837057,
+    "id_str": "1256745983393837057",
+    "text": "RT @yagmurcumsakinn: \u0130ftar\u0131 bekleyecek kadar kalle\u015f. \nLokmas\u0131n\u0131 yerken sald\u0131racak kadar adisiniz.\nKur\u015fun oru\u00e7 bozmaz \u015fehidim... #Bitlis htt\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    128,
+                    135
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "yagmurcumsakinn",
+                "name": "Ya\u011fmur \u00d6zcan\u262b",
+                "id": 1144243456010858497,
+                "id_str": "1144243456010858497",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1202249575936987137,
+        "id_str": "1202249575936987137",
+        "name": "\ud83d\udd2eOf Y\u00fcsra Bo\u015f Yapt\u0131n \u27b0\ud83c\udfa9\u2660\ufe0f",
+        "screen_name": "hakliyimBen4",
+        "location": "D\u00fczce, T\u00fcrkiye",
+        "description": "Her zaman hakl\u0131y\u0131m tamam m\u0131?",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4602,
+        "friends_count": 4825,
+        "listed_count": 0,
+        "created_at": "Wed Dec 04 15:33:59 +0000 2019",
+        "favourites_count": 34256,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 174,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256402195324514304/f0fuZqP1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256402195324514304/f0fuZqP1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1202249575936987137/1588378485",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:46:17 +0000 2020",
+        "id": 1256671370727038976,
+        "id_str": "1256671370727038976",
+        "text": "\u0130ftar\u0131 bekleyecek kadar kalle\u015f. \nLokmas\u0131n\u0131 yerken sald\u0131racak kadar adisiniz.\nKur\u015fun oru\u00e7 bozmaz \u015fehidim... #Bitlis https://t.co/hJjowLs5H3",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        107,
+                        114
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256671367547834368,
+                    "id_str": "1256671367547834368",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCX814X0AA4mqY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCX814X0AA4mqY.jpg",
+                    "url": "https://t.co/hJjowLs5H3",
+                    "display_url": "pic.twitter.com/hJjowLs5H3",
+                    "expanded_url": "https://twitter.com/yagmurcumsakinn/status/1256671370727038976/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 551,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 719,
+                            "h": 583,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 719,
+                            "h": 583,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256671367547834368,
+                    "id_str": "1256671367547834368",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCX814X0AA4mqY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCX814X0AA4mqY.jpg",
+                    "url": "https://t.co/hJjowLs5H3",
+                    "display_url": "pic.twitter.com/hJjowLs5H3",
+                    "expanded_url": "https://twitter.com/yagmurcumsakinn/status/1256671370727038976/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 551,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 719,
+                            "h": 583,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 719,
+                            "h": 583,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1144243456010858497,
+            "id_str": "1144243456010858497",
+            "name": "Ya\u011fmur \u00d6zcan\u262b",
+            "screen_name": "yagmurcumsakinn",
+            "location": "Malatya, T\u00fcrkiye",
+            "description": "Akl\u0131m\u0131za ne geliyorsa yaz\u0131yoruz i\u015fte\u2022\u00b0\ud83c\udfa9\n\ud83c\udf19",
+            "url": "https://t.co/sZMQ3id8z2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sZMQ3id8z2",
+                            "expanded_url": "http://Instagram.com/yagmurr.ozcann",
+                            "display_url": "Instagram.com/yagmurr.ozcann",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2470,
+            "friends_count": 1784,
+            "listed_count": 0,
+            "created_at": "Thu Jun 27 13:57:53 +0000 2019",
+            "favourites_count": 7318,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 424,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246191800546623488/Ze6Io4bM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246191800546623488/Ze6Io4bM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144243456010858497/1588026593",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 31,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

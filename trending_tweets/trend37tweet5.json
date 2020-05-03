@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:43:00 +0000 2020",
+    "id": 1256746041606537217,
+    "id_str": "1256746041606537217",
+    "text": "FAZ ASSIM: PRIMEIRO LUGAR VOC\u00ca SOME, SEGUNDO LUGAR VIRAR HOMEM. \nVOC\u00ca \u00c9 O TERCEIRO QUE ME PEEEEEERDEEEEEU \n#liveeduardaalves",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "liveeduardaalves",
+                "indices": [
+                    107,
+                    124
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1230306199930888192,
+        "id_str": "1230306199930888192",
+        "name": "eleitora do embaixador GL\ud83d\udc93",
+        "screen_name": "eoquenathi",
+        "location": "Cabo de Santo Agostinho, Brasi",
+        "description": "59 segundos \u00e9 o que resta, pra entender essa paix\u00e3o no meu peito. \ud83c\udfb6\ud83c\udfb6",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 39,
+        "friends_count": 39,
+        "listed_count": 0,
+        "created_at": "Thu Feb 20 01:40:50 +0000 2020",
+        "favourites_count": 711,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 619,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242318992112586753/20u6uSk4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242318992112586753/20u6uSk4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230306199930888192/1588450968",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:41:06 +0000 2020",
+    "id": 1256745562935660545,
+    "id_str": "1256745562935660545",
+    "text": "RT @elevatorstrgles: they have a point #WEAREINPAYNE https://t.co/D58fpeaIYI",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WEAREINPAYNE",
+                "indices": [
+                    39,
+                    52
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elevatorstrgles",
+                "name": "silent ones struggle tweets\u2077",
+                "id": 1255650293242454016,
+                "id_str": "1255650293242454016",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256725483971964928,
+                "id_str": "1256725483971964928",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDJK1RUcAAoeyN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDJK1RUcAAoeyN.jpg",
+                "url": "https://t.co/D58fpeaIYI",
+                "display_url": "pic.twitter.com/D58fpeaIYI",
+                "expanded_url": "https://twitter.com/elevatorstrgles/status/1256725488518574081/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 828,
+                        "h": 223,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 183,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 828,
+                        "h": 223,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256725488518574081,
+                "source_status_id_str": "1256725488518574081",
+                "source_user_id": 1255650293242454016,
+                "source_user_id_str": "1255650293242454016"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256725483971964928,
+                "id_str": "1256725483971964928",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDJK1RUcAAoeyN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDJK1RUcAAoeyN.jpg",
+                "url": "https://t.co/D58fpeaIYI",
+                "display_url": "pic.twitter.com/D58fpeaIYI",
+                "expanded_url": "https://twitter.com/elevatorstrgles/status/1256725488518574081/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 828,
+                        "h": 223,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 183,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 828,
+                        "h": 223,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256725488518574081,
+                "source_status_id_str": "1256725488518574081",
+                "source_user_id": 1255650293242454016,
+                "source_user_id_str": "1255650293242454016"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 949364017444745216,
+        "id_str": "949364017444745216",
+        "name": "Chiminie Chiminie",
+        "screen_name": "ChiminieChim16",
+        "location": "",
+        "description": "\u2734\ufe0fI'm always up for a chat :) Don't be afraid to message, even if its because you need to rant :)\u2734\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 104,
+        "listed_count": 0,
+        "created_at": "Fri Jan 05 19:36:34 +0000 2018",
+        "favourites_count": 2927,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1668,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244729909064241154/-b8mey3L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244729909064241154/-b8mey3L_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/949364017444745216/1585601712",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:21:19 +0000 2020",
+        "id": 1256725488518574081,
+        "id_str": "1256725488518574081",
+        "text": "they have a point #WEAREINPAYNE https://t.co/D58fpeaIYI",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WEAREINPAYNE",
+                    "indices": [
+                        18,
+                        31
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256725483971964928,
+                    "id_str": "1256725483971964928",
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDJK1RUcAAoeyN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDJK1RUcAAoeyN.jpg",
+                    "url": "https://t.co/D58fpeaIYI",
+                    "display_url": "pic.twitter.com/D58fpeaIYI",
+                    "expanded_url": "https://twitter.com/elevatorstrgles/status/1256725488518574081/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 828,
+                            "h": 223,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 183,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 828,
+                            "h": 223,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256725483971964928,
+                    "id_str": "1256725483971964928",
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDJK1RUcAAoeyN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDJK1RUcAAoeyN.jpg",
+                    "url": "https://t.co/D58fpeaIYI",
+                    "display_url": "pic.twitter.com/D58fpeaIYI",
+                    "expanded_url": "https://twitter.com/elevatorstrgles/status/1256725488518574081/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 828,
+                            "h": 223,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 183,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 828,
+                            "h": 223,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1255650293242454016,
+            "id_str": "1255650293242454016",
+            "name": "silent ones struggle tweets\u2077",
+            "screen_name": "elevatorstrgles",
+            "location": "",
+            "description": "Tag or DM us if there's a silent one struggling, we will Break The Silence for you!\n13+ / 4 admins / twt & discord struggles ~~ we are struggling too dw ~~",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1263,
+            "friends_count": 11,
+            "listed_count": 2,
+            "created_at": "Thu Apr 30 00:09:00 +0000 2020",
+            "favourites_count": 862,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 927,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255650418144636928/lPWEGkCM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255650418144636928/lPWEGkCM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255650293242454016/1588216225",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 141,
+        "favorite_count": 789,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 141,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "en"
+}

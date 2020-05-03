@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:35 +0000 2020",
+    "id": 1256745937508143104,
+    "id_str": "1256745937508143104",
+    "text": "RT @mahmoudd1984: #\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627 https://t.co/AObqa7rAo7",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627",
+                "indices": [
+                    18,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mahmoudd1984",
+                "name": "\u0645\u062d\u0645\u0648\u062f",
+                "id": 1246493548721115138,
+                "id_str": "1246493548721115138",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744475927478273,
+                "id_str": "1256744475927478273",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDacT0XgAEdqyO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDacT0XgAEdqyO.jpg",
+                "url": "https://t.co/AObqa7rAo7",
+                "display_url": "pic.twitter.com/AObqa7rAo7",
+                "expanded_url": "https://twitter.com/mahmoudd1984/status/1256744478330798085/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 433,
+                        "h": 462,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 433,
+                        "h": 462,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 433,
+                        "h": 462,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744478330798085,
+                "source_status_id_str": "1256744478330798085",
+                "source_user_id": 1246493548721115138,
+                "source_user_id_str": "1246493548721115138"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744475927478273,
+                "id_str": "1256744475927478273",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDacT0XgAEdqyO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDacT0XgAEdqyO.jpg",
+                "url": "https://t.co/AObqa7rAo7",
+                "display_url": "pic.twitter.com/AObqa7rAo7",
+                "expanded_url": "https://twitter.com/mahmoudd1984/status/1256744478330798085/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 433,
+                        "h": 462,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 433,
+                        "h": 462,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 433,
+                        "h": 462,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744478330798085,
+                "source_status_id_str": "1256744478330798085",
+                "source_user_id": 1246493548721115138,
+                "source_user_id_str": "1246493548721115138"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1246493548721115138,
+        "id_str": "1246493548721115138",
+        "name": "\u0645\u062d\u0645\u0648\u062f",
+        "screen_name": "mahmoudd1984",
+        "location": "",
+        "description": "\u0627\u0646 \u0628\u0639\u0636 \u0627\u0644\u0638\u0646 \u0627\u062b\u0645",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 64,
+        "listed_count": 0,
+        "created_at": "Sat Apr 04 17:43:36 +0000 2020",
+        "favourites_count": 80,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 229,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255506793612140546/kFUT0Ovp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255506793612140546/kFUT0Ovp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246493548721115138/1588171153",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:36:47 +0000 2020",
+        "id": 1256744478330798085,
+        "id_str": "1256744478330798085",
+        "text": "#\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627 https://t.co/AObqa7rAo7",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627",
+                    "indices": [
+                        0,
+                        21
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256744475927478273,
+                    "id_str": "1256744475927478273",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDacT0XgAEdqyO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDacT0XgAEdqyO.jpg",
+                    "url": "https://t.co/AObqa7rAo7",
+                    "display_url": "pic.twitter.com/AObqa7rAo7",
+                    "expanded_url": "https://twitter.com/mahmoudd1984/status/1256744478330798085/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 433,
+                            "h": 462,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 433,
+                            "h": 462,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 433,
+                            "h": 462,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256744475927478273,
+                    "id_str": "1256744475927478273",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDacT0XgAEdqyO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDacT0XgAEdqyO.jpg",
+                    "url": "https://t.co/AObqa7rAo7",
+                    "display_url": "pic.twitter.com/AObqa7rAo7",
+                    "expanded_url": "https://twitter.com/mahmoudd1984/status/1256744478330798085/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 433,
+                            "h": 462,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 433,
+                            "h": 462,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 433,
+                            "h": 462,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1246493548721115138,
+            "id_str": "1246493548721115138",
+            "name": "\u0645\u062d\u0645\u0648\u062f",
+            "screen_name": "mahmoudd1984",
+            "location": "",
+            "description": "\u0627\u0646 \u0628\u0639\u0636 \u0627\u0644\u0638\u0646 \u0627\u062b\u0645",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7,
+            "friends_count": 64,
+            "listed_count": 0,
+            "created_at": "Sat Apr 04 17:43:36 +0000 2020",
+            "favourites_count": 80,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 229,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255506793612140546/kFUT0Ovp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255506793612140546/kFUT0Ovp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246493548721115138/1588171153",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

@@ -1,0 +1,354 @@
+{
+    "created_at": "Sun May 03 00:42:15 +0000 2020",
+    "id": 1256745856172265472,
+    "id_str": "1256745856172265472",
+    "text": "RT @luboalao: Chegamos nos trendings kkkjk #OSegredoNaFloresta https://t.co/K1uuN1tZ5x",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    43,
+                    62
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luboalao",
+                "name": "Supimpa",
+                "id": 1457702694,
+                "id_str": "1457702694",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745633400184833,
+                "id_str": "1256745633400184833",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbfrvXYAE_9-M.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbfrvXYAE_9-M.png",
+                "url": "https://t.co/K1uuN1tZ5x",
+                "display_url": "pic.twitter.com/K1uuN1tZ5x",
+                "expanded_url": "https://twitter.com/luboalao/status/1256745822286479361/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 240,
+                        "h": 92,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 240,
+                        "h": 92,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 240,
+                        "h": 92,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 92,
+                        "h": 92,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1256745822286479361,
+                "source_status_id_str": "1256745822286479361",
+                "source_user_id": 1457702694,
+                "source_user_id_str": "1457702694"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745633400184833,
+                "id_str": "1256745633400184833",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbfrvXYAE_9-M.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbfrvXYAE_9-M.png",
+                "url": "https://t.co/K1uuN1tZ5x",
+                "display_url": "pic.twitter.com/K1uuN1tZ5x",
+                "expanded_url": "https://twitter.com/luboalao/status/1256745822286479361/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 240,
+                        "h": 92,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 240,
+                        "h": 92,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 240,
+                        "h": 92,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 92,
+                        "h": 92,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1256745822286479361,
+                "source_status_id_str": "1256745822286479361",
+                "source_user_id": 1457702694,
+                "source_user_id_str": "1457702694"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1080664439043559424,
+        "id_str": "1080664439043559424",
+        "name": "Fran ta com -99999 de sanidade e ta triste",
+        "screen_name": "Fofaartistica",
+        "location": "l\u00e1 nos quintos dos inferno",
+        "description": "\u256d\u2509\u2509\u2505\u2504\u2504\u2508\u2022\u25e6\u0ccb\u2022\u25e6\u2765\u2022\u25e6\u0ccb\u2022\n\u2022\u2202\u0454\u0455\u0454\u0438\u043d\u03b9\u0455\u0442\u03b1\n\u2022\u03b1g\u0454\u0438\u0454\u044f\u03c3:\u0454\u2113\u03c5/\u0454\u2113\u0454 \n\u2022kpopper\n\u2022\u03b1\u043c\u03b1\u0438\u0442\u0454 \u2202\u0454 \u00a2\u03b1\u0432\u044f\u03b1\u0455\n\u2022\u0455\u0454 \u03b1\u03c1\u03b1\u03b9\u03c7\u03c3\u0438\u03b1\u044f \u00e9 \u03c5\u043c\u03b1 \u043c\u0454\u044f\u2202\u03b1 ;-;\n   \u2022\u25e6\u0ccb\u2022\u25e6\u2765\u2022\u25e6\u0ccb\u2022\u2508\u2504\u2504\u2505\u2509\u2509\u256f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 293,
+        "friends_count": 576,
+        "listed_count": 1,
+        "created_at": "Thu Jan 03 03:17:34 +0000 2019",
+        "favourites_count": 33168,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30315,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254182112275636224/cIwytS1w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254182112275636224/cIwytS1w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080664439043559424/1588308097",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:42:07 +0000 2020",
+        "id": 1256745822286479361,
+        "id_str": "1256745822286479361",
+        "text": "Chegamos nos trendings kkkjk #OSegredoNaFloresta https://t.co/K1uuN1tZ5x",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        29,
+                        48
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256745633400184833,
+                    "id_str": "1256745633400184833",
+                    "indices": [
+                        49,
+                        72
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDbfrvXYAE_9-M.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDbfrvXYAE_9-M.png",
+                    "url": "https://t.co/K1uuN1tZ5x",
+                    "display_url": "pic.twitter.com/K1uuN1tZ5x",
+                    "expanded_url": "https://twitter.com/luboalao/status/1256745822286479361/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 240,
+                            "h": 92,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 240,
+                            "h": 92,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 240,
+                            "h": 92,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 92,
+                            "h": 92,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256745633400184833,
+                    "id_str": "1256745633400184833",
+                    "indices": [
+                        49,
+                        72
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDbfrvXYAE_9-M.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDbfrvXYAE_9-M.png",
+                    "url": "https://t.co/K1uuN1tZ5x",
+                    "display_url": "pic.twitter.com/K1uuN1tZ5x",
+                    "expanded_url": "https://twitter.com/luboalao/status/1256745822286479361/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 240,
+                            "h": 92,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 240,
+                            "h": 92,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 240,
+                            "h": 92,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 92,
+                            "h": 92,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1457702694,
+            "id_str": "1457702694",
+            "name": "Supimpa",
+            "screen_name": "luboalao",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4,
+            "friends_count": 24,
+            "listed_count": 0,
+            "created_at": "Sat May 25 18:28:31 +0000 2013",
+            "favourites_count": 21,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 42,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/939304799866146816/YPXqVsy3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/939304799866146816/YPXqVsy3_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

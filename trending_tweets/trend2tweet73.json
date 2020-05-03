@@ -1,0 +1,376 @@
+{
+    "created_at": "Sun May 03 00:42:33 +0000 2020",
+    "id": 1256745928960159744,
+    "id_str": "1256745928960159744",
+    "text": "RT @kranzca77540969: @akkadinbasak #BuYoldanD\u00f6nmeyece\u011fiz https://t.co/WSrKEkfDOW",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    35,
+                    56
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kranzca77540969",
+                "name": "\u015e\u00fckran \u00d6zcan",
+                "id": 1201398095705247744,
+                "id_str": "1201398095705247744",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "akkadinbasak",
+                "name": "AK Kad\u0131n Ba\u015fak\u015fehir",
+                "id": 1346223535,
+                "id_str": "1346223535",
+                "indices": [
+                    21,
+                    34
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256690268654505986,
+                "id_str": "1256690268654505986",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCpJB_XkAIwutL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCpJB_XkAIwutL.jpg",
+                "url": "https://t.co/WSrKEkfDOW",
+                "display_url": "pic.twitter.com/WSrKEkfDOW",
+                "expanded_url": "https://twitter.com/kranzca77540969/status/1256690283640770561/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1056,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1056,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 665,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256690283640770561,
+                "source_status_id_str": "1256690283640770561",
+                "source_user_id": 1201398095705247744,
+                "source_user_id_str": "1201398095705247744"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256690268654505986,
+                "id_str": "1256690268654505986",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCpJB_XkAIwutL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCpJB_XkAIwutL.jpg",
+                "url": "https://t.co/WSrKEkfDOW",
+                "display_url": "pic.twitter.com/WSrKEkfDOW",
+                "expanded_url": "https://twitter.com/kranzca77540969/status/1256690283640770561/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1056,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1056,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 665,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256690283640770561,
+                "source_status_id_str": "1256690283640770561",
+                "source_user_id": 1201398095705247744,
+                "source_user_id_str": "1201398095705247744"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1102246863984566274,
+        "id_str": "1102246863984566274",
+        "name": "\u2022nurfen",
+        "screen_name": "kayadir_tugba",
+        "location": "\u0130stanbul, T\u00fcrkiye",
+        "description": "\u2022ba\u015fak\u015fehir",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 46,
+        "friends_count": 6,
+        "listed_count": 0,
+        "created_at": "Sun Mar 03 16:38:25 +0000 2019",
+        "favourites_count": 6002,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3354,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1168611187313053698/M1ZeQnTE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168611187313053698/M1ZeQnTE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1102246863984566274/1567453728",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:01:26 +0000 2020",
+        "id": 1256690283640770561,
+        "id_str": "1256690283640770561",
+        "text": "@akkadinbasak #BuYoldanD\u00f6nmeyece\u011fiz https://t.co/WSrKEkfDOW",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        14,
+                        35
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "akkadinbasak",
+                    "name": "AK Kad\u0131n Ba\u015fak\u015fehir",
+                    "id": 1346223535,
+                    "id_str": "1346223535",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256690268654505986,
+                    "id_str": "1256690268654505986",
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCpJB_XkAIwutL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCpJB_XkAIwutL.jpg",
+                    "url": "https://t.co/WSrKEkfDOW",
+                    "display_url": "pic.twitter.com/WSrKEkfDOW",
+                    "expanded_url": "https://twitter.com/kranzca77540969/status/1256690283640770561/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1056,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1056,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 665,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256690268654505986,
+                    "id_str": "1256690268654505986",
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCpJB_XkAIwutL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCpJB_XkAIwutL.jpg",
+                    "url": "https://t.co/WSrKEkfDOW",
+                    "display_url": "pic.twitter.com/WSrKEkfDOW",
+                    "expanded_url": "https://twitter.com/kranzca77540969/status/1256690283640770561/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1056,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1056,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 665,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1256686691764576257,
+        "in_reply_to_status_id_str": "1256686691764576257",
+        "in_reply_to_user_id": 1346223535,
+        "in_reply_to_user_id_str": "1346223535",
+        "in_reply_to_screen_name": "akkadinbasak",
+        "user": {
+            "id": 1201398095705247744,
+            "id_str": "1201398095705247744",
+            "name": "\u015e\u00fckran \u00d6zcan",
+            "screen_name": "kranzca77540969",
+            "location": "",
+            "description": "\ud83c\uddf9\ud83c\uddf7AK PART\u0130\ud83c\uddf9\ud83c\uddf7\n\n\u0130STANBUL /BA\u015eAK\u015eEH\u0130R\n\nG\u00fcvercintepe /Tan\u0131t\u0131m Medya Ba\u015fkan\u0131",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 310,
+            "friends_count": 381,
+            "listed_count": 0,
+            "created_at": "Mon Dec 02 07:10:17 +0000 2019",
+            "favourites_count": 8391,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5443,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1223022375987568641/iK5GWQKt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223022375987568641/iK5GWQKt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201398095705247744/1580426189",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

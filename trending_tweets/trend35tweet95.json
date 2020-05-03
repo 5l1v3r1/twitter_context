@@ -1,0 +1,354 @@
+{
+    "created_at": "Sun May 03 00:40:59 +0000 2020",
+    "id": 1256745534523654144,
+    "id_str": "1256745534523654144",
+    "text": "RT @BrandNewMcMann: Orange Is The New Orange   \n\n       #TheTitleOfTrumpsMemoir https://t.co/hr5awGS5d2",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BrandNewMcMann",
+                "name": "BrandNewMcMann",
+                "id": 1126548922858704897,
+                "id_str": "1126548922858704897",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256680083470893057,
+                "id_str": "1256680083470893057",
+                "indices": [
+                    80,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCf4LOXQAEkEYD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCf4LOXQAEkEYD.jpg",
+                "url": "https://t.co/hr5awGS5d2",
+                "display_url": "pic.twitter.com/hr5awGS5d2",
+                "expanded_url": "https://twitter.com/BrandNewMcMann/status/1256680089460314112/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 715,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 715,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 457,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256680089460314112,
+                "source_status_id_str": "1256680089460314112",
+                "source_user_id": 1126548922858704897,
+                "source_user_id_str": "1126548922858704897"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256680083470893057,
+                "id_str": "1256680083470893057",
+                "indices": [
+                    80,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCf4LOXQAEkEYD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCf4LOXQAEkEYD.jpg",
+                "url": "https://t.co/hr5awGS5d2",
+                "display_url": "pic.twitter.com/hr5awGS5d2",
+                "expanded_url": "https://twitter.com/BrandNewMcMann/status/1256680089460314112/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 715,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 715,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 457,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256680089460314112,
+                "source_status_id_str": "1256680089460314112",
+                "source_user_id": 1126548922858704897,
+                "source_user_id_str": "1126548922858704897"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 154361061,
+        "id_str": "154361061",
+        "name": "Ms Butterfly",
+        "screen_name": "MsBeeCount",
+        "location": "Texas, USA-Go blue",
+        "description": "Truly loves the Obama's My President Forever Blue Dems all the way.Married,Mom,#TheResistance \ud83d\ude07#blacklivesmatter #neveragain #daca #BlueWave #SaveOurVets #MeToo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8668,
+        "friends_count": 8671,
+        "listed_count": 17,
+        "created_at": "Fri Jun 11 01:41:43 +0000 2010",
+        "favourites_count": 58363,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 71956,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/749017746160046082/Mpd3lFQr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/749017746160046082/Mpd3lFQr_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7DA93",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:20:55 +0000 2020",
+        "id": 1256680089460314112,
+        "id_str": "1256680089460314112",
+        "text": "Orange Is The New Orange   \n\n       #TheTitleOfTrumpsMemoir https://t.co/hr5awGS5d2",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        36,
+                        59
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256680083470893057,
+                    "id_str": "1256680083470893057",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCf4LOXQAEkEYD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCf4LOXQAEkEYD.jpg",
+                    "url": "https://t.co/hr5awGS5d2",
+                    "display_url": "pic.twitter.com/hr5awGS5d2",
+                    "expanded_url": "https://twitter.com/BrandNewMcMann/status/1256680089460314112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 715,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 715,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 457,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256680083470893057,
+                    "id_str": "1256680083470893057",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCf4LOXQAEkEYD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCf4LOXQAEkEYD.jpg",
+                    "url": "https://t.co/hr5awGS5d2",
+                    "display_url": "pic.twitter.com/hr5awGS5d2",
+                    "expanded_url": "https://twitter.com/BrandNewMcMann/status/1256680089460314112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 715,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 715,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 457,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1126548922858704897,
+            "id_str": "1126548922858704897",
+            "name": "BrandNewMcMann",
+            "screen_name": "BrandNewMcMann",
+            "location": "Illinois, USA",
+            "description": "Host Of \"Hashtag, You're It\" Every Tue 11 am EDT.  Part Of The @HashtagRoundup Community.  New Account For @McMannofthepeop",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1007,
+            "friends_count": 568,
+            "listed_count": 4,
+            "created_at": "Thu May 09 18:06:08 +0000 2019",
+            "favourites_count": 6897,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9508,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1126549078542835712/1P-Xp84g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126549078542835712/1P-Xp84g_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1126548922858704897/1557845547",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 68,
+        "favorite_count": 420,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 68,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

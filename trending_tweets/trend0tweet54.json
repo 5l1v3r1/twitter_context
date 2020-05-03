@@ -1,0 +1,278 @@
+{
+    "created_at": "Sun May 03 00:41:36 +0000 2020",
+    "id": 1256745689222205441,
+    "id_str": "1256745689222205441",
+    "text": "RT @jorgeemateus: E a @Ludmilla invadiu a live, e claro que pediu m\u00fasica. #LiveJeM #JeMBrahmaLive #FiqueEmCasa e Cante #Comigo",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveJeM",
+                "indices": [
+                    74,
+                    82
+                ]
+            },
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    83,
+                    97
+                ]
+            },
+            {
+                "text": "FiqueEmCasa",
+                "indices": [
+                    98,
+                    110
+                ]
+            },
+            {
+                "text": "Comigo",
+                "indices": [
+                    119,
+                    126
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jorgeemateus",
+                "name": "Jorge & Mateus",
+                "id": 41043596,
+                "id_str": "41043596",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "Ludmilla",
+                "name": "Ludmilla",
+                "id": 846369751,
+                "id_str": "846369751",
+                "indices": [
+                    22,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 96052529,
+        "id_str": "96052529",
+        "name": "s \ud83e\udd19\ud83c\udffc",
+        "screen_name": "suilhas",
+        "location": "",
+        "description": "",
+        "url": "https://t.co/IhQQKOAZZh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/IhQQKOAZZh",
+                        "expanded_url": "http://instagram.com/suilhas",
+                        "display_url": "instagram.com/suilhas",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2427,
+        "friends_count": 711,
+        "listed_count": 28,
+        "created_at": "Fri Dec 11 04:01:28 +0000 2009",
+        "favourites_count": 8683,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 115997,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254585276690763776/H7TtyNFp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254585276690763776/H7TtyNFp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96052529/1587952213",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:03:17 +0000 2020",
+        "id": 1256720947253575680,
+        "id_str": "1256720947253575680",
+        "text": "E a @Ludmilla invadiu a live, e claro que pediu m\u00fasica. #LiveJeM #JeMBrahmaLive #FiqueEmCasa e Cante #Comigo",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveJeM",
+                    "indices": [
+                        56,
+                        64
+                    ]
+                },
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        65,
+                        79
+                    ]
+                },
+                {
+                    "text": "FiqueEmCasa",
+                    "indices": [
+                        80,
+                        92
+                    ]
+                },
+                {
+                    "text": "Comigo",
+                    "indices": [
+                        101,
+                        108
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ludmilla",
+                    "name": "Ludmilla",
+                    "id": 846369751,
+                    "id_str": "846369751",
+                    "indices": [
+                        4,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 41043596,
+            "id_str": "41043596",
+            "name": "Jorge & Mateus",
+            "screen_name": "jorgeemateus",
+            "location": "Brasil",
+            "description": "Jorge & Mateus",
+            "url": "https://t.co/LsYLCF6u8j",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LsYLCF6u8j",
+                            "expanded_url": "http://www.jorgeemateus.com.br",
+                            "display_url": "jorgeemateus.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8100047,
+            "friends_count": 104,
+            "listed_count": 3126,
+            "created_at": "Tue May 19 03:19:53 +0000 2009",
+            "favourites_count": 1605,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 17592,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255626935356592128/cHnw80WZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255626935356592128/cHnw80WZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41043596/1588199732",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 42,
+        "favorite_count": 1077,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

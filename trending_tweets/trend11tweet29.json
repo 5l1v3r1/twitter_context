@@ -1,0 +1,378 @@
+{
+    "created_at": "Sun May 03 00:41:48 +0000 2020",
+    "id": 1256745739243319296,
+    "id_str": "1256745739243319296",
+    "text": "RT @UrbanNoize2: Since Age Of Ultron is trending, I would like to highlight how GROSSLY underrated this shot is. https://t.co/3KwOaAakvl",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "UrbanNoize2",
+                "name": "UrbanNoizeRmx",
+                "id": 889872315944718336,
+                "id_str": "889872315944718336",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256675041233850368,
+                "id_str": "1256675041233850368",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXCbSrbX0AAJkVq.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXCbSrbX0AAJkVq.jpg",
+                "url": "https://t.co/3KwOaAakvl",
+                "display_url": "pic.twitter.com/3KwOaAakvl",
+                "expanded_url": "https://twitter.com/UrbanNoize2/status/1256675391227531264/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 540,
+                        "h": 304,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 540,
+                        "h": 304,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 540,
+                        "h": 304,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256675391227531264,
+                "source_status_id_str": "1256675391227531264",
+                "source_user_id": 889872315944718336,
+                "source_user_id_str": "889872315944718336"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256675041233850368,
+                "id_str": "1256675041233850368",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXCbSrbX0AAJkVq.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXCbSrbX0AAJkVq.jpg",
+                "url": "https://t.co/3KwOaAakvl",
+                "display_url": "pic.twitter.com/3KwOaAakvl",
+                "expanded_url": "https://twitter.com/UrbanNoize2/status/1256675391227531264/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 540,
+                        "h": 304,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 540,
+                        "h": 304,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 540,
+                        "h": 304,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256675391227531264,
+                "source_status_id_str": "1256675391227531264",
+                "source_user_id": 889872315944718336,
+                "source_user_id_str": "889872315944718336",
+                "video_info": {
+                    "aspect_ratio": [
+                        135,
+                        76
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXCbSrbX0AAJkVq.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 182641226,
+        "id_str": "182641226",
+        "name": "\u4e41\u0295 \u2022\u0300 \u06dd \u2022\u0301 \u0294\u310f",
+        "screen_name": "ForestBunnny",
+        "location": "They/Them | Trans Rights",
+        "description": "\ud83e\udd7a | \u24cb |\u270c\ud83c\udffc\ud83c\uddfa\ud83c\uddf8\ud83d\udc1c\ud83c\udf35\ud83c\udf3d\ud83c\udf08\u270c\ud83c\udffd|\u26a7|( \u02d8 \u00b3\u02d8)\u2661(\u00b4\u03b5\uff40 )\u2661",
+        "url": "https://t.co/c8rNSw1nhW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/c8rNSw1nhW",
+                        "expanded_url": "https://lvpaiutetribe.com/history.html",
+                        "display_url": "lvpaiutetribe.com/history.html",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 176,
+        "friends_count": 173,
+        "listed_count": 4,
+        "created_at": "Wed Aug 25 01:55:58 +0000 2010",
+        "favourites_count": 65835,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 64840,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143108217750245376/nTILdGJR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143108217750245376/nTILdGJR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/182641226/1556192351",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:02:15 +0000 2020",
+        "id": 1256675391227531264,
+        "id_str": "1256675391227531264",
+        "text": "Since Age Of Ultron is trending, I would like to highlight how GROSSLY underrated this shot is. https://t.co/3KwOaAakvl",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256675041233850368,
+                    "id_str": "1256675041233850368",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXCbSrbX0AAJkVq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXCbSrbX0AAJkVq.jpg",
+                    "url": "https://t.co/3KwOaAakvl",
+                    "display_url": "pic.twitter.com/3KwOaAakvl",
+                    "expanded_url": "https://twitter.com/UrbanNoize2/status/1256675391227531264/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 540,
+                            "h": 304,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 540,
+                            "h": 304,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 540,
+                            "h": 304,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256675041233850368,
+                    "id_str": "1256675041233850368",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXCbSrbX0AAJkVq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXCbSrbX0AAJkVq.jpg",
+                    "url": "https://t.co/3KwOaAakvl",
+                    "display_url": "pic.twitter.com/3KwOaAakvl",
+                    "expanded_url": "https://twitter.com/UrbanNoize2/status/1256675391227531264/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 540,
+                            "h": 304,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 540,
+                            "h": 304,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 540,
+                            "h": 304,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            135,
+                            76
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXCbSrbX0AAJkVq.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 889872315944718336,
+            "id_str": "889872315944718336",
+            "name": "UrbanNoizeRmx",
+            "screen_name": "UrbanNoize2",
+            "location": "Miami, FL",
+            "description": "We're Urban Noize Music Group, a music production team based out of Miami Fl that consists of twin brothers Steve & Steven who love remixing & producing music",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 371,
+            "friends_count": 76,
+            "listed_count": 61,
+            "created_at": "Tue Jul 25 15:37:47 +0000 2017",
+            "favourites_count": 73,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 40938,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/909168619493511170/cpfAM4qM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/909168619493511170/cpfAM4qM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/889872315944718336/1528596049",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 579,
+        "favorite_count": 3109,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 579,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

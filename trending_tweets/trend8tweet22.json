@@ -1,0 +1,317 @@
+{
+    "created_at": "Sun May 03 00:42:42 +0000 2020",
+    "id": 1256745967161708545,
+    "id_str": "1256745967161708545",
+    "text": "RT @ResearchBTS: A visual representation of the world screaming JEON JUNGKOOK at the same time \ud83d\ude06\ud83d\udc9c @BTS_twt \n\nTimezone PST \ud83c\udf0e https://t.co/Bj\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ResearchBTS",
+                "name": "BTS \u2022 ARMY Research \ud83d\udd0d \u2077",
+                "id": 1160133616233398272,
+                "id_str": "1160133616233398272",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    98,
+                    106
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1075739107354013696,
+        "id_str": "1075739107354013696",
+        "name": "\uc5b8\uc81c\ub098JK\ud83d\udc9c3\ud83d\udc9cMyTime\uc2dc\ucc28",
+        "screen_name": "allforyou_901",
+        "location": "",
+        "description": "\uc815\uad6d\uc774\uac00 \uc788\uc5b4 \ub354 \ud589\ubcf5\ud55c \uc624\ub298\ud83d\udc9c\n\uc815\ubb34\ud589\uc54c \ud83d\udc30 \uc815\ud3ec\ubc29\ud3ec",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 566,
+        "friends_count": 170,
+        "listed_count": 1,
+        "created_at": "Thu Dec 20 13:06:04 +0000 2018",
+        "favourites_count": 18181,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11033,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250960858445824002/ZxWmhugB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250960858445824002/ZxWmhugB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075739107354013696/1581234408",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:12:39 +0000 2020",
+        "id": 1256662906281705472,
+        "id_str": "1256662906281705472",
+        "text": "A visual representation of the world screaming JEON JUNGKOOK at the same time \ud83d\ude06\ud83d\udc9c @BTS_twt \n\nTimezone PST \ud83c\udf0e https://t.co/BjLzmY179K",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BTS_twt",
+                    "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                    "id": 335141638,
+                    "id_str": "335141638",
+                    "indices": [
+                        81,
+                        89
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256662717286346752,
+                    "id_str": "1256662717286346752",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256662717286346752/pu/img/qSON1vJfOvuyeSPW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256662717286346752/pu/img/qSON1vJfOvuyeSPW.jpg",
+                    "url": "https://t.co/BjLzmY179K",
+                    "display_url": "pic.twitter.com/BjLzmY179K",
+                    "expanded_url": "https://twitter.com/ResearchBTS/status/1256662906281705472/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1144,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1144,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 428,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256662717286346752,
+                    "id_str": "1256662717286346752",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256662717286346752/pu/img/qSON1vJfOvuyeSPW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256662717286346752/pu/img/qSON1vJfOvuyeSPW.jpg",
+                    "url": "https://t.co/BjLzmY179K",
+                    "display_url": "pic.twitter.com/BjLzmY179K",
+                    "expanded_url": "https://twitter.com/ResearchBTS/status/1256662906281705472/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1144,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1144,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 428,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            143,
+                            90
+                        ],
+                        "duration_millis": 7084,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256662717286346752/pu/vid/572x360/HEvrb_Q_Mozejbcv.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256662717286346752/pu/vid/428x270/qjzttIoOjgWNk8QM.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256662717286346752/pu/pl/507NRPIZqHXxYvUo.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256662717286346752/pu/vid/1144x720/aKk1cgU73nOORWiR.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1160133616233398272,
+            "id_str": "1160133616233398272",
+            "name": "BTS \u2022 ARMY Research \ud83d\udd0d \u2077",
+            "screen_name": "ResearchBTS",
+            "location": "United States",
+            "description": "SOC PhD student studying the culture & social structure / organization of ARMY. Sharing insights, trends, data, maps & my own journey. Fan/personal \ud83d\udc9c #BTSARMY",
+            "url": "https://t.co/CvUuMzLMiY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CvUuMzLMiY",
+                            "expanded_url": "https://medium.com/@ResearchBTS",
+                            "display_url": "medium.com/@ResearchBTS",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 37654,
+            "friends_count": 717,
+            "listed_count": 211,
+            "created_at": "Sat Aug 10 10:19:43 +0000 2019",
+            "favourites_count": 17620,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 7453,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1188894011290832896/jz3e6ykJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188894011290832896/jz3e6ykJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1160133616233398272/1579759988",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6389,
+        "favorite_count": 16324,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6389,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

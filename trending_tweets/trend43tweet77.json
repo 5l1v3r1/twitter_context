@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:33:16 +0000 2020",
+    "id": 1256743594301575170,
+    "id_str": "1256743594301575170",
+    "text": "#AwkwardFuneralSongs Bye Bye Bye -- NSYNC https://t.co/m9dWbbmP0M",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    0,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256743586621730816,
+                "id_str": "1256743586621730816",
+                "indices": [
+                    42,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDZoi5WsAAEI_4.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDZoi5WsAAEI_4.jpg",
+                "url": "https://t.co/m9dWbbmP0M",
+                "display_url": "pic.twitter.com/m9dWbbmP0M",
+                "expanded_url": "https://twitter.com/behrad_tarazis/status/1256743594301575170/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 294,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 294,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 294,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256743586621730816,
+                "id_str": "1256743586621730816",
+                "indices": [
+                    42,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDZoi5WsAAEI_4.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDZoi5WsAAEI_4.jpg",
+                "url": "https://t.co/m9dWbbmP0M",
+                "display_url": "pic.twitter.com/m9dWbbmP0M",
+                "expanded_url": "https://twitter.com/behrad_tarazis/status/1256743594301575170/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 294,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 294,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 294,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        83,
+                        49
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDZoi5WsAAEI_4.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ht",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 929341988112969730,
+        "id_str": "929341988112969730",
+        "name": "humm | the half of it spoilers",
+        "screen_name": "behrad_tarazis",
+        "location": "\"oh theyre gonna get married\"",
+        "description": "they/them, queer asf, \ntalk to me pls im bored",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 44,
+        "friends_count": 99,
+        "listed_count": 0,
+        "created_at": "Sat Nov 11 13:36:11 +0000 2017",
+        "favourites_count": 1763,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 381,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/977688785314983936/i4ks03mB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/977688785314983936/i4ks03mB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/929341988112969730/1521934147",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ht"
+}

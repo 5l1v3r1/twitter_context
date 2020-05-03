@@ -1,0 +1,195 @@
+{
+    "created_at": "Sun May 03 00:42:29 +0000 2020",
+    "id": 1256745911998230529,
+    "id_str": "1256745911998230529",
+    "text": "RT @itsa_talia: hope the murder hornets meet the reopen protesters, let freedom sting",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "itsa_talia",
+                "name": "talia jane",
+                "id": 173774813,
+                "id_str": "173774813",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1237919052925788160,
+        "id_str": "1237919052925788160",
+        "name": "nevada\ud83c\udf53",
+        "screen_name": "nrrmsto",
+        "location": "Phoenix, AZ",
+        "description": "\u2649\ufe0f\u2653\ufe0f\u264b\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 126,
+        "listed_count": 0,
+        "created_at": "Thu Mar 12 01:51:24 +0000 2020",
+        "favourites_count": 1706,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 203,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240272145994747905/iPqCiUk2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240272145994747905/iPqCiUk2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:01:46 +0000 2020",
+        "id": 1256660169699872768,
+        "id_str": "1256660169699872768",
+        "text": "hope the murder hornets meet the reopen protesters, let freedom sting",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 173774813,
+            "id_str": "173774813",
+            "name": "talia jane",
+            "screen_name": "itsa_talia",
+            "location": "bkny",
+            "description": "low wage worker - labor activist - writer - visionary genius ahead of her time \u2022 @iwwnyc \u2022 https://t.co/dpoCT4FD7g \u2022 be good, i love you \ud83d\udc8b\ud83c\udff4",
+            "url": "https://t.co/19zbof0KWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/19zbof0KWG",
+                            "expanded_url": "http://taliajane.com",
+                            "display_url": "taliajane.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dpoCT4FD7g",
+                            "expanded_url": "http://paypal.me/taliajane",
+                            "display_url": "paypal.me/taliajane",
+                            "indices": [
+                                91,
+                                114
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 27383,
+            "friends_count": 660,
+            "listed_count": 372,
+            "created_at": "Mon Aug 02 09:41:45 +0000 2010",
+            "favourites_count": 125622,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10787,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1229239248915746818/sj--RO4p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229239248915746818/sj--RO4p_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/173774813/1581908376",
+            "profile_link_color": "F0B310",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "D27DFA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 176,
+        "favorite_count": 989,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 176,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:42:51 +0000 2020",
+    "id": 1256746003274829824,
+    "id_str": "1256746003274829824",
+    "text": "RT @Meteorovemlogo: Bons gestores s\u00e3o os bancos com taxas abusivas de juros, n\u00e3o \u00e9 partido novo/Ita\u00fa?\nMuita, mas muita hipocrisia. E a quem\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Meteorovemlogo",
+                "name": "Meteoro \ud83c\udde7\ud83c\uddf7",
+                "id": 3369436421,
+                "id_str": "3369436421",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 45613607,
+        "id_str": "45613607",
+        "name": "Anderson Gontijo",
+        "screen_name": "andersongontijo",
+        "location": "Goi\u00e2nia, GO, Brasil",
+        "description": "Sarcasmo? Eu j\u00e1 falei sarcasmo? Vou transformar meus devaneios cr\u00edticos de not\u00edcias plantadas em sementes da disc\u00f3rdia em sua cabe\u00e7a. Viva!",
+        "url": "http://t.co/ETj9bXcAno",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/ETj9bXcAno",
+                        "expanded_url": "http://andersonmarcelogontijo.wordpress.com",
+                        "display_url": "andersonmarcelogontijo.wordpress.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 259,
+        "friends_count": 1172,
+        "listed_count": 2,
+        "created_at": "Mon Jun 08 17:09:33 +0000 2009",
+        "favourites_count": 2159,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9112,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/612635323982589952/AB0oCRaU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/612635323982589952/AB0oCRaU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45613607/1434898617",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:29:02 +0000 2020",
+        "id": 1256742527673212928,
+        "id_str": "1256742527673212928",
+        "text": "Bons gestores s\u00e3o os bancos com taxas abusivas de juros, n\u00e3o \u00e9 partido novo/Ita\u00fa?\nMuita, mas muita hipocrisia. E a\u2026 https://t.co/kYgm6bRLlC",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/kYgm6bRLlC",
+                    "expanded_url": "https://twitter.com/i/web/status/1256742527673212928",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3369436421,
+            "id_str": "3369436421",
+            "name": "Meteoro \ud83c\udde7\ud83c\uddf7",
+            "screen_name": "Meteorovemlogo",
+            "location": "",
+            "description": "1\ufe0f\u20e32\ufe0f\u20e3\ud83c\udf39 \u201cA longo prazo, estaremos todos mortos\" \u2604\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1754,
+            "friends_count": 1968,
+            "listed_count": 2,
+            "created_at": "Fri Jul 10 16:25:15 +0000 2015",
+            "favourites_count": 127992,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 20568,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253389360436822019/F2XSHNhm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253389360436822019/F2XSHNhm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3369436421/1576500452",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

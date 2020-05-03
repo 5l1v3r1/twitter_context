@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:42:21 +0000 2020",
+    "id": 1256745878351745026,
+    "id_str": "1256745878351745026",
+    "text": "RT @Bolsoneas: Ore por Bolsonaro, ore pelo Brasil!\n#OrePorBolsonaro https://t.co/K8wwbiSjDb",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    51,
+                    67
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Bolsoneas",
+                "name": "Bolson\u00e9as",
+                "id": 852571421289177094,
+                "id_str": "852571421289177094",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256726801080037376,
+                "id_str": "1256726801080037376",
+                "indices": [
+                    68,
+                    91
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDKXf4WsAAYK8_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDKXf4WsAAYK8_.jpg",
+                "url": "https://t.co/K8wwbiSjDb",
+                "display_url": "pic.twitter.com/K8wwbiSjDb",
+                "expanded_url": "https://twitter.com/Bolsoneas/status/1256726808789225473/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1000,
+                        "h": 550,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 550,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256726808789225473,
+                "source_status_id_str": "1256726808789225473",
+                "source_user_id": 852571421289177094,
+                "source_user_id_str": "852571421289177094"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256726801080037376,
+                "id_str": "1256726801080037376",
+                "indices": [
+                    68,
+                    91
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDKXf4WsAAYK8_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDKXf4WsAAYK8_.jpg",
+                "url": "https://t.co/K8wwbiSjDb",
+                "display_url": "pic.twitter.com/K8wwbiSjDb",
+                "expanded_url": "https://twitter.com/Bolsoneas/status/1256726808789225473/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1000,
+                        "h": 550,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 550,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256726808789225473,
+                "source_status_id_str": "1256726808789225473",
+                "source_user_id": 852571421289177094,
+                "source_user_id_str": "852571421289177094"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 957350778527715330,
+        "id_str": "957350778527715330",
+        "name": "\ud83c\udde7\ud83c\uddf7 Ju\u00f3 Banan\u00e8re \ud83c\udde7\ud83c\uddf7",
+        "screen_name": "ProfdrJuo",
+        "location": "",
+        "description": "Direita, Crist\u00e3o, Patriota, Conservador, Democrata e Liberal. Anti-Esquerda & Anti-Corrup\u00e7\u00e3o, Politicamente Incorreto. \ud83c\udde7\ud83c\uddf7 Bolsonaro2022 \ud83c\udde7\ud83c\uddf7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 372,
+        "friends_count": 487,
+        "listed_count": 0,
+        "created_at": "Sat Jan 27 20:33:07 +0000 2018",
+        "favourites_count": 10509,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4412,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250851802536448004/86RC3rgn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250851802536448004/86RC3rgn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/957350778527715330/1525817247",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:26:34 +0000 2020",
+        "id": 1256726808789225473,
+        "id_str": "1256726808789225473",
+        "text": "Ore por Bolsonaro, ore pelo Brasil!\n#OrePorBolsonaro https://t.co/K8wwbiSjDb",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OrePorBolsonaro",
+                    "indices": [
+                        36,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256726801080037376,
+                    "id_str": "1256726801080037376",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDKXf4WsAAYK8_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDKXf4WsAAYK8_.jpg",
+                    "url": "https://t.co/K8wwbiSjDb",
+                    "display_url": "pic.twitter.com/K8wwbiSjDb",
+                    "expanded_url": "https://twitter.com/Bolsoneas/status/1256726808789225473/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 374,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1000,
+                            "h": 550,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 550,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256726801080037376,
+                    "id_str": "1256726801080037376",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDKXf4WsAAYK8_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDKXf4WsAAYK8_.jpg",
+                    "url": "https://t.co/K8wwbiSjDb",
+                    "display_url": "pic.twitter.com/K8wwbiSjDb",
+                    "expanded_url": "https://twitter.com/Bolsoneas/status/1256726808789225473/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 374,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1000,
+                            "h": 550,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 550,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 852571421289177094,
+            "id_str": "852571421289177094",
+            "name": "Bolson\u00e9as",
+            "screen_name": "Bolsoneas",
+            "location": "Rio de Janeiro, Brasil",
+            "description": "A uni\u00e3o de dois mitos.",
+            "url": "https://t.co/UHDd3aeP33",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UHDd3aeP33",
+                            "expanded_url": "http://www.instagram.com/bolsoneas",
+                            "display_url": "instagram.com/bolsoneas",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 179461,
+            "friends_count": 150,
+            "listed_count": 116,
+            "created_at": "Thu Apr 13 17:17:21 +0000 2017",
+            "favourites_count": 30600,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10452,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1234550486944055298/LCzQkGD__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234550486944055298/LCzQkGD__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/852571421289177094/1572900925",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1041,
+        "favorite_count": 4505,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1041,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

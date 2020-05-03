@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:41:58 +0000 2020",
+    "id": 1256745783539326977,
+    "id_str": "1256745783539326977",
+    "text": "\u30b3\u30ed\u30ca\u3067\u5916\u51fa\u7981\u6b62\u306b\u5f93\u308f\u306a\u3044\u8005\u306f\u5c04\u6bba\u3059\u308b\u3068\u8a00\u3063\u305f\u30d5\u30a3\u30ea\u30d4\u30f3\u306e\u30c9\u30a5\u30c6\u30eb\u30c6\u3002\n\u5b9f\u969b\u306b\u5c04\u6bba\u3055\u308c\u308b\u4eba\u304c\u51fa\u305f\u304b\u2026\n\n#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    52,
+                    62
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 123746987,
+        "id_str": "123746987",
+        "name": "\u30cd\u30a4\u30d7@\u540c\u5fd7\u307b\u307e\u308c\uff08\u7570\u554f\u6a4b\u990a\u9d8f\u5834\uff09",
+        "screen_name": "fujionjack",
+        "location": "\u738b\u7acb\u30bd\u30ec\u30f3\u30b7\u30a2\u5192\u967a\u8005\u5b66\u9662\u30fb\u795e\u5b66\u79d1",
+        "description": "\u30b2\u30fc\u30c8\u3092\u901a\u3063\u3066\u990a\u9d8f\u5834\u306b\u6765\u3066\u3057\u307e\u3063\u305f\u738b\u7acb\u30bd\u30ec\u30f3\u30b7\u30a2\u5192\u967a\u8005\u5b66\u9662\u30fb\u795e\u5b66\u79d12\u5e74\u751f\u3002\u3010#\u30a8\u30b9\u30c6\u30ec\u30e9\u738b\u7acb\u9b54\u6cd5\u5b66\u6821\uff1a\u30a2\u30eb\u30b0\u3011\u7cbe\u795e\u969c\u5bb3\u8005\u624b\u5e33\u6301\u3061\u3002\u606f\u3092\u3059\u308b\u3088\u306b\u7121\u8a00\u30d5\u30a9\u30ed\u30fc\u3002\u30b5\u30c3\u30ab\u30fc\u3068\u30d7\u30ed\u30ec\u30b9\u597d\u304d\u3002\u30b8\u30a7\u30a4\u30fb\u30db\u30ef\u30a4\u30c8\u3001DOUKI\u3002 #BULLETCLUB #JayWhite #DOUKI",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 493,
+        "friends_count": 657,
+        "listed_count": 10,
+        "created_at": "Wed Mar 17 03:26:13 +0000 2010",
+        "favourites_count": 104046,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 112905,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245205840988012545/4aIKg3lY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245205840988012545/4aIKg3lY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123746987/1587830000",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

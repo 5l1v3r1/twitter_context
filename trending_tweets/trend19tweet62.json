@@ -1,0 +1,222 @@
+{
+    "created_at": "Sun May 03 00:42:34 +0000 2020",
+    "id": 1256745935528497154,
+    "id_str": "1256745935528497154",
+    "text": "RT @fhedxalbaqawe: @almohasen #\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627 \n\u062d\u0628\u0627\u064b \u0648\u0637\u0627\u0639\u0647 \u0641\u064a \u0643\u0644 \u0648\u0642\u062a \u0645\u0646 \u062f\u0648\u0646 \u0627\u064a \u062a\u0631\u062f\u062f\ud83c\udf39",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627",
+                "indices": [
+                    30,
+                    51
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "fhedxalbaqawe",
+                "name": "\u0641\u0647\u064a\u062f \u0627\u0644\u0628\u0642\u0639\u0627\u0648\u064a",
+                "id": 419877496,
+                "id_str": "419877496",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "almohasen",
+                "name": "\u0627\u0646\u0648\u0631 \u0628\u0646 \u0645\u062d\u0645\u062f \u0627\u0644\u0645\u062d\u064a\u0633\u0646",
+                "id": 363959236,
+                "id_str": "363959236",
+                "indices": [
+                    19,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ar",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 864267020,
+        "id_str": "864267020",
+        "name": "\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u062d\u0645\u062f \u0628\u0646 \u062d\u0645\u062f",
+        "screen_name": "benhamed191",
+        "location": "saudi arabia",
+        "description": "\u200f\u0627\u0644\u0644\u0647\u0645 \u0639\u0641\u0648\u0643 \u0648\u0631\u062d\u0645\u062a\u0643 \u0648\u0633\u062a\u0631\u0643 \u0648\u062a\u0648\u0641\u064a\u0642\u0643 \u064a\u0627\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0646",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 200,
+        "friends_count": 343,
+        "listed_count": 0,
+        "created_at": "Sat Oct 06 07:02:18 +0000 2012",
+        "favourites_count": 206,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 490,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254870790106996736/rIwLXqNm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254870790106996736/rIwLXqNm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:04:53 +0000 2020",
+        "id": 1256721350640746499,
+        "id_str": "1256721350640746499",
+        "text": "@almohasen #\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627 \n\u062d\u0628\u0627\u064b \u0648\u0637\u0627\u0639\u0647 \u0641\u064a \u0643\u0644 \u0648\u0642\u062a \u0645\u0646 \u062f\u0648\u0646 \u0627\u064a \u062a\u0631\u062f\u062f\ud83c\udf39",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627",
+                    "indices": [
+                        11,
+                        32
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "almohasen",
+                    "name": "\u0627\u0646\u0648\u0631 \u0628\u0646 \u0645\u062d\u0645\u062f \u0627\u0644\u0645\u062d\u064a\u0633\u0646",
+                    "id": 363959236,
+                    "id_str": "363959236",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ar",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1256719633509466113,
+        "in_reply_to_status_id_str": "1256719633509466113",
+        "in_reply_to_user_id": 363959236,
+        "in_reply_to_user_id_str": "363959236",
+        "in_reply_to_screen_name": "almohasen",
+        "user": {
+            "id": 419877496,
+            "id_str": "419877496",
+            "name": "\u0641\u0647\u064a\u062f \u0627\u0644\u0628\u0642\u0639\u0627\u0648\u064a",
+            "screen_name": "fhedxalbaqawe",
+            "location": "\u062d\u0627\u0626\u0644, \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+            "description": "Inst & Snap : fhedxaalbaqawe | \u0634\u0627\u0639\u0631 | \u0633\u0641\u064a\u0631 \u0644\u062c\u0645\u0639\u064a\u0629 @aytamhail | \u0644\u062a\u0646\u0633\u064a\u0642 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0648\u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u062a\u0648\u0627\u0635\u0644 \u0645\u0639 \u0623.\u064a\u0648\u0633\u0641 \u0627\u0644\u0633\u0639\u062f\u0648\u0646 0531437370",
+            "url": "https://t.co/vGDCMzWfC8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/vGDCMzWfC8",
+                            "expanded_url": "http://fhedxalbaqawe.blogspot.com",
+                            "display_url": "fhedxalbaqawe.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20683,
+            "friends_count": 142,
+            "listed_count": 28,
+            "created_at": "Wed Nov 23 22:20:04 +0000 2011",
+            "favourites_count": 1306,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 31750,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/646772810572926977/2UBCrmxy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/646772810572926977/2UBCrmxy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/419877496/1470632485",
+            "profile_link_color": "990000",
+            "profile_sidebar_border_color": "DFDFDF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ar"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ar"
+}

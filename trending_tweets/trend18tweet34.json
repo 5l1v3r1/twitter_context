@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:53 +0000 2020",
+    "id": 1256746012305047552,
+    "id_str": "1256746012305047552",
+    "text": "\u306a\u306b\u3084\u3063\u3066\u3093\u3060\u3042\u3044\u3064\u3089\u2026\u3002 #nitiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    14,
+                    22
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 845687968006230016,
+        "id_str": "845687968006230016",
+        "name": "\u3072\u305a\u307f\u3061\u3083\u3093\u3002",
+        "screen_name": "_Handbill_back_",
+        "location": "2\u6b21\u5143\u30683\u6b21\u5143\u306e\u6b6a\u306e\u4e2d\u3002",
+        "description": "\u7f8e\u5c11\u5973\u3084\u3063\u3066\u307e\u3059\u3002\u30e1\u30f3\u30d8\u30e9\ud83d\udc89\u304b\u307e\u3063\u3066\u3061\u3083\u3093\ud83d\udc8a\u75c5\u307f/\u5973\u88c5/\u7537\u306e\u5a18/\u30d5\u30a9\u30c8\u30b7\u30e7\u8a50\u6b3a\u5e2b/\u30ab\u30e9\u30aa\u30b1\ud83c\udfa4\u30b3\u30ba\u30df\u30c3\u30af\u30d2\u30fc\u30ed\u30fc\u3067\u30a2\u30fc\u30af\u30b9\u3067\u30a2\u30e9\u30c9\u5927\u9678\u306e\u5192\u967a\u8005/\u30b2\u30fc\u30e0\u3084\u3063\u305f\u308a\u898b\u305f\u308a/\u30ac\u30f3\u30b7\u30e5\u30fc\ud83d\udd2b\u30a2\u30cb\u30e1\u6f2b\u753b/\u30a2\u30a4\u30ab\u30c4\u30b7\u30ea\u30fc\u30ba/\u30d7\u30ea\u30d1\u30e9/\u30d7\u30ea\u30c1\u30e3\u30f3/\u30a8\u30ed\u30b0\u30ed\u30ea\u30e7\u30ca\ud83d\udd2a\u305f\u307e\u306b\u7d75\u5e2b/\u767e\u5408\ud83d\udc9e\u3044\u3044\u306dRT\u30d5\u30a9\u30ed\u30fc\u304f\u3060\u3055\u3044\u2757\ufe0f\u304a\u53cb\u9054\u52df\u96c6\u4e2d\u3002",
+        "url": "https://t.co/GlImud7qug",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/GlImud7qug",
+                        "expanded_url": "https://skeb.jp/@_Handbill_back_",
+                        "display_url": "skeb.jp/@_Handbill_bac\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 81,
+        "friends_count": 115,
+        "listed_count": 7,
+        "created_at": "Sat Mar 25 17:24:58 +0000 2017",
+        "favourites_count": 28158,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 61907,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245378712154992642/fi8VBIN4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245378712154992642/fi8VBIN4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845687968006230016/1586091451",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

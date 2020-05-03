@@ -1,0 +1,88 @@
+{
+    "created_at": "Sun May 03 00:41:29 +0000 2020",
+    "id": 1256745660017045506,
+    "id_str": "1256745660017045506",
+    "text": "#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0\n\u3060\u3063\u305f\u3089\nTBS\u793e\u54e1\n\u30ea\u30b9\u30ca\u30fc\n\u8996\u8074\u8005\u306f\n\u30c9\u30a4\u30c4\u306b\u4f4f\u3081\u3070",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1132563264997453824,
+        "id_str": "1132563264997453824",
+        "name": "\u6b66\u58eb\u9053",
+        "screen_name": "v0XVW5gFGwYSsDo",
+        "location": "",
+        "description": "\u65e5\u672c\u306b\u751f\u307e\u308c\u3066\u5e78\u305b",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 1,
+        "listed_count": 1,
+        "created_at": "Sun May 26 08:24:59 +0000 2019",
+        "favourites_count": 307,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 688,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1132563624692658176/6aD3ZnKW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132563624692658176/6aD3ZnKW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

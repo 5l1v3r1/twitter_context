@@ -1,0 +1,92 @@
+{
+    "created_at": "Sun May 03 00:42:45 +0000 2020",
+    "id": 1256745979740635139,
+    "id_str": "1256745979740635139",
+    "text": "@felipeprior Napolitano \u00e9 melhor TE AMAMOS FELIPE PRIOR",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "felipeprior",
+                "name": "Felipe Prior \ud83c\udf7a \ud83e\uddd9\u200d\u2642\ufe0f",
+                "id": 58612615,
+                "id_str": "58612615",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256739940567781377,
+    "in_reply_to_status_id_str": "1256739940567781377",
+    "in_reply_to_user_id": 58612615,
+    "in_reply_to_user_id_str": "58612615",
+    "in_reply_to_screen_name": "felipeprior",
+    "user": {
+        "id": 1233612289586159616,
+        "id_str": "1233612289586159616",
+        "name": "priorzin \ud83c\udf7a \ud83d\udc9b",
+        "screen_name": "st_Todoroki",
+        "location": "Recife, Brazil",
+        "description": "sou muito arlequina do prior",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 339,
+        "friends_count": 203,
+        "listed_count": 1,
+        "created_at": "Sat Feb 29 04:37:51 +0000 2020",
+        "favourites_count": 4688,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5837,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246579061339623425/5rJ83jrZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246579061339623425/5rJ83jrZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233612289586159616/1586371622",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

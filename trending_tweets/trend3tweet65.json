@@ -1,0 +1,168 @@
+{
+    "created_at": "Sun May 03 00:42:17 +0000 2020",
+    "id": 1256745863491321857,
+    "id_str": "1256745863491321857",
+    "text": "#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc https://t.co/ToaR76sVZb",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    0,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745860911726597,
+                "id_str": "1256745860911726597",
+                "indices": [
+                    21,
+                    44
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbs7SWAAUXBS_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbs7SWAAUXBS_.jpg",
+                "url": "https://t.co/ToaR76sVZb",
+                "display_url": "pic.twitter.com/ToaR76sVZb",
+                "expanded_url": "https://twitter.com/sselinkanat/status/1256745863491321857/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745860911726597,
+                "id_str": "1256745860911726597",
+                "indices": [
+                    21,
+                    44
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbs7SWAAUXBS_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbs7SWAAUXBS_.jpg",
+                "url": "https://t.co/ToaR76sVZb",
+                "display_url": "pic.twitter.com/ToaR76sVZb",
+                "expanded_url": "https://twitter.com/sselinkanat/status/1256745863491321857/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 664,
+                        "h": 374,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 950464578735017985,
+        "id_str": "950464578735017985",
+        "name": "Selin Kanat",
+        "screen_name": "sselinkanat",
+        "location": "Ankara, T\u00fcrkiye",
+        "description": "Gazi \u00dcniversitesi, Gazetecilik",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 149,
+        "friends_count": 207,
+        "listed_count": 0,
+        "created_at": "Mon Jan 08 20:29:49 +0000 2018",
+        "favourites_count": 5349,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 208,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244627253243322373/v_oXKldv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244627253243322373/v_oXKldv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/950464578735017985/1582036823",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

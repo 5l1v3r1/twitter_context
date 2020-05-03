@@ -1,0 +1,267 @@
+{
+    "created_at": "Sun May 03 00:42:22 +0000 2020",
+    "id": 1256745885096124418,
+    "id_str": "1256745885096124418",
+    "text": "RT @ilbilgehatun_: T\u00fcrk'e ba\u015f kald\u0131ran\u0131 Allah kahretsin!\n\nKim Demi\u015f Her \u015eeyin Biti\u015fi \u00d6l\u00fcm, Destanlar Yay\u0131l\u0131r Mezar\u0131m\u0131zdan.\n#Bitlis https://\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    123,
+                    130
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ilbilgehatun_",
+                "name": "\u0130lbilgehatun\ud83c\udff9",
+                "id": 1242082741623173120,
+                "id_str": "1242082741623173120",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1059749655561543680,
+        "id_str": "1059749655561543680",
+        "name": "\u0130brahim T\u0130MU\u00c7\u0130N",
+        "screen_name": "Serkan6363T",
+        "location": "K\u0131r\u0131kkale ",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 63,
+        "friends_count": 110,
+        "listed_count": 0,
+        "created_at": "Tue Nov 06 10:09:41 +0000 2018",
+        "favourites_count": 1208,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1297,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1209041677576548354/vGygM_hX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209041677576548354/vGygM_hX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:26:10 +0000 2020",
+        "id": 1256651211325005827,
+        "id_str": "1256651211325005827",
+        "text": "T\u00fcrk'e ba\u015f kald\u0131ran\u0131 Allah kahretsin!\n\nKim Demi\u015f Her \u015eeyin Biti\u015fi \u00d6l\u00fcm, Destanlar Yay\u0131l\u0131r Mezar\u0131m\u0131zdan.\n#Bitlis https://t.co/cDazP4KQY6",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        104,
+                        111
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256651195239841793,
+                    "id_str": "1256651195239841793",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCFmqLXQAE4Vem.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCFmqLXQAE4Vem.jpg",
+                    "url": "https://t.co/cDazP4KQY6",
+                    "display_url": "pic.twitter.com/cDazP4KQY6",
+                    "expanded_url": "https://twitter.com/ilbilgehatun_/status/1256651211325005827/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 465,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 439,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 465,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256651195239841793,
+                    "id_str": "1256651195239841793",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCFmqLXQAE4Vem.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCFmqLXQAE4Vem.jpg",
+                    "url": "https://t.co/cDazP4KQY6",
+                    "display_url": "pic.twitter.com/cDazP4KQY6",
+                    "expanded_url": "https://twitter.com/ilbilgehatun_/status/1256651211325005827/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 465,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 439,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 465,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1242082741623173120,
+            "id_str": "1242082741623173120",
+            "name": "\u0130lbilgehatun\ud83c\udff9",
+            "screen_name": "ilbilgehatun_",
+            "location": "Toroslar",
+            "description": "Ba\u015f koymu\u015fuumm T\u00fcrkiyemiiinn yooluna.. \ud83c\uddf9\ud83c\uddf7",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 392,
+            "friends_count": 183,
+            "listed_count": 0,
+            "created_at": "Mon Mar 23 13:36:38 +0000 2020",
+            "favourites_count": 5398,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 288,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1242519736669343744/Mm8jtZCj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242519736669343744/Mm8jtZCj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242082741623173120/1585067670",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 60,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

@@ -1,0 +1,283 @@
+{
+    "created_at": "Sun May 03 00:42:36 +0000 2020",
+    "id": 1256745941060681728,
+    "id_str": "1256745941060681728",
+    "text": "https://t.co/V7N5KsDpvT\nGame down. Results are out. \nGoodnight all. Both tried. #NBSSNL #NTVDanceParty https://t.co/1E6lYNjS2O",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    80,
+                    87
+                ]
+            },
+            {
+                "text": "NTVDanceParty",
+                "indices": [
+                    88,
+                    102
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/V7N5KsDpvT",
+                "expanded_url": "https://twitter.com/deFella2/status/1256737398643462144?s=19",
+                "display_url": "twitter.com/deFella2/statu\u2026",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1256745925608976384,
+                "id_str": "1256745925608976384",
+                "indices": [
+                    103,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbwsTXsAAqKg8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbwsTXsAAqKg8.jpg",
+                "url": "https://t.co/1E6lYNjS2O",
+                "display_url": "pic.twitter.com/1E6lYNjS2O",
+                "expanded_url": "https://twitter.com/deFella2/status/1256745941060681728/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1037,
+                        "h": 916,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 601,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1037,
+                        "h": 916,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745925608976384,
+                "id_str": "1256745925608976384",
+                "indices": [
+                    103,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbwsTXsAAqKg8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbwsTXsAAqKg8.jpg",
+                "url": "https://t.co/1E6lYNjS2O",
+                "display_url": "pic.twitter.com/1E6lYNjS2O",
+                "expanded_url": "https://twitter.com/deFella2/status/1256745941060681728/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1037,
+                        "h": 916,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 601,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1037,
+                        "h": 916,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 245315934,
+        "id_str": "245315934",
+        "name": "Sam",
+        "screen_name": "deFella2",
+        "location": "Kampala",
+        "description": "Inspiration comes from within| Health| Oil & Gas| God|Sports| Sarcasm & humor. \nI even follow back for FREE! Imagine \ud83d\ude06",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3403,
+        "friends_count": 4998,
+        "listed_count": 1,
+        "created_at": "Mon Jan 31 11:59:10 +0000 2011",
+        "favourites_count": 6685,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3136,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458616893524303872/-Y5QT4uQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458616893524303872/-Y5QT4uQ_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245315934/1546561158",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256737398643462144,
+    "quoted_status_id_str": "1256737398643462144",
+    "quoted_status": {
+        "created_at": "Sun May 03 00:08:39 +0000 2020",
+        "id": 1256737398643462144,
+        "id_str": "1256737398643462144",
+        "text": "I think whoever closes first, is when the votes get counted.\n#NBSSNL #NTVDanceParty",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        61,
+                        68
+                    ]
+                },
+                {
+                    "text": "NTVDanceParty",
+                    "indices": [
+                        69,
+                        83
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 245315934,
+            "id_str": "245315934",
+            "name": "Sam",
+            "screen_name": "deFella2",
+            "location": "Kampala",
+            "description": "Inspiration comes from within| Health| Oil & Gas| God|Sports| Sarcasm & humor. \nI even follow back for FREE! Imagine \ud83d\ude06",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3403,
+            "friends_count": 4998,
+            "listed_count": 1,
+            "created_at": "Mon Jan 31 11:59:10 +0000 2011",
+            "favourites_count": 6685,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3136,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/458616893524303872/-Y5QT4uQ_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/458616893524303872/-Y5QT4uQ_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/245315934/1546561158",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

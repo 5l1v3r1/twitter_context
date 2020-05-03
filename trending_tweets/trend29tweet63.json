@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:42:41 +0000 2020",
+    "id": 1256745961776386049,
+    "id_str": "1256745961776386049",
+    "text": "VAMOS VIVER TUDO QUE H\u00c1 PRA VIVER\n\nVAMOS NOS PERMITIR\n\nN\u00c3O.\nN\u00c3O PODE LULU.... KKKKK\ud83d\ude37\n#LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    85,
+                    94
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 33318289,
+        "id_str": "33318289",
+        "name": "TiTi",
+        "screen_name": "titifenycia",
+        "location": "Curitiba, Brasil",
+        "description": "Sempre querendo morar nos anos 50 \ud83d\udc95\nEstou quase l\u00e1.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1646,
+        "friends_count": 670,
+        "listed_count": 35,
+        "created_at": "Sun Apr 19 21:35:56 +0000 2009",
+        "favourites_count": 117412,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 158117,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249895750760349701/RJcji0zU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249895750760349701/RJcji0zU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33318289/1579894899",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

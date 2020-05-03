@@ -1,0 +1,213 @@
+{
+    "created_at": "Sun May 03 00:42:14 +0000 2020",
+    "id": 1256745849775894528,
+    "id_str": "1256745849775894528",
+    "text": "RT @KartFirat35: #Bitlis\u2018te iftar vakti b\u00f6l\u00fcc\u00fc ter\u00f6r \u00f6rg\u00fct\u00fc PKK\u2019l\u0131 ter\u00f6ristler ile girdikleri \u00e7at\u0131\u015fmada \u015fehit olan Mehmet\u00e7iklerimize Allah\u2019\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    17,
+                    24
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "KartFirat35",
+                "name": "\ud83c\uddf9\ud83c\uddf7 F\u0131rat KART \ud83c\uddf9\ud83c\uddf7",
+                "id": 940357780396965890,
+                "id_str": "940357780396965890",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1219263085141221377,
+        "id_str": "1219263085141221377",
+        "name": "\ud83c\uddf9\ud83c\uddf7 AK\u2b50DO\u011eAN \ud83c\uddf9\ud83c\uddf7",
+        "screen_name": "AKDOGAN2ADEM",
+        "location": "",
+        "description": "\ud83c\uddf9\ud83c\uddf7 YOLUMUZ AK \u2b50 DAVAMIZ HAK \ud83c\uddf9\ud83c\uddf7\n@AKDOGAN1ADEM @AKDOGAN3ADEM",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1961,
+        "friends_count": 1953,
+        "listed_count": 1,
+        "created_at": "Mon Jan 20 14:19:33 +0000 2020",
+        "favourites_count": 9895,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9199,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248609557535838208/isZtv0WS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248609557535838208/isZtv0WS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219263085141221377/1587583390",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:40:55 +0000 2020",
+        "id": 1256685120234434561,
+        "id_str": "1256685120234434561",
+        "text": "#Bitlis\u2018te iftar vakti b\u00f6l\u00fcc\u00fc ter\u00f6r \u00f6rg\u00fct\u00fc PKK\u2019l\u0131 ter\u00f6ristler ile girdikleri \u00e7at\u0131\u015fmada \u015fehit olan Mehmet\u00e7iklerimize\u2026 https://t.co/lDUfDqQwjh",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lDUfDqQwjh",
+                    "expanded_url": "https://twitter.com/i/web/status/1256685120234434561",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 940357780396965890,
+            "id_str": "940357780396965890",
+            "name": "\ud83c\uddf9\ud83c\uddf7 F\u0131rat KART \ud83c\uddf9\ud83c\uddf7",
+            "screen_name": "KartFirat35",
+            "location": "\u0130zmir, T\u00fcrkiye",
+            "description": "\ud83d\udc49 2018 - 2019 Ak Parti \u0130zmir Kemalpa\u015fa Gen\u00e7. Kol. Tan\u0131t\u0131m ve Medya Ba\u015fkan\u0131 \n\n\n\n\n\n\ud83d\udc49 2019 / Osmanl\u0131 Ocaklar\u0131 Federasyonu \u0130zmir Kemalpa\u015fa Gen\u00e7lik Kollar\u0131 Ba\u015fkan\u0131",
+            "url": "https://t.co/6fS31T0vSQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6fS31T0vSQ",
+                            "expanded_url": "https://www.youtube.com/channel/UCIJ4hblR_Gs9VprFNoUGUXw",
+                            "display_url": "youtube.com/channel/UCIJ4h\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6731,
+            "friends_count": 6581,
+            "listed_count": 6,
+            "created_at": "Mon Dec 11 23:09:00 +0000 2017",
+            "favourites_count": 5742,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3077,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1239323212195995648/AxcZ_kMH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239323212195995648/AxcZ_kMH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/940357780396965890/1561757980",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

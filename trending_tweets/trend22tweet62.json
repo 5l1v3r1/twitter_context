@@ -1,0 +1,367 @@
+{
+    "created_at": "Sun May 03 00:42:11 +0000 2020",
+    "id": 1256745835775135744,
+    "id_str": "1256745835775135744",
+    "text": "RT @Raymartin55: SAFETY SAFETY SAFETY     \n\n@MarisePayne @CDF_Aust \n\nCc @ScottMorrisonMP\n\nIt\u2019s been reported that ADF \u2018volunteers\u2019 are bein\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Raymartin55",
+                "name": "Ray Martin",
+                "id": 2542290469,
+                "id_str": "2542290469",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "MarisePayne",
+                "name": "Marise Payne",
+                "id": 2300779218,
+                "id_str": "2300779218",
+                "indices": [
+                    44,
+                    56
+                ]
+            },
+            {
+                "screen_name": "CDF_Aust",
+                "name": "General Angus Campbell",
+                "id": 2590721768,
+                "id_str": "2590721768",
+                "indices": [
+                    57,
+                    66
+                ]
+            },
+            {
+                "screen_name": "ScottMorrisonMP",
+                "name": "Scott Morrison",
+                "id": 34116377,
+                "id_str": "34116377",
+                "indices": [
+                    72,
+                    88
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3436359134,
+        "id_str": "3436359134",
+        "name": "Sister Bernadette E. O'Malley",
+        "screen_name": "SisterOMalley",
+        "location": "Armidale NSW",
+        "description": "Retired teacher of maths & physics with a fascination for technology . Lover of dogs & gardening",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1047,
+        "friends_count": 818,
+        "listed_count": 7,
+        "created_at": "Thu Sep 03 11:29:52 +0000 2015",
+        "favourites_count": 26249,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14408,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1015544501144731648/GmLuop03_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015544501144731648/GmLuop03_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3436359134/1586305761",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:02:04 +0000 2020",
+        "id": 1256720643988402176,
+        "id_str": "1256720643988402176",
+        "text": "SAFETY SAFETY SAFETY     \n\n@MarisePayne @CDF_Aust \n\nCc @ScottMorrisonMP\n\nIt\u2019s been reported that ADF \u2018volunteers\u2019 a\u2026 https://t.co/yXpLUZdaIN",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MarisePayne",
+                    "name": "Marise Payne",
+                    "id": 2300779218,
+                    "id_str": "2300779218",
+                    "indices": [
+                        27,
+                        39
+                    ]
+                },
+                {
+                    "screen_name": "CDF_Aust",
+                    "name": "General Angus Campbell",
+                    "id": 2590721768,
+                    "id_str": "2590721768",
+                    "indices": [
+                        40,
+                        49
+                    ]
+                },
+                {
+                    "screen_name": "ScottMorrisonMP",
+                    "name": "Scott Morrison",
+                    "id": 34116377,
+                    "id_str": "34116377",
+                    "indices": [
+                        55,
+                        71
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/yXpLUZdaIN",
+                    "expanded_url": "https://twitter.com/i/web/status/1256720643988402176",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2542290469,
+            "id_str": "2542290469",
+            "name": "Ray Martin",
+            "screen_name": "Raymartin55",
+            "location": "N Qld, Australia",
+            "description": "Former Army Officer ~ Championing #Veterans issues ~ #CheckYourMates ~Team Humanity~ #Auspol ~ #FlicksNoChills\ud83c\udf7fPersonal Account",
+            "url": "https://t.co/RgoBseqs3F",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/RgoBseqs3F",
+                            "expanded_url": "https://www.youtube.com/channel/UC-ccmk0PfZ_8rzDD_Hw1UQg",
+                            "display_url": "youtube.com/channel/UC-ccm\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8059,
+            "friends_count": 4500,
+            "listed_count": 62,
+            "created_at": "Mon Jun 02 22:20:01 +0000 2014",
+            "favourites_count": 42423,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 30174,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254163150552760320/B43lSvYm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254163150552760320/B43lSvYm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2542290469/1587850772",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256713637961424896,
+        "quoted_status_id_str": "1256713637961424896",
+        "quoted_status": {
+            "created_at": "Sat May 02 22:34:14 +0000 2020",
+            "id": 1256713637961424896,
+            "id_str": "1256713637961424896",
+            "text": "Fears Australian military personnel will be harmed by coronavirus drug trials https://t.co/6bCxa2unhl",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/6bCxa2unhl",
+                        "expanded_url": "https://www.theguardian.com/australia-news/2020/apr/22/fears-australian-military-personnel-will-be-harmed-by-coronavirus-drug-trials",
+                        "display_url": "theguardian.com/australia-news\u2026",
+                        "indices": [
+                            78,
+                            101
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2542290469,
+                "id_str": "2542290469",
+                "name": "Ray Martin",
+                "screen_name": "Raymartin55",
+                "location": "N Qld, Australia",
+                "description": "Former Army Officer ~ Championing #Veterans issues ~ #CheckYourMates ~Team Humanity~ #Auspol ~ #FlicksNoChills\ud83c\udf7fPersonal Account",
+                "url": "https://t.co/RgoBseqs3F",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/RgoBseqs3F",
+                                "expanded_url": "https://www.youtube.com/channel/UC-ccmk0PfZ_8rzDD_Hw1UQg",
+                                "display_url": "youtube.com/channel/UC-ccm\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8059,
+                "friends_count": 4500,
+                "listed_count": 62,
+                "created_at": "Mon Jun 02 22:20:01 +0000 2014",
+                "favourites_count": 42423,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 30174,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1254163150552760320/B43lSvYm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254163150552760320/B43lSvYm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2542290469/1587850772",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 14,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 17,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256713637961424896,
+    "quoted_status_id_str": "1256713637961424896",
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

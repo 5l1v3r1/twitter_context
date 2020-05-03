@@ -1,0 +1,367 @@
+{
+    "created_at": "Sun May 03 00:42:00 +0000 2020",
+    "id": 1256745791810666500,
+    "id_str": "1256745791810666500",
+    "text": "RT @Darth_Pingu: #TheTitleOfTrumpsMemoir Raging Bullshit https://t.co/wRC1CBySXO",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    17,
+                    40
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Darth_Pingu",
+                "name": "\ud83c\udf41Fletchy McFletchyface\u2618",
+                "id": 341045866,
+                "id_str": "341045866",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256676509856792577,
+                "id_str": "1256676509856792577",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCcoKeXgAEh_3P.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCcoKeXgAEh_3P.jpg",
+                "url": "https://t.co/wRC1CBySXO",
+                "display_url": "pic.twitter.com/wRC1CBySXO",
+                "expanded_url": "https://twitter.com/Darth_Pingu/status/1256676515116433410/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 697,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 395,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 773,
+                        "h": 1331,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256676515116433410,
+                "source_status_id_str": "1256676515116433410",
+                "source_user_id": 341045866,
+                "source_user_id_str": "341045866"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256676509856792577,
+                "id_str": "1256676509856792577",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCcoKeXgAEh_3P.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCcoKeXgAEh_3P.jpg",
+                "url": "https://t.co/wRC1CBySXO",
+                "display_url": "pic.twitter.com/wRC1CBySXO",
+                "expanded_url": "https://twitter.com/Darth_Pingu/status/1256676515116433410/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 697,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 395,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 773,
+                        "h": 1331,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256676515116433410,
+                "source_status_id_str": "1256676515116433410",
+                "source_user_id": 341045866,
+                "source_user_id_str": "341045866"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 731558842971111424,
+        "id_str": "731558842971111424",
+        "name": "Robert Putyra",
+        "screen_name": "RobertPutyra",
+        "location": "Chicago, IL",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 116,
+        "listed_count": 0,
+        "created_at": "Sat May 14 18:56:34 +0000 2016",
+        "favourites_count": 656,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 893,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:06:43 +0000 2020",
+        "id": 1256676515116433410,
+        "id_str": "1256676515116433410",
+        "text": "#TheTitleOfTrumpsMemoir Raging Bullshit https://t.co/wRC1CBySXO",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256676509856792577,
+                    "id_str": "1256676509856792577",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCcoKeXgAEh_3P.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCcoKeXgAEh_3P.jpg",
+                    "url": "https://t.co/wRC1CBySXO",
+                    "display_url": "pic.twitter.com/wRC1CBySXO",
+                    "expanded_url": "https://twitter.com/Darth_Pingu/status/1256676515116433410/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 697,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 395,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 773,
+                            "h": 1331,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256676509856792577,
+                    "id_str": "1256676509856792577",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCcoKeXgAEh_3P.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCcoKeXgAEh_3P.jpg",
+                    "url": "https://t.co/wRC1CBySXO",
+                    "display_url": "pic.twitter.com/wRC1CBySXO",
+                    "expanded_url": "https://twitter.com/Darth_Pingu/status/1256676515116433410/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 697,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 395,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 773,
+                            "h": 1331,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 341045866,
+            "id_str": "341045866",
+            "name": "\ud83c\udf41Fletchy McFletchyface\u2618",
+            "screen_name": "Darth_Pingu",
+            "location": "Toronto ON",
+            "description": "\ud83c\udf41Canadian Made with Irish Parts\u2618\n\nHashtagger, co-host of  @MooseChuckleTag /host of @FletchyTags/\n\nLevel 42\u2b06\ufe0f\n#RESIST \nTFC/Leafs/Wolfpack/\nHappily Taken \u2764",
+            "url": "https://t.co/wLYxxdkKHM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wLYxxdkKHM",
+                            "expanded_url": "https://twitter.com/search?q=from%3Adarth_pingu%20-filter%3Areplies&src=typd",
+                            "display_url": "twitter.com/search?q=from%\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 18324,
+            "friends_count": 13770,
+            "listed_count": 216,
+            "created_at": "Sat Jul 23 18:20:42 +0000 2011",
+            "favourites_count": 213446,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 253125,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254191407801171974/OzBOelLM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254191407801171974/OzBOelLM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/341045866/1577639407",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 111,
+        "favorite_count": 650,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 111,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

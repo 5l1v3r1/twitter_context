@@ -1,0 +1,204 @@
+{
+    "created_at": "Sun May 03 00:42:56 +0000 2020",
+    "id": 1256746024653250560,
+    "id_str": "1256746024653250560",
+    "text": "A #mans\u00e3odaspocs nos trends \u2764\u2764\ud83c\udf89\ud83c\udf89 https://t.co/gnMJEu3tes",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mans\u00e3odaspocs",
+                "indices": [
+                    2,
+                    16
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256746012544204802,
+                "id_str": "1256746012544204802",
+                "indices": [
+                    33,
+                    56
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDb1wKWAAIKawe.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDb1wKWAAIKawe.jpg",
+                "url": "https://t.co/gnMJEu3tes",
+                "display_url": "pic.twitter.com/gnMJEu3tes",
+                "expanded_url": "https://twitter.com/Crf_Cg/status/1256746024653250560/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256746012544204802,
+                "id_str": "1256746012544204802",
+                "indices": [
+                    33,
+                    56
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDb1wKWAAIKawe.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDb1wKWAAIKawe.jpg",
+                "url": "https://t.co/gnMJEu3tes",
+                "display_url": "pic.twitter.com/gnMJEu3tes",
+                "expanded_url": "https://twitter.com/Crf_Cg/status/1256746024653250560/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 300,
+                        "h": 168,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        25,
+                        14
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDb1wKWAAIKawe.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 930126973443231745,
+        "id_str": "930126973443231745",
+        "name": "\u1d20\u026a\u1d00\u1d05\u026a\u0274\u029c\u1d0f \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83e\udd70\ud83e\udd19\ud83c\udffe",
+        "screen_name": "Crf_Cg",
+        "location": "Barbie's House \ud83c\udf80",
+        "description": "\u2022 \u1d1c\u1d0d \u0274\u1d0f\u1d0a\u026a\u0274\u029c\u1d0f \u2764 \n\u2022 \u1d0f\u1d05\u026a\u1d00\u1d05\u1d0f \u1d18\u1d0f\u0280 \u1d0d\u1d1c\u026a\u1d1b\u1d0fs \ud83d\udd25\n   https://t.co/OwjyUmFbHs \ud83e\udd19\ud83c\udffe",
+        "url": "https://t.co/8H97i75Zo6",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/8H97i75Zo6",
+                        "expanded_url": "https://www.instagram.com/cgvulgo/",
+                        "display_url": "instagram.com/cgvulgo/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/OwjyUmFbHs",
+                        "expanded_url": "https://curiouscat.me/Cgvulgo",
+                        "display_url": "curiouscat.me/Cgvulgo",
+                        "indices": [
+                            41,
+                            64
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 2453,
+        "friends_count": 629,
+        "listed_count": 1,
+        "created_at": "Mon Nov 13 17:35:26 +0000 2017",
+        "favourites_count": 10650,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6200,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251041486399037440/LuYh1nFI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251041486399037440/LuYh1nFI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/930126973443231745/1588204243",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

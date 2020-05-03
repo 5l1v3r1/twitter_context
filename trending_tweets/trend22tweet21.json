@@ -1,0 +1,206 @@
+{
+    "created_at": "Sun May 03 00:42:43 +0000 2020",
+    "id": 1256745972517924865,
+    "id_str": "1256745972517924865",
+    "text": "RT @iMusing: heh told you two women on the panel makes a difference. In response to the combined analysis of Karvelas and Savva, the host p\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "iMusing",
+                "name": "Ingrid M",
+                "id": 171699484,
+                "id_str": "171699484",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3301337178,
+        "id_str": "3301337178",
+        "name": "Lindy Cleeland",
+        "screen_name": "Lindycleeland",
+        "location": "Midway Point, Tasmania",
+        "description": "Free now of elected office.\nWilling, ready and able to tackle social issues.\nAlways speaking up for those who have no voice.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 618,
+        "friends_count": 520,
+        "listed_count": 4,
+        "created_at": "Thu Jul 30 10:05:25 +0000 2015",
+        "favourites_count": 2238,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 75789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009028695015583745/zEaHhbwq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009028695015583745/zEaHhbwq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3301337178/1559257728",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:21:29 +0000 2020",
+        "id": 1256725528096063488,
+        "id_str": "1256725528096063488",
+        "text": "heh told you two women on the panel makes a difference. In response to the combined analysis of Karvelas and Savva,\u2026 https://t.co/7nT9pWC7RF",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7nT9pWC7RF",
+                    "expanded_url": "https://twitter.com/i/web/status/1256725528096063488",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1256725153674747904,
+        "in_reply_to_status_id_str": "1256725153674747904",
+        "in_reply_to_user_id": 171699484,
+        "in_reply_to_user_id_str": "171699484",
+        "in_reply_to_screen_name": "iMusing",
+        "user": {
+            "id": 171699484,
+            "id_str": "171699484",
+            "name": "Ingrid M",
+            "screen_name": "iMusing",
+            "location": "Western Sydney, Australia",
+            "description": "on unceded Darug lands| law, ethics, political economy| casualised, single mum, feminist, union| cover art by EvaClaire Matthews| https://t.co/Rcb1hZ2JjP",
+            "url": "https://t.co/f32un4rtdd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/f32un4rtdd",
+                            "expanded_url": "https://imatthewsblog.com/",
+                            "display_url": "imatthewsblog.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Rcb1hZ2JjP",
+                            "expanded_url": "http://PayPal.Me/IngridMM",
+                            "display_url": "PayPal.Me/IngridMM",
+                            "indices": [
+                                130,
+                                153
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 9654,
+            "friends_count": 2378,
+            "listed_count": 91,
+            "created_at": "Tue Jul 27 23:38:59 +0000 2010",
+            "favourites_count": 79529,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 103383,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1239552631585927170/JiW5Gu9E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239552631585927170/JiW5Gu9E_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/171699484/1583832152",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 89,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

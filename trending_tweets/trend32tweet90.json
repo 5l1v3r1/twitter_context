@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:40:57 +0000 2020",
+    "id": 1256745525388275713,
+    "id_str": "1256745525388275713",
+    "text": "\u65e5\u672c\u3082\u4e0b\u3089\u306a\u3044\u30c7\u30e2\u9a12\u304e\u3057\u3066\u3044\u308b\u8f29\u306f\u5c04\u6bba\u306f\u30aa\u30fc\u30d0\u30fc\u3067\u3082\u62d8\u7981\u306f\u69cb\u308f\u306a\u3044\u4f4d\u306b\u3057\u3066\u304a\u3051\u3002\n#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    41,
+                    51
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 93551118,
+        "id_str": "93551118",
+        "name": "\u5bae\u5742\u53f8\u9732",
+        "screen_name": "miyasakas",
+        "location": "\u6771\u4eac\u6771\u90e8\u306e\u7dcf\u6b66\u7dda\u6cbf\u7dda",
+        "description": "\u30c8\u30ed\u5834\u306e\u9b8e\u307f\u305f\u3044\u306b\u3058\u3063\u3068\u3057\u3066\u3044\u308b\u306e\u304c\u597d\u304d\u306a\u3084\u3055\u3050\u308c\u2026\u30a2\u30a4\u30b3\u30f3\u306b\u3057\u3066\u3044\u308b\u306e\u306f\u3068\u3042\u308b\u6559\u4f1a\u306e\u30d1\u30a4\u30d7\u30aa\u30eb\u30ac\u30f3\u3001\u5efa\u7269\u3068\u5171\u306b\u98a8\u683c\u304c\u3042\u3063\u3066\u597d\u307e\u3057\u3044\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1059,
+        "friends_count": 1108,
+        "listed_count": 11,
+        "created_at": "Mon Nov 30 03:28:50 +0000 2009",
+        "favourites_count": 66119,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 52008,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2990685428/53ba0acec427125459c1443b1ef69edb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2990685428/53ba0acec427125459c1443b1ef69edb_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93551118/1457258818",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

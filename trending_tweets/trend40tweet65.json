@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun May 03 00:41:26 +0000 2020",
+    "id": 1256745649816641537,
+    "id_str": "1256745649816641537",
+    "text": "@amorderanu E vamos de choro e tag #RafaADMXand",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RafaADMXand",
+                "indices": [
+                    35,
+                    47
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "amorderanu",
+                "name": "alexia \ud83e\udd43\ud83c\udf2a",
+                "id": 1220576658782138368,
+                "id_str": "1220576658782138368",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1256713300072697856,
+    "in_reply_to_status_id_str": "1256713300072697856",
+    "in_reply_to_user_id": 1220576658782138368,
+    "in_reply_to_user_id_str": "1220576658782138368",
+    "in_reply_to_screen_name": "amorderanu",
+    "user": {
+        "id": 1250753908353400833,
+        "id_str": "1250753908353400833",
+        "name": "kalimann \u2728\ud83c\udfb8\ud83d\udc19",
+        "screen_name": "oi_deus",
+        "location": "Team Rock",
+        "description": "acho que eu devo gostar @diniz_celeste",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 48,
+        "listed_count": 0,
+        "created_at": "Thu Apr 16 11:52:43 +0000 2020",
+        "favourites_count": 41,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 70,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253004572538343426/7uxcALA4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253004572538343426/7uxcALA4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250753908353400833/1587574545",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

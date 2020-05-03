@@ -1,0 +1,215 @@
+{
+    "created_at": "Sun May 03 00:42:36 +0000 2020",
+    "id": 1256745944223305728,
+    "id_str": "1256745944223305728",
+    "text": "RT @freeoposittion: olha bem esse liberal fdp falando besteira meu deus #CiroNaGloboNews",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    72,
+                    88
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "freeoposittion",
+                "name": "marcela \ud83c\udf39",
+                "id": 232721594,
+                "id_str": "232721594",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 45613607,
+        "id_str": "45613607",
+        "name": "Anderson Gontijo",
+        "screen_name": "andersongontijo",
+        "location": "Goi\u00e2nia, GO, Brasil",
+        "description": "Sarcasmo? Eu j\u00e1 falei sarcasmo? Vou transformar meus devaneios cr\u00edticos de not\u00edcias plantadas em sementes da disc\u00f3rdia em sua cabe\u00e7a. Viva!",
+        "url": "http://t.co/ETj9bXcAno",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/ETj9bXcAno",
+                        "expanded_url": "http://andersonmarcelogontijo.wordpress.com",
+                        "display_url": "andersonmarcelogontijo.wordpress.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 259,
+        "friends_count": 1172,
+        "listed_count": 2,
+        "created_at": "Mon Jun 08 17:09:33 +0000 2009",
+        "favourites_count": 2159,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9112,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/612635323982589952/AB0oCRaU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/612635323982589952/AB0oCRaU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45613607/1434898617",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:29:27 +0000 2020",
+        "id": 1256742631335440384,
+        "id_str": "1256742631335440384",
+        "text": "olha bem esse liberal fdp falando besteira meu deus #CiroNaGloboNews",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        52,
+                        68
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 232721594,
+            "id_str": "232721594",
+            "name": "marcela \ud83c\udf39",
+            "screen_name": "freeoposittion",
+            "location": "Rio Grande do Sul, Brasil",
+            "description": "n\u00e3o precisa me levar t\u00e3o a s\u00e9rio, pode ser que seja meme. \n  sigam @cirogomesquad \ud83d\udc4a | PDT/RS \u2665\ufe0f",
+            "url": "https://t.co/83syroOkVb",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/83syroOkVb",
+                            "expanded_url": "https://twitter.com/cirogomesquad",
+                            "display_url": "twitter.com/cirogomesquad",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4485,
+            "friends_count": 294,
+            "listed_count": 16,
+            "created_at": "Sat Jan 01 02:42:11 +0000 2011",
+            "favourites_count": 13677,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 144059,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0A0709",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256275756679905280/huq2MGMy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256275756679905280/huq2MGMy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/232721594/1581379992",
+            "profile_link_color": "404647",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "756464",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 21,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

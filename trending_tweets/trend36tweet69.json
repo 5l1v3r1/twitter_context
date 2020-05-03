@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:41:32 +0000 2020",
+    "id": 1256745672293875719,
+    "id_str": "1256745672293875719",
+    "text": "RT @alperdmg: Tayyip aff\u0131 ile \u00e7\u0131kar \u00e7\u0131kmaz , 5 ya\u015f\u0131ndaki \u00e7ocu\u011fu tenha yerde taciz edenler d\u0131\u015far\u0131da.\n\nTwit att\u0131 ,yaz\u0131 yazd\u0131 diye hapse at\u0131la\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alperdmg",
+                "name": "aLpEr_",
+                "id": 334277621,
+                "id_str": "334277621",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 830829826743402496,
+        "id_str": "830829826743402496",
+        "name": "Ali \u00d6zg\u00fcr Anar",
+        "screen_name": "aliozguranar",
+        "location": "Mersin, T\u00fcrkiye",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 42,
+        "listed_count": 0,
+        "created_at": "Sun Feb 12 17:24:01 +0000 2017",
+        "favourites_count": 1193,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 49,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250539030732853254/eCwaFmEQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250539030732853254/eCwaFmEQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 12:01:05 +0000 2020",
+        "id": 1256554302165979141,
+        "id_str": "1256554302165979141",
+        "text": "Tayyip aff\u0131 ile \u00e7\u0131kar \u00e7\u0131kmaz , 5 ya\u015f\u0131ndaki \u00e7ocu\u011fu tenha yerde taciz edenler d\u0131\u015far\u0131da.\n\nTwit att\u0131 ,yaz\u0131 yazd\u0131 diye h\u2026 https://t.co/Fw0Se6n981",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Fw0Se6n981",
+                    "expanded_url": "https://twitter.com/i/web/status/1256554302165979141",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 334277621,
+            "id_str": "334277621",
+            "name": "aLpEr_",
+            "screen_name": "alperdmg",
+            "location": "",
+            "description": "Mustafa Kemal #Atat\u00fcrk hayran\u0131y\u0131m \ud83c\uddf9\ud83c\uddf7 Hakl\u0131dan yanay\u0131m-demokratik T\u00dcRK\u2019\u00fcm- Bilim ve Ak\u0131l Kazanacak.. #Korkmuyoruz",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22519,
+            "friends_count": 8259,
+            "listed_count": 16,
+            "created_at": "Tue Jul 12 21:04:56 +0000 2011",
+            "favourites_count": 121190,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 64947,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1192815460812759043/wsfsg1Pm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192815460812759043/wsfsg1Pm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/334277621/1586511435",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1687,
+        "favorite_count": 7068,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1687,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

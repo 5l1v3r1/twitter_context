@@ -1,0 +1,339 @@
+{
+    "created_at": "Sun May 03 00:41:11 +0000 2020",
+    "id": 1256745585626906624,
+    "id_str": "1256745585626906624",
+    "text": "RT @takashoulps: \u30fb\u5c71\u68a8\u5e30\u7701\u306e20\u4ee3\u5973\u6027\n\u30fb\u5ddd\u5d0e\u306e25\u6b73\u3000\u7537\u6027\n\n\u3068\u3001\u307e\u30fc\u305f\u3001\u82e5\u8005\u304c\u2026\u3063\u3066\u601d\u3063\u3066\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3051\u3069\u3001\u5e74\u9f62\u591a\u5206\u95a2\u4fc2\u306a\u3044\u3088\u3002\n\n\u3057\u3063\u304b\u308a\u300150\u4ee3\u3082\u5e30\u7701\u3057\u3066\u308b\u3082\u3093\ud83e\udd2e https://t.co/yANux3IFE7",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "takashoulps",
+                "name": "\u305f\u304b\u3057\u3087\u30fc\u3327",
+                "id": 223045346,
+                "id_str": "223045346",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256742929206398976,
+                "id_str": "1256742929206398976",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZCR1U0AAtv7y.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZCR1U0AAtv7y.jpg",
+                "url": "https://t.co/yANux3IFE7",
+                "display_url": "pic.twitter.com/yANux3IFE7",
+                "expanded_url": "https://twitter.com/takashoulps/status/1256742933744594945/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1026,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 601,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 341,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256742933744594945,
+                "source_status_id_str": "1256742933744594945",
+                "source_user_id": 223045346,
+                "source_user_id_str": "223045346"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256742929206398976,
+                "id_str": "1256742929206398976",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZCR1U0AAtv7y.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZCR1U0AAtv7y.jpg",
+                "url": "https://t.co/yANux3IFE7",
+                "display_url": "pic.twitter.com/yANux3IFE7",
+                "expanded_url": "https://twitter.com/takashoulps/status/1256742933744594945/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1026,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 601,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 341,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256742933744594945,
+                "source_status_id_str": "1256742933744594945",
+                "source_user_id": 223045346,
+                "source_user_id_str": "223045346"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 713209679791267840,
+        "id_str": "713209679791267840",
+        "name": "\u30af\u30f4\u30a1\u30b1\u30ea\uff08\uff35\uff33\uff2f\uff09",
+        "screen_name": "t0BIucND96U3NlF",
+        "location": "\u8305\u8449\u5c4b\u7d4c\u4ee4\u5927\u548c\u54e5\u30b7\u30b7\u30b7\u30ab\u30c3\u30c6\u30a4\u30ab\u30c3\u30d1\u6cb3\u7ae5\u697d\u4e0a\u539f\u592a\u592b\u6851\u539f\u6851\u539f",
+        "description": "\u30b1\u30ed\u30b1\u30ed\u545f\u304f\u3088\ud83d\udc38\ud83c\udf8c\ud83d\ude40\u65e2\u306b\u590f\u304c\u8fd1\u3044\uff61\u8607\u6c11\u5c06\u6765\u5b50\u5b6b\u7e41\u6804\uff61\u6182\u60a3\u6383\u6518\ud83d\udca8N\ud83d\udc12O\ud83d\ude4a\u96c6\ud83d\ude49\u8fd1\ud83d\udc35\u9589\ud83d\udc40 \u4e16\u754c\u5927\u6226\u524d\u591c\uff61\u4e2d\u56fd\u5171\u7523\u515a\u4ea1\uff61\u7279\u6b8a\u65c5\u5ba2\uff64\u4eba\u4f53\u5668\u5b98\u904b\u8f38\u901a\u9053\uff61\uff21\uff29\u306b\u3088\u308b\u4eba\u985e\u9078\u5225\ud83d\udd1e\u8feb\u308b\uff64\u65ad\u97d3\uff61\u6226\u6642\u5fa9\u4ec7\u3002\ud83c\udd98\u6b66\u6f22\u80ba\u708e\u6050\u614c\ud83c\ude32\u6d17\u56fd\ud83c\udfaf\u5929\u4e0b\u308b\u795e\u3084\u306d\u304c\u3072\u3092\u307f\u3064\u307c\u3057\u306e\u6e4a\u306b\u3061\u304b\u304d\u5343\u6728\u306e\u304b\u305f\u305d\u304e\uff08\u4e2d\u539f\u5e2b\u5149\u671d\u81e3\uff09\ud83c\udf8d\ud83c\udf8e\ud83c\udf8f\ud83d\ude48",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4010,
+        "friends_count": 4752,
+        "listed_count": 31,
+        "created_at": "Fri Mar 25 03:43:33 +0000 2016",
+        "favourites_count": 238228,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 272465,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233357702908112897/cICUeDun_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233357702908112897/cICUeDun_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/713209679791267840/1461325246",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:30:39 +0000 2020",
+        "id": 1256742933744594945,
+        "id_str": "1256742933744594945",
+        "text": "\u30fb\u5c71\u68a8\u5e30\u7701\u306e20\u4ee3\u5973\u6027\n\u30fb\u5ddd\u5d0e\u306e25\u6b73\u3000\u7537\u6027\n\n\u3068\u3001\u307e\u30fc\u305f\u3001\u82e5\u8005\u304c\u2026\u3063\u3066\u601d\u3063\u3066\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3051\u3069\u3001\u5e74\u9f62\u591a\u5206\u95a2\u4fc2\u306a\u3044\u3088\u3002\n\n\u3057\u3063\u304b\u308a\u300150\u4ee3\u3082\u5e30\u7701\u3057\u3066\u308b\u3082\u3093\ud83e\udd2e https://t.co/yANux3IFE7",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256742929206398976,
+                    "id_str": "1256742929206398976",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDZCR1U0AAtv7y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDZCR1U0AAtv7y.jpg",
+                    "url": "https://t.co/yANux3IFE7",
+                    "display_url": "pic.twitter.com/yANux3IFE7",
+                    "expanded_url": "https://twitter.com/takashoulps/status/1256742933744594945/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1026,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 601,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 341,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256742929206398976,
+                    "id_str": "1256742929206398976",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDZCR1U0AAtv7y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDZCR1U0AAtv7y.jpg",
+                    "url": "https://t.co/yANux3IFE7",
+                    "display_url": "pic.twitter.com/yANux3IFE7",
+                    "expanded_url": "https://twitter.com/takashoulps/status/1256742933744594945/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1026,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 601,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 341,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 223045346,
+            "id_str": "223045346",
+            "name": "\u305f\u304b\u3057\u3087\u30fc\u3327",
+            "screen_name": "takashoulps",
+            "location": "\u65e5\u672c",
+            "description": "2012\uff5e2015.10.3 \u30b9\u30a4\u30d5\u30c8(ZC11S) 2015.10.3\uff5e2019.10 \u30a8\u30dcX(CZ4A) 2018.10.16\uff5e \u30b8\u30e0\u30cb\u30fc(JB23)\ud83d\ude99 \u8eca\u306e\u30c4\u30a4\u30fc\u30c8\u304c\u591a\u3044\u3067\u3059\u3002\u81ea\u5206\u3067\u8003\u3048\u306a\u304c\u3089\u30d1\u30fc\u30c4\u3092\u4f5c\u3063\u305f\u308a\u3057\u307e\u3059\u3002\u30b8\u30e0\u30cb\u30fc\u521d\u5fc3\u8005\u3067\u3059\u300226\u6b73\ud83d\ude42#JB23 #\u30b8\u30e0\u30cb\u30fc #DIY",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1626,
+            "friends_count": 1434,
+            "listed_count": 19,
+            "created_at": "Sun Dec 05 06:29:35 +0000 2010",
+            "favourites_count": 13738,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 92075,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFF04D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249161772621115392/YBvdxSVN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249161772621115392/YBvdxSVN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/223045346/1525221082",
+            "profile_link_color": "F5ABB5",
+            "profile_sidebar_border_color": "FFF8AD",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "54322C",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

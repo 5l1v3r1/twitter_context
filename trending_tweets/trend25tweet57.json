@@ -1,0 +1,119 @@
+{
+    "created_at": "Sun May 03 00:42:26 +0000 2020",
+    "id": 1256745898928939013,
+    "id_str": "1256745898928939013",
+    "text": "@Lets_Dex @Leitadas_L0en @TeichNelson Eu s\u00f3 sei que o melhor a dizer \u00e9: #OrePorBolsonaro",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    72,
+                    88
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lets_Dex",
+                "name": "Let's Dex",
+                "id": 172572824,
+                "id_str": "172572824",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "Leitadas_L0en",
+                "name": "Deixa o Loen te Leitar?\ud83e\udd5b",
+                "id": 62374982,
+                "id_str": "62374982",
+                "indices": [
+                    10,
+                    24
+                ]
+            },
+            {
+                "screen_name": "TeichNelson",
+                "name": "Nelson Teich",
+                "id": 1218707751364448256,
+                "id_str": "1218707751364448256",
+                "indices": [
+                    25,
+                    37
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256688693739491333,
+    "in_reply_to_status_id_str": "1256688693739491333",
+    "in_reply_to_user_id": 172572824,
+    "in_reply_to_user_id_str": "172572824",
+    "in_reply_to_screen_name": "Lets_Dex",
+    "user": {
+        "id": 1184647465783484416,
+        "id_str": "1184647465783484416",
+        "name": "Ivana",
+        "screen_name": "Ivanarfpb",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 192,
+        "friends_count": 41,
+        "listed_count": 0,
+        "created_at": "Thu Oct 17 01:49:09 +0000 2019",
+        "favourites_count": 17839,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3709,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190978500854980609/HGw9PxDk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190978500854980609/HGw9PxDk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:42:30 +0000 2020",
+    "id": 1256745918117949442,
+    "id_str": "1256745918117949442",
+    "text": "RT @Fenerbahce: Ulu \u00d6nder Gazi Mustafa Kemal Atat\u00fcrk'\u00fcn Kul\u00fcb\u00fcm\u00fcz\u00fc ziyaret edi\u015finin 102. y\u0131l\u0131, Kul\u00fcb\u00fcm\u00fcz\u00fcn kurulu\u015funun 113. y\u0131l d\u00f6n\u00fcm\u00fc kutl\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Fenerbahce",
+                "name": "Fenerbah\u00e7e SK - \ud83c\udfe0#EvdeKal",
+                "id": 11525172,
+                "id_str": "11525172",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2482085094,
+        "id_str": "2482085094",
+        "name": "Jab tak hai jaan Srk",
+        "screen_name": "AynurOzpay",
+        "location": "",
+        "description": "Shahrukh Khan fan",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 93,
+        "friends_count": 49,
+        "listed_count": 3,
+        "created_at": "Wed May 07 13:12:38 +0000 2014",
+        "favourites_count": 10468,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6314,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1168234617582891008/AiCAWG9y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168234617582891008/AiCAWG9y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2482085094/1423764496",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:00:00 +0000 2020",
+        "id": 1256689924239065088,
+        "id_str": "1256689924239065088",
+        "text": "Ulu \u00d6nder Gazi Mustafa Kemal Atat\u00fcrk'\u00fcn Kul\u00fcb\u00fcm\u00fcz\u00fc ziyaret edi\u015finin 102. y\u0131l\u0131, Kul\u00fcb\u00fcm\u00fcz\u00fcn kurulu\u015funun 113. y\u0131l d\u00f6n\u2026 https://t.co/DMv8yPTLy8",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/DMv8yPTLy8",
+                    "expanded_url": "https://twitter.com/i/web/status/1256689924239065088",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 11525172,
+            "id_str": "11525172",
+            "name": "Fenerbah\u00e7e SK - \ud83c\udfe0#EvdeKal",
+            "screen_name": "Fenerbahce",
+            "location": "Kad\u0131k\u00f6y, \u0130stanbul",
+            "description": "Fenerbah\u00e7e Spor Kul\u00fcb\u00fc resmi hesab\u0131. The official account of Fenerbah\u00e7e SK. Please follow @Fenerbahce_EN for English.",
+            "url": "https://t.co/UChceCPj66",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UChceCPj66",
+                            "expanded_url": "https://fenerbahce.org/fenerol",
+                            "display_url": "fenerbahce.org/fenerol",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7322600,
+            "friends_count": 93,
+            "listed_count": 4320,
+            "created_at": "Wed Dec 26 07:40:58 +0000 2007",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 64076,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "3D3936",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1235849718103560197/FWEhX0Wg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235849718103560197/FWEhX0Wg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11525172/1587676471",
+            "profile_link_color": "002D72",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFF305",
+            "profile_text_color": "101080",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9498,
+        "favorite_count": 34402,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9498,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

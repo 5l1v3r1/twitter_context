@@ -1,0 +1,107 @@
+{
+    "created_at": "Sun May 03 00:40:07 +0000 2020",
+    "id": 1256745317375987712,
+    "id_str": "1256745317375987712",
+    "text": "\u30b6\u30d4\u30a3\u306e\u6b63\u4f53\u306f\u30b5\u30dc\u30c6\u30f3\u3067\u3059\u306d\u3002\uff11\uff10\uff10\uff05\u30b5\u30dc\u30c6\u30f3\u3067\u9593\u9055\u3044\u3042\u308a\u307e\u305b\u3093\u3002\n#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c #shindanmaker\nhttps://t.co/biyF6yxWit\n \n\u30b5\u30dc\u30c6\u30f3\u30c0\u30fc\uff1f",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    34,
+                    47
+                ]
+            },
+            {
+                "text": "shindanmaker",
+                "indices": [
+                    48,
+                    61
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/biyF6yxWit",
+                "expanded_url": "https://shindanmaker.com/984766",
+                "display_url": "shindanmaker.com/984766",
+                "indices": [
+                    62,
+                    85
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1429553394,
+        "id_str": "1429553394",
+        "name": "\u30b6\u30d4\u30a3",
+        "screen_name": "shinbunya_t",
+        "location": "\u30b5\u30a6\u30b9\u30bf\u30a6\u30f3  \u300c\u8987\u738b\u7fd4\u543c\u62f3\u300d\u3092\u4f7f\u308f\u3056\u308b\u3092\u5f97\u306a\u3044\u3002",
+        "description": "\u300c\u81e8\u5e8a\u5de5\u5b66\u6280\u58eb\u300d\u306e\u514d\u8a31\u6240\u6301\u8005\u3067\u300c\u57fa\u672c\u60c5\u5831\u6280\u8853\u8005\u8a66\u9a13\u300d\u3046\u3063\u304b\u308a\u53d6\u5f97\u3057\u3066\u3057\u307e\u3063\u305f\u7cfb\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30a8\u30f3\u30b8\u30cb\u30a2\u898b\u7fd2\u3044\u3002 \u30b2\u30fc\u30e0\u30aa\u30bf\u30af\u30fb\u58f0\u8c5a\u30fb\u91cd\u5ea6\u306e\u53a8\u4e8c\u75c5\u3002\u30c6\u30ec\u30d3\u30b2\u30fc\u30e0/\u58f0\u512a(\u7279\u306b\u6749\u7530\u667a\u548c\u3055\u3093\u3068\u5800\u6c5f\u7531\u8863\u3055\u3093\u3068\u6771\u5c71\u5948\u592e\u3055\u3093)/\u7a7a\u306e\u5883\u754c/\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba/\u58f0\u512a\u30e9\u30b8\u30aa/IT\u696d\u754c\u306e\u8d85\u4f4e\u30ec\u30a2\u30b5\u30fc\u30f4\u30a1\u30f3\u30c8(\u3068\u3044\u3046\u540d\u306e\u5974\u96b7)/\u6700\u8fd1\u306e\u81ea\u5206\u306e\u8001\u5316\u306b\u7d76\u671b",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60,
+        "friends_count": 49,
+        "listed_count": 1,
+        "created_at": "Wed May 15 05:04:43 +0000 2013",
+        "favourites_count": 73,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28909,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/715797715767189504/lqAB9azO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/715797715767189504/lqAB9azO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429553394/1583678867",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

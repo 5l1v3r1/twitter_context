@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:42:49 +0000 2020",
+    "id": 1256745998094868481,
+    "id_str": "1256745998094868481",
+    "text": "S\u00f3 o Brasil e a Est\u00f4nia!\n#CiroNaGloboNews",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    25,
+                    41
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 244787155,
+        "id_str": "244787155",
+        "name": "Guilherme Anderson\ud83c\udf39",
+        "screen_name": "gui_anderson",
+        "location": "Sumar\u00e9,SP",
+        "description": "Id\u00e9ia, exemplo e milit\u00e2ncia!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 175,
+        "friends_count": 197,
+        "listed_count": 2,
+        "created_at": "Sun Jan 30 04:03:23 +0000 2011",
+        "favourites_count": 6024,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3039,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239730259429384193/qkXo1Yvb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239730259429384193/qkXo1Yvb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/244787155/1587734824",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

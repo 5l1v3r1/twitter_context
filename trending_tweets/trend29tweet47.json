@@ -1,0 +1,225 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745983268007936,
+    "id_str": "1256745983268007936",
+    "text": "RT @SkullBlondie: Hoje o tempo voa amor...escorre pelas m\u00e3os #LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    61,
+                    70
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SkullBlondie",
+                "name": "clarentena",
+                "id": 1069723735,
+                "id_str": "1069723735",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 765762781207461888,
+        "id_str": "765762781207461888",
+        "name": "prof@de\u2665\ufe0fnovo",
+        "screen_name": "DCorujas",
+        "location": "Rio de Janeiro, Brasil",
+        "description": "4.0: N\u00e3o sou exemplo de moralidade, casada 2x,  mas sinceridade tem. \nProf de artes com amor,\nm\u00e3e de 3\nhttps://t.co/T4STgjZYMj",
+        "url": "https://t.co/x1t2HLUwgK",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/x1t2HLUwgK",
+                        "expanded_url": "https://curiouscat.me/DCorujas",
+                        "display_url": "curiouscat.me/DCorujas",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/T4STgjZYMj",
+                        "expanded_url": "https://www.instagram.com/dalianacorujas",
+                        "display_url": "instagram.com/dalianacorujas",
+                        "indices": [
+                            103,
+                            126
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1833,
+        "friends_count": 3332,
+        "listed_count": 0,
+        "created_at": "Wed Aug 17 04:10:49 +0000 2016",
+        "favourites_count": 12001,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238632822451077120/VYF5FqKV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238632822451077120/VYF5FqKV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/765762781207461888/1586438805",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:41:48 +0000 2020",
+        "id": 1256745740136783872,
+        "id_str": "1256745740136783872",
+        "text": "Hoje o tempo voa amor...escorre pelas m\u00e3os #LiveLulu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveLulu",
+                    "indices": [
+                        43,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1069723735,
+            "id_str": "1069723735",
+            "name": "clarentena",
+            "screen_name": "SkullBlondie",
+            "location": "Brazil",
+            "description": "Dj and YouTuber | Contato profissional: fabricia@thebeat.com.br",
+            "url": "https://t.co/yvusX3j7lu",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/yvusX3j7lu",
+                            "expanded_url": "http://youtube.com/canalclaraaguilar",
+                            "display_url": "youtube.com/canalclaraagui\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 311861,
+            "friends_count": 1576,
+            "listed_count": 575,
+            "created_at": "Tue Jan 08 01:53:32 +0000 2013",
+            "favourites_count": 6550,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 40216,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1240799866114228224/ZfgFL9fC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240799866114228224/ZfgFL9fC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069723735/1584996814",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

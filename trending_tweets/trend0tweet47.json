@@ -1,0 +1,367 @@
+{
+    "created_at": "Sun May 03 00:41:43 +0000 2020",
+    "id": 1256745718846566408,
+    "id_str": "1256745718846566408",
+    "text": "RT @oboladasso: JORGE E MATEUS: A \n\nEU:\n\n#JeMBrahmaLive https://t.co/jIFPN9unz0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    41,
+                    55
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "oboladasso",
+                "name": "bolado",
+                "id": 962705076463767552,
+                "id_str": "962705076463767552",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256688001129885703,
+                "id_str": "1256688001129885703",
+                "indices": [
+                    56,
+                    79
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCnFCzXsAcjkkm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCnFCzXsAcjkkm.jpg",
+                "url": "https://t.co/jIFPN9unz0",
+                "display_url": "pic.twitter.com/jIFPN9unz0",
+                "expanded_url": "https://twitter.com/oboladasso/status/1256688016099348480/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 944,
+                        "h": 612,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 441,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 944,
+                        "h": 612,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256688016099348480,
+                "source_status_id_str": "1256688016099348480",
+                "source_user_id": 962705076463767552,
+                "source_user_id_str": "962705076463767552"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256688001129885703,
+                "id_str": "1256688001129885703",
+                "indices": [
+                    56,
+                    79
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCnFCzXsAcjkkm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCnFCzXsAcjkkm.jpg",
+                "url": "https://t.co/jIFPN9unz0",
+                "display_url": "pic.twitter.com/jIFPN9unz0",
+                "expanded_url": "https://twitter.com/oboladasso/status/1256688016099348480/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 944,
+                        "h": 612,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 441,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 944,
+                        "h": 612,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256688016099348480,
+                "source_status_id_str": "1256688016099348480",
+                "source_user_id": 962705076463767552,
+                "source_user_id_str": "962705076463767552"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1230692094458511360,
+        "id_str": "1230692094458511360",
+        "name": "L\u00edvia Almeida",
+        "screen_name": "li_almeida99",
+        "location": "S\u00e3o Paulo, Brasil",
+        "description": "\u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 68,
+        "listed_count": 0,
+        "created_at": "Fri Feb 21 03:14:07 +0000 2020",
+        "favourites_count": 142,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 181,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230692293415358465/S5j68CX6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230692293415358465/S5j68CX6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:52:25 +0000 2020",
+        "id": 1256688016099348480,
+        "id_str": "1256688016099348480",
+        "text": "JORGE E MATEUS: A \n\nEU:\n\n#JeMBrahmaLive https://t.co/jIFPN9unz0",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        25,
+                        39
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256688001129885703,
+                    "id_str": "1256688001129885703",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCnFCzXsAcjkkm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCnFCzXsAcjkkm.jpg",
+                    "url": "https://t.co/jIFPN9unz0",
+                    "display_url": "pic.twitter.com/jIFPN9unz0",
+                    "expanded_url": "https://twitter.com/oboladasso/status/1256688016099348480/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 944,
+                            "h": 612,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 441,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 944,
+                            "h": 612,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256688001129885703,
+                    "id_str": "1256688001129885703",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCnFCzXsAcjkkm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCnFCzXsAcjkkm.jpg",
+                    "url": "https://t.co/jIFPN9unz0",
+                    "display_url": "pic.twitter.com/jIFPN9unz0",
+                    "expanded_url": "https://twitter.com/oboladasso/status/1256688016099348480/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 944,
+                            "h": 612,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 441,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 944,
+                            "h": 612,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 962705076463767552,
+            "id_str": "962705076463767552",
+            "name": "bolado",
+            "screen_name": "oboladasso",
+            "location": "no seu cora\u00e7\u00e3o",
+            "description": "a estrela n\u00e3o brilha",
+            "url": "https://t.co/tc0hiG7o9x",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tc0hiG7o9x",
+                            "expanded_url": "http://Instagram.com/osurtadasso",
+                            "display_url": "Instagram.com/osurtadasso",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 660589,
+            "friends_count": 43,
+            "listed_count": 679,
+            "created_at": "Sun Feb 11 15:09:11 +0000 2018",
+            "favourites_count": 6913,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 590,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1162746213919330304/GuXaEefN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162746213919330304/GuXaEefN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/962705076463767552/1566188490",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1392,
+        "favorite_count": 3296,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1392,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

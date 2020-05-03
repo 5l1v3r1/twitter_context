@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:40:58 +0000 2020",
+    "id": 1256745530027241472,
+    "id_str": "1256745530027241472",
+    "text": "RT @LinnieElle: #TheTitleOfTrumpsMemoir\nThe Happy Hooker https://t.co/sK2uIluNvR",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    16,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LinnieElle",
+                "name": "linnie ell",
+                "id": 799754264272744448,
+                "id_str": "799754264272744448",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256700783665442816,
+                "id_str": "1256700783665442816",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCytFdVcAAxFjM.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXCytFdVcAAxFjM.png",
+                "url": "https://t.co/sK2uIluNvR",
+                "display_url": "pic.twitter.com/sK2uIluNvR",
+                "expanded_url": "https://twitter.com/LinnieElle/status/1256700794323140608/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 294,
+                        "h": 171,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 294,
+                        "h": 171,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 294,
+                        "h": 171,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256700794323140608,
+                "source_status_id_str": "1256700794323140608",
+                "source_user_id": 799754264272744448,
+                "source_user_id_str": "799754264272744448"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256700783665442816,
+                "id_str": "1256700783665442816",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCytFdVcAAxFjM.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXCytFdVcAAxFjM.png",
+                "url": "https://t.co/sK2uIluNvR",
+                "display_url": "pic.twitter.com/sK2uIluNvR",
+                "expanded_url": "https://twitter.com/LinnieElle/status/1256700794323140608/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 294,
+                        "h": 171,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 294,
+                        "h": 171,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 294,
+                        "h": 171,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256700794323140608,
+                "source_status_id_str": "1256700794323140608",
+                "source_user_id": 799754264272744448,
+                "source_user_id_str": "799754264272744448"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1021544251954352128,
+        "id_str": "1021544251954352128",
+        "name": "Rosaria",
+        "screen_name": "RosariaMarin0",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 600,
+        "friends_count": 702,
+        "listed_count": 1,
+        "created_at": "Mon Jul 23 23:55:03 +0000 2018",
+        "favourites_count": 48437,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40664,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040724142591369216/OAWH7lWY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040724142591369216/OAWH7lWY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021544251954352128/1543539630",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:43:12 +0000 2020",
+        "id": 1256700794323140608,
+        "id_str": "1256700794323140608",
+        "text": "#TheTitleOfTrumpsMemoir\nThe Happy Hooker https://t.co/sK2uIluNvR",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256700783665442816,
+                    "id_str": "1256700783665442816",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCytFdVcAAxFjM.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCytFdVcAAxFjM.png",
+                    "url": "https://t.co/sK2uIluNvR",
+                    "display_url": "pic.twitter.com/sK2uIluNvR",
+                    "expanded_url": "https://twitter.com/LinnieElle/status/1256700794323140608/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 294,
+                            "h": 171,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 294,
+                            "h": 171,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 294,
+                            "h": 171,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256700783665442816,
+                    "id_str": "1256700783665442816",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCytFdVcAAxFjM.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCytFdVcAAxFjM.png",
+                    "url": "https://t.co/sK2uIluNvR",
+                    "display_url": "pic.twitter.com/sK2uIluNvR",
+                    "expanded_url": "https://twitter.com/LinnieElle/status/1256700794323140608/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 294,
+                            "h": 171,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 294,
+                            "h": 171,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 294,
+                            "h": 171,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 799754264272744448,
+            "id_str": "799754264272744448",
+            "name": "linnie ell",
+            "screen_name": "LinnieElle",
+            "location": "",
+            "description": "#TheResistance. #DumpTrump. MAGA trolls, names w/numbers & no followers + Bernie bros blocked\nIllustrations are Maxfield Parrish",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4376,
+            "friends_count": 4780,
+            "listed_count": 29,
+            "created_at": "Fri Nov 18 23:20:50 +0000 2016",
+            "favourites_count": 111107,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 35201,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/840460346947072000/4K79Dz_u_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/840460346947072000/4K79Dz_u_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/799754264272744448/1511181451",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

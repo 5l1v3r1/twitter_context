@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:09:37 +0000 2020",
+    "id": 1256737640667365377,
+    "id_str": "1256737640667365377",
+    "text": "\u0627\u0644\u0642\u0631\u0622\u0646 \u0645\u0648 \u0627\u0644\u0642\u0631\u0627\u0646 \u0627\u0644\u0644\u0647 \u064a\u0647\u062f\u064a\u0643\u0645 \u0639\u0644\u0649 \u0628\u0627\u0644\u064a \u0627\u0644\u0642\u0631\u0627\u0646 \u064a\u0639\u0646\u064a \u0627\u0644\u0632\u0648\u0627\u062c \ud83e\udd26\u200d\u2640\ufe0f #\u064a\u0648\u0645\u064a_\u0645\u0639_\u0627\u0644\u0642\u0631\u0627\u0646",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u064a\u0648\u0645\u064a_\u0645\u0639_\u0627\u0644\u0642\u0631\u0627\u0646",
+                "indices": [
+                    62,
+                    77
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ar",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1252548405987020800,
+        "id_str": "1252548405987020800",
+        "name": "\ud83d\udc99",
+        "screen_name": "AlanAlan141414",
+        "location": "",
+        "description": "\u200f\u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647 \u062f\u0627\u0626\u0645\u0627 \u0648\u0627\u0628\u062f\u0627 \nEnglish language student , I like quite love stay alone for long time \u264e\n\u0643\u0627\u0646 \u0648\u0644\u0627\u0632\u0627\u0644 \u0648\u0633\u064a\u0628\u0642\u0649 \u0637\u0645\u0648\u062d\u064a \u062f\u0627\u0626\u0645\u0627 \u0639\u0646\u0627\u0646 \u0627\u0644\u0633\u0645\u0627\u0621 \ud83d\udc99\u2693",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 55,
+        "friends_count": 68,
+        "listed_count": 0,
+        "created_at": "Tue Apr 21 10:43:15 +0000 2020",
+        "favourites_count": 116,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 290,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253453650636222469/Mv5OLKZ7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253453650636222469/Mv5OLKZ7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252548405987020800/1587681625",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ar"
+}

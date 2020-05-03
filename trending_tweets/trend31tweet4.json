@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:43:02 +0000 2020",
+    "id": 1256746052217999361,
+    "id_str": "1256746052217999361",
+    "text": "can someone just share the clues bc i dont have a gc :( #WEAREINPAYNE https://t.co/bi93OANI1I",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WEAREINPAYNE",
+                "indices": [
+                    56,
+                    69
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/bi93OANI1I",
+                "expanded_url": "https://twitter.com/filmfics/status/1256744777099497472",
+                "display_url": "twitter.com/filmfics/statu\u2026",
+                "indices": [
+                    70,
+                    93
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1216732150969454593,
+        "id_str": "1216732150969454593",
+        "name": "pia\u2077",
+        "screen_name": "ksjhoe",
+        "location": "ph | 17",
+        "description": "#\uae40\ud0dc\ud615: \ud835\udc25\ud835\udc1e\ud835\udc2d\u2019\ud835\udc2c \ud835\udc20\ud835\udc1e\ud835\udc2d \ud835\udc26\ud835\udc1a\ud835\udc2b\ud835\udc2b\ud835\udc22\ud835\udc1e\ud835\udc1d! \u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1587,
+        "friends_count": 1491,
+        "listed_count": 16,
+        "created_at": "Mon Jan 13 14:42:13 +0000 2020",
+        "favourites_count": 6931,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6733,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256540857160757248/1TetcJsG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256540857160757248/1TetcJsG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216732150969454593/1588417666",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256744777099497472,
+    "quoted_status_id_str": "1256744777099497472",
+    "quoted_status": {
+        "created_at": "Sun May 03 00:37:58 +0000 2020",
+        "id": 1256744777099497472,
+        "id_str": "1256744777099497472",
+        "text": "alright add me to ur gcs i\u2019ll give u clues",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1004122823554732032,
+            "id_str": "1004122823554732032",
+            "name": "\u200e\u064b",
+            "screen_name": "filmfics",
+            "location": "mira, she/her ",
+            "description": "horror au writer",
+            "url": "https://t.co/EIXlKUhBX1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EIXlKUhBX1",
+                            "expanded_url": "https://twitter.com/filmfics/status/1253449442188902400?s=21",
+                            "display_url": "twitter.com/filmfics/statu\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 118260,
+            "friends_count": 60,
+            "listed_count": 519,
+            "created_at": "Tue Jun 05 22:08:31 +0000 2018",
+            "favourites_count": 10,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4688,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254138423029399552/yV686XO1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254138423029399552/yV686XO1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1004122823554732032/1587844660",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 59,
+        "favorite_count": 1410,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

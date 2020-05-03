@@ -1,0 +1,495 @@
+{
+    "created_at": "Sun May 03 00:35:47 +0000 2020",
+    "id": 1256744228677435392,
+    "id_str": "1256744228677435392",
+    "text": "RT @N85Alba: #AguilaEnVivo  espectacular este evento. Juanda el mejor \ud83d\ude18 https://t.co/NUSKOnHhVK",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    13,
+                    26
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "N85Alba",
+                "name": "Alba Navarro Jimenez",
+                "id": 341256942,
+                "id_str": "341256942",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256743238041571328,
+                "id_str": "1256743238041571328",
+                "indices": [
+                    72,
+                    95
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743238041571328/pu/img/U-DyL8YonApvnD3Y.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743238041571328/pu/img/U-DyL8YonApvnD3Y.jpg",
+                "url": "https://t.co/NUSKOnHhVK",
+                "display_url": "pic.twitter.com/NUSKOnHhVK",
+                "expanded_url": "https://twitter.com/N85Alba/status/1256743303309078532/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743303309078532,
+                "source_status_id_str": "1256743303309078532",
+                "source_user_id": 341256942,
+                "source_user_id_str": "341256942"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256743238041571328,
+                "id_str": "1256743238041571328",
+                "indices": [
+                    72,
+                    95
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743238041571328/pu/img/U-DyL8YonApvnD3Y.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743238041571328/pu/img/U-DyL8YonApvnD3Y.jpg",
+                "url": "https://t.co/NUSKOnHhVK",
+                "display_url": "pic.twitter.com/NUSKOnHhVK",
+                "expanded_url": "https://twitter.com/N85Alba/status/1256743303309078532/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743303309078532,
+                "source_status_id_str": "1256743303309078532",
+                "source_user_id": 341256942,
+                "source_user_id_str": "341256942",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 12983,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743238041571328/pu/vid/640x360/g1QGBze3JrnRqOmk.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743238041571328/pu/vid/1280x720/zEqp3ydK0ruOAACU.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743238041571328/pu/pl/6Y5HZE33QJhWzVaA.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743238041571328/pu/vid/480x270/oYrFz8nRG30qT1Ig.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 341256942,
+                        "id_str": "341256942",
+                        "name": "Alba Navarro Jimenez",
+                        "screen_name": "N85Alba",
+                        "location": "",
+                        "description": "",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 70,
+                        "friends_count": 775,
+                        "listed_count": 0,
+                        "created_at": "Sun Jul 24 02:28:44 +0000 2011",
+                        "favourites_count": 3896,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 271,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FF6699",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/3376069980/bf8192710596463c664516f2b19146f3_normal.jpeg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3376069980/bf8192710596463c664516f2b19146f3_normal.jpeg",
+                        "profile_link_color": "B40B43",
+                        "profile_sidebar_border_color": "CC3366",
+                        "profile_sidebar_fill_color": "E5507E",
+                        "profile_text_color": "362720",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 809040451806363648,
+        "id_str": "809040451806363648",
+        "name": "Luis Javier Castellanos",
+        "screen_name": "luisjacastella",
+        "location": "",
+        "description": "Director de Contrataci\u00f3n de Positiva Compa\u00f1\u00eda de Seguros. Ex Director de Contrataci\u00f3n del ICBF y del DPS. Ex Jefe del Grupo \u00c9lite contra Colusiones de la SIC.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 194,
+        "friends_count": 86,
+        "listed_count": 0,
+        "created_at": "Wed Dec 14 14:20:49 +0000 2016",
+        "favourites_count": 12766,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11806,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/837340983704584193/fT588OVa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/837340983704584193/fT588OVa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:32:07 +0000 2020",
+        "id": 1256743303309078532,
+        "id_str": "1256743303309078532",
+        "text": "#AguilaEnVivo  espectacular este evento. Juanda el mejor \ud83d\ude18 https://t.co/NUSKOnHhVK",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AguilaEnVivo",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256743238041571328,
+                    "id_str": "1256743238041571328",
+                    "indices": [
+                        59,
+                        82
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743238041571328/pu/img/U-DyL8YonApvnD3Y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743238041571328/pu/img/U-DyL8YonApvnD3Y.jpg",
+                    "url": "https://t.co/NUSKOnHhVK",
+                    "display_url": "pic.twitter.com/NUSKOnHhVK",
+                    "expanded_url": "https://twitter.com/N85Alba/status/1256743303309078532/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256743238041571328,
+                    "id_str": "1256743238041571328",
+                    "indices": [
+                        59,
+                        82
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743238041571328/pu/img/U-DyL8YonApvnD3Y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743238041571328/pu/img/U-DyL8YonApvnD3Y.jpg",
+                    "url": "https://t.co/NUSKOnHhVK",
+                    "display_url": "pic.twitter.com/NUSKOnHhVK",
+                    "expanded_url": "https://twitter.com/N85Alba/status/1256743303309078532/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 12983,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256743238041571328/pu/vid/640x360/g1QGBze3JrnRqOmk.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256743238041571328/pu/vid/1280x720/zEqp3ydK0ruOAACU.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256743238041571328/pu/pl/6Y5HZE33QJhWzVaA.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256743238041571328/pu/vid/480x270/oYrFz8nRG30qT1Ig.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 341256942,
+            "id_str": "341256942",
+            "name": "Alba Navarro Jimenez",
+            "screen_name": "N85Alba",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 70,
+            "friends_count": 775,
+            "listed_count": 0,
+            "created_at": "Sun Jul 24 02:28:44 +0000 2011",
+            "favourites_count": 3896,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 271,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3376069980/bf8192710596463c664516f2b19146f3_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3376069980/bf8192710596463c664516f2b19146f3_normal.jpeg",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "CC3366",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "0105a80417c159b4",
+            "url": "https://api.twitter.com/1.1/geo/id/0105a80417c159b4.json",
+            "place_type": "city",
+            "name": "Barranquilla",
+            "full_name": "Barranquilla, Colombia",
+            "country_code": "CO",
+            "country": "Colombia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.9257650027657,
+                            10.8695279953779
+                        ],
+                        [
+                            -74.7741010007543,
+                            10.8695279953779
+                        ],
+                        [
+                            -74.7741010007543,
+                            11.0466177617921
+                        ],
+                        [
+                            -74.9257650027657,
+                            11.0466177617921
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

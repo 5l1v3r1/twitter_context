@@ -1,0 +1,133 @@
+{
+    "created_at": "Sun May 03 00:35:46 +0000 2020",
+    "id": 1256744224076201985,
+    "id_str": "1256744224076201985",
+    "text": "Otra, otra, otra @ElderDiaz01 @juandacaribeco @CervezaAguila #AguilaEnVivo \ud83d\udd25",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    61,
+                    74
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElderDiaz01",
+                "name": "Elder Dayan",
+                "id": 182488284,
+                "id_str": "182488284",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "screen_name": "juandacaribeco",
+                "name": "JUANDA CARIBE",
+                "id": 127951739,
+                "id_str": "127951739",
+                "indices": [
+                    30,
+                    45
+                ]
+            },
+            {
+                "screen_name": "CervezaAguila",
+                "name": "Cerveza Aguila",
+                "id": 95684520,
+                "id_str": "95684520",
+                "indices": [
+                    46,
+                    60
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 101074443,
+        "id_str": "101074443",
+        "name": "Juliana Ojeda\u2661\u2665",
+        "screen_name": "JulianaOjeda",
+        "location": "\u00dcT: 7.12953,-73.12341",
+        "description": "Dios \u2661 Coco\ud83d\udc23 Forever\ud83d\udc9e",
+        "url": "https://t.co/HWirKLmZD7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/HWirKLmZD7",
+                        "expanded_url": "http://instagram.com/JulianaOjeda12",
+                        "display_url": "instagram.com/JulianaOjeda12",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 292,
+        "friends_count": 257,
+        "listed_count": 3,
+        "created_at": "Fri Jan 01 22:36:45 +0000 2010",
+        "favourites_count": 547,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28474,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F561C9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/942069362474790912/nx9VLuV7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/942069362474790912/nx9VLuV7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/101074443/1419220827",
+        "profile_link_color": "EC12AB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "2ADDA2",
+        "profile_text_color": "4ABDE5",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

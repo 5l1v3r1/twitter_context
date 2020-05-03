@@ -1,0 +1,339 @@
+{
+    "created_at": "Sun May 03 00:36:07 +0000 2020",
+    "id": 1256744312135577601,
+    "id_str": "1256744312135577601",
+    "text": "RT @carolguif: e o gino e geno que \u00e9 grupo de risco e reuniu umas 20 pessoa pra fazer a live https://t.co/dYTb1fLBuz",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "carolguif",
+                "name": "carolina",
+                "id": 52508688,
+                "id_str": "52508688",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256722037843939330,
+                "id_str": "1256722037843939330",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDGCPcX0AIn2zD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDGCPcX0AIn2zD.jpg",
+                "url": "https://t.co/dYTb1fLBuz",
+                "display_url": "pic.twitter.com/dYTb1fLBuz",
+                "expanded_url": "https://twitter.com/carolguif/status/1256722044458319873/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1023,
+                        "h": 1023,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1023,
+                        "h": 1023,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256722044458319873,
+                "source_status_id_str": "1256722044458319873",
+                "source_user_id": 52508688,
+                "source_user_id_str": "52508688"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256722037843939330,
+                "id_str": "1256722037843939330",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDGCPcX0AIn2zD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDGCPcX0AIn2zD.jpg",
+                "url": "https://t.co/dYTb1fLBuz",
+                "display_url": "pic.twitter.com/dYTb1fLBuz",
+                "expanded_url": "https://twitter.com/carolguif/status/1256722044458319873/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1023,
+                        "h": 1023,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1023,
+                        "h": 1023,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256722044458319873,
+                "source_status_id_str": "1256722044458319873",
+                "source_user_id": 52508688,
+                "source_user_id_str": "52508688"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1145977497445515265,
+        "id_str": "1145977497445515265",
+        "name": "GirafaMuda",
+        "screen_name": "GirafaMuda",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 32,
+        "friends_count": 168,
+        "listed_count": 0,
+        "created_at": "Tue Jul 02 08:48:21 +0000 2019",
+        "favourites_count": 3587,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 925,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145977781571878912/B2C3ZVKn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145977781571878912/B2C3ZVKn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145977497445515265/1562231020",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:07:38 +0000 2020",
+        "id": 1256722044458319873,
+        "id_str": "1256722044458319873",
+        "text": "e o gino e geno que \u00e9 grupo de risco e reuniu umas 20 pessoa pra fazer a live https://t.co/dYTb1fLBuz",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256722037843939330,
+                    "id_str": "1256722037843939330",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDGCPcX0AIn2zD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDGCPcX0AIn2zD.jpg",
+                    "url": "https://t.co/dYTb1fLBuz",
+                    "display_url": "pic.twitter.com/dYTb1fLBuz",
+                    "expanded_url": "https://twitter.com/carolguif/status/1256722044458319873/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1023,
+                            "h": 1023,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1023,
+                            "h": 1023,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256722037843939330,
+                    "id_str": "1256722037843939330",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDGCPcX0AIn2zD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDGCPcX0AIn2zD.jpg",
+                    "url": "https://t.co/dYTb1fLBuz",
+                    "display_url": "pic.twitter.com/dYTb1fLBuz",
+                    "expanded_url": "https://twitter.com/carolguif/status/1256722044458319873/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1023,
+                            "h": 1023,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1023,
+                            "h": 1023,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 52508688,
+            "id_str": "52508688",
+            "name": "carolina",
+            "screen_name": "carolguif",
+            "location": "Uberl\u00e2ndia, MG",
+            "description": "nada dito aqui condiz com a realidade",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 834,
+            "friends_count": 562,
+            "listed_count": 24,
+            "created_at": "Tue Jun 30 20:24:19 +0000 2009",
+            "favourites_count": 16190,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 98771,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "5C575C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252696010901663745/Y0PvRpLX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252696010901663745/Y0PvRpLX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52508688/1539004089",
+            "profile_link_color": "E19FEB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EDEFF0",
+            "profile_text_color": "0A0108",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 48,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

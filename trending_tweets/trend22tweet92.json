@@ -1,0 +1,198 @@
+{
+    "created_at": "Sun May 03 00:41:51 +0000 2020",
+    "id": 1256745751566155776,
+    "id_str": "1256745751566155776",
+    "text": "RT @EddyJokovich: Dan Tehan spinning, lying, playing politics. Says government \u201chas been clear\u201d about schools safe for students. No, they\u2019v\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EddyJokovich",
+                "name": "Eddy Jokovich",
+                "id": 29420301,
+                "id_str": "29420301",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3301337178,
+        "id_str": "3301337178",
+        "name": "Lindy Cleeland",
+        "screen_name": "Lindycleeland",
+        "location": "Midway Point, Tasmania",
+        "description": "Free now of elected office.\nWilling, ready and able to tackle social issues.\nAlways speaking up for those who have no voice.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 618,
+        "friends_count": 520,
+        "listed_count": 4,
+        "created_at": "Thu Jul 30 10:05:25 +0000 2015",
+        "favourites_count": 2238,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 75789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009028695015583745/zEaHhbwq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009028695015583745/zEaHhbwq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3301337178/1559257728",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:28:33 +0000 2020",
+        "id": 1256727306078322689,
+        "id_str": "1256727306078322689",
+        "text": "Dan Tehan spinning, lying, playing politics. Says government \u201chas been clear\u201d about schools safe for students. No,\u2026 https://t.co/R0t7A9MhAB",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/R0t7A9MhAB",
+                    "expanded_url": "https://twitter.com/i/web/status/1256727306078322689",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 29420301,
+            "id_str": "29420301",
+            "name": "Eddy Jokovich",
+            "screen_name": "EddyJokovich",
+            "location": "Gadigal",
+            "description": "Co-presenter New Politics podcast, co-author of Divided Opinions. Also publisher, journalist, spin-doctor at ARMEDIA. Son of refugee boat people. MEAA member.",
+            "url": "https://t.co/GxXSGBeotb",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/GxXSGBeotb",
+                            "expanded_url": "http://www.newpolitics.com.au",
+                            "display_url": "newpolitics.com.au",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15383,
+            "friends_count": 2602,
+            "listed_count": 107,
+            "created_at": "Tue Apr 07 10:12:18 +0000 2009",
+            "favourites_count": 542,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 34892,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1161090429191782400/GiVhjAEl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161090429191782400/GiVhjAEl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29420301/1579414026",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 42,
+        "favorite_count": 80,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:40:40 +0000 2020",
+    "id": 1256745456236933121,
+    "id_str": "1256745456236933121",
+    "text": "RT @_nc7: Live do JeM? Xand avi\u00e3o? Nada, o neg\u00f3cio \u00e9 assistir gino e geno hauahauah",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_nc7",
+                "name": "Nicolas",
+                "id": 245552724,
+                "id_str": "245552724",
+                "indices": [
+                    3,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://amazflix.com\" rel=\"nofollow\">AssistirBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2571806300,
+        "id_str": "2571806300",
+        "name": "Leia tweet fixado",
+        "screen_name": "AssistirBot",
+        "location": "localhost",
+        "description": "Oi, sou um bot, retu\u00edto tweets que tem a palavra \u201cassistir\u201d, sou um ser artificial, tudo \u00e9 feito de forma autom\u00e1tica!",
+        "url": "https://t.co/jzzXXePtha",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/jzzXXePtha",
+                        "expanded_url": "http://amazflix.com",
+                        "display_url": "amazflix.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3315,
+        "friends_count": 1,
+        "listed_count": 7,
+        "created_at": "Mon Jun 16 23:17:57 +0000 2014",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 643883,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175602922652090368/HpOTl0S3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175602922652090368/HpOTl0S3_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2571806300/1569120815",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:35 +0000 2020",
+        "id": 1256745434669879296,
+        "id_str": "1256745434669879296",
+        "text": "Live do JeM? Xand avi\u00e3o? Nada, o neg\u00f3cio \u00e9 assistir gino e geno hauahauah",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 245552724,
+            "id_str": "245552724",
+            "name": "Nicolas",
+            "screen_name": "_nc7",
+            "location": "Santo \u00c2ngelo, Brasil",
+            "description": "25 anos",
+            "url": "https://t.co/7Gi3oE1y5y",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7Gi3oE1y5y",
+                            "expanded_url": "https://www.instagram.com/enece07",
+                            "display_url": "instagram.com/enece07",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 256,
+            "friends_count": 66,
+            "listed_count": 0,
+            "created_at": "Mon Jan 31 23:28:36 +0000 2011",
+            "favourites_count": 1870,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 26176,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251588901657096193/Mk4OdAgf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251588901657096193/Mk4OdAgf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/245552724/1582866423",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "857D8C",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

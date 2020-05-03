@@ -1,0 +1,254 @@
+{
+    "created_at": "Sun May 03 00:42:19 +0000 2020",
+    "id": 1256745871879753728,
+    "id_str": "1256745871879753728",
+    "text": "RT @yzHVQ79teminbRh: #ON by BTS feat. @Sia is stuck in my SOUL!\ud83d\udd25 Hey @MostRequestLive, can you please play it tonight on #MostRequestedLive\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ON",
+                "indices": [
+                    21,
+                    24
+                ]
+            },
+            {
+                "text": "MostRequestedLive",
+                "indices": [
+                    121,
+                    139
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "yzHVQ79teminbRh",
+                "name": "\u2077\ubc29\ud0c4\ud401\ub2f97",
+                "id": 1119520698559418369,
+                "id_str": "1119520698559418369",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "Sia",
+                "name": "sia",
+                "id": 23497233,
+                "id_str": "23497233",
+                "indices": [
+                    38,
+                    42
+                ]
+            },
+            {
+                "screen_name": "MostRequestLive",
+                "name": "Most Requested Live",
+                "id": 108775893,
+                "id_str": "108775893",
+                "indices": [
+                    69,
+                    85
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 966235667234635776,
+        "id_str": "966235667234635776",
+        "name": "\u2618\ud0c4\uc774\uc0ac\ub791\u2077\ud83d\udc8b",
+        "screen_name": "ttl4442221",
+        "location": "",
+        "description": "\ud22c\ud45c\ubd80\uacc43",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 96,
+        "friends_count": 121,
+        "listed_count": 0,
+        "created_at": "Wed Feb 21 08:58:29 +0000 2018",
+        "favourites_count": 3632,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16821,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214810169302900736/iTdXWyKh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214810169302900736/iTdXWyKh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/966235667234635776/1578468060",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:55:18 +0000 2020",
+        "id": 1256734040335343616,
+        "id_str": "1256734040335343616",
+        "text": "#ON by BTS feat. @Sia is stuck in my SOUL!\ud83d\udd25 Hey @MostRequestLive, can you please play it tonight on #MostRequestedLive? @BTS_twt",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ON",
+                    "indices": [
+                        0,
+                        3
+                    ]
+                },
+                {
+                    "text": "MostRequestedLive",
+                    "indices": [
+                        100,
+                        118
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Sia",
+                    "name": "sia",
+                    "id": 23497233,
+                    "id_str": "23497233",
+                    "indices": [
+                        17,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "MostRequestLive",
+                    "name": "Most Requested Live",
+                    "id": 108775893,
+                    "id_str": "108775893",
+                    "indices": [
+                        48,
+                        64
+                    ]
+                },
+                {
+                    "screen_name": "BTS_twt",
+                    "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                    "id": 335141638,
+                    "id_str": "335141638",
+                    "indices": [
+                        120,
+                        128
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1119520698559418369,
+            "id_str": "1119520698559418369",
+            "name": "\u2077\ubc29\ud0c4\ud401\ub2f97",
+            "screen_name": "yzHVQ79teminbRh",
+            "location": "",
+            "description": "\uc774 \uacc4\uc815\uc740 \ud22c\ud45c\uacc45\ud83d\ude00 fan account\n\ud83d\udc9c\ubc29\ud0c4\uc18c\ub144\ub2e8\ud83d\udc9cBTS\ud83d\udc9c\uce60\ubc29\ud0c4\ud83d\udc9c\uc544\ud3ec\ubc29\ud3ec\ud83d\udc9c",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 456,
+            "friends_count": 289,
+            "listed_count": 1,
+            "created_at": "Sat Apr 20 08:38:29 +0000 2019",
+            "favourites_count": 3918,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8742,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1119521032761511936/vFyz4WnH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119521032761511936/vFyz4WnH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1119520698559418369/1567612840",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

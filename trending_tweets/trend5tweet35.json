@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:42:27 +0000 2020",
+    "id": 1256745902720430080,
+    "id_str": "1256745902720430080",
+    "text": "none of us would stay in the house so they released the goddamn MURDER HORNETS https://t.co/rYFL7EtAeJ",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/rYFL7EtAeJ",
+                "expanded_url": "https://twitter.com/kcranews/status/1256745317422202887",
+                "display_url": "twitter.com/kcranews/statu\u2026",
+                "indices": [
+                    79,
+                    102
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 65833000,
+        "id_str": "65833000",
+        "name": "master of not shutting up",
+        "screen_name": "Caligujus",
+        "location": "Stockton, CA",
+        "description": "do what thou wilt",
+        "url": "https://t.co/BnnurMJQdR",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BnnurMJQdR",
+                        "expanded_url": "http://pictureboxbooth.com",
+                        "display_url": "pictureboxbooth.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 452,
+        "friends_count": 302,
+        "listed_count": 13,
+        "created_at": "Sat Aug 15 05:14:46 +0000 2009",
+        "favourites_count": 29687,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 90757,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3798CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249505871194804224/wrmd2n_X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249505871194804224/wrmd2n_X_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/65833000/1587419973",
+        "profile_link_color": "808485",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256745317422202887,
+    "quoted_status_id_str": "1256745317422202887",
+    "quoted_status": {
+        "created_at": "Sun May 03 00:40:07 +0000 2020",
+        "id": 1256745317422202887,
+        "id_str": "1256745317422202887",
+        "text": "'Murder hornet' found in US for the first time https://t.co/8M3Hgcc1hA",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/8M3Hgcc1hA",
+                    "expanded_url": "https://www.kcra.com/article/murder-hornet-found-in-us-for-the-first-time/32353580?utm_medium=social&utm_source=twitter_kcranews",
+                    "display_url": "kcra.com/article/murder\u2026",
+                    "indices": [
+                        47,
+                        70
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14749520,
+            "id_str": "14749520",
+            "name": "kcranews",
+            "screen_name": "kcranews",
+            "location": "Sacramento, CA",
+            "description": "Northern California breaking news weather and sports",
+            "url": "https://t.co/3ad52b9O3R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/3ad52b9O3R",
+                            "expanded_url": "http://www.kcra.com",
+                            "display_url": "kcra.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 232100,
+            "friends_count": 676,
+            "listed_count": 1675,
+            "created_at": "Mon May 12 20:48:16 +0000 2008",
+            "favourites_count": 572,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 263788,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/970546652158205952/Umm15zX3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/970546652158205952/Umm15zX3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14749520/1520218545",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E0E0E0",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

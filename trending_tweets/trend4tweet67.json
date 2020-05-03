@@ -1,0 +1,210 @@
+{
+    "created_at": "Sun May 03 00:42:08 +0000 2020",
+    "id": 1256745826640068608,
+    "id_str": "1256745826640068608",
+    "text": "RT @yemcilmaz: Hayat\u0131m boyunca gurur duymaktan asla vazge\u00e7meyece\u011fim \u015feyler; T\u00fcrk olmak ve Fenerbah\u00e7eli olmak. \nKutlu olsun! \n#Efsane113Ya\u015f\u0131\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "yemcilmaz",
+                "name": "Yusuf",
+                "id": 3431541587,
+                "id_str": "3431541587",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 906598509188706307,
+        "id_str": "906598509188706307",
+        "name": "Mert",
+        "screen_name": "mertgulencc",
+        "location": "Bursa, T\u00fcrkiye",
+        "description": "I self contained so needn't anybody",
+        "url": "https://t.co/bEHSINQHUq",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/bEHSINQHUq",
+                        "expanded_url": "https://www.instagram.com/mertgulennc/",
+                        "display_url": "instagram.com/mertgulennc/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 104,
+        "friends_count": 135,
+        "listed_count": 0,
+        "created_at": "Sat Sep 09 19:21:43 +0000 2017",
+        "favourites_count": 891,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 683,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252223227025403906/EBpDSi_1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252223227025403906/EBpDSi_1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/906598509188706307/1576405744",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:13:38 +0000 2020",
+        "id": 1256708453906681860,
+        "id_str": "1256708453906681860",
+        "text": "Hayat\u0131m boyunca gurur duymaktan asla vazge\u00e7meyece\u011fim \u015feyler; T\u00fcrk olmak ve Fenerbah\u00e7eli olmak. \nKutlu olsun!\u2026 https://t.co/hxZoymJPlq",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/hxZoymJPlq",
+                    "expanded_url": "https://twitter.com/i/web/status/1256708453906681860",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        110,
+                        133
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3431541587,
+            "id_str": "3431541587",
+            "name": "Yusuf",
+            "screen_name": "yemcilmaz",
+            "location": "",
+            "description": "\u015eakalar, komiklikler",
+            "url": "https://t.co/tOyaBLNoFZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tOyaBLNoFZ",
+                            "expanded_url": "https://www.instagram.com/yemcilmaz/",
+                            "display_url": "instagram.com/yemcilmaz/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 27914,
+            "friends_count": 434,
+            "listed_count": 75,
+            "created_at": "Wed Aug 19 14:14:44 +0000 2015",
+            "favourites_count": 42141,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 21844,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253441802826375169/4-LR_FWU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253441802826375169/4-LR_FWU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3431541587/1494242121",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 132,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

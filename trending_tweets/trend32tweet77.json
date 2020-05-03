@@ -1,0 +1,88 @@
+{
+    "created_at": "Sun May 03 00:41:10 +0000 2020",
+    "id": 1256745583533977600,
+    "id_str": "1256745583533977600",
+    "text": "\u767a\u751f\u56fd\u306f\u77e5\u3089\u3093\u3077\u308a\u3001\u305d\u306e\u7a7a\u6c17\u3092\u5831\u9053\u3057\u308d\u3088 #\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    21,
+                    31
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 194537458,
+        "id_str": "194537458",
+        "name": "mimiera",
+        "screen_name": "mimiera05_31",
+        "location": "\u4e09\u91cd\u770c\u9234\u9e7f\u5e02",
+        "description": "\u5b50\u4f9b\u306e\u9803\u306b\u6d88\u5316\u5668\u7cfb\u306e\u96e3\u75c5\u3092\u60a3\u3044\u3001\u3044\u308d\u3044\u308d\u7d06\u4f59\u66f2\u6298\u3042\u308a\u307e\u3057\u305f\u304c\u3001\u4eca\u306f\u5b8c\u6cbb\u3057\u5143\u6c17\u306b\u30d5\u30eb\u30bf\u30a4\u30e0\u306e\u4ed5\u4e8b\u3092\u518d\u958b\u3067\u304d\u307e\u3057\u305f\u3002\u4ed6\u4eba\u3088\u308a\u6570\u6b69\u9045\u308c\u3066\u9032\u3093\u3067\u3044\u308b\u65b9\u306e\u6c17\u6301\u3061\u306f\u3088\u304f\u308f\u304b\u308b\u306e\u3067\u3001\u540c\u3058\u5883\u9047\u306e\u65b9\u306f\u30c4\u30a4\u30fc\u30c8\u304f\u3060\u3055\u3044\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 88,
+        "friends_count": 81,
+        "listed_count": 2,
+        "created_at": "Fri Sep 24 11:28:38 +0000 2010",
+        "favourites_count": 27541,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 62014,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1594300982/icoca_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1594300982/icoca_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

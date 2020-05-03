@@ -1,0 +1,204 @@
+{
+    "created_at": "Sun May 03 00:42:38 +0000 2020",
+    "id": 1256745949998788608,
+    "id_str": "1256745949998788608",
+    "text": "feel so close - Calvin Harris \n\n#MansaoDasPocs https://t.co/V0CoB7FPOv",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MansaoDasPocs",
+                "indices": [
+                    32,
+                    46
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/V0CoB7FPOv",
+                "expanded_url": "https://twitter.com/moacirsalvatore/status/1256731762551554050",
+                "display_url": "twitter.com/moacirsalvator\u2026",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1214225640687206400,
+        "id_str": "1214225640687206400",
+        "name": "barb rhee",
+        "screen_name": "barbcohan",
+        "location": "",
+        "description": "fan account\u2022 esposa da lauren cohan \u2022 stan de twd \u2022 ohana \u2022 '' Maggie, I'll find you''",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 744,
+        "friends_count": 1118,
+        "listed_count": 1,
+        "created_at": "Mon Jan 06 16:42:30 +0000 2020",
+        "favourites_count": 13041,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17099,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255271829788393472/1EnXlNIl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255271829788393472/1EnXlNIl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1214225640687206400/1588114596",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256731762551554050,
+    "quoted_status_id_str": "1256731762551554050",
+    "quoted_status": {
+        "created_at": "Sat May 02 23:46:15 +0000 2020",
+        "id": 1256731762551554050,
+        "id_str": "1256731762551554050",
+        "text": "qual a m\u00fasica favorita de voc\u00eas? da rt e responde com a hashtag #mansaodaspocs",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "mansaodaspocs",
+                    "indices": [
+                        64,
+                        78
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 595407747,
+            "id_str": "595407747",
+            "name": "Moacir Salvatore",
+            "screen_name": "moacirsalvatore",
+            "location": "",
+            "description": "posto umas palha\u00e7adas na internet e moro na mans\u00e3o das pocs",
+            "url": "https://t.co/DGuUj5Y8A8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DGuUj5Y8A8",
+                            "expanded_url": "http://youtube.com/moacirsalvatoreoficial",
+                            "display_url": "youtube.com/moacirsalvator\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 49834,
+            "friends_count": 2662,
+            "listed_count": 11,
+            "created_at": "Thu May 31 09:09:31 +0000 2012",
+            "favourites_count": 27581,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 7728,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1238224999628050435/C9PwF6by_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238224999628050435/C9PwF6by_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/595407747/1584590726",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "333333",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "999999",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 134,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

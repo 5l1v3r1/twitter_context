@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:42:52 +0000 2020",
+    "id": 1256746010988163072,
+    "id_str": "1256746010988163072",
+    "text": "RT @IkariChan6: Esto de verdad no tiene sentido. #ElSilencioDeLosInocentes tiene mas de 24 mil tweets, pero #TodosContraLaMentiraM NI SIQUI\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ElSilencioDeLosInocentes",
+                "indices": [
+                    49,
+                    74
+                ]
+            },
+            {
+                "text": "TodosContraLaMentiraM",
+                "indices": [
+                    108,
+                    130
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "IkariChan6",
+                "name": "IkariChan\ud83c\udde6\ud83c\uddf7\ud83c\uddee\ud83c\uddf9\ud83d\ude37",
+                "id": 1232769919122628608,
+                "id_str": "1232769919122628608",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1249106719910891521,
+        "id_str": "1249106719910891521",
+        "name": "libertad",
+        "screen_name": "liberta74885770",
+        "location": "",
+        "description": "quiero a mi patria no al comunismo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 62,
+        "friends_count": 74,
+        "listed_count": 0,
+        "created_at": "Sat Apr 11 22:47:32 +0000 2020",
+        "favourites_count": 4720,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5413,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:49:57 +0000 2020",
+        "id": 1256732690642087938,
+        "id_str": "1256732690642087938",
+        "text": "Esto de verdad no tiene sentido. #ElSilencioDeLosInocentes tiene mas de 24 mil tweets, pero #TodosContraLaMentiraM\u2026 https://t.co/Hm8ZtxsZDj",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ElSilencioDeLosInocentes",
+                    "indices": [
+                        33,
+                        58
+                    ]
+                },
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        92,
+                        114
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Hm8ZtxsZDj",
+                    "expanded_url": "https://twitter.com/i/web/status/1256732690642087938",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1232769919122628608,
+            "id_str": "1232769919122628608",
+            "name": "IkariChan\ud83c\udde6\ud83c\uddf7\ud83c\uddee\ud83c\uddf9\ud83d\ude37",
+            "screen_name": "IkariChan6",
+            "location": "Argentina",
+            "description": "Coraz\u00f3n celeste y blanco, River Plate\u26aa\ud83d\udd34\u26aa. No DM. PBA. Escorpiana.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1289,
+            "friends_count": 1565,
+            "listed_count": 0,
+            "created_at": "Wed Feb 26 20:50:37 +0000 2020",
+            "favourites_count": 18261,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10675,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256631641331695619/6vjOgVkG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256631641331695619/6vjOgVkG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232769919122628608/1586283911",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

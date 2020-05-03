@@ -1,0 +1,196 @@
+{
+    "created_at": "Sun May 03 00:42:38 +0000 2020",
+    "id": 1256745952326672391,
+    "id_str": "1256745952326672391",
+    "text": "RT @reasonpjm: ate hj eu nao superei aquele video do jk dan\u00e7ando bad guy imagina esse de jeon jungkook cantando com os olhinhos fechados e\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "reasonpjm",
+                "name": "babi\u2077",
+                "id": 811587171249520640,
+                "id_str": "811587171249520640",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 951971648630149120,
+        "id_str": "951971648630149120",
+        "name": "\ud835\udd92\ud835\udd86\ud835\udd91\ud835\udd9a",
+        "screen_name": "MYLlGHTJM",
+        "location": "\ud835\ude87\ud835\udff7 \ud835\ude8f\ud835\ude98\ud835\ude9b\ud835\ude8e\ud835\ude9f\ud835\ude8e\ud835\ude9b\u2661",
+        "description": "\ud835\ude96\ud835\ude9e\ud835\ude95\ud835\ude9d\ud835\ude92\ud835\ude8f\ud835\ude8a\ud835\ude97\ud835\ude8d\ud835\ude98\ud835\ude96||\ud835\ude8f\ud835\ude8a\ud835\ude97 \ud835\ude8a\ud835\ude8c\ud835\ude8c\ud835\ude98\ud835\ude9e\ud835\ude97\ud835\ude9d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2394,
+        "friends_count": 3522,
+        "listed_count": 3,
+        "created_at": "Sat Jan 13 00:18:22 +0000 2018",
+        "favourites_count": 73379,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 42862,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250669301956325376/t7oSeoXh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250669301956325376/t7oSeoXh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/951971648630149120/1587017774",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:27:07 +0000 2020",
+        "id": 1256651447787233280,
+        "id_str": "1256651447787233280",
+        "text": "ate hj eu nao superei aquele video do jk dan\u00e7ando bad guy imagina esse de jeon jungkook cantando com os olhinhos fe\u2026 https://t.co/up1fGT49p6",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/up1fGT49p6",
+                    "expanded_url": "https://twitter.com/i/web/status/1256651447787233280",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 811587171249520640,
+            "id_str": "811587171249520640",
+            "name": "babi\u2077",
+            "screen_name": "reasonpjm",
+            "location": "25/05/19 ~ g l c t n a f m j \u2661",
+            "description": "\u2800 \u2800 \u2800 \u2800 \ua4b0#BTS\ua4b1 \ud835\uddef\ud835\uddfc\ud835\uddff\ud835\uddfb \ud835\ude01\ud835\uddfc \ud835\ude00\ud835\uddee\ud835\ude03\ud835\uddf2;",
+            "url": "https://t.co/j4dAEOZNij",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/j4dAEOZNij",
+                            "expanded_url": "http://7.xn--c6h",
+                            "display_url": "7.\u2661",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 68646,
+            "friends_count": 20179,
+            "listed_count": 383,
+            "created_at": "Wed Dec 21 15:00:35 +0000 2016",
+            "favourites_count": 25200,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 32785,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245098093420437510/C4iFB-z2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245098093420437510/C4iFB-z2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/811587171249520640/1587517115",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 448,
+        "favorite_count": 991,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 448,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:42:44 +0000 2020",
+    "id": 1256745974954954758,
+    "id_str": "1256745974954954758",
+    "text": "RT @tajyourit: here are somethings y\u2019all can do instead of canceling unproblematic people #noahschnappisoverparty https://t.co/HqoLCMhtk7",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "noahschnappisoverparty",
+                "indices": [
+                    90,
+                    113
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tajyourit",
+                "name": "taj \ud83c\udf29",
+                "id": 1063229408780173312,
+                "id_str": "1063229408780173312",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256698038116122634,
+                "id_str": "1256698038116122634",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCwNRfXgAoboVr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCwNRfXgAoboVr.jpg",
+                "url": "https://t.co/HqoLCMhtk7",
+                "display_url": "pic.twitter.com/HqoLCMhtk7",
+                "expanded_url": "https://twitter.com/tajyourit/status/1256698041710583809/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 554,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 828,
+                        "h": 1792,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 314,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256698041710583809,
+                "source_status_id_str": "1256698041710583809",
+                "source_user_id": 1063229408780173312,
+                "source_user_id_str": "1063229408780173312"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256698038116122634,
+                "id_str": "1256698038116122634",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCwNRfXgAoboVr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCwNRfXgAoboVr.jpg",
+                "url": "https://t.co/HqoLCMhtk7",
+                "display_url": "pic.twitter.com/HqoLCMhtk7",
+                "expanded_url": "https://twitter.com/tajyourit/status/1256698041710583809/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 554,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 828,
+                        "h": 1792,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 314,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256698041710583809,
+                "source_status_id_str": "1256698041710583809",
+                "source_user_id": 1063229408780173312,
+                "source_user_id_str": "1063229408780173312"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1049837261737664513,
+        "id_str": "1049837261737664513",
+        "name": "\ud83e\udd8b",
+        "screen_name": "ghostmayrinn",
+        "location": "Florida, USA",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 18,
+        "friends_count": 44,
+        "listed_count": 0,
+        "created_at": "Wed Oct 10 01:41:23 +0000 2018",
+        "favourites_count": 3980,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3605,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245569377153347588/mW23wHVE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245569377153347588/mW23wHVE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1049837261737664513/1585801856",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:32:16 +0000 2020",
+        "id": 1256698041710583809,
+        "id_str": "1256698041710583809",
+        "text": "here are somethings y\u2019all can do instead of canceling unproblematic people #noahschnappisoverparty https://t.co/HqoLCMhtk7",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "noahschnappisoverparty",
+                    "indices": [
+                        75,
+                        98
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256698038116122634,
+                    "id_str": "1256698038116122634",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCwNRfXgAoboVr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCwNRfXgAoboVr.jpg",
+                    "url": "https://t.co/HqoLCMhtk7",
+                    "display_url": "pic.twitter.com/HqoLCMhtk7",
+                    "expanded_url": "https://twitter.com/tajyourit/status/1256698041710583809/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 828,
+                            "h": 1792,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256698038116122634,
+                    "id_str": "1256698038116122634",
+                    "indices": [
+                        99,
+                        122
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCwNRfXgAoboVr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCwNRfXgAoboVr.jpg",
+                    "url": "https://t.co/HqoLCMhtk7",
+                    "display_url": "pic.twitter.com/HqoLCMhtk7",
+                    "expanded_url": "https://twitter.com/tajyourit/status/1256698041710583809/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 828,
+                            "h": 1792,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1063229408780173312,
+            "id_str": "1063229408780173312",
+            "name": "taj \ud83c\udf29",
+            "screen_name": "tajyourit",
+            "location": "",
+            "description": "no audience",
+            "url": "https://t.co/PUt4BPxTcr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PUt4BPxTcr",
+                            "expanded_url": "http://instagram.com/txjryan",
+                            "display_url": "instagram.com/txjryan",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 59,
+            "friends_count": 87,
+            "listed_count": 0,
+            "created_at": "Fri Nov 16 00:36:59 +0000 2018",
+            "favourites_count": 2818,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 719,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251041559472209921/IfUjeJ_v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251041559472209921/IfUjeJ_v_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063229408780173312/1587106543",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 139,
+        "favorite_count": 1297,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 139,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

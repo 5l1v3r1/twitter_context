@@ -1,0 +1,369 @@
+{
+    "created_at": "Sun May 03 00:42:47 +0000 2020",
+    "id": 1256745986950606850,
+    "id_str": "1256745986950606850",
+    "text": "RT @MRasitBilen: Kur\u015fun orucu bozmaz \u015fehidim!\nSiz Allah kat\u0131nda iftara davetlisiniz...\n#BuYoldanD\u00f6nmeyece\u011fiz #Bitlis https://t.co/Bvt4UdnZng",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                "indices": [
+                    87,
+                    108
+                ]
+            },
+            {
+                "text": "Bitlis",
+                "indices": [
+                    109,
+                    116
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MRasitBilen",
+                "name": "Muhammed Ra\u015fit Bilen",
+                "id": 2259041569,
+                "id_str": "2259041569",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256723117172547584,
+                "id_str": "1256723117172547584",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDHBEQXYAArUil.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDHBEQXYAArUil.jpg",
+                "url": "https://t.co/Bvt4UdnZng",
+                "display_url": "pic.twitter.com/Bvt4UdnZng",
+                "expanded_url": "https://twitter.com/MRasitBilen/status/1256723126311886850/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 635,
+                        "h": 445,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 635,
+                        "h": 445,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 635,
+                        "h": 445,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256723126311886850,
+                "source_status_id_str": "1256723126311886850",
+                "source_user_id": 2259041569,
+                "source_user_id_str": "2259041569"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256723117172547584,
+                "id_str": "1256723117172547584",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDHBEQXYAArUil.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDHBEQXYAArUil.jpg",
+                "url": "https://t.co/Bvt4UdnZng",
+                "display_url": "pic.twitter.com/Bvt4UdnZng",
+                "expanded_url": "https://twitter.com/MRasitBilen/status/1256723126311886850/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 635,
+                        "h": 445,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 635,
+                        "h": 445,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 635,
+                        "h": 445,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256723126311886850,
+                "source_status_id_str": "1256723126311886850",
+                "source_user_id": 2259041569,
+                "source_user_id_str": "2259041569"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 834923234948702209,
+        "id_str": "834923234948702209",
+        "name": "T\u00f6vbekaR",
+        "screen_name": "KalbinHalleri",
+        "location": "",
+        "description": "Bizimle derdi olan\u0131n, derdi bitmez. @S_M_Emin                                       Yetim yaz 4042'ye g\u00f6nder.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4142,
+        "friends_count": 4925,
+        "listed_count": 3,
+        "created_at": "Fri Feb 24 00:29:46 +0000 2017",
+        "favourites_count": 13362,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12023,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1000187686076997632/4Un6iI68_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000187686076997632/4Un6iI68_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/834923234948702209/1587854371",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:11:56 +0000 2020",
+        "id": 1256723126311886850,
+        "id_str": "1256723126311886850",
+        "text": "Kur\u015fun orucu bozmaz \u015fehidim!\nSiz Allah kat\u0131nda iftara davetlisiniz...\n#BuYoldanD\u00f6nmeyece\u011fiz #Bitlis https://t.co/Bvt4UdnZng",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyece\u011fiz",
+                    "indices": [
+                        70,
+                        91
+                    ]
+                },
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        92,
+                        99
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256723117172547584,
+                    "id_str": "1256723117172547584",
+                    "indices": [
+                        100,
+                        123
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDHBEQXYAArUil.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDHBEQXYAArUil.jpg",
+                    "url": "https://t.co/Bvt4UdnZng",
+                    "display_url": "pic.twitter.com/Bvt4UdnZng",
+                    "expanded_url": "https://twitter.com/MRasitBilen/status/1256723126311886850/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 635,
+                            "h": 445,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 635,
+                            "h": 445,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 635,
+                            "h": 445,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256723117172547584,
+                    "id_str": "1256723117172547584",
+                    "indices": [
+                        100,
+                        123
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDHBEQXYAArUil.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDHBEQXYAArUil.jpg",
+                    "url": "https://t.co/Bvt4UdnZng",
+                    "display_url": "pic.twitter.com/Bvt4UdnZng",
+                    "expanded_url": "https://twitter.com/MRasitBilen/status/1256723126311886850/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 635,
+                            "h": 445,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 635,
+                            "h": 445,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 635,
+                            "h": 445,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2259041569,
+            "id_str": "2259041569",
+            "name": "Muhammed Ra\u015fit Bilen",
+            "screen_name": "MRasitBilen",
+            "location": "",
+            "description": "Y\u00e2r'e y\u00e2r olman\u0131n derdinde...",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1527,
+            "friends_count": 8,
+            "listed_count": 2,
+            "created_at": "Mon Dec 23 15:02:27 +0000 2013",
+            "favourites_count": 8780,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4171,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1169779363757400065/45a8UkVg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169779363757400065/45a8UkVg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2259041569/1482111579",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 24,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

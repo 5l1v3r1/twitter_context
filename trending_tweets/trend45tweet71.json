@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:40:52 +0000 2020",
+    "id": 1256745506434408448,
+    "id_str": "1256745506434408448",
+    "text": "RT @1907_Fener_35: Can'lar l\u00fctfen destek,...!!!!\n\n2 dk n\u0131z\u0131 ay\u0131r\u0131n l\u00fctfen \n\n#SesiDuy\u0130brahimYA\u015eASIN https://t.co/24CjWldjPQ",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                "indices": [
+                    76,
+                    98
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "1907_Fener_35",
+                "name": "Fenerbah\u00e7e",
+                "id": 1192860600600317952,
+                "id_str": "1192860600600317952",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256646316186271745,
+                "id_str": "1256646316186271745",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCBKqSWAAETEra.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCBKqSWAAETEra.jpg",
+                "url": "https://t.co/24CjWldjPQ",
+                "display_url": "pic.twitter.com/24CjWldjPQ",
+                "expanded_url": "https://twitter.com/1907_Fener_35/status/1256646318061125640/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 240,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 240,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 240,
+                        "h": 225,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256646318061125640,
+                "source_status_id_str": "1256646318061125640",
+                "source_user_id": 1192860600600317952,
+                "source_user_id_str": "1192860600600317952"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256646316186271745,
+                "id_str": "1256646316186271745",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCBKqSWAAETEra.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCBKqSWAAETEra.jpg",
+                "url": "https://t.co/24CjWldjPQ",
+                "display_url": "pic.twitter.com/24CjWldjPQ",
+                "expanded_url": "https://twitter.com/1907_Fener_35/status/1256646318061125640/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 240,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 240,
+                        "h": 225,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 240,
+                        "h": 225,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256646318061125640,
+                "source_status_id_str": "1256646318061125640",
+                "source_user_id": 1192860600600317952,
+                "source_user_id_str": "1192860600600317952"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 137904081,
+        "id_str": "137904081",
+        "name": "\u015eeng\u00fcl",
+        "screen_name": "umurumsera",
+        "location": "Ontario, Canada",
+        "description": "Honest, trustworthy#",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 259,
+        "friends_count": 379,
+        "listed_count": 0,
+        "created_at": "Wed Apr 28 02:53:07 +0000 2010",
+        "favourites_count": 7123,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2376,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1015751770964942848/guhU6uEL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015751770964942848/guhU6uEL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137904081/1587621143",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:06:44 +0000 2020",
+        "id": 1256646318061125640,
+        "id_str": "1256646318061125640",
+        "text": "Can'lar l\u00fctfen destek,...!!!!\n\n2 dk n\u0131z\u0131 ay\u0131r\u0131n l\u00fctfen \n\n#SesiDuy\u0130brahimYA\u015eASIN https://t.co/24CjWldjPQ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                    "indices": [
+                        57,
+                        79
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256646316186271745,
+                    "id_str": "1256646316186271745",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCBKqSWAAETEra.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCBKqSWAAETEra.jpg",
+                    "url": "https://t.co/24CjWldjPQ",
+                    "display_url": "pic.twitter.com/24CjWldjPQ",
+                    "expanded_url": "https://twitter.com/1907_Fener_35/status/1256646318061125640/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 240,
+                            "h": 225,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 240,
+                            "h": 225,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 240,
+                            "h": 225,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256646316186271745,
+                    "id_str": "1256646316186271745",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCBKqSWAAETEra.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCBKqSWAAETEra.jpg",
+                    "url": "https://t.co/24CjWldjPQ",
+                    "display_url": "pic.twitter.com/24CjWldjPQ",
+                    "expanded_url": "https://twitter.com/1907_Fener_35/status/1256646318061125640/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 240,
+                            "h": 225,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 240,
+                            "h": 225,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 240,
+                            "h": 225,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1192860600600317952,
+            "id_str": "1192860600600317952",
+            "name": "Fenerbah\u00e7e",
+            "screen_name": "1907_Fener_35",
+            "location": "",
+            "description": "\u274cALEV\u0130\u274c Ak\u0131ll\u0131 olun \u2757 #GEZ\u0130.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 904,
+            "friends_count": 607,
+            "listed_count": 2,
+            "created_at": "Fri Nov 08 17:45:39 +0000 2019",
+            "favourites_count": 5232,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13715,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254793541487902720/AY3t7HBv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254793541487902720/AY3t7HBv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1192860600600317952/1580463193",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 105,
+        "favorite_count": 247,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 105,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

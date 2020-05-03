@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:42:30 +0000 2020",
+    "id": 1256745917811695617,
+    "id_str": "1256745917811695617",
+    "text": "RT @_aliyalcin_: #Bitlis'te PKK'l\u0131 ter\u00f6ristlerin sald\u0131r\u0131s\u0131 sonucunda \u015fehit olan kahraman askerlerimize Allah'tan rahmet, yaralanan Mehmet\u00e7i\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    17,
+                    24
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_aliyalcin_",
+                "name": "Ali YAL\u00c7IN",
+                "id": 321590215,
+                "id_str": "321590215",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2149687793,
+        "id_str": "2149687793",
+        "name": "yasin virit",
+        "screen_name": "yasinvirit",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 251,
+        "friends_count": 224,
+        "listed_count": 0,
+        "created_at": "Wed Oct 23 16:03:09 +0000 2013",
+        "favourites_count": 4959,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3148,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000640826555/53ce406019dc9c189d4a51d564259d92_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000640826555/53ce406019dc9c189d4a51d564259d92_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:28:03 +0000 2020",
+        "id": 1256727181570564102,
+        "id_str": "1256727181570564102",
+        "text": "#Bitlis'te PKK'l\u0131 ter\u00f6ristlerin sald\u0131r\u0131s\u0131 sonucunda \u015fehit olan kahraman askerlerimize Allah'tan rahmet, yaralanan M\u2026 https://t.co/k9CVEJIyEs",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/k9CVEJIyEs",
+                    "expanded_url": "https://twitter.com/i/web/status/1256727181570564102",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 321590215,
+            "id_str": "321590215",
+            "name": "Ali YAL\u00c7IN",
+            "screen_name": "_aliyalcin_",
+            "location": "Ankara, T\u00fcrkiye",
+            "description": "Memur-Sen ve E\u011fitim-Bir-Sen Genel Ba\u015fkan\u0131",
+            "url": "https://t.co/7FpX6mPFxA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7FpX6mPFxA",
+                            "expanded_url": "http://memursen.org.tr",
+                            "display_url": "memursen.org.tr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 194554,
+            "friends_count": 342,
+            "listed_count": 114,
+            "created_at": "Tue Jun 21 20:28:43 +0000 2011",
+            "favourites_count": 1003,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 14645,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/944403493179314177/vyuhY7NT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/944403493179314177/vyuhY7NT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/321590215/1510573237",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 167,
+        "favorite_count": 469,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 167,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

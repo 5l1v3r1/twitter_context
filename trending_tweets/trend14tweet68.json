@@ -1,0 +1,94 @@
+{
+    "created_at": "Sun May 03 00:25:48 +0000 2020",
+    "id": 1256741714682880000,
+    "id_str": "1256741714682880000",
+    "text": "Nossa o armandinho gravou mais de 2 hrs de live eu n\u00e3o vou ver tudo isso n\u00e3o kk, mas \u00edcone",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 227039215,
+        "id_str": "227039215",
+        "name": "julinha \"Smell me, Eve\" 47 dias de quarentena",
+        "screen_name": "zeldascully",
+        "location": "Porto Alegre, Brasil",
+        "description": "distribui\u00e7\u00e3o gratu\u00edta de m\u00e1goas & middle aged women \u2640 [pt - en]",
+        "url": "https://t.co/qDiJkxNLc2",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/qDiJkxNLc2",
+                        "expanded_url": "http://archiveofourown.org/users/melliegrantsx/works",
+                        "display_url": "archiveofourown.org/users/melliegr\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1121,
+        "friends_count": 559,
+        "listed_count": 30,
+        "created_at": "Wed Dec 15 19:09:52 +0000 2010",
+        "favourites_count": 9087,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 121547,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239975179457040386/WNBrOOT-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239975179457040386/WNBrOOT-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/227039215/1579986569",
+        "profile_link_color": "6B238E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

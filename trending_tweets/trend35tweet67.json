@@ -1,0 +1,354 @@
+{
+    "created_at": "Sun May 03 00:41:27 +0000 2020",
+    "id": 1256745652966604801,
+    "id_str": "1256745652966604801",
+    "text": "RT @Lavendermee3: The Fat in the Cap\n\n #TheTitleOfTrumpsMemoir https://t.co/XSVsNmoERb",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lavendermee3",
+                "name": "Shari Bee",
+                "id": 867250572,
+                "id_str": "867250572",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256676573794762752,
+                "id_str": "1256676573794762752",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCcr4qXgAAhGSx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCcr4qXgAAhGSx.jpg",
+                "url": "https://t.co/XSVsNmoERb",
+                "display_url": "pic.twitter.com/XSVsNmoERb",
+                "expanded_url": "https://twitter.com/Lavendermee3/status/1256676578186100738/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 341,
+                        "h": 258,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 341,
+                        "h": 258,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 341,
+                        "h": 258,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256676578186100738,
+                "source_status_id_str": "1256676578186100738",
+                "source_user_id": 867250572,
+                "source_user_id_str": "867250572"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256676573794762752,
+                "id_str": "1256676573794762752",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCcr4qXgAAhGSx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCcr4qXgAAhGSx.jpg",
+                "url": "https://t.co/XSVsNmoERb",
+                "display_url": "pic.twitter.com/XSVsNmoERb",
+                "expanded_url": "https://twitter.com/Lavendermee3/status/1256676578186100738/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 341,
+                        "h": 258,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 341,
+                        "h": 258,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 341,
+                        "h": 258,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256676578186100738,
+                "source_status_id_str": "1256676578186100738",
+                "source_user_id": 867250572,
+                "source_user_id_str": "867250572"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 893950392148434944,
+        "id_str": "893950392148434944",
+        "name": "Wendy Cornell",
+        "screen_name": "Galsportfan",
+        "location": "Olympia, WA",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 18,
+        "friends_count": 156,
+        "listed_count": 0,
+        "created_at": "Sat Aug 05 21:42:37 +0000 2017",
+        "favourites_count": 5089,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10888,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:06:58 +0000 2020",
+        "id": 1256676578186100738,
+        "id_str": "1256676578186100738",
+        "text": "The Fat in the Cap\n\n #TheTitleOfTrumpsMemoir https://t.co/XSVsNmoERb",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        21,
+                        44
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256676573794762752,
+                    "id_str": "1256676573794762752",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCcr4qXgAAhGSx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCcr4qXgAAhGSx.jpg",
+                    "url": "https://t.co/XSVsNmoERb",
+                    "display_url": "pic.twitter.com/XSVsNmoERb",
+                    "expanded_url": "https://twitter.com/Lavendermee3/status/1256676578186100738/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 341,
+                            "h": 258,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 341,
+                            "h": 258,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 341,
+                            "h": 258,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256676573794762752,
+                    "id_str": "1256676573794762752",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCcr4qXgAAhGSx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCcr4qXgAAhGSx.jpg",
+                    "url": "https://t.co/XSVsNmoERb",
+                    "display_url": "pic.twitter.com/XSVsNmoERb",
+                    "expanded_url": "https://twitter.com/Lavendermee3/status/1256676578186100738/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 341,
+                            "h": 258,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 341,
+                            "h": 258,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 341,
+                            "h": 258,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 867250572,
+            "id_str": "867250572",
+            "name": "Shari Bee",
+            "screen_name": "Lavendermee3",
+            "location": "",
+            "description": "Family. Cats. Hashtag Games. GIF Enthusiast. Prince. Detroit. Feminist. Palestine. The Resistance. ISFJ.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2719,
+            "friends_count": 2086,
+            "listed_count": 35,
+            "created_at": "Mon Oct 08 01:53:10 +0000 2012",
+            "favourites_count": 69121,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 50065,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1176621535286706177/z7oDcCUO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176621535286706177/z7oDcCUO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/867250572/1585226074",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 135,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

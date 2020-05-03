@@ -1,0 +1,186 @@
+{
+    "created_at": "Sun May 03 00:42:34 +0000 2020",
+    "id": 1256745933573812224,
+    "id_str": "1256745933573812224",
+    "text": "RT @bevansisme: Jeon Jungkook is one of the most popular Twitter accounts. Wow. You can\u2019t compete with the BTS Army. You will not win that\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bevansisme",
+                "name": "Brandon Evans",
+                "id": 37344229,
+                "id_str": "37344229",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 878034864817274880,
+        "id_str": "878034864817274880",
+        "name": "\ud83c\udf19\ud83c\udf6cSweet Night\ud83c\udf6c\ud83c\udf19 Kanily Park\u2764",
+        "screen_name": "Kary20700",
+        "location": "Tabasco, M\u00e9xico",
+        "description": "BTS\u2728\nA.R.M.Y\u2764\nI PURPLE U\ud83d\udc9c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 160,
+        "friends_count": 507,
+        "listed_count": 1,
+        "created_at": "Thu Jun 22 23:39:59 +0000 2017",
+        "favourites_count": 19572,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9694,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254569361450381312/aYZag26P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254569361450381312/aYZag26P_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878034864817274880/1526342167",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:31:18 +0000 2020",
+        "id": 1256652501924958217,
+        "id_str": "1256652501924958217",
+        "text": "Jeon Jungkook is one of the most popular Twitter accounts. Wow. You can\u2019t compete with the BTS Army. You will not win that fight. \ud83d\udc9c",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 37344229,
+            "id_str": "37344229",
+            "name": "Brandon Evans",
+            "screen_name": "bevansisme",
+            "location": "",
+            "description": "Singer/Songwriter \u2022 I REPLY TO EVERY TWEET! So let\u2019s become best friends! \ud83d\ude0a \u2022 Instagram: brandonevans \u2022 bevansbooking@yahoo.com",
+            "url": "https://t.co/ejmIELD6hQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ejmIELD6hQ",
+                            "expanded_url": "http://www.youtube.com/brandonnnnnn12",
+                            "display_url": "youtube.com/brandonnnnnn12",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 291101,
+            "friends_count": 146783,
+            "listed_count": 1997,
+            "created_at": "Sun May 03 02:35:56 +0000 2009",
+            "favourites_count": 511548,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 263980,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "7D7D7D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1202770660373794816/FASIG2R9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202770660373794816/FASIG2R9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/37344229/1546758591",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "141414",
+            "profile_text_color": "737373",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 762,
+        "favorite_count": 2906,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 762,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

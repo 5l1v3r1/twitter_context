@@ -1,0 +1,394 @@
+{
+    "created_at": "Sun May 03 00:40:49 +0000 2020",
+    "id": 1256745495474601985,
+    "id_str": "1256745495474601985",
+    "text": "RT @gabimarketeira: cheguei pra participar da promo\u00e7\u00e3o #JeMBrahmaLive \n\nold que essa sou eu ouvindo JeM: https://t.co/ngLgXxreUO",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    55,
+                    69
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gabimarketeira",
+                "name": "marketeira",
+                "id": 2609549123,
+                "id_str": "2609549123",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256738765311225858,
+                "id_str": "1256738765311225858",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDVP6HWsAIWDXD.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDVP6HWsAIWDXD.jpg",
+                "url": "https://t.co/ngLgXxreUO",
+                "display_url": "pic.twitter.com/ngLgXxreUO",
+                "expanded_url": "https://twitter.com/gabimarketeira/status/1256738773628526592/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738773628526592,
+                "source_status_id_str": "1256738773628526592",
+                "source_user_id": 2609549123,
+                "source_user_id_str": "2609549123"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256738765311225858,
+                "id_str": "1256738765311225858",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDVP6HWsAIWDXD.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDVP6HWsAIWDXD.jpg",
+                "url": "https://t.co/ngLgXxreUO",
+                "display_url": "pic.twitter.com/ngLgXxreUO",
+                "expanded_url": "https://twitter.com/gabimarketeira/status/1256738773628526592/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 220,
+                        "h": 220,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738773628526592,
+                "source_status_id_str": "1256738773628526592",
+                "source_user_id": 2609549123,
+                "source_user_id_str": "2609549123",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDVP6HWsAIWDXD.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 240460274,
+        "id_str": "240460274",
+        "name": "Belly",
+        "screen_name": "SibellyRocha",
+        "location": "Bel\u00e9m",
+        "description": "a work in progress. 24",
+        "url": "https://t.co/65uKbZ2Mbj",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/65uKbZ2Mbj",
+                        "expanded_url": "https://dontwakeme-upp.tumblr.com/",
+                        "display_url": "dontwakeme-upp.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1261,
+        "friends_count": 271,
+        "listed_count": 23,
+        "created_at": "Thu Jan 20 00:10:05 +0000 2011",
+        "favourites_count": 3300,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 34012,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249912972484513792/S7tvbxdC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249912972484513792/S7tvbxdC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240460274/1586891103",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:14:07 +0000 2020",
+        "id": 1256738773628526592,
+        "id_str": "1256738773628526592",
+        "text": "cheguei pra participar da promo\u00e7\u00e3o #JeMBrahmaLive \n\nold que essa sou eu ouvindo JeM: https://t.co/ngLgXxreUO",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        35,
+                        49
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256738765311225858,
+                    "id_str": "1256738765311225858",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDVP6HWsAIWDXD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDVP6HWsAIWDXD.jpg",
+                    "url": "https://t.co/ngLgXxreUO",
+                    "display_url": "pic.twitter.com/ngLgXxreUO",
+                    "expanded_url": "https://twitter.com/gabimarketeira/status/1256738773628526592/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 220,
+                            "h": 220,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 220,
+                            "h": 220,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 220,
+                            "h": 220,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256738765311225858,
+                    "id_str": "1256738765311225858",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDVP6HWsAIWDXD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDVP6HWsAIWDXD.jpg",
+                    "url": "https://t.co/ngLgXxreUO",
+                    "display_url": "pic.twitter.com/ngLgXxreUO",
+                    "expanded_url": "https://twitter.com/gabimarketeira/status/1256738773628526592/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 220,
+                            "h": 220,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 220,
+                            "h": 220,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 220,
+                            "h": 220,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXDVP6HWsAIWDXD.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2609549123,
+            "id_str": "2609549123",
+            "name": "marketeira",
+            "screen_name": "gabimarketeira",
+            "location": "Recife, Brasil",
+            "description": "comentarista de reality show",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 23621,
+            "friends_count": 886,
+            "listed_count": 20,
+            "created_at": "Sat Jun 14 19:44:41 +0000 2014",
+            "favourites_count": 5089,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14978,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256707373097500674/Ga09uFC__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256707373097500674/Ga09uFC__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2609549123/1587008732",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 654,
+        "favorite_count": 483,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 654,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

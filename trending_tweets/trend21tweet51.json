@@ -1,0 +1,224 @@
+{
+    "created_at": "Sun May 03 00:42:10 +0000 2020",
+    "id": 1256745832818323461,
+    "id_str": "1256745832818323461",
+    "text": "RT @iamsamuelpagge: Midnight Album Streaming Session Is For The Strongest. Forget About #3MusicAwards20\nWe Streaming Haaarrdd \ud83d\udd25\n\nM A N A C\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3MusicAwards20",
+                "indices": [
+                    88,
+                    103
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "iamsamuelpagge",
+                "name": "UCC SHATTA WALE\ud83c\uddec\ud83c\udded\ud83e\udde0",
+                "id": 746097521831907332,
+                "id_str": "746097521831907332",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1872241160,
+        "id_str": "1872241160",
+        "name": "#Mylover- Amaslay\ud83d\ude0d \ud83c\uddec\ud83c\udded",
+        "screen_name": "BraLaw9",
+        "location": "Ghana",
+        "description": "A Network Engineer | System Analyst |Software Developer | https://t.co/Qr8wm9LsH6 | Music Enthusiasts | We All Need God",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Qr8wm9LsH6",
+                        "expanded_url": "https://m.youtube.com/channel/UCg1Zp6eyDGGBt2FJTPzlOOQ",
+                        "display_url": "m.youtube.com/channel/UCg1Zp\u2026",
+                        "indices": [
+                            58,
+                            81
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 8240,
+        "friends_count": 8213,
+        "listed_count": 4,
+        "created_at": "Mon Sep 16 16:27:13 +0000 2013",
+        "favourites_count": 40498,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16103,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226491841555595271/1KNg89GR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226491841555595271/1KNg89GR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872241160/1560156704",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:14:32 +0000 2020",
+        "id": 1256738879006216193,
+        "id_str": "1256738879006216193",
+        "text": "Midnight Album Streaming Session Is For The Strongest. Forget About #3MusicAwards20\nWe Streaming Haaarrdd \ud83d\udd25\n\nM A N\u2026 https://t.co/3enX0HcGmJ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3MusicAwards20",
+                    "indices": [
+                        68,
+                        83
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3enX0HcGmJ",
+                    "expanded_url": "https://twitter.com/i/web/status/1256738879006216193",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 746097521831907332,
+            "id_str": "746097521831907332",
+            "name": "UCC SHATTA WALE\ud83c\uddec\ud83c\udded\ud83e\udde0",
+            "screen_name": "iamsamuelpagge",
+            "location": "Here",
+            "description": "SON OF MERCY\ud83d\ude4f\ud83c\udffe\n#PERSCOBA'15'...|UCC| |MAIN ACCOUNT| FC BARCAL\u26bd\ufe0fNA\u2665\ufe0f| Instagram & Snapchat- Mrpagge | & Facebook- Samuel Pagge",
+            "url": "https://t.co/A1GFEZILCT",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/A1GFEZILCT",
+                            "expanded_url": "https://youtu.be/a5p4QOAFU9Q",
+                            "display_url": "youtu.be/a5p4QOAFU9Q",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10944,
+            "friends_count": 4819,
+            "listed_count": 2,
+            "created_at": "Thu Jun 23 21:48:05 +0000 2016",
+            "favourites_count": 1844,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 15246,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1237660975085617153/uw4qQF0M_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237660975085617153/uw4qQF0M_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/746097521831907332/1466719970",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 59,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

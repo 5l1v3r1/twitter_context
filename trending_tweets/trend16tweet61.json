@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:42:36 +0000 2020",
+    "id": 1256745942243475459,
+    "id_str": "1256745942243475459",
+    "text": "RT @VazEpilef: Ciro Gomes: devemos cobrar impostos de grandes fortunas e dividendos\nAmoedo: n\u00e3o devemos fazer isso porque o brasileiro trab\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VazEpilef",
+                "name": "N\u00e3o Por Mim, Por N\u00f3s",
+                "id": 760602909516107776,
+                "id_str": "760602909516107776",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1132324586002046978,
+        "id_str": "1132324586002046978",
+        "name": "giorno giovanna",
+        "screen_name": "soulIescreature",
+        "location": "",
+        "description": "humilde disc\u00edpula de @auroramusic",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 337,
+        "friends_count": 335,
+        "listed_count": 1,
+        "created_at": "Sat May 25 16:36:33 +0000 2019",
+        "favourites_count": 1265,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8349,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255276015552790528/8tM9-cQE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255276015552790528/8tM9-cQE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132324586002046978/1576630001",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:22:55 +0000 2020",
+        "id": 1256740990397878273,
+        "id_str": "1256740990397878273",
+        "text": "Ciro Gomes: devemos cobrar impostos de grandes fortunas e dividendos\nAmoedo: n\u00e3o devemos fazer isso porque o brasil\u2026 https://t.co/OBUgEwAEgH",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/OBUgEwAEgH",
+                    "expanded_url": "https://twitter.com/i/web/status/1256740990397878273",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 760602909516107776,
+            "id_str": "760602909516107776",
+            "name": "N\u00e3o Por Mim, Por N\u00f3s",
+            "screen_name": "VazEpilef",
+            "location": "",
+            "description": "Aluno de Hist\u00f3ria UFPR, crist\u00e3o sem denomina\u00e7\u00e3o, ecossocialista democr\u00e1tico e integrante da luta contra os extremismos, ignor\u00e2ncias e mitos!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 214,
+            "friends_count": 505,
+            "listed_count": 2,
+            "created_at": "Tue Aug 02 22:27:19 +0000 2016",
+            "favourites_count": 27061,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9451,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974419869398597632/2MJ0n6ui_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974419869398597632/2MJ0n6ui_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/760602909516107776/1521643367",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 66,
+        "favorite_count": 269,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 66,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

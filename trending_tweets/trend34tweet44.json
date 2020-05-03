@@ -1,0 +1,332 @@
+{
+    "created_at": "Sun May 03 00:38:23 +0000 2020",
+    "id": 1256744881298399232,
+    "id_str": "1256744881298399232",
+    "text": "RT @RT28922758: #\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c \n\n\u300c\u79c1\u306f\u30de\u30e8\u30cd\u30fc\u30ba\u3068\u8a00\u3046\u540d\u306e\n\u97f3\u58f0\u62c5\u5f53\u3067\u3059\ud83d\ude33\u300d\n\n\u5de6\u306e\u30b3\u30fc\u30e9\u306f\u652f\u3048\u306b\u4f7f\u3044\u307e\u3057\u305f\n\u98f2\u3093\u3060\u2753\n\n#\u98df\u5353\u5869 #\u30a2\u30e9\u30d3\u30c3\u30af #\u4e03\u5473\u5510\u304b\u3089\u3057 \n#\u30b3\u30b7\u30e7\u30fc #\u30bf\u30ec\u30d3\u30f3 #\u30df\u30cb\u30b5\u30e9\u30c0 \n#\u3046\u307e\u3044\u68d2 #\u304a\u3063\u3068\u3063\u3068 #\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    16,
+                    29
+                ]
+            },
+            {
+                "text": "\u98df\u5353\u5869",
+                "indices": [
+                    77,
+                    81
+                ]
+            },
+            {
+                "text": "\u30a2\u30e9\u30d3\u30c3\u30af",
+                "indices": [
+                    82,
+                    88
+                ]
+            },
+            {
+                "text": "\u4e03\u5473\u5510\u304b\u3089\u3057",
+                "indices": [
+                    89,
+                    96
+                ]
+            },
+            {
+                "text": "\u30b3\u30b7\u30e7\u30fc",
+                "indices": [
+                    98,
+                    103
+                ]
+            },
+            {
+                "text": "\u30bf\u30ec\u30d3\u30f3",
+                "indices": [
+                    104,
+                    109
+                ]
+            },
+            {
+                "text": "\u30df\u30cb\u30b5\u30e9\u30c0",
+                "indices": [
+                    110,
+                    116
+                ]
+            },
+            {
+                "text": "\u3046\u307e\u3044\u68d2",
+                "indices": [
+                    118,
+                    123
+                ]
+            },
+            {
+                "text": "\u304a\u3063\u3068\u3063\u3068",
+                "indices": [
+                    124,
+                    130
+                ]
+            },
+            {
+                "text": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+                "indices": [
+                    131,
+                    138
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RT28922758",
+                "name": "\u30d5\u30e9\u3061\u3083\u3093\u5225\u50cdRT\u968a",
+                "id": 1199873691540045824,
+                "id_str": "1199873691540045824",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1213734049442758657,
+        "id_str": "1213734049442758657",
+        "name": "\u6570\u99ac \u306e\u3093\u3073\u308a\u5c31\u6d3b\u4e2d\uff65\u4f4e\u6d6e\u4e0a( \u1d17\u1d17)\"",
+        "screen_name": "sweetter6340",
+        "location": "\u9b54\u754c\u6751. \u65e5\u672c. \u540d\u53e4\u5c4b\u5e02",
+        "description": "#Apple #Jordan #\u5e7c\u7a1a\u5712\u6559\u8aed #\u4fdd\u80b2\u58eb #\u5b66\u7ae5\u4fdd\u80b2 #\u7121\u5370\u826f\u54c1 #BEAMS #PORTER #NIKE #FF7R #\u9b3c\u6ec5\u306e\u5203 #\u30d0\u30f3\u30c9\u30ea #\u30c0\u30a4\u30a8\u30c3\u30c8 #\u7f8e\u5bb9 #\u5065\u5eb7 #\u6599\u7406 #Instagram #\u604b\u6d3b #\u5c31\u6d3b #\u30d5\u30a9\u30ed\u30d0100 #stayhome \u6c17\u307e\u307e\u306bRT\uff65Fav\u3057\u307e\u3059\ud83c\udf08",
+        "url": "https://t.co/1hpEJ6nPoI",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1hpEJ6nPoI",
+                        "expanded_url": "http://Instagram.com/cajutang.ram",
+                        "display_url": "Instagram.com/cajutang.ram",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3233,
+        "friends_count": 3154,
+        "listed_count": 20,
+        "created_at": "Sun Jan 05 08:08:58 +0000 2020",
+        "favourites_count": 42041,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17340,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247417193169473536/Ypbxa8Yw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247417193169473536/Ypbxa8Yw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1213734049442758657/1587356578",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:56:39 +0000 2020",
+        "id": 1256704181047406592,
+        "id_str": "1256704181047406592",
+        "text": "#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c \n\n\u300c\u79c1\u306f\u30de\u30e8\u30cd\u30fc\u30ba\u3068\u8a00\u3046\u540d\u306e\n\u97f3\u58f0\u62c5\u5f53\u3067\u3059\ud83d\ude33\u300d\n\n\u5de6\u306e\u30b3\u30fc\u30e9\u306f\u652f\u3048\u306b\u4f7f\u3044\u307e\u3057\u305f\n\u98f2\u3093\u3060\u2753\n\n#\u98df\u5353\u5869 #\u30a2\u30e9\u30d3\u30c3\u30af #\u4e03\u5473\u5510\u304b\u3089\u3057 \n#\u30b3\u30b7\u30e7\u30fc #\u30bf\u30ec\u30d3\u30f3 #\u30df\u30cb\u30b5\u30e9\u30c0 \n#\u3046\u307e\u3044\u68d2 #\u304a\u3063\u3068\u3063\u3068\u2026 https://t.co/KJGQrZAxJO",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "text": "\u98df\u5353\u5869",
+                    "indices": [
+                        61,
+                        65
+                    ]
+                },
+                {
+                    "text": "\u30a2\u30e9\u30d3\u30c3\u30af",
+                    "indices": [
+                        66,
+                        72
+                    ]
+                },
+                {
+                    "text": "\u4e03\u5473\u5510\u304b\u3089\u3057",
+                    "indices": [
+                        73,
+                        80
+                    ]
+                },
+                {
+                    "text": "\u30b3\u30b7\u30e7\u30fc",
+                    "indices": [
+                        82,
+                        87
+                    ]
+                },
+                {
+                    "text": "\u30bf\u30ec\u30d3\u30f3",
+                    "indices": [
+                        88,
+                        93
+                    ]
+                },
+                {
+                    "text": "\u30df\u30cb\u30b5\u30e9\u30c0",
+                    "indices": [
+                        94,
+                        100
+                    ]
+                },
+                {
+                    "text": "\u3046\u307e\u3044\u68d2",
+                    "indices": [
+                        102,
+                        107
+                    ]
+                },
+                {
+                    "text": "\u304a\u3063\u3068\u3063\u3068",
+                    "indices": [
+                        108,
+                        114
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KJGQrZAxJO",
+                    "expanded_url": "https://twitter.com/i/web/status/1256704181047406592",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1199873691540045824,
+            "id_str": "1199873691540045824",
+            "name": "\u30d5\u30e9\u3061\u3083\u3093\u5225\u50cdRT\u968a",
+            "screen_name": "RT28922758",
+            "location": "",
+            "description": "\u30d5\u30e9\u3061\u3083\u3093 @LhaKo7KXpIUS4MC \u306e\u5225\u57a2\u3067\u3059\u3002\u30d5\u30e9\u3061\u3083\u3093\u306f\u81ea\u5206\u6295\u7a3f\u306b\u3066\u3053\u3061\u3089\u3067\u30a4\u30a4\u306d\u3001\u30ea\u30c4\u30a4\u9811\u5f35\u308a\u307e\u3059\u3002\u4ee4\u548c\u5143\u5e7411\u670828\u65e5\u6d3b\u52d5\u958b\u59cb",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4524,
+            "friends_count": 4379,
+            "listed_count": 12,
+            "created_at": "Thu Nov 28 02:14:25 +0000 2019",
+            "favourites_count": 44613,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 14473,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1199874248317095937/dNXAZ_Rv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199874248317095937/dNXAZ_Rv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199873691540045824/1574908198",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 33,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

@@ -1,0 +1,382 @@
+{
+    "created_at": "Sun May 03 00:32:48 +0000 2020",
+    "id": 1256743476487688195,
+    "id_str": "1256743476487688195",
+    "text": "RT @CentralLouisBr: 'LOUDER' \n\n#TeamAlwaysYou #WallsOlympics https://t.co/VAkZaIuZ1p",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    31,
+                    45
+                ]
+            },
+            {
+                "text": "WallsOlympics",
+                "indices": [
+                    46,
+                    60
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CentralLouisBr",
+                "name": "Central Louis Brasil \ud83c\udfe1",
+                "id": 878790039165186048,
+                "id_str": "878790039165186048",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256728106750140425,
+                "id_str": "1256728106750140425",
+                "indices": [
+                    61,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDLjf4XYAkaK8P.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDLjf4XYAkaK8P.jpg",
+                "url": "https://t.co/VAkZaIuZ1p",
+                "display_url": "pic.twitter.com/VAkZaIuZ1p",
+                "expanded_url": "https://twitter.com/CentralLouisBr/status/1256728114002120704/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 469,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 736,
+                        "h": 1067,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 736,
+                        "h": 1067,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256728114002120704,
+                "source_status_id_str": "1256728114002120704",
+                "source_user_id": 878790039165186048,
+                "source_user_id_str": "878790039165186048"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256728106750140425,
+                "id_str": "1256728106750140425",
+                "indices": [
+                    61,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDLjf4XYAkaK8P.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDLjf4XYAkaK8P.jpg",
+                "url": "https://t.co/VAkZaIuZ1p",
+                "display_url": "pic.twitter.com/VAkZaIuZ1p",
+                "expanded_url": "https://twitter.com/CentralLouisBr/status/1256728114002120704/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 469,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 736,
+                        "h": 1067,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 736,
+                        "h": 1067,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256728114002120704,
+                "source_status_id_str": "1256728114002120704",
+                "source_user_id": 878790039165186048,
+                "source_user_id_str": "878790039165186048"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2715407094,
+        "id_str": "2715407094",
+        "name": "Carol \ud83c\udfbc #KMM \ud83d\udca3",
+        "screen_name": "dinkylt",
+        "location": "",
+        "description": "In the end I decided to do what I knew had worked in the past - be persistent - Louis Tomlinson (N\u00e3o sigo quem chama o pr\u00f3prio \u00eddolo de mentiroso, n\u00e3o insista)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1328,
+        "friends_count": 1680,
+        "listed_count": 13,
+        "created_at": "Thu Aug 07 21:53:52 +0000 2014",
+        "favourites_count": 2323,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 133813,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/753002532495122432/Uafodbj2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/753002532495122432/Uafodbj2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2715407094/1467460383",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:31:45 +0000 2020",
+        "id": 1256728114002120704,
+        "id_str": "1256728114002120704",
+        "text": "'LOUDER' \n\n#TeamAlwaysYou #WallsOlympics https://t.co/VAkZaIuZ1p",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TeamAlwaysYou",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                },
+                {
+                    "text": "WallsOlympics",
+                    "indices": [
+                        26,
+                        40
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256728106750140425,
+                    "id_str": "1256728106750140425",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDLjf4XYAkaK8P.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDLjf4XYAkaK8P.jpg",
+                    "url": "https://t.co/VAkZaIuZ1p",
+                    "display_url": "pic.twitter.com/VAkZaIuZ1p",
+                    "expanded_url": "https://twitter.com/CentralLouisBr/status/1256728114002120704/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 469,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 736,
+                            "h": 1067,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 1067,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256728106750140425,
+                    "id_str": "1256728106750140425",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDLjf4XYAkaK8P.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDLjf4XYAkaK8P.jpg",
+                    "url": "https://t.co/VAkZaIuZ1p",
+                    "display_url": "pic.twitter.com/VAkZaIuZ1p",
+                    "expanded_url": "https://twitter.com/CentralLouisBr/status/1256728114002120704/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 469,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 736,
+                            "h": 1067,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 1067,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 878790039165186048,
+            "id_str": "878790039165186048",
+            "name": "Central Louis Brasil \ud83c\udfe1",
+            "screen_name": "CentralLouisBr",
+            "location": "Brasil",
+            "description": "Sua melhor fonte de not\u00edcias sobre o cantor e compositor Louis Tomlinson no Brasil. Ative as notifica\u00e7\u00f5es para ficar por dentro de tudo!",
+            "url": "https://t.co/ksKFD9cNna",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ksKFD9cNna",
+                            "expanded_url": "https://www.youtube.com/channel/UCQZr3c-rRTYdpGyTTgxLqRg",
+                            "display_url": "youtube.com/channel/UCQZr3\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5325,
+            "friends_count": 165,
+            "listed_count": 42,
+            "created_at": "Sun Jun 25 01:40:47 +0000 2017",
+            "favourites_count": 4936,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8933,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249789355889250306/AEN6BbA__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249789355889250306/AEN6BbA__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/878790039165186048/1586807976",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

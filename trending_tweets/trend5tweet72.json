@@ -1,0 +1,417 @@
+{
+    "created_at": "Sun May 03 00:42:07 +0000 2020",
+    "id": 1256745819706884096,
+    "id_str": "1256745819706884096",
+    "text": "RT @DanClarkSports: Sounds like a good name for a pro baseball team.\n\nThe Portland Murder Hornets.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DanClarkSports",
+                "name": "Dan",
+                "id": 262050686,
+                "id_str": "262050686",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2260488314,
+        "id_str": "2260488314",
+        "name": "Chuck Monan aka The Pigskin Preacher",
+        "screen_name": "monan_chuck",
+        "location": "Little Rock USA",
+        "description": "Preacher for the Pinnacle Church of Christ. Pigskin Preacher on 103.7TheBuzz. #GoBlue",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1742,
+        "friends_count": 82,
+        "listed_count": 48,
+        "created_at": "Tue Dec 24 16:51:59 +0000 2013",
+        "favourites_count": 52911,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 69775,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/878090049719545856/O8W23oSY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/878090049719545856/O8W23oSY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2260488314/1540153459",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:26:42 +0000 2020",
+        "id": 1256741941745553408,
+        "id_str": "1256741941745553408",
+        "text": "Sounds like a good name for a pro baseball team.\n\nThe Portland Murder Hornets. https://t.co/MvyQl4gsEk",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/MvyQl4gsEk",
+                    "expanded_url": "https://twitter.com/RotoWear/status/1256701600883671046",
+                    "display_url": "twitter.com/RotoWear/statu\u2026",
+                    "indices": [
+                        79,
+                        102
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 262050686,
+            "id_str": "262050686",
+            "name": "Dan",
+            "screen_name": "DanClarkSports",
+            "location": "",
+            "description": "Writer and special guest on various podcast/radio shows. Details and list of events at https://t.co/vGwRaUNNis.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/vGwRaUNNis",
+                            "expanded_url": "http://tbldaily.com",
+                            "display_url": "tbldaily.com",
+                            "indices": [
+                                87,
+                                110
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 35744,
+            "friends_count": 20698,
+            "listed_count": 297,
+            "created_at": "Mon Mar 07 07:11:55 +0000 2011",
+            "favourites_count": 113122,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 38350,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253176528877219840/zobfLB92_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253176528877219840/zobfLB92_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/262050686/1586050249",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256701600883671046,
+        "quoted_status_id_str": "1256701600883671046",
+        "quoted_status": {
+            "created_at": "Sat May 02 21:46:24 +0000 2020",
+            "id": 1256701600883671046,
+            "id_str": "1256701600883671046",
+            "text": "Murder Hornets\n\n\ud83d\udd25\ud83d\udc55 available only at:\nhttps://t.co/3Gy9CMgtW3 https://t.co/2GODuzdXIK",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/3Gy9CMgtW3",
+                        "expanded_url": "https://rotowear.com/products/murder-hornets-shirt",
+                        "display_url": "rotowear.com/products/murde\u2026",
+                        "indices": [
+                            38,
+                            61
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1256701570877665282,
+                        "id_str": "1256701570877665282",
+                        "indices": [
+                            62,
+                            85
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXCza6DWsAIfdq4.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXCza6DWsAIfdq4.jpg",
+                        "url": "https://t.co/2GODuzdXIK",
+                        "display_url": "pic.twitter.com/2GODuzdXIK",
+                        "expanded_url": "https://twitter.com/RotoWear/status/1256701600883671046/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1256701570877665282,
+                        "id_str": "1256701570877665282",
+                        "indices": [
+                            62,
+                            85
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXCza6DWsAIfdq4.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXCza6DWsAIfdq4.jpg",
+                        "url": "https://t.co/2GODuzdXIK",
+                        "display_url": "pic.twitter.com/2GODuzdXIK",
+                        "expanded_url": "https://twitter.com/RotoWear/status/1256701600883671046/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1256701587478712320,
+                        "id_str": "1256701587478712320",
+                        "indices": [
+                            62,
+                            85
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXCzb35WkAA6gz-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXCzb35WkAA6gz-.jpg",
+                        "url": "https://t.co/2GODuzdXIK",
+                        "display_url": "pic.twitter.com/2GODuzdXIK",
+                        "expanded_url": "https://twitter.com/RotoWear/status/1256701600883671046/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 834196700168388609,
+                "id_str": "834196700168388609",
+                "name": "RotoWear",
+                "screen_name": "RotoWear",
+                "location": "",
+                "description": "Keeping the internet undefeated, one shirt at a time.",
+                "url": "https://t.co/vdFUJQWk72",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/vdFUJQWk72",
+                                "expanded_url": "http://RotoWear.com",
+                                "display_url": "RotoWear.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 14966,
+                "friends_count": 1067,
+                "listed_count": 41,
+                "created_at": "Wed Feb 22 00:22:46 +0000 2017",
+                "favourites_count": 19280,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 6375,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/876115716642136065/_YQMyHAg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/876115716642136065/_YQMyHAg_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/834196700168388609/1575477906",
+                "profile_link_color": "203748",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 40,
+            "favorite_count": 146,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 3,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256701600883671046,
+    "quoted_status_id_str": "1256701600883671046",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

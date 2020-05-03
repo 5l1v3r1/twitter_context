@@ -1,0 +1,92 @@
+{
+    "created_at": "Sun May 03 00:41:06 +0000 2020",
+    "id": 1256745563111882752,
+    "id_str": "1256745563111882752",
+    "text": "\u81ea\u5df1\u8cac\u4efb\u3067\u3001\u7d4c\u8cbb\u3001\u8af8\u8cbb\u7528\u306e\u8acb\u6c42\u3092\n\u5165\u5c71\u7981\u6b62\u306e\u6803\u6728\u306e\u5c71\u3067\u906d\u96e3\u3000\u5ddd\u5d0e\u306e25\u6b73\u3001\u30d8\u30ea\u3067\u6551\u51fa\uff1a\u671d\u65e5\u65b0\u805e\u30c7\u30b8\u30bf\u30eb https://t.co/oL6crcjPhL",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/oL6crcjPhL",
+                "expanded_url": "https://www.asahi.com/articles/ASN5323PNN52UUHB00K.html",
+                "display_url": "asahi.com/articles/ASN53\u2026",
+                "indices": [
+                    52,
+                    75
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2312913349,
+        "id_str": "2312913349",
+        "name": "Kata\u3055\u3093",
+        "screen_name": "katagiri10010",
+        "location": "",
+        "description": "\u307c\u305d\u307c\u305d\u3068\u5c0f\u58f2\u5e97\u3092\u5207\u308a\u76db\u308a\u3057\u3066\u3044\u308b\u3002 \u3069\u3046\u3044\u3046\u308f\u3051\u304b\u3001\u653f\u6cbb\u30cd\u30bf\u304c\u591a\u3044\u3002 \u30b9\u30bf\u30f3\u30b9\u306f\u3001\u771f\u3093\u4e2d\u3002\u5e38\u3005\u3001\u611f\u3058\u308b\u3053\u3068\u300c\u8cb8\u3057\u306f\u3064\u304f\u308b\u304c\u501f\u308a\u306f\u3064\u304f\u3089\u306a\u3044\u3002\u6c7a\u65ad\u304c\u920d\u308b\u300d \u52dd\u624b\u306b\u30ea\u30c4\u30a4\u30fc\u30c8\u3057\u3061\u3083\u3063\u3066\u3054\u3081\u3093\u306a\u3055\u3044\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 90,
+        "friends_count": 310,
+        "listed_count": 4,
+        "created_at": "Mon Jan 27 03:09:00 +0000 2014",
+        "favourites_count": 6605,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4805,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642959835273674752/Wv8MHGy6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642959835273674752/Wv8MHGy6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2312913349/1442128620",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

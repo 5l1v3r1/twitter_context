@@ -1,0 +1,229 @@
+{
+    "created_at": "Sun May 03 00:42:03 +0000 2020",
+    "id": 1256745805328928769,
+    "id_str": "1256745805328928769",
+    "text": "RT @_arifsaylam: Yanan Uzman \u00c7avu\u015f, \nDonan Uzman \u00c7avu\u015f,\nGazi olan Uzman \u00c7avu\u015f,\n\u015eehit olan Uzman \u00c7avu\u015f,\nAilesi olmayan Uzman \u00c7avu\u015f, \nBilen v\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_arifsaylam",
+                "name": "Arif SAYLAM",
+                "id": 2448051387,
+                "id_str": "2448051387",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 874839717753368579,
+        "id_str": "874839717753368579",
+        "name": "Biz T\u00fcrkiyeyiz",
+        "screen_name": "alinsal_natamar",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 117,
+        "friends_count": 227,
+        "listed_count": 0,
+        "created_at": "Wed Jun 14 04:03:37 +0000 2017",
+        "favourites_count": 761,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 192,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249710916318433280/07Wd7xxI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249710916318433280/07Wd7xxI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:09:22 +0000 2020",
+        "id": 1256707378503974913,
+        "id_str": "1256707378503974913",
+        "text": "Yanan Uzman \u00c7avu\u015f, \nDonan Uzman \u00c7avu\u015f,\nGazi olan Uzman \u00c7avu\u015f,\n\u015eehit olan Uzman \u00c7avu\u015f,\nAilesi olmayan Uzman \u00c7avu\u015f,\u2026 https://t.co/ieBuQd3wgn",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ieBuQd3wgn",
+                    "expanded_url": "https://twitter.com/i/web/status/1256707378503974913",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2448051387,
+            "id_str": "2448051387",
+            "name": "Arif SAYLAM",
+            "screen_name": "_arifsaylam",
+            "location": "K\u0131r\u015fehir, T\u00fcrkiye",
+            "description": "Uzmanlar Sosyal Dayan\u0131\u015fma Derne\u011fi Ba\u015fkan\u0131 Uzmanlar Federasyonu Genel Ba\u015fkan Yard\u0131mc\u0131s\u0131",
+            "url": "https://t.co/KF1eFL1yhb",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/KF1eFL1yhb",
+                            "expanded_url": "http://www.uzmanlardernegi.org.tr",
+                            "display_url": "uzmanlardernegi.org.tr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15614,
+            "friends_count": 120,
+            "listed_count": 4,
+            "created_at": "Sun Mar 30 20:54:20 +0000 2014",
+            "favourites_count": 8005,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6418,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250909074251755525/TMNEaoKw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250909074251755525/TMNEaoKw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2448051387/1583620565",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "257ac4117b93f196",
+            "url": "https://api.twitter.com/1.1/geo/id/257ac4117b93f196.json",
+            "place_type": "admin",
+            "name": "K\u0131r\u015fehir Merkez",
+            "full_name": "K\u0131r\u015fehir Merkez, K\u0131r\u015fehir",
+            "country_code": "TR",
+            "country": "Turkey",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.6844679,
+                            38.8024402
+                        ],
+                        [
+                            34.3195315,
+                            38.8024402
+                        ],
+                        [
+                            34.3195315,
+                            39.5205081
+                        ],
+                        [
+                            33.6844679,
+                            39.5205081
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 141,
+        "favorite_count": 327,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 141,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

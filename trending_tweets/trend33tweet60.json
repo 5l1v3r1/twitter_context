@@ -1,0 +1,226 @@
+{
+    "created_at": "Sun May 03 00:43:05 +0000 2020",
+    "id": 1256746062720663552,
+    "id_str": "1256746062720663552",
+    "text": "RT @Kinksonyeodan95: Los chicos ganaron en la categor\u00eda \"Favorite Music Group\" en los #KCA2020.\nESTOY MUY ORGULLOSA DE ELLOS REALMENTE SE M\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KCA2020",
+                "indices": [
+                    86,
+                    94
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Kinksonyeodan95",
+                "name": "\u0192\u03b1\u0253\u0e40\u0253\u00b5\u2077 \u2071\u1d58 \u1da0\u1d57 \u02e2\u1d58\u1d4d\u1d43\u0e05^\u2022\ufecc\u2022^\u0e05",
+                "id": 1050560184521826304,
+                "id_str": "1050560184521826304",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1127765302102626304,
+        "id_str": "1127765302102626304",
+        "name": "\ud83d\udc9c~\ucc28\uc0ac\uc774-\ud83d\udc9c",
+        "screen_name": "Chasay_twt",
+        "location": "Mi casa_en colombia \ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4",
+        "description": "Map_Of_The_Soul_7\n100pre con @BTS_twt \n~No hay canci\u00f3n que logr\u00e9 animarme se perdi\u00f3 todo lo que soy~\nBlack swan\n\ncuent de FAN #ARMY",
+        "url": "https://t.co/4bYssnQbRx",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/4bYssnQbRx",
+                        "expanded_url": "https://co.pinterest.com/Jassay24/",
+                        "display_url": "co.pinterest.com/Jassay24/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 154,
+        "friends_count": 180,
+        "listed_count": 3,
+        "created_at": "Mon May 13 02:39:35 +0000 2019",
+        "favourites_count": 6285,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4083,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254114893600641025/fEgvA0eS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254114893600641025/fEgvA0eS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127765302102626304/1585869391",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:32:58 +0000 2020",
+        "id": 1256743516946006016,
+        "id_str": "1256743516946006016",
+        "text": "Los chicos ganaron en la categor\u00eda \"Favorite Music Group\" en los #KCA2020.\nESTOY MUY ORGULLOSA DE ELLOS REALMENTE S\u2026 https://t.co/PqGJOpI2yi",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KCA2020",
+                    "indices": [
+                        65,
+                        73
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PqGJOpI2yi",
+                    "expanded_url": "https://twitter.com/i/web/status/1256743516946006016",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1050560184521826304,
+            "id_str": "1050560184521826304",
+            "name": "\u0192\u03b1\u0253\u0e40\u0253\u00b5\u2077 \u2071\u1d58 \u1da0\u1d57 \u02e2\u1d58\u1d4d\u1d43\u0e05^\u2022\ufecc\u2022^\u0e05",
+            "screen_name": "Kinksonyeodan95",
+            "location": "En alguna parte de este mundo",
+            "description": "\u1da0\u1d43\u207f \u1d43\u1d9c\u1d9c \u1d52\u1d577 #BTS \n\u1d5b\u1d43\u1d50\u1d52\u02e2 \u1d43 \u02e2\u1d49\u1d4d\u1d58\u2071\u02b3\u207f\u1d52\u02e2 \n\u207f\u1d52 \u1d57\u1d49\u207f\u1d4d\u1d43\u02e2 \u1d50\u2071\u1d49\u1d48\u1d52 \u1d49\u207f \u1d48\u1d43\u02b3\u1d50\u1d49 \u1da0\u1d52\u02e1\u02e1\u1d52\u02b7 \u02e2\u1d52\u02b8 \u1d47\u1d58\u1d49\u207f\u1d43 \u1d56\u1d49\u02b3\u02e2\u1d52\u207f\u1d43 \u02b8 \u1d57\u1d49 \u1d48\u1d43\u02b3\u1d49\u0301 \u1d50\u1d58\u1d9c\u02b0\u1d52 \u1d43\u1d50\u1d52\u02b3 \ud83e\udd7a\ud83d\udc9c",
+            "url": "https://t.co/w8xhFUpoiz",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/w8xhFUpoiz",
+                            "expanded_url": "http://tetefm.com",
+                            "display_url": "tetefm.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3131,
+            "friends_count": 3323,
+            "listed_count": 13,
+            "created_at": "Fri Oct 12 01:34:01 +0000 2018",
+            "favourites_count": 83512,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13613,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253711226867191809/Uf265Hkx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253711226867191809/Uf265Hkx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1050560184521826304/1587743023",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

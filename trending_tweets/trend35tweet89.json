@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:41:05 +0000 2020",
+    "id": 1256745562558382081,
+    "id_str": "1256745562558382081",
+    "text": "RT @rawbeancoal: I\u2019m a Covidiot\n #TheTitleOfTrumpsMemoir https://t.co/WDxRwoUIEz",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    33,
+                    56
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rawbeancoal",
+                "name": "Robyn \ud83e\udd40\ud83d\udda4",
+                "id": 954951897449820160,
+                "id_str": "954951897449820160",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256674914737590272,
+                "id_str": "1256674914737590272",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCbLUMUEAAucOu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCbLUMUEAAucOu.jpg",
+                "url": "https://t.co/WDxRwoUIEz",
+                "display_url": "pic.twitter.com/WDxRwoUIEz",
+                "expanded_url": "https://twitter.com/rawbeancoal/status/1256674921561780224/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256674921561780224,
+                "source_status_id_str": "1256674921561780224",
+                "source_user_id": 954951897449820160,
+                "source_user_id_str": "954951897449820160"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256674914737590272,
+                "id_str": "1256674914737590272",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCbLUMUEAAucOu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCbLUMUEAAucOu.jpg",
+                "url": "https://t.co/WDxRwoUIEz",
+                "display_url": "pic.twitter.com/WDxRwoUIEz",
+                "expanded_url": "https://twitter.com/rawbeancoal/status/1256674921561780224/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256674921561780224,
+                "source_status_id_str": "1256674921561780224",
+                "source_user_id": 954951897449820160,
+                "source_user_id_str": "954951897449820160"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 839773831,
+        "id_str": "839773831",
+        "name": "You May Be Right \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0fFBR",
+        "screen_name": "JustLucky7",
+        "location": "",
+        "description": "I pledge allegiance to the Flag of The United States of America & to the Republic 4 which it stands, 1 Nation under God Indivisible w Liberty & Justice 4 ALL",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3945,
+        "friends_count": 4843,
+        "listed_count": 1,
+        "created_at": "Sat Sep 22 13:37:32 +0000 2012",
+        "favourites_count": 40482,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30959,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1033733319173832704/-RDzgenG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033733319173832704/-RDzgenG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/839773831/1545933122",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:00:23 +0000 2020",
+        "id": 1256674921561780224,
+        "id_str": "1256674921561780224",
+        "text": "I\u2019m a Covidiot\n #TheTitleOfTrumpsMemoir https://t.co/WDxRwoUIEz",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        16,
+                        39
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256674914737590272,
+                    "id_str": "1256674914737590272",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCbLUMUEAAucOu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCbLUMUEAAucOu.jpg",
+                    "url": "https://t.co/WDxRwoUIEz",
+                    "display_url": "pic.twitter.com/WDxRwoUIEz",
+                    "expanded_url": "https://twitter.com/rawbeancoal/status/1256674921561780224/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256674914737590272,
+                    "id_str": "1256674914737590272",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCbLUMUEAAucOu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCbLUMUEAAucOu.jpg",
+                    "url": "https://t.co/WDxRwoUIEz",
+                    "display_url": "pic.twitter.com/WDxRwoUIEz",
+                    "expanded_url": "https://twitter.com/rawbeancoal/status/1256674921561780224/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 954951897449820160,
+            "id_str": "954951897449820160",
+            "name": "Robyn \ud83e\udd40\ud83d\udda4",
+            "screen_name": "rawbeancoal",
+            "location": "California, USA",
+            "description": "#Hashtagger Also: @rawbeanagain #SFGiants #DubNation Nerd \u2022 Sass Master \u2022 Music #ssdgm ~stop acting so small. you are the universe in ecstatic motion~",
+            "url": "https://t.co/y5pUgDers5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/y5pUgDers5",
+                            "expanded_url": "https://twitter.com/search?q=from%3Arawbeancoal%20-filter%3Areplies&",
+                            "display_url": "twitter.com/search?q=from%\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5455,
+            "friends_count": 3274,
+            "listed_count": 19,
+            "created_at": "Sun Jan 21 05:40:49 +0000 2018",
+            "favourites_count": 58713,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 42443,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1210297869166510080/X6AZkWHk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210297869166510080/X6AZkWHk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/954951897449820160/1577392483",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 88,
+        "favorite_count": 444,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 88,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

@@ -1,0 +1,120 @@
+{
+    "created_at": "Sun May 03 00:34:00 +0000 2020",
+    "id": 1256743778020278272,
+    "id_str": "1256743778020278272",
+    "text": "\u3080\u304f\u307f\u306e\u6b63\u4f53\u306f\u5e7c\u5973\u3002\u8ab0\u304c\u306a\u3093\u3068\u8a00\u304a\u3046\u3068\u5e7c\u5973\u3002\n#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c #shindanmaker\nhttps://t.co/bi11Kd9YlQ",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    23,
+                    36
+                ]
+            },
+            {
+                "text": "shindanmaker",
+                "indices": [
+                    37,
+                    50
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/bi11Kd9YlQ",
+                "expanded_url": "https://shindanmaker.com/984766",
+                "display_url": "shindanmaker.com/984766",
+                "indices": [
+                    51,
+                    74
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 395225830,
+        "id_str": "395225830",
+        "name": "\u3080\u304f\u307f a.k.a. \u864e\u7a74",
+        "screen_name": "sweetrubbish",
+        "location": "\u3057\u308b\u3053\u30b5\u30f3\u30c9",
+        "description": "\u5e74\u7532\u6590\u3082\u306a\u3044\u5973\u3002\u6d41\u4f53\u7d75\u753b\u8005\u3002\u30dc\u30c7\u30a3\u30d4\u30a2\u30b9\u3002\u30b9\u30ab\u30ea\u30d5\u30a3\u30b1\u30fc\u30b7\u30e7\u30f3\u3002\u523a\u9752\u3002\u653e\u4efb\u4e3b\u7fa9\u306e\u89aa\u30d0\u30ab\u3002\u30ab\u30ea\u30ad\u30f3\u98fc\u3044\u3002\u6a4b\u672c\u75c5\u3002Polypterus / \u7c60\u76ee\u7dad\u65b0 / \u8d64\u6bdb\u3055\u307e /TURTLE ISLAND / \u5c11\u5e74(\u3057\u3087\u30fc\u3084) / \u871c\u8272\u91d1\u9b5a\u3002",
+        "url": "https://t.co/zUzWaCB0eh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zUzWaCB0eh",
+                        "expanded_url": "https://Instagram.com/xmukumix",
+                        "display_url": "Instagram.com/xmukumix",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 373,
+        "friends_count": 662,
+        "listed_count": 4,
+        "created_at": "Fri Oct 21 10:20:44 +0000 2011",
+        "favourites_count": 31172,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20085,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217769329497800705/-TnoaxRg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217769329497800705/-TnoaxRg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/395225830/1571719760",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

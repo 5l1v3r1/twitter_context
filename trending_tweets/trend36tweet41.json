@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:42:08 +0000 2020",
+    "id": 1256745823225950208,
+    "id_str": "1256745823225950208",
+    "text": "RT @Eymen_034: Bir Deniz Baykal kadar olamad\u0131n\u0131z!\n\n-Adam rezil oldu\n-Koltu\u011fundan oldu\n-Sa\u011fl\u0131\u011f\u0131ndan oldu..\n\nAma davas\u0131ndan vazge\u00e7medi partis\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Eymen_034",
+                "name": "DEVLET YANLISI \ud83c\uddf9\ud83c\uddf7",
+                "id": 322587111,
+                "id_str": "322587111",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2842920831,
+        "id_str": "2842920831",
+        "name": "Hasan",
+        "screen_name": "hasantimucin",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 21,
+        "friends_count": 59,
+        "listed_count": 0,
+        "created_at": "Fri Oct 24 22:17:53 +0000 2014",
+        "favourites_count": 86,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 460,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641616025549713409/38QnGy-G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641616025549713409/38QnGy-G_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:57:05 +0000 2020",
+        "id": 1256719386221727745,
+        "id_str": "1256719386221727745",
+        "text": "Bir Deniz Baykal kadar olamad\u0131n\u0131z!\n\n-Adam rezil oldu\n-Koltu\u011fundan oldu\n-Sa\u011fl\u0131\u011f\u0131ndan oldu..\n\nAma davas\u0131ndan vazge\u00e7me\u2026 https://t.co/P7BSYLxvf8",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/P7BSYLxvf8",
+                    "expanded_url": "https://twitter.com/i/web/status/1256719386221727745",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 322587111,
+            "id_str": "322587111",
+            "name": "DEVLET YANLISI \ud83c\uddf9\ud83c\uddf7",
+            "screen_name": "Eymen_034",
+            "location": "",
+            "description": "CUMHURBA\u015eKANI KORUYUCUSU \ud83c\uddf9\ud83c\uddf7  Okunsun diye de\u011fil de dokunsun diye yazd\u0131\u011f\u0131m yaz\u0131lar oldu\u011fu do\u011frudur! /\\ Bug\u00fcne De\u011fil K\u0131smet Bi Sonraki Hayat\u0131mda GEL",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 58379,
+            "friends_count": 18612,
+            "listed_count": 37,
+            "created_at": "Thu Jun 23 12:25:51 +0000 2011",
+            "favourites_count": 58565,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2618,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "59BEE4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1235321508165279744/8bYBucYb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235321508165279744/8bYBucYb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/322587111/1586674300",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "191F22",
+            "profile_text_color": "4BB7DF",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 112,
+        "favorite_count": 520,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 112,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

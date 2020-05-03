@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:42:48 +0000 2020",
+    "id": 1256745993162424321,
+    "id_str": "1256745993162424321",
+    "text": "RT @mylingarinhell: Helini kaybettik\nMustafay\u0131 kaybettik\n\u0130brahimi ya\u015fatal\u0131m. 320 g\u00fcnd\u00fcr \u00f6l\u00fcm orucunda. #SesiDuy\u0130brahimYA\u015eASIN",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                "indices": [
+                    103,
+                    125
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mylingarinhell",
+                "name": "bet\u00fcl",
+                "id": 1120115901834104833,
+                "id_str": "1120115901834104833",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 936471530,
+        "id_str": "936471530",
+        "name": "adam",
+        "screen_name": "ademsentrk",
+        "location": "",
+        "description": "insansever",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 523,
+        "friends_count": 984,
+        "listed_count": 4,
+        "created_at": "Fri Nov 09 09:10:56 +0000 2012",
+        "favourites_count": 8089,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 104469,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2881352614/679dcc37c09f4c9a1c27b22d817cac4f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2881352614/679dcc37c09f4c9a1c27b22d817cac4f_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/936471530/1353588245",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:28:52 +0000 2020",
+        "id": 1256636791777566721,
+        "id_str": "1256636791777566721",
+        "text": "Helini kaybettik\nMustafay\u0131 kaybettik\n\u0130brahimi ya\u015fatal\u0131m. 320 g\u00fcnd\u00fcr \u00f6l\u00fcm orucunda. #SesiDuy\u0130brahimYA\u015eASIN",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                    "indices": [
+                        83,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1120115901834104833,
+            "id_str": "1120115901834104833",
+            "name": "bet\u00fcl",
+            "screen_name": "mylingarinhell",
+            "location": "",
+            "description": "dtcf psikoloji",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 70,
+            "friends_count": 227,
+            "listed_count": 0,
+            "created_at": "Mon Apr 22 00:03:36 +0000 2019",
+            "favourites_count": 3071,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 465,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253088141180833795/bo2-p_Ij_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253088141180833795/bo2-p_Ij_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120115901834104833/1584825867",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 385,
+        "favorite_count": 1356,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 385,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

@@ -1,0 +1,224 @@
+{
+    "created_at": "Sun May 03 00:42:05 +0000 2020",
+    "id": 1256745813025275904,
+    "id_str": "1256745813025275904",
+    "text": "RT @karak525: Hey @DanTehanWannon we love @DanielAndrewsMP and feel 100% support for his leadership! There is a plan - Term 2 is learning f\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "karak525",
+                "name": "Kara Keys",
+                "id": 586256522,
+                "id_str": "586256522",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "DanTehanWannon",
+                "name": "Dan Tehan",
+                "id": 139052672,
+                "id_str": "139052672",
+                "indices": [
+                    18,
+                    33
+                ]
+            },
+            {
+                "screen_name": "DanielAndrewsMP",
+                "name": "Dan Andrews",
+                "id": 228535666,
+                "id_str": "228535666",
+                "indices": [
+                    42,
+                    58
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3834645913,
+        "id_str": "3834645913",
+        "name": "Sir Alex",
+        "screen_name": "sir_alex52",
+        "location": "Adelaide, South Australia",
+        "description": "Lending Officer/Unionist/Lutheran/Soccer Coach/Musician/Director of Food, Sports, Transport & Entertainment (aka Dad). @australianlabor #ProudToBeUnion",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 297,
+        "friends_count": 3031,
+        "listed_count": 1,
+        "created_at": "Fri Oct 09 08:45:42 +0000 2015",
+        "favourites_count": 20621,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16360,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251144720291467265/HqJZkfEp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251144720291467265/HqJZkfEp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3834645913/1587552412",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:28:48 +0000 2020",
+        "id": 1256727370590912513,
+        "id_str": "1256727370590912513",
+        "text": "Hey @DanTehanWannon we love @DanielAndrewsMP and feel 100% support for his leadership! There is a plan - Term 2 is\u2026 https://t.co/jaXKgjyDfw",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DanTehanWannon",
+                    "name": "Dan Tehan",
+                    "id": 139052672,
+                    "id_str": "139052672",
+                    "indices": [
+                        4,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "DanielAndrewsMP",
+                    "name": "Dan Andrews",
+                    "id": 228535666,
+                    "id_str": "228535666",
+                    "indices": [
+                        28,
+                        44
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/jaXKgjyDfw",
+                    "expanded_url": "https://twitter.com/i/web/status/1256727370590912513",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 586256522,
+            "id_str": "586256522",
+            "name": "Kara Keys",
+            "screen_name": "karak525",
+            "location": "",
+            "description": "Mum, Unionist, Aboriginal Activist. opinions are my own.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1305,
+            "friends_count": 1609,
+            "listed_count": 12,
+            "created_at": "Mon May 21 04:55:05 +0000 2012",
+            "favourites_count": 8204,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2788,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/431569826167799808/ld65_wzv_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/431569826167799808/ld65_wzv_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/586256522/1353454684",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

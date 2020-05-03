@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:31:11 +0000 2020",
+    "id": 1256743068415426562,
+    "id_str": "1256743068415426562",
+    "text": "RT @tommoinfo: #WALLSOLYMPICS\n\nTantos pa\u00edses subindo a tag e poxa....nenhum Brasil! Voc\u00eas est\u00e3o \u00f3timos, mas n\u00f3s precisamos tentar entrar co\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "WALLSOLYMPICS",
+                "indices": [
+                    15,
+                    29
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tommoinfo",
+                "name": "Tomlinson Info Brasil",
+                "id": 943219893834604549,
+                "id_str": "943219893834604549",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1171070396617170946,
+        "id_str": "1171070396617170946",
+        "name": "anna \u00e9 TiA da malikinha",
+        "screen_name": "28tohome",
+        "location": "Princess Park",
+        "description": "\ud83c\udf39but daddy i love him\ud83c\udf39\n.\n.\nwonder what they would think if they could see Larry now\n.\n.\nfan account",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 425,
+        "friends_count": 655,
+        "listed_count": 1,
+        "created_at": "Mon Sep 09 14:38:44 +0000 2019",
+        "favourites_count": 19912,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16691,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255629043510239233/2Poe7GMk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255629043510239233/2Poe7GMk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171070396617170946/1587009846",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:10:07 +0000 2020",
+        "id": 1256722666402299907,
+        "id_str": "1256722666402299907",
+        "text": "#WALLSOLYMPICS\n\nTantos pa\u00edses subindo a tag e poxa....nenhum Brasil! Voc\u00eas est\u00e3o \u00f3timos, mas n\u00f3s precisamos tentar\u2026 https://t.co/v98vB0L9eu",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WALLSOLYMPICS",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/v98vB0L9eu",
+                    "expanded_url": "https://twitter.com/i/web/status/1256722666402299907",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 943219893834604549,
+            "id_str": "943219893834604549",
+            "name": "Tomlinson Info Brasil",
+            "screen_name": "tommoinfo",
+            "location": "tommoinfo@gmail.com",
+            "description": "Portal de informa\u00e7\u00f5es sobre o cantor, compositor, empres\u00e1rio e filantropo Louis Tomlinson! Ou\u00e7a \u201cWalls\u201d nas plataformas digitais. | m\u00eddias em @midiastibr.",
+            "url": "https://t.co/J1mSEH2jLQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/J1mSEH2jLQ",
+                            "expanded_url": "https://www.louis-tomlinson.com/",
+                            "display_url": "louis-tomlinson.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4845,
+            "friends_count": 134,
+            "listed_count": 38,
+            "created_at": "Tue Dec 19 20:42:01 +0000 2017",
+            "favourites_count": 7852,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13470,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255943581182898177/b05Fr6Cr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255943581182898177/b05Fr6Cr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/943219893834604549/1588274917",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:47 +0000 2020",
+    "id": 1256745987089092608,
+    "id_str": "1256745987089092608",
+    "text": "Como esse Amoedo \u00e9 rid\u00edculo. Mesma ladainha que j\u00e1 era velha na \u00e9poca da Thatcher. \n\n#CiroNaGloboNews",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    85,
+                    101
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 31489026,
+        "id_str": "31489026",
+        "name": "Alex Jar\u00e9m, ficando em casa \ud83d\ude37\ud83c\udfe0\ud83c\udf39\ud83c\udff4",
+        "screen_name": "alexjarem",
+        "location": "Rio de Janeiro, Brazil",
+        "description": "Lose yourself to dance. Old school punk nerd geek raver GenXer. Middle finger 4all. Writer (Guerras do Tarot), music producer (Chip Totec), editor (Hyperpulp).",
+        "url": "https://t.co/3lzqels9qa",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/3lzqels9qa",
+                        "expanded_url": "http://www.alexmandarino.com",
+                        "display_url": "alexmandarino.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 608,
+        "friends_count": 768,
+        "listed_count": 31,
+        "created_at": "Wed Apr 15 19:16:34 +0000 2009",
+        "favourites_count": 19884,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11729,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "030203",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240070275762401281/f73phJYF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240070275762401281/f73phJYF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31489026/1584137562",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "84158A",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

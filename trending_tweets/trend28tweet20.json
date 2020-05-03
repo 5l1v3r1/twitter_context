@@ -1,0 +1,304 @@
+{
+    "created_at": "Sun May 03 00:42:51 +0000 2020",
+    "id": 1256746005644505088,
+    "id_str": "1256746005644505088",
+    "text": "RT @garth_yearwood: #KCA2020 #IAmGettingSoTiredOf #FreeCandace #mysticmessenger #MostRequestedLive #GarthBrooks #TrishaYearwood #BobbyBones\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KCA2020",
+                "indices": [
+                    20,
+                    28
+                ]
+            },
+            {
+                "text": "IAmGettingSoTiredOf",
+                "indices": [
+                    29,
+                    49
+                ]
+            },
+            {
+                "text": "FreeCandace",
+                "indices": [
+                    50,
+                    62
+                ]
+            },
+            {
+                "text": "mysticmessenger",
+                "indices": [
+                    63,
+                    79
+                ]
+            },
+            {
+                "text": "MostRequestedLive",
+                "indices": [
+                    80,
+                    98
+                ]
+            },
+            {
+                "text": "GarthBrooks",
+                "indices": [
+                    99,
+                    111
+                ]
+            },
+            {
+                "text": "TrishaYearwood",
+                "indices": [
+                    112,
+                    127
+                ]
+            },
+            {
+                "text": "BobbyBones",
+                "indices": [
+                    128,
+                    139
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "garth_yearwood",
+                "name": "Garth Brooks, Trisha Yearwood, Live Stream",
+                "id": 1221161937742057472,
+                "id_str": "1221161937742057472",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1124201246779375616,
+        "id_str": "1124201246779375616",
+        "name": "NFL Draft 2020 Live Stream",
+        "screen_name": "draft_stream",
+        "location": "USA",
+        "description": "#NFL\n#NFLDraft\n#NFLDraftMock\n#NFLDraftMock2020\n#NFLDraft2020\n#NFLDraft\n#mockdraft\n#mockdraft2020live\n#mockdraft2020\n#ABC\n#ESPN\n#NFLNetwork\n#cbstvchanel",
+        "url": "https://t.co/ZvC0LcBmIc",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZvC0LcBmIc",
+                        "expanded_url": "https://livestreamhd.online/2020-nfl-draft/",
+                        "display_url": "livestreamhd.online/2020-nfl-draft/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 749,
+        "friends_count": 260,
+        "listed_count": 0,
+        "created_at": "Fri May 03 06:37:18 +0000 2019",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253322054071271427/PoKJR7mD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253322054071271427/PoKJR7mD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124201246779375616/1587650242",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:36:31 +0000 2020",
+        "id": 1256744411657977856,
+        "id_str": "1256744411657977856",
+        "text": "#KCA2020 #IAmGettingSoTiredOf #FreeCandace #mysticmessenger #MostRequestedLive #GarthBrooks #TrishaYearwood\u2026 https://t.co/bn4MU52OFQ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KCA2020",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "text": "IAmGettingSoTiredOf",
+                    "indices": [
+                        9,
+                        29
+                    ]
+                },
+                {
+                    "text": "FreeCandace",
+                    "indices": [
+                        30,
+                        42
+                    ]
+                },
+                {
+                    "text": "mysticmessenger",
+                    "indices": [
+                        43,
+                        59
+                    ]
+                },
+                {
+                    "text": "MostRequestedLive",
+                    "indices": [
+                        60,
+                        78
+                    ]
+                },
+                {
+                    "text": "GarthBrooks",
+                    "indices": [
+                        79,
+                        91
+                    ]
+                },
+                {
+                    "text": "TrishaYearwood",
+                    "indices": [
+                        92,
+                        107
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/bn4MU52OFQ",
+                    "expanded_url": "https://twitter.com/i/web/status/1256744411657977856",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1221161937742057472,
+            "id_str": "1221161937742057472",
+            "name": "Garth Brooks, Trisha Yearwood, Live Stream",
+            "screen_name": "garth_yearwood",
+            "location": "USA",
+            "description": "#GarthBrooks #TrishaYearwood And Host #BobbyBones",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 0,
+            "friends_count": 0,
+            "listed_count": 0,
+            "created_at": "Sat Jan 25 20:05:19 +0000 2020",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 34,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255882526377119746/Dt2m1lVU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255882526377119746/Dt2m1lVU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221161937742057472/1588260706",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

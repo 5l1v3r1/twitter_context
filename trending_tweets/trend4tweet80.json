@@ -1,0 +1,200 @@
+{
+    "created_at": "Sun May 03 00:42:02 +0000 2020",
+    "id": 1256745799746191360,
+    "id_str": "1256745799746191360",
+    "text": "RT @azad_fenerli: Ya Fenerbah\u00e7e'li yada Fenerbah\u00e7e d\u00fc\u015fman\u0131s\u0131n, ba\u015fka se\u00e7enek yok..\n\nHay\u0131rl\u0131 Sahurlar \n\ud83e\udd32\ud83e\udd32\ud83e\udd32\ud83d\udc99\ud83d\udc9b\ud83d\udc99\n#Efsane113Yas\u0131nda \n#LaciTeam19\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113Yas\u0131nda",
+                "indices": [
+                    109,
+                    126
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "azad_fenerli",
+                "name": "\u146d\u03b1\u0455\u0455\u043d\u03b1 \u00b9\u2079\u2070\u2077 \ud83d\udc99\ud83d\udc9b\ud83d\udc99( \u0192\u03b5\u03b7\u03b5r\uff9a\u00ef \u03b1z\u03b1d )",
+                "id": 3312031360,
+                "id_str": "3312031360",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1033241240,
+        "id_str": "1033241240",
+        "name": "KADIK\u00d6Y\ud83c\udfc6\ud83c\uddf9\ud83c\uddf7\ud83d\udc9b\ud83d\udc99\ud83c\udde7\ud83c\uddea",
+        "screen_name": "KADIKY6",
+        "location": "Belgique",
+        "description": "\ud83d\udc9b\ud83d\udc99A\u015eK DEN\u0130L\u0130NCE AKLA \u00c7OCUKLARIM VE FENERBAH\u00c7E\u2019M GEL\u0130R\ud83d\udc9b\ud83d\udc99 #Laciteam1907",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 239,
+        "friends_count": 218,
+        "listed_count": 0,
+        "created_at": "Mon Dec 24 18:41:54 +0000 2012",
+        "favourites_count": 12825,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3686,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256335689991495680/p-YzMySc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256335689991495680/p-YzMySc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1033241240/1588368745",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:24:43 +0000 2020",
+        "id": 1256741443588284421,
+        "id_str": "1256741443588284421",
+        "text": "Ya Fenerbah\u00e7e'li yada Fenerbah\u00e7e d\u00fc\u015fman\u0131s\u0131n, ba\u015fka se\u00e7enek yok..\n\nHay\u0131rl\u0131 Sahurlar \n\ud83e\udd32\ud83e\udd32\ud83e\udd32\ud83d\udc99\ud83d\udc9b\ud83d\udc99\n#Efsane113Yas\u0131nda\u2026 https://t.co/PcKZ8g7e4q",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Efsane113Yas\u0131nda",
+                    "indices": [
+                        91,
+                        108
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PcKZ8g7e4q",
+                    "expanded_url": "https://twitter.com/i/web/status/1256741443588284421",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        110,
+                        133
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3312031360,
+            "id_str": "3312031360",
+            "name": "\u146d\u03b1\u0455\u0455\u043d\u03b1 \u00b9\u2079\u2070\u2077 \ud83d\udc99\ud83d\udc9b\ud83d\udc99( \u0192\u03b5\u03b7\u03b5r\uff9a\u00ef \u03b1z\u03b1d )",
+            "screen_name": "azad_fenerli",
+            "location": "Amsterdam",
+            "description": "\ud83d\udc99\ud83d\udc9b\ud83d\udc99Fenerbah\u00e7e'li degilsen uzak dur,,!!  \n\ud83d\udc99\ud83d\udc9b\ud83d\udc99 Takip etmeyen asla takip edilmez..   \n \ud83d\udc99\ud83d\udc9b\ud83d\udc99RT Yapmam Onaylad\u0131\u011f\u0131m Anlam\u0131na Gelmez!\n\ud83d\udc99\ud83d\udc9b\ud83d\udc99 #LaciTeam1907",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8655,
+            "friends_count": 7267,
+            "listed_count": 8,
+            "created_at": "Sun Jun 07 15:05:53 +0000 2015",
+            "favourites_count": 46361,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 19799,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246964513351643138/xmiADTlu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246964513351643138/xmiADTlu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3312031360/1588158608",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 41,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

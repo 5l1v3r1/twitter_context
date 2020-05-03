@@ -1,0 +1,110 @@
+{
+    "created_at": "Sun May 03 00:42:14 +0000 2020",
+    "id": 1256745850908352512,
+    "id_str": "1256745850908352512",
+    "text": "@Urbanbouy01 @Ali_Zil6 Ya time to sleep\n#NBSSNL",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    40,
+                    47
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Urbanbouy01",
+                "name": "Urban Bouy",
+                "id": 1041558047552954368,
+                "id_str": "1041558047552954368",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Ali_Zil6",
+                "name": "ALI Z\ud83c\uddfa\ud83c\uddec",
+                "id": 2954353635,
+                "id_str": "2954353635",
+                "indices": [
+                    13,
+                    22
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256745046717730816,
+    "in_reply_to_status_id_str": "1256745046717730816",
+    "in_reply_to_user_id": 1041558047552954368,
+    "in_reply_to_user_id_str": "1041558047552954368",
+    "in_reply_to_screen_name": "Urbanbouy01",
+    "user": {
+        "id": 1102851806340763649,
+        "id_str": "1102851806340763649",
+        "name": "Kubwe",
+        "screen_name": "ShawnPro4",
+        "location": "Kampala, Uganda",
+        "description": "Electronics expert\ud83d\udcf7\nFootball n Music addict\u26bd\nForever and will always be a red devil\n#machestesterunited",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 55,
+        "friends_count": 80,
+        "listed_count": 0,
+        "created_at": "Tue Mar 05 08:42:15 +0000 2019",
+        "favourites_count": 3602,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 196,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229647691145261057/ACcNYVtK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229647691145261057/ACcNYVtK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1102851806340763649/1553579013",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

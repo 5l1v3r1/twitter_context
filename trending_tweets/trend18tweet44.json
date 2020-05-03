@@ -1,0 +1,226 @@
+{
+    "created_at": "Sun May 03 00:42:52 +0000 2020",
+    "id": 1256746010698592256,
+    "id_str": "1256746010698592256",
+    "text": "RT @atom_mizuishi: \u771f\u6728\u57dc\u5f79\u306e\u8fd1\u85e4\u91cc\u6c99\u3055\u3093\u306f\u3001\u306a\u3093\u3068\u30eb\u30d1\u30d1\u30c8\u306b\u3082\u51fa\u6f14\u3057\u3066\u3089\u3063\u3057\u3083\u308b\u3093\u3067\u3059\u306d\u3002\u2660\ufe0e\n\n#\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc #nitiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc",
+                "indices": [
+                    59,
+                    67
+                ]
+            },
+            {
+                "text": "nitiasa",
+                "indices": [
+                    68,
+                    76
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "atom_mizuishi",
+                "name": "\u6c34\u77f3\u4e9c\u98db\u5922",
+                "id": 2427147914,
+                "id_str": "2427147914",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 978304375050285056,
+        "id_str": "978304375050285056",
+        "name": "\u308c\u3044\u3061\ud83c\udfa9\ud83d\udea8",
+        "screen_name": "sgt_lppt",
+        "location": "\u5317",
+        "description": "\u53f2\u4e0a\u6700\u9ad8\u306eVS\u3002https://t.co/IbR8dSmx3S",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/IbR8dSmx3S",
+                        "expanded_url": "https://twpf.jp/sgt_lppt",
+                        "display_url": "twpf.jp/sgt_lppt",
+                        "indices": [
+                            8,
+                            31
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 29,
+        "friends_count": 134,
+        "listed_count": 0,
+        "created_at": "Mon Mar 26 16:15:13 +0000 2018",
+        "favourites_count": 6463,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5624,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1117779627097739265/ih9pDSd0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117779627097739265/ih9pDSd0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/978304375050285056/1532221886",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:41:40 +0000 2020",
+        "id": 1256745705734959104,
+        "id_str": "1256745705734959104",
+        "text": "\u771f\u6728\u57dc\u5f79\u306e\u8fd1\u85e4\u91cc\u6c99\u3055\u3093\u306f\u3001\u306a\u3093\u3068\u30eb\u30d1\u30d1\u30c8\u306b\u3082\u51fa\u6f14\u3057\u3066\u3089\u3063\u3057\u3083\u308b\u3093\u3067\u3059\u306d\u3002\u2660\ufe0e\n\n#\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc #nitiasa",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc",
+                    "indices": [
+                        40,
+                        48
+                    ]
+                },
+                {
+                    "text": "nitiasa",
+                    "indices": [
+                        49,
+                        57
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2427147914,
+            "id_str": "2427147914",
+            "name": "\u6c34\u77f3\u4e9c\u98db\u5922",
+            "screen_name": "atom_mizuishi",
+            "location": "\u6771\u4eac \u6e0b\u8c37\u533a",
+            "description": "1996.1.1 \u25aa\ufe0e\u300e\u9b54\u9032\u6226\u968a\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc\u300f\u30ad\u30e9\u30e1\u30a4\u30d6\u30eb\u30fc \u62bc\u5207\u6642\u96e8 \u3010\u6bce\u9031\u65e5\u66dc 9:30\u301c\u653e\u9001\u4e2d\u3011\u25fc\ufe0e\u307f\u305a\u3044\u308d\u306e\u604b\u3010\u914d\u4fe1\u4e2d\u3011\u25fe\ufe0e theater of fairytale\u300e\u9280\u6cb3\u9244\u9053\u306e\u591c\u300f\u3010\u767a\u58f2\u4e2d\u3011\u25fe\ufe0e \u6e58\u5357\u7d14\u611b\u7d44!\u3010\u914d\u4fe1\u4e2d\u3011\u25aa\ufe0e \u3042\u306a\u305f\u306e\u756a\u3067\u3059 \u25aa\ufe0e \u92fc\u306e\u932c\u91d1\u8853\u5e2b",
+            "url": "https://t.co/oHryPMw2Zm",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/oHryPMw2Zm",
+                            "expanded_url": "https://www.instagram.com/atom_mizuishi",
+                            "display_url": "instagram.com/atom_mizuishi",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33488,
+            "friends_count": 156,
+            "listed_count": 991,
+            "created_at": "Fri Apr 04 11:46:00 +0000 2014",
+            "favourites_count": 232,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1639,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EDEDED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1242756160672772097/1Yng2U-R_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242756160672772097/1Yng2U-R_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2427147914/1477208732",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 92,
+        "favorite_count": 150,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 92,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

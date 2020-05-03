@@ -1,0 +1,396 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745983582535680,
+    "id_str": "1256745983582535680",
+    "text": "RT @AineQuadriga: @nbstv @FeffebussiMusic #NBSSNL https://t.co/W2sSHIRNCc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NBSSNL",
+                "indices": [
+                    42,
+                    49
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AineQuadriga",
+                "name": "Phoney Messrs \ud83c\uddfa\ud83c\uddec",
+                "id": 1043843792825135104,
+                "id_str": "1043843792825135104",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "nbstv",
+                "name": "NBS Television",
+                "id": 344718893,
+                "id_str": "344718893",
+                "indices": [
+                    18,
+                    24
+                ]
+            },
+            {
+                "screen_name": "FeffebussiMusic",
+                "name": "Feffe Bussi Music",
+                "id": 885260692324065280,
+                "id_str": "885260692324065280",
+                "indices": [
+                    25,
+                    41
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256738184718880772,
+                "id_str": "1256738184718880772",
+                "indices": [
+                    50,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDUuHPWkAQOWTX.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDUuHPWkAQOWTX.png",
+                "url": "https://t.co/W2sSHIRNCc",
+                "display_url": "pic.twitter.com/W2sSHIRNCc",
+                "expanded_url": "https://twitter.com/AineQuadriga/status/1256738199306670083/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 188,
+                        "h": 268,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 188,
+                        "h": 268,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 188,
+                        "h": 268,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738199306670083,
+                "source_status_id_str": "1256738199306670083",
+                "source_user_id": 1043843792825135104,
+                "source_user_id_str": "1043843792825135104"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256738184718880772,
+                "id_str": "1256738184718880772",
+                "indices": [
+                    50,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDUuHPWkAQOWTX.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDUuHPWkAQOWTX.png",
+                "url": "https://t.co/W2sSHIRNCc",
+                "display_url": "pic.twitter.com/W2sSHIRNCc",
+                "expanded_url": "https://twitter.com/AineQuadriga/status/1256738199306670083/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 188,
+                        "h": 268,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 188,
+                        "h": 268,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 188,
+                        "h": 268,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256738199306670083,
+                "source_status_id_str": "1256738199306670083",
+                "source_user_id": 1043843792825135104,
+                "source_user_id_str": "1043843792825135104"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1166403568003428359,
+        "id_str": "1166403568003428359",
+        "name": "Raymond Kabiswa",
+        "screen_name": "RaymK50",
+        "location": "Bulenga Wakiso",
+        "description": "arguments, debates ,battles n competitions make my day",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 105,
+        "listed_count": 0,
+        "created_at": "Tue Aug 27 17:34:26 +0000 2019",
+        "favourites_count": 1451,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1162,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248742676767428609/S1GHU_ZV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248742676767428609/S1GHU_ZV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166403568003428359/1588367900",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:11:50 +0000 2020",
+        "id": 1256738199306670083,
+        "id_str": "1256738199306670083",
+        "text": "@nbstv @FeffebussiMusic #NBSSNL https://t.co/W2sSHIRNCc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NBSSNL",
+                    "indices": [
+                        24,
+                        31
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nbstv",
+                    "name": "NBS Television",
+                    "id": 344718893,
+                    "id_str": "344718893",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "screen_name": "FeffebussiMusic",
+                    "name": "Feffe Bussi Music",
+                    "id": 885260692324065280,
+                    "id_str": "885260692324065280",
+                    "indices": [
+                        7,
+                        23
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256738184718880772,
+                    "id_str": "1256738184718880772",
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDUuHPWkAQOWTX.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDUuHPWkAQOWTX.png",
+                    "url": "https://t.co/W2sSHIRNCc",
+                    "display_url": "pic.twitter.com/W2sSHIRNCc",
+                    "expanded_url": "https://twitter.com/AineQuadriga/status/1256738199306670083/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 188,
+                            "h": 268,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 188,
+                            "h": 268,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 188,
+                            "h": 268,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256738184718880772,
+                    "id_str": "1256738184718880772",
+                    "indices": [
+                        32,
+                        55
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDUuHPWkAQOWTX.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDUuHPWkAQOWTX.png",
+                    "url": "https://t.co/W2sSHIRNCc",
+                    "display_url": "pic.twitter.com/W2sSHIRNCc",
+                    "expanded_url": "https://twitter.com/AineQuadriga/status/1256738199306670083/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 188,
+                            "h": 268,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 188,
+                            "h": 268,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 188,
+                            "h": 268,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1256735175985299458,
+        "in_reply_to_status_id_str": "1256735175985299458",
+        "in_reply_to_user_id": 344718893,
+        "in_reply_to_user_id_str": "344718893",
+        "in_reply_to_screen_name": "nbstv",
+        "user": {
+            "id": 1043843792825135104,
+            "id_str": "1043843792825135104",
+            "name": "Phoney Messrs \ud83c\uddfa\ud83c\uddec",
+            "screen_name": "AineQuadriga",
+            "location": "",
+            "description": "Just a truth seeker and non-believer in the system",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 151,
+            "friends_count": 453,
+            "listed_count": 0,
+            "created_at": "Sun Sep 23 12:45:28 +0000 2018",
+            "favourites_count": 5878,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2286,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1088550900417744896/nxuT6mBe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088550900417744896/nxuT6mBe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1043843792825135104/1542256623",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

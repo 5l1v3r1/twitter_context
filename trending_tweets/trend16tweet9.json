@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:49 +0000 2020",
+    "id": 1256745997323177986,
+    "id_str": "1256745997323177986",
+    "text": "Sou a favor do Amoed0 dar as m\u00e3os ao Moro e afundarem juntos bonitinho\n#CiroNaGloboNews",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    71,
+                    87
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1115830303,
+        "id_str": "1115830303",
+        "name": "Clarissa \ud83d\ude9c\ud83c\udf39",
+        "screen_name": "ClarissaCotrim",
+        "location": "Belo Horizonte, Brasil",
+        "description": "Atualmente na luta para tirar o tatu do toco.",
+        "url": "https://t.co/QvswzgdADx",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/QvswzgdADx",
+                        "expanded_url": "http://lastfm.com.br/user/ClarissaCotrim",
+                        "display_url": "lastfm.com.br/user/ClarissaC\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1485,
+        "friends_count": 1013,
+        "listed_count": 5,
+        "created_at": "Thu Jan 24 02:47:41 +0000 2013",
+        "favourites_count": 18063,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5338,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075520981488332800/jMMQaitD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075520981488332800/jMMQaitD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1115830303/1545156570",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

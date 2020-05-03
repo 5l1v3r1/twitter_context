@@ -1,0 +1,388 @@
+{
+    "created_at": "Sun May 03 00:42:02 +0000 2020",
+    "id": 1256745799444283392,
+    "id_str": "1256745799444283392",
+    "text": "RT @mmpadellan: #TheTitleOfTrumpsMemoir\n\nThe Liddle'est President\nhttps://t.co/pdayrYHqsa https://t.co/r3nHBadGVX",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    16,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mmpadellan",
+                "name": "BrooklynDad_Defiant!",
+                "id": 1640929196,
+                "id_str": "1640929196",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/pdayrYHqsa",
+                "expanded_url": "https://amzn.to/3c2gUHy",
+                "display_url": "amzn.to/3c2gUHy",
+                "indices": [
+                    66,
+                    89
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1256693494669815819,
+                "id_str": "1256693494669815819",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCsEz1WsAs3ZZR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCsEz1WsAs3ZZR.jpg",
+                "url": "https://t.co/r3nHBadGVX",
+                "display_url": "pic.twitter.com/r3nHBadGVX",
+                "expanded_url": "https://twitter.com/mmpadellan/status/1256693574621712386/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 939,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 532,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1602,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256693574621712386,
+                "source_status_id_str": "1256693574621712386",
+                "source_user_id": 1640929196,
+                "source_user_id_str": "1640929196"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256693494669815819,
+                "id_str": "1256693494669815819",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCsEz1WsAs3ZZR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCsEz1WsAs3ZZR.jpg",
+                "url": "https://t.co/r3nHBadGVX",
+                "display_url": "pic.twitter.com/r3nHBadGVX",
+                "expanded_url": "https://twitter.com/mmpadellan/status/1256693574621712386/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 939,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 532,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1602,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256693574621712386,
+                "source_status_id_str": "1256693574621712386",
+                "source_user_id": 1640929196,
+                "source_user_id_str": "1640929196"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 129216415,
+        "id_str": "129216415",
+        "name": "Jacob November Is Coming Markey",
+        "screen_name": "Ebeneezer22",
+        "location": "Moosejaw, Saskatchewan",
+        "description": "and we all shine on",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 885,
+        "friends_count": 2048,
+        "listed_count": 36,
+        "created_at": "Sat Apr 03 15:11:40 +0000 2010",
+        "favourites_count": 76298,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 81357,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139314446004838400/cD5hjFsI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139314446004838400/cD5hjFsI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/129216415/1555818131",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:14:31 +0000 2020",
+        "id": 1256693574621712386,
+        "id_str": "1256693574621712386",
+        "text": "#TheTitleOfTrumpsMemoir\n\nThe Liddle'est President\nhttps://t.co/pdayrYHqsa https://t.co/r3nHBadGVX",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pdayrYHqsa",
+                    "expanded_url": "https://amzn.to/3c2gUHy",
+                    "display_url": "amzn.to/3c2gUHy",
+                    "indices": [
+                        50,
+                        73
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1256693494669815819,
+                    "id_str": "1256693494669815819",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCsEz1WsAs3ZZR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCsEz1WsAs3ZZR.jpg",
+                    "url": "https://t.co/r3nHBadGVX",
+                    "display_url": "pic.twitter.com/r3nHBadGVX",
+                    "expanded_url": "https://twitter.com/mmpadellan/status/1256693574621712386/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 939,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 532,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1602,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256693494669815819,
+                    "id_str": "1256693494669815819",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCsEz1WsAs3ZZR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCsEz1WsAs3ZZR.jpg",
+                    "url": "https://t.co/r3nHBadGVX",
+                    "display_url": "pic.twitter.com/r3nHBadGVX",
+                    "expanded_url": "https://twitter.com/mmpadellan/status/1256693574621712386/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 939,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 532,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1602,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1640929196,
+            "id_str": "1640929196",
+            "name": "BrooklynDad_Defiant!",
+            "screen_name": "mmpadellan",
+            "location": "Brooklyn, NY",
+            "description": "Proud papa. Perpetually pissed. #BlueWave2020, #Feminist. #TheResistance, #ImpeachTheMF.\n\nAuthor of The Liddle'est President, available to order on Amazon NOW.",
+            "url": "https://t.co/yQH9yUf58o",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/yQH9yUf58o",
+                            "expanded_url": "http://www.brooklyndaddefiant.com",
+                            "display_url": "brooklyndaddefiant.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 439158,
+            "friends_count": 37083,
+            "listed_count": 1807,
+            "created_at": "Fri Aug 02 17:20:38 +0000 2013",
+            "favourites_count": 182053,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 85720,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1241840930518372354/cBJW62s4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241840930518372354/cBJW62s4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640929196/1584912801",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 252,
+        "favorite_count": 911,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 252,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

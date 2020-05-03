@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun May 03 00:41:38 +0000 2020",
+    "id": 1256745697707061248,
+    "id_str": "1256745697707061248",
+    "text": "RT @wdwproud: qualquer intera\u00e7\u00e3o da liz com o thiago: a\neu: \ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\n#OSegredoNaFloresta",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    78,
+                    97
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "wdwproud",
+                "name": "elisa",
+                "id": 777980201972166656,
+                "id_str": "777980201972166656",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1017246714439389184,
+        "id_str": "1017246714439389184",
+        "name": "julie -2949293020 de sanidade",
+        "screen_name": "thirIwart",
+        "location": "\ud83e\udd0d mdh squad. lay. day.",
+        "description": "\u3164\u3164\u3164\u3164          December 26, 1992.\u20393",
+        "url": "https://t.co/Msg4jKUbxM",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Msg4jKUbxM",
+                        "expanded_url": "http://LITTLEMIX.xn--0ci",
+                        "display_url": "LITTLEMIX.\u2728",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2583,
+        "friends_count": 2393,
+        "listed_count": 26,
+        "created_at": "Thu Jul 12 03:18:11 +0000 2018",
+        "favourites_count": 59230,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 73934,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256412167169028097/2TkvOwoo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256412167169028097/2TkvOwoo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017246714439389184/1588386977",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:39:27 +0000 2020",
+        "id": 1256745148412813313,
+        "id_str": "1256745148412813313",
+        "text": "qualquer intera\u00e7\u00e3o da liz com o thiago: a\neu: \ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\n#OSegredoNaFloresta",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        64,
+                        83
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 777980201972166656,
+            "id_str": "777980201972166656",
+            "name": "elisa",
+            "screen_name": "wdwproud",
+            "location": "22/11 fan account",
+            "description": "zach herron means safe place",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1115,
+            "friends_count": 1298,
+            "listed_count": 16,
+            "created_at": "Mon Sep 19 21:18:29 +0000 2016",
+            "favourites_count": 23909,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15445,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256295388895739906/uHmjHfXQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256295388895739906/uHmjHfXQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/777980201972166656/1588359135",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,186 @@
+{
+    "created_at": "Sun May 03 00:41:59 +0000 2020",
+    "id": 1256745785645051906,
+    "id_str": "1256745785645051906",
+    "text": "RT @Kalarigamerchic: Got to wonder how many of us had \"murder hornets\" on our apocalypse bingo cards?",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Kalarigamerchic",
+                "name": "Tynisa the Cynical Gen X Witch Walker",
+                "id": 125505919,
+                "id_str": "125505919",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 37769574,
+        "id_str": "37769574",
+        "name": "\ud83e\udd8bBrianna \ud83e\udd8b",
+        "screen_name": "raininblack",
+        "location": "Pittsburgh, PA",
+        "description": "Politics fan, podcast lover, tired person. I'm here for the jokes and sadness.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2394,
+        "friends_count": 2155,
+        "listed_count": 99,
+        "created_at": "Mon May 04 21:49:27 +0000 2009",
+        "favourites_count": 269625,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 172556,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "090A0A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1041751593710968836/e4n6M0zq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041751593710968836/e4n6M0zq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37769574/1509512822",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:25:21 +0000 2020",
+        "id": 1256726503125024768,
+        "id_str": "1256726503125024768",
+        "text": "Got to wonder how many of us had \"murder hornets\" on our apocalypse bingo cards?",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 125505919,
+            "id_str": "125505919",
+            "name": "Tynisa the Cynical Gen X Witch Walker",
+            "screen_name": "Kalarigamerchic",
+            "location": "Saginaw Michigan",
+            "description": "My Compassion for Humanity is in Conflict with my Hatred of Dumb Asses! #Equality *Follow at Your Own Risk!*\n#Schizoaffective Writer\nClinton Mafia Don. \n#KHive",
+            "url": "https://t.co/aa554DogY5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/aa554DogY5",
+                            "expanded_url": "https://anchor.fm/thesocialawarenightmare",
+                            "display_url": "anchor.fm/thesocialaware\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16176,
+            "friends_count": 9343,
+            "listed_count": 118,
+            "created_at": "Tue Mar 23 01:04:53 +0000 2010",
+            "favourites_count": 281470,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 66494,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D78EEC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1207341241228247046/QjEOsenX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207341241228247046/QjEOsenX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/125505919/1584644983",
+            "profile_link_color": "A4A8C1",
+            "profile_sidebar_border_color": "DCE4F6",
+            "profile_sidebar_fill_color": "94F6C1",
+            "profile_text_color": "96C3AC",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 48,
+        "favorite_count": 335,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 48,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

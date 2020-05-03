@@ -1,0 +1,110 @@
+{
+    "created_at": "Sun May 03 00:41:28 +0000 2020",
+    "id": 1256745657932623874,
+    "id_str": "1256745657932623874",
+    "text": "#noahschnappisoverparty nao to passando pano cassete, primeiramente qe ele(@noah_schnapp)nao fez nada de errado a n\u2026 https://t.co/uzC9Vfk3D0",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "noahschnappisoverparty",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "noah_schnapp",
+                "name": "Noah Schnapp",
+                "id": 754860209877688320,
+                "id_str": "754860209877688320",
+                "indices": [
+                    75,
+                    88
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/uzC9Vfk3D0",
+                "expanded_url": "https://twitter.com/i/web/status/1256745657932623874",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1252721893637046273,
+        "id_str": "1252721893637046273",
+        "name": "\uff21\uff4e\uff41// \uff53\uff54\uff52\uff41\uff4e\uff47\uff45\uff52",
+        "screen_name": "EK85bpghmkS2Yqi",
+        "location": "",
+        "description": "f\u03b1\u0438f\u03b9q\u03c5\u0454\u03b9\u044f\u03b1, \u0438\u03c3\u03b1\u043d \u0455\u0442\u03b1\u0438 q\u0454 \u044f\u0454\u0455\u03c1\u0454\u03b9\u0442\u03b1 \u03b1 \u0442\u03c3\u2202\u03c3\u0455 \u0454 \u029d\u03b1 f\u03c3\u03b9 \u0438\u03c3\u0442\u03b1\u2202\u03b1 \u03c1\u0454\u2113\u03c3 \u0438\u03c3\u03b1\u043d\n\n\u24e6\u24d4\u24db\u24d2\u24de\u24dc\u24d4 \u24e3\u24de \u24d7\u24d4\u24db\u24db",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 21,
+        "listed_count": 0,
+        "created_at": "Tue Apr 21 22:12:38 +0000 2020",
+        "favourites_count": 38,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255993009805635597/tzK565Mn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255993009805635597/tzK565Mn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252721893637046273/1587507471",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,232 @@
+{
+    "created_at": "Sun May 03 00:42:58 +0000 2020",
+    "id": 1256746035994599427,
+    "id_str": "1256746035994599427",
+    "text": "Vamos nos permitir \ud83c\udfb6\n#LiveLulu https://t.co/jxfD2gwzgx",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    21,
+                    30
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745981992931328,
+                "id_str": "1256745981992931328",
+                "indices": [
+                    31,
+                    54
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745981992931328/pu/img/gBDtn8o4XxXimZ-A.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745981992931328/pu/img/gBDtn8o4XxXimZ-A.jpg",
+                "url": "https://t.co/jxfD2gwzgx",
+                "display_url": "pic.twitter.com/jxfD2gwzgx",
+                "expanded_url": "https://twitter.com/jhef_ferds/status/1256746035994599427/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745981992931328,
+                "id_str": "1256745981992931328",
+                "indices": [
+                    31,
+                    54
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745981992931328/pu/img/gBDtn8o4XxXimZ-A.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745981992931328/pu/img/gBDtn8o4XxXimZ-A.jpg",
+                "url": "https://t.co/jxfD2gwzgx",
+                "display_url": "pic.twitter.com/jxfD2gwzgx",
+                "expanded_url": "https://twitter.com/jhef_ferds/status/1256746035994599427/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 14415,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745981992931328/pu/vid/360x640/2gWI_1hkR3PK58Cb.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745981992931328/pu/pl/lgMop8945T2agIV6.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745981992931328/pu/vid/320x568/8Z5wKsYmyyuDiwgG.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745981992931328/pu/vid/720x1280/RtZNCJC836VYKRh4.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3297794921,
+        "id_str": "3297794921",
+        "name": "Jheff",
+        "screen_name": "jhef_ferds",
+        "location": "Maca\u00e9, Rio de Janeiro",
+        "description": "...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 69,
+        "friends_count": 60,
+        "listed_count": 0,
+        "created_at": "Mon May 25 13:28:30 +0000 2015",
+        "favourites_count": 116,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 147,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1069695303681536001/_R7WPNGK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069695303681536001/_R7WPNGK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3297794921/1543870210",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "45c65c8164b49308",
+        "url": "https://api.twitter.com/1.1/geo/id/45c65c8164b49308.json",
+        "place_type": "city",
+        "name": "Gramado",
+        "full_name": "Gramado, Brasil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -51.000323,
+                        -29.5005992
+                    ],
+                    [
+                        -50.8011218,
+                        -29.5005992
+                    ],
+                    [
+                        -50.8011218,
+                        -29.2833646
+                    ],
+                    [
+                        -51.000323,
+                        -29.2833646
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

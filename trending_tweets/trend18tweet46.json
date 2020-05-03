@@ -1,0 +1,430 @@
+{
+    "created_at": "Sun May 03 00:42:52 +0000 2020",
+    "id": 1256746010241425408,
+    "id_str": "1256746010241425408",
+    "text": "RT @Story_terrorV2: \u5168\u54e1\u8077\u3092\u5931\u3063\u3066\u308b\u3068\u3044\u3046 #nitiasa https://t.co/PVs59fRxGi",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    32,
+                    40
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Story_terrorV2",
+                "name": "\u3059\u3066\u3089\uff08\u96f7\u65cf\uff09",
+                "id": 241455279,
+                "id_str": "241455279",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256742396215222272,
+                "id_str": "1256742396215222272",
+                "indices": [
+                    41,
+                    64
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDYjQSU4AASwXP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDYjQSU4AASwXP.jpg",
+                "url": "https://t.co/PVs59fRxGi",
+                "display_url": "pic.twitter.com/PVs59fRxGi",
+                "expanded_url": "https://twitter.com/Story_terrorV2/status/1256742401261006849/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256742401261006849,
+                "source_status_id_str": "1256742401261006849",
+                "source_user_id": 241455279,
+                "source_user_id_str": "241455279"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256742396215222272,
+                "id_str": "1256742396215222272",
+                "indices": [
+                    41,
+                    64
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDYjQSU4AASwXP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDYjQSU4AASwXP.jpg",
+                "url": "https://t.co/PVs59fRxGi",
+                "display_url": "pic.twitter.com/PVs59fRxGi",
+                "expanded_url": "https://twitter.com/Story_terrorV2/status/1256742401261006849/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256742401261006849,
+                "source_status_id_str": "1256742401261006849",
+                "source_user_id": 241455279,
+                "source_user_id_str": "241455279"
+            },
+            {
+                "id": 1256742398694064129,
+                "id_str": "1256742398694064129",
+                "indices": [
+                    41,
+                    64
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDYjZhVAAEegqE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDYjZhVAAEegqE.jpg",
+                "url": "https://t.co/PVs59fRxGi",
+                "display_url": "pic.twitter.com/PVs59fRxGi",
+                "expanded_url": "https://twitter.com/Story_terrorV2/status/1256742401261006849/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256742401261006849,
+                "source_status_id_str": "1256742401261006849",
+                "source_user_id": 241455279,
+                "source_user_id_str": "241455279"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 727301643339882496,
+        "id_str": "727301643339882496",
+        "name": "\u4f50\u3005\u6728\u793c\u58eb\u90ce",
+        "screen_name": "11ad070",
+        "location": "\u65e5\u672c",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 402,
+        "friends_count": 2259,
+        "listed_count": 3,
+        "created_at": "Tue May 03 00:59:59 +0000 2016",
+        "favourites_count": 55609,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 62196,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/729481390048223233/BEBan0nG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/729481390048223233/BEBan0nG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/727301643339882496/1462761156",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:28:32 +0000 2020",
+        "id": 1256742401261006849,
+        "id_str": "1256742401261006849",
+        "text": "\u5168\u54e1\u8077\u3092\u5931\u3063\u3066\u308b\u3068\u3044\u3046 #nitiasa https://t.co/PVs59fRxGi",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nitiasa",
+                    "indices": [
+                        12,
+                        20
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256742396215222272,
+                    "id_str": "1256742396215222272",
+                    "indices": [
+                        21,
+                        44
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDYjQSU4AASwXP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDYjQSU4AASwXP.jpg",
+                    "url": "https://t.co/PVs59fRxGi",
+                    "display_url": "pic.twitter.com/PVs59fRxGi",
+                    "expanded_url": "https://twitter.com/Story_terrorV2/status/1256742401261006849/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256742396215222272,
+                    "id_str": "1256742396215222272",
+                    "indices": [
+                        21,
+                        44
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDYjQSU4AASwXP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDYjQSU4AASwXP.jpg",
+                    "url": "https://t.co/PVs59fRxGi",
+                    "display_url": "pic.twitter.com/PVs59fRxGi",
+                    "expanded_url": "https://twitter.com/Story_terrorV2/status/1256742401261006849/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256742398694064129,
+                    "id_str": "1256742398694064129",
+                    "indices": [
+                        21,
+                        44
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDYjZhVAAEegqE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDYjZhVAAEegqE.jpg",
+                    "url": "https://t.co/PVs59fRxGi",
+                    "display_url": "pic.twitter.com/PVs59fRxGi",
+                    "expanded_url": "https://twitter.com/Story_terrorV2/status/1256742401261006849/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://sites.google.com/site/tweentwitterclient/\" rel=\"nofollow\">Tween</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 241455279,
+            "id_str": "241455279",
+            "name": "\u3059\u3066\u3089\uff08\u96f7\u65cf\uff09",
+            "screen_name": "Story_terrorV2",
+            "location": "\u30a2\u30c9\u30d9\u30f3\u30c8\u7a7a\u9593",
+            "description": "\ud83d\ude2a",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 23195,
+            "friends_count": 485,
+            "listed_count": 599,
+            "created_at": "Sat Jan 22 08:49:27 +0000 2011",
+            "favourites_count": 22635,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 212784,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFC7FF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1866592920/6419633_s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1866592920/6419633_s_normal.jpg",
+            "profile_link_color": "990000",
+            "profile_sidebar_border_color": "FA0A0A",
+            "profile_sidebar_fill_color": "E1FF00",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 321,
+        "favorite_count": 295,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 321,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

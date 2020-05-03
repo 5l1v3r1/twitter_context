@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:43:08 +0000 2020",
+    "id": 1256746076314402817,
+    "id_str": "1256746076314402817",
+    "text": "RT @LeoManjak: #TodoscontraLamentiraM\n\nNo nos olvidamos de OA de Laurita y los negocios con los peajes.... https://t.co/FwY8arnAGT",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TodoscontraLamentiraM",
+                "indices": [
+                    15,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LeoManjak",
+                "name": "Leo Manjak",
+                "id": 192331341,
+                "id_str": "192331341",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256737873921007618,
+                "id_str": "1256737873921007618",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDUcBbXYAIjMTY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDUcBbXYAIjMTY.jpg",
+                "url": "https://t.co/FwY8arnAGT",
+                "display_url": "pic.twitter.com/FwY8arnAGT",
+                "expanded_url": "https://twitter.com/LeoManjak/status/1256737893705486338/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 293,
+                        "h": 172,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 293,
+                        "h": 172,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 293,
+                        "h": 172,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256737893705486338,
+                "source_status_id_str": "1256737893705486338",
+                "source_user_id": 192331341,
+                "source_user_id_str": "192331341"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256737873921007618,
+                "id_str": "1256737873921007618",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDUcBbXYAIjMTY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDUcBbXYAIjMTY.jpg",
+                "url": "https://t.co/FwY8arnAGT",
+                "display_url": "pic.twitter.com/FwY8arnAGT",
+                "expanded_url": "https://twitter.com/LeoManjak/status/1256737893705486338/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 293,
+                        "h": 172,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 293,
+                        "h": 172,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 293,
+                        "h": 172,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256737893705486338,
+                "source_status_id_str": "1256737893705486338",
+                "source_user_id": 192331341,
+                "source_user_id_str": "192331341"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1955336053,
+        "id_str": "1955336053",
+        "name": "LA DERECHA ES EL PEOR VIRUS",
+        "screen_name": "terko2013",
+        "location": "Villa Constitucion, Santa Fe",
+        "description": "Chorituitero.\n\"No fueron los 70 a\u00f1os de peronismo sino los 120 de olirgarqu\u00eda\"",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9524,
+        "friends_count": 9544,
+        "listed_count": 41,
+        "created_at": "Fri Oct 11 23:39:35 +0000 2013",
+        "favourites_count": 93023,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 259866,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204259214228643840/63PrAHy__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204259214228643840/63PrAHy__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955336053/1486659610",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:10:37 +0000 2020",
+        "id": 1256737893705486338,
+        "id_str": "1256737893705486338",
+        "text": "#TodoscontraLamentiraM\n\nNo nos olvidamos de OA de Laurita y los negocios con los peajes.... https://t.co/FwY8arnAGT",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodoscontraLamentiraM",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256737873921007618,
+                    "id_str": "1256737873921007618",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDUcBbXYAIjMTY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDUcBbXYAIjMTY.jpg",
+                    "url": "https://t.co/FwY8arnAGT",
+                    "display_url": "pic.twitter.com/FwY8arnAGT",
+                    "expanded_url": "https://twitter.com/LeoManjak/status/1256737893705486338/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 293,
+                            "h": 172,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 293,
+                            "h": 172,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 293,
+                            "h": 172,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256737873921007618,
+                    "id_str": "1256737873921007618",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDUcBbXYAIjMTY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDUcBbXYAIjMTY.jpg",
+                    "url": "https://t.co/FwY8arnAGT",
+                    "display_url": "pic.twitter.com/FwY8arnAGT",
+                    "expanded_url": "https://twitter.com/LeoManjak/status/1256737893705486338/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 293,
+                            "h": 172,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 293,
+                            "h": 172,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 293,
+                            "h": 172,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 192331341,
+            "id_str": "192331341",
+            "name": "Leo Manjak",
+            "screen_name": "LeoManjak",
+            "location": "Buenos Aires, Argentina Face: ",
+            "description": "Proyecto Nacional y Popular. Lugano. \u270c\ufe0f\ud83d\udc9a Tod\ud83c\udf1es\nInstag: LeoManjak",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7298,
+            "friends_count": 7135,
+            "listed_count": 4,
+            "created_at": "Sat Sep 18 20:55:56 +0000 2010",
+            "favourites_count": 108058,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 36200,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248582346539806720/OjY39Y6n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248582346539806720/OjY39Y6n_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/192331341/1491830954",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

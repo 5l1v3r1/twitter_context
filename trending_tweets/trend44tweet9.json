@@ -1,0 +1,220 @@
+{
+    "created_at": "Sun May 03 00:42:26 +0000 2020",
+    "id": 1256745898773581828,
+    "id_str": "1256745898773581828",
+    "text": "UNA BULLA PA @ElderDiaz01 \ud83d\ude4c\ud83c\udffc\ud83c\udf7a\ud83c\udfb6\ud83e\udde1 @CervezaAguila #\u00c1guilaEnVivo \ud83d\ude0d https://t.co/eRSCyOwcAN",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u00c1guilaEnVivo",
+                "indices": [
+                    47,
+                    60
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElderDiaz01",
+                "name": "Elder Dayan",
+                "id": 182488284,
+                "id_str": "182488284",
+                "indices": [
+                    13,
+                    25
+                ]
+            },
+            {
+                "screen_name": "CervezaAguila",
+                "name": "Cerveza Aguila",
+                "id": 95684520,
+                "id_str": "95684520",
+                "indices": [
+                    32,
+                    46
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745031949520896,
+                "id_str": "1256745031949520896",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745031949520896/pu/img/z7Qg_lr55bYLh6iE.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745031949520896/pu/img/z7Qg_lr55bYLh6iE.jpg",
+                "url": "https://t.co/eRSCyOwcAN",
+                "display_url": "pic.twitter.com/eRSCyOwcAN",
+                "expanded_url": "https://twitter.com/LaArrebato/status/1256745898773581828/video/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1230,
+                        "h": 710,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 693,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 393,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745031949520896,
+                "id_str": "1256745031949520896",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256745031949520896/pu/img/z7Qg_lr55bYLh6iE.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256745031949520896/pu/img/z7Qg_lr55bYLh6iE.jpg",
+                "url": "https://t.co/eRSCyOwcAN",
+                "display_url": "pic.twitter.com/eRSCyOwcAN",
+                "expanded_url": "https://twitter.com/LaArrebato/status/1256745898773581828/video/1",
+                "type": "video",
+                "sizes": {
+                    "large": {
+                        "w": 1230,
+                        "h": 710,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 693,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 393,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        123,
+                        71
+                    ],
+                    "duration_millis": 113833,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745031949520896/pu/pl/YdQ5pEN1w2jsG_PT.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745031949520896/pu/vid/466x270/TEiAxKzpwExBZ3bZ.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745031949520896/pu/vid/622x360/iAKJYvwxNRpF_UzW.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256745031949520896/pu/vid/1230x710/_GU5MhYRo_pykVEw.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1340036322,
+        "id_str": "1340036322",
+        "name": "Una tal Amparo",
+        "screen_name": "LaArrebato",
+        "location": "",
+        "description": "B/quillera que baila arrebatao. Eschabet\u00e1. Animalista pero no loca. Sin m\u00fasica no soy na. Soy pobre y vivo lejos. No soy perra, pero muerdo. \u00a1No me jodan! \ud83e\udde1",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6137,
+        "friends_count": 1235,
+        "listed_count": 7,
+        "created_at": "Tue Apr 09 19:50:54 +0000 2013",
+        "favourites_count": 38060,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 42703,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "050C0F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246243923720355840/gw5cgaBG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246243923720355840/gw5cgaBG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340036322/1449102871",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

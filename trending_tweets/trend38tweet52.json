@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:41:04 +0000 2020",
+    "id": 1256745556141051905,
+    "id_str": "1256745556141051905",
+    "text": "Y\u2019all canceling him for being a good person \ud83d\udc80 BITCH BYE #noahschnappisoverparty",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "noahschnappisoverparty",
+                "indices": [
+                    56,
+                    79
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1231752357106659328,
+        "id_str": "1231752357106659328",
+        "name": "\ud835\udce1\ud835\udcea\ud835\udcee\u2077 \u00b3\u2070 (nsfr)",
+        "screen_name": "taelovesgii",
+        "location": "she/her | black & white| USA ",
+        "description": "#\ubc29\ud0c4\uc18c\ub144\ub2e8; \ud835\udcb4\ud835\udc5c\ud835\udcca \ud835\udcbd\ud835\udcb6\ud835\udccb\ud835\udc52 \ud835\udcc2\ud835\udcce \ud835\udcbd\ud835\udc52\ud835\udcb6\ud835\udcc7\ud835\udcc9\u2661 \u2082\u2081 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 backup : @jungoominnie \ud835\udd10\ud835\udd32\ud835\udd29\ud835\udd31\ud835\udd26 \ud835\udd30\ud835\udd31\ud835\udd1e\ud835\udd2b",
+        "url": "https://t.co/e3tR69G2ZC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/e3tR69G2ZC",
+                        "expanded_url": "http://OT7.co",
+                        "display_url": "OT7.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4211,
+        "friends_count": 4184,
+        "listed_count": 15,
+        "created_at": "Mon Feb 24 01:27:11 +0000 2020",
+        "favourites_count": 5734,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2878,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249403054560088071/f-hm7l6w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249403054560088071/f-hm7l6w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231752357106659328/1586715749",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

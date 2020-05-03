@@ -1,0 +1,130 @@
+{
+    "created_at": "Sun May 03 00:38:33 +0000 2020",
+    "id": 1256744924256432129,
+    "id_str": "1256744924256432129",
+    "text": "\u3053\u3046\u3044\u3046\u6642\u3053\u305dZAIA\u30b9\u30da\u30c3\u30af\u306e\u51fa\u756a\u3001\u304b\u3068\u601d\u3063\u305f\u3051\u3069\n\n\u666e\u901a\u306b\u30ab\u30f3\u30cb\u30f3\u30b0\u304b\n#nichiasa #nitiasa #SHT #tvasahi #\u9b54\u9032\u6226\u968a\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc #kirameiger #\u30ad\u30e9\u30e1\u30a4",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nichiasa",
+                "indices": [
+                    38,
+                    47
+                ]
+            },
+            {
+                "text": "nitiasa",
+                "indices": [
+                    48,
+                    56
+                ]
+            },
+            {
+                "text": "SHT",
+                "indices": [
+                    57,
+                    61
+                ]
+            },
+            {
+                "text": "tvasahi",
+                "indices": [
+                    62,
+                    70
+                ]
+            },
+            {
+                "text": "\u9b54\u9032\u6226\u968a\u30ad\u30e9\u30e1\u30a4\u30b8\u30e3\u30fc",
+                "indices": [
+                    71,
+                    83
+                ]
+            },
+            {
+                "text": "kirameiger",
+                "indices": [
+                    84,
+                    95
+                ]
+            },
+            {
+                "text": "\u30ad\u30e9\u30e1\u30a4",
+                "indices": [
+                    96,
+                    101
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 963227430,
+        "id_str": "963227430",
+        "name": "Gussan_1213",
+        "screen_name": "Gussan_1213",
+        "location": "\u5343\u8449\u770c",
+        "description": "\u3069\u3046\u305e\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 319,
+        "friends_count": 1280,
+        "listed_count": 3,
+        "created_at": "Wed Nov 21 22:55:33 +0000 2012",
+        "favourites_count": 486,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 66737,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

@@ -1,0 +1,114 @@
+{
+    "created_at": "Sun May 03 00:36:38 +0000 2020",
+    "id": 1256744439168618497,
+    "id_str": "1256744439168618497",
+    "text": "Gino e Geno, Maria Cec\u00edlia e Rodolfo e Xandy Avi\u00e3o. Qual live eu assisto Deus ?",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 985650688024875008,
+        "id_str": "985650688024875008",
+        "name": "Priscilla Pereira",
+        "screen_name": "mvpripereira",
+        "location": "Campo Grande, Brasil",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 33,
+        "friends_count": 120,
+        "listed_count": 0,
+        "created_at": "Sun Apr 15 22:46:51 +0000 2018",
+        "favourites_count": 1137,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1077,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068006636554469377/O8nCBjXy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068006636554469377/O8nCBjXy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985650688024875008/1543467608",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "e60cc1f72c303272",
+        "url": "https://api.twitter.com/1.1/geo/id/e60cc1f72c303272.json",
+        "place_type": "city",
+        "name": "Salvador",
+        "full_name": "Salvador, Brazil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -38.700244,
+                        -13.02679
+                    ],
+                    [
+                        -38.305051,
+                        -13.02679
+                    ],
+                    [
+                        -38.305051,
+                        -12.723879
+                    ],
+                    [
+                        -38.700244,
+                        -12.723879
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

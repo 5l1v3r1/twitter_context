@@ -1,0 +1,365 @@
+{
+    "created_at": "Sun May 03 00:41:32 +0000 2020",
+    "id": 1256745675057819648,
+    "id_str": "1256745675057819648",
+    "text": "RT @MarvelShots_: Avengers: Age of Ultron https://t.co/cPciBwTV1w",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MarvelShots_",
+                "name": "Marvel Shots \ud83d\udcf8",
+                "id": 1255502221023891464,
+                "id_str": "1255502221023891464",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256731890461138946,
+                "id_str": "1256731890461138946",
+                "indices": [
+                    42,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDO_vTXYAIXgkL.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDO_vTXYAIXgkL.jpg",
+                "url": "https://t.co/cPciBwTV1w",
+                "display_url": "pic.twitter.com/cPciBwTV1w",
+                "expanded_url": "https://twitter.com/MarvelShots_/status/1256731960279543809/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 286,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 924,
+                        "h": 388,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 924,
+                        "h": 388,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256731960279543809,
+                "source_status_id_str": "1256731960279543809",
+                "source_user_id": 1255502221023891464,
+                "source_user_id_str": "1255502221023891464"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256731890461138946,
+                "id_str": "1256731890461138946",
+                "indices": [
+                    42,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDO_vTXYAIXgkL.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDO_vTXYAIXgkL.jpg",
+                "url": "https://t.co/cPciBwTV1w",
+                "display_url": "pic.twitter.com/cPciBwTV1w",
+                "expanded_url": "https://twitter.com/MarvelShots_/status/1256731960279543809/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 286,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 924,
+                        "h": 388,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 924,
+                        "h": 388,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256731960279543809,
+                "source_status_id_str": "1256731960279543809",
+                "source_user_id": 1255502221023891464,
+                "source_user_id_str": "1255502221023891464",
+                "video_info": {
+                    "aspect_ratio": [
+                        231,
+                        97
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDO_vTXYAIXgkL.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1079202264,
+        "id_str": "1079202264",
+        "name": "Dixon",
+        "screen_name": "rsmguevarra",
+        "location": "Luci \u2665",
+        "description": "MCU / DCEU",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1159,
+        "friends_count": 1461,
+        "listed_count": 3,
+        "created_at": "Fri Jan 11 10:29:08 +0000 2013",
+        "favourites_count": 72494,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29036,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255340942569111553/8Tl1GpFE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255340942569111553/8Tl1GpFE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079202264/1586791693",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:47:02 +0000 2020",
+        "id": 1256731960279543809,
+        "id_str": "1256731960279543809",
+        "text": "Avengers: Age of Ultron https://t.co/cPciBwTV1w",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256731890461138946,
+                    "id_str": "1256731890461138946",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDO_vTXYAIXgkL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDO_vTXYAIXgkL.jpg",
+                    "url": "https://t.co/cPciBwTV1w",
+                    "display_url": "pic.twitter.com/cPciBwTV1w",
+                    "expanded_url": "https://twitter.com/MarvelShots_/status/1256731960279543809/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 286,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 924,
+                            "h": 388,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 924,
+                            "h": 388,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256731890461138946,
+                    "id_str": "1256731890461138946",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDO_vTXYAIXgkL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDO_vTXYAIXgkL.jpg",
+                    "url": "https://t.co/cPciBwTV1w",
+                    "display_url": "pic.twitter.com/cPciBwTV1w",
+                    "expanded_url": "https://twitter.com/MarvelShots_/status/1256731960279543809/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 286,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 924,
+                            "h": 388,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 924,
+                            "h": 388,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            231,
+                            97
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXDO_vTXYAIXgkL.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1255502221023891464,
+            "id_str": "1255502221023891464",
+            "name": "Marvel Shots \ud83d\udcf8",
+            "screen_name": "MarvelShots_",
+            "location": "",
+            "description": "Account dedicated to my favourite Marvel shots #Marvel #MCU #Netflix\n\nProfile pic by Matthew Woodson",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 362,
+            "friends_count": 17,
+            "listed_count": 0,
+            "created_at": "Wed Apr 29 14:20:38 +0000 2020",
+            "favourites_count": 24,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255506778902667267/hRC6IxQ2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255506778902667267/hRC6IxQ2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255502221023891464/1588171099",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 52,
+        "favorite_count": 327,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 52,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

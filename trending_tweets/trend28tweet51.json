@@ -1,0 +1,133 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745922077184005,
+    "id_str": "1256745922077184005",
+    "text": "\ud83d\udd2eARMY let's show our power today! We want to hear #ON by BTS on #MostRequestedLive @MostRequestLive \n #BTS Feat.@Sia\ud83d\udc97\n\ud83d\udc99SUGA\ud83d\udc99\n\n@BTS_twt",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ON",
+                "indices": [
+                    50,
+                    53
+                ]
+            },
+            {
+                "text": "MostRequestedLive",
+                "indices": [
+                    64,
+                    82
+                ]
+            },
+            {
+                "text": "BTS",
+                "indices": [
+                    102,
+                    106
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MostRequestLive",
+                "name": "Most Requested Live",
+                "id": 108775893,
+                "id_str": "108775893",
+                "indices": [
+                    83,
+                    99
+                ]
+            },
+            {
+                "screen_name": "Sia",
+                "name": "sia",
+                "id": 23497233,
+                "id_str": "23497233",
+                "indices": [
+                    112,
+                    116
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    126,
+                    134
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1058717129652891648,
+        "id_str": "1058717129652891648",
+        "name": "\ud83c\udf40\uc2a4\uc717\uc2a4\uc6fbjim3\ud83c\udf40",
+        "screen_name": "sweetsweatjim3",
+        "location": "",
+        "description": "BTS fan account\n\ubcf8\uacc4: @juicy_sammy (\uc2a4\uc717\uc2a4\uc6fbjim)\n\ud23d/\ucd1d\uacf5/\ub9ac\ud018\uc6a9",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 26,
+        "friends_count": 32,
+        "listed_count": 0,
+        "created_at": "Sat Nov 03 13:46:48 +0000 2018",
+        "favourites_count": 63,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1643,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1058717618113208321/Psw2pZaf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058717618113208321/Psw2pZaf_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

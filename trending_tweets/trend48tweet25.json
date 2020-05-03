@@ -1,0 +1,201 @@
+{
+    "created_at": "Sun May 03 00:41:15 +0000 2020",
+    "id": 1256745601976410114,
+    "id_str": "1256745601976410114",
+    "text": "RT @serafinipsol: Ser\u00e1 que Amoedo termina esse debate dizendo que n\u00e3o apertou 17 no segundo turno? #Edicao20",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Edicao20",
+                "indices": [
+                    99,
+                    108
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "serafinipsol",
+                "name": "Flavio Serafini",
+                "id": 168155564,
+                "id_str": "168155564",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 80896638,
+        "id_str": "80896638",
+        "name": "Marcos Kalil",
+        "screen_name": "marcoskalil",
+        "location": "Rio de Janeiro, Brasil",
+        "description": "Mestre e Doutorando em Semi\u00f3tica. Advogado de Direitos Humanos. Jornalista.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 477,
+        "friends_count": 943,
+        "listed_count": 13,
+        "created_at": "Thu Oct 08 17:24:53 +0000 2009",
+        "favourites_count": 23989,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17467,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186470424865058821/lr-THFAc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186470424865058821/lr-THFAc_normal.jpg",
+        "profile_link_color": "4E6666",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "5FB358",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:14:56 +0000 2020",
+        "id": 1256738981296947203,
+        "id_str": "1256738981296947203",
+        "text": "Ser\u00e1 que Amoedo termina esse debate dizendo que n\u00e3o apertou 17 no segundo turno? #Edicao20",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Edicao20",
+                    "indices": [
+                        81,
+                        90
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 168155564,
+            "id_str": "168155564",
+            "name": "Flavio Serafini",
+            "screen_name": "serafinipsol",
+            "location": "Niter\u00f3i, Rio de Janeiro",
+            "description": "Morador, nascido e criado em Niter\u00f3i.\nSoci\u00f3logo e Professor da FIOCRUZ. Estou Deputado Estadual pelo PSOL e presido a Comiss\u00e3o de Educa\u00e7\u00e3o da ALERJ.",
+            "url": "https://t.co/9qRA2NgQES",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9qRA2NgQES",
+                            "expanded_url": "http://www.flavioserafini.com.br",
+                            "display_url": "flavioserafini.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12847,
+            "friends_count": 1016,
+            "listed_count": 86,
+            "created_at": "Sun Jul 18 15:07:53 +0000 2010",
+            "favourites_count": 3267,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 8138,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253300825599946753/nC04t7Sa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253300825599946753/nC04t7Sa_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/168155564/1584484078",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

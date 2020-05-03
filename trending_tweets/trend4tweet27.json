@@ -1,0 +1,491 @@
+{
+    "created_at": "Sun May 03 00:42:28 +0000 2020",
+    "id": 1256745907464409088,
+    "id_str": "1256745907464409088",
+    "text": "RT @isaerdvnn: #Efsane113Yas\u0131nda \ud83d\udc9b\ud83d\udc99 https://t.co/JcXNEatCJ4",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113Yas\u0131nda",
+                "indices": [
+                    15,
+                    32
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "isaerdvnn",
+                "name": "\u0130\ud835\udcfc\ud835\udcea \ud835\udcd4\ud835\udcfb\ud835\udced\ud835\udcfe\ud835\udcff\ud835\udcea\ud835\udcf7",
+                "id": 1241766172535783426,
+                "id_str": "1241766172535783426",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256725285820665861,
+                "id_str": "1256725285820665861",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256725285820665861/pu/img/kF6mYMMsS67HtVYX.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256725285820665861/pu/img/kF6mYMMsS67HtVYX.jpg",
+                "url": "https://t.co/JcXNEatCJ4",
+                "display_url": "pic.twitter.com/JcXNEatCJ4",
+                "expanded_url": "https://twitter.com/isaerdvnn/status/1256725486048366593/video/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1152,
+                        "h": 648,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1152,
+                        "h": 648,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256725486048366593,
+                "source_status_id_str": "1256725486048366593",
+                "source_user_id": 1241766172535783426,
+                "source_user_id_str": "1241766172535783426"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256725285820665861,
+                "id_str": "1256725285820665861",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256725285820665861/pu/img/kF6mYMMsS67HtVYX.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256725285820665861/pu/img/kF6mYMMsS67HtVYX.jpg",
+                "url": "https://t.co/JcXNEatCJ4",
+                "display_url": "pic.twitter.com/JcXNEatCJ4",
+                "expanded_url": "https://twitter.com/isaerdvnn/status/1256725486048366593/video/1",
+                "type": "video",
+                "sizes": {
+                    "large": {
+                        "w": 1152,
+                        "h": 648,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1152,
+                        "h": 648,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256725486048366593,
+                "source_status_id_str": "1256725486048366593",
+                "source_user_id": 1241766172535783426,
+                "source_user_id_str": "1241766172535783426",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 71767,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256725285820665861/pu/pl/IqvKAUznkIFI2wHm.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256725285820665861/pu/vid/480x270/Py-dVyzBOFUuBFs3.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256725285820665861/pu/vid/640x360/ZhJyqPksOhT48o2Y.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256725285820665861/pu/vid/1152x648/8oIL2593PBZG7zqh.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1241766172535783426,
+                        "id_str": "1241766172535783426",
+                        "name": "\u0130\ud835\udcfc\ud835\udcea \ud835\udcd4\ud835\udcfb\ud835\udced\ud835\udcfe\ud835\udcff\ud835\udcea\ud835\udcf7",
+                        "screen_name": "isaerdvnn",
+                        "location": "Ordu, T\u00fcrkiye",
+                        "description": "od\u00fc |",
+                        "url": "https://t.co/JxrSQxHso9",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/JxrSQxHso9",
+                                        "expanded_url": "http://instagram.com/isaerdvnn",
+                                        "display_url": "instagram.com/isaerdvnn",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 849,
+                        "friends_count": 837,
+                        "listed_count": 2,
+                        "created_at": "Sun Mar 22 16:38:34 +0000 2020",
+                        "favourites_count": 5970,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 752,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1253012794246643718/IG2S1O9d_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253012794246643718/IG2S1O9d_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241766172535783426/1588372791",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1145731668520701952,
+        "id_str": "1145731668520701952",
+        "name": "MURAT LAC\u0130 \ud83d\udd2e\ud83c\udf96",
+        "screen_name": "Murat_laci",
+        "location": "21",
+        "description": "Girmeden tefrika bir millete, d\u00fc\u015fman giremez toplu vurduk\u00e7a y\u00fcrekler, onu top sindiremez \ud83c\uddf9\ud83c\uddf7 \ud83c\uddf9\ud83c\uddf7 \nFENERBAH\u00c7E \ud83d\udc9b \ud83d\udc99",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5021,
+        "friends_count": 4780,
+        "listed_count": 1,
+        "created_at": "Mon Jul 01 16:31:31 +0000 2019",
+        "favourites_count": 17274,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 696,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232123124294049793/HA1C6eIE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232123124294049793/HA1C6eIE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145731668520701952/1563311819",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:21:19 +0000 2020",
+        "id": 1256725486048366593,
+        "id_str": "1256725486048366593",
+        "text": "#Efsane113Yas\u0131nda \ud83d\udc9b\ud83d\udc99 https://t.co/JcXNEatCJ4",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Efsane113Yas\u0131nda",
+                    "indices": [
+                        0,
+                        17
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256725285820665861,
+                    "id_str": "1256725285820665861",
+                    "indices": [
+                        21,
+                        44
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256725285820665861/pu/img/kF6mYMMsS67HtVYX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256725285820665861/pu/img/kF6mYMMsS67HtVYX.jpg",
+                    "url": "https://t.co/JcXNEatCJ4",
+                    "display_url": "pic.twitter.com/JcXNEatCJ4",
+                    "expanded_url": "https://twitter.com/isaerdvnn/status/1256725486048366593/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1152,
+                            "h": 648,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1152,
+                            "h": 648,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256725285820665861,
+                    "id_str": "1256725285820665861",
+                    "indices": [
+                        21,
+                        44
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256725285820665861/pu/img/kF6mYMMsS67HtVYX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256725285820665861/pu/img/kF6mYMMsS67HtVYX.jpg",
+                    "url": "https://t.co/JcXNEatCJ4",
+                    "display_url": "pic.twitter.com/JcXNEatCJ4",
+                    "expanded_url": "https://twitter.com/isaerdvnn/status/1256725486048366593/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "large": {
+                            "w": 1152,
+                            "h": 648,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1152,
+                            "h": 648,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 71767,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256725285820665861/pu/pl/IqvKAUznkIFI2wHm.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256725285820665861/pu/vid/480x270/Py-dVyzBOFUuBFs3.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256725285820665861/pu/vid/640x360/ZhJyqPksOhT48o2Y.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256725285820665861/pu/vid/1152x648/8oIL2593PBZG7zqh.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1241766172535783426,
+            "id_str": "1241766172535783426",
+            "name": "\u0130\ud835\udcfc\ud835\udcea \ud835\udcd4\ud835\udcfb\ud835\udced\ud835\udcfe\ud835\udcff\ud835\udcea\ud835\udcf7",
+            "screen_name": "isaerdvnn",
+            "location": "Ordu, T\u00fcrkiye",
+            "description": "od\u00fc |",
+            "url": "https://t.co/JxrSQxHso9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JxrSQxHso9",
+                            "expanded_url": "http://instagram.com/isaerdvnn",
+                            "display_url": "instagram.com/isaerdvnn",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 849,
+            "friends_count": 837,
+            "listed_count": 2,
+            "created_at": "Sun Mar 22 16:38:34 +0000 2020",
+            "favourites_count": 5970,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 752,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253012794246643718/IG2S1O9d_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253012794246643718/IG2S1O9d_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241766172535783426/1588372791",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

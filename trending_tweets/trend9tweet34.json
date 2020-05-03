@@ -1,0 +1,194 @@
+{
+    "created_at": "Sun May 03 00:42:42 +0000 2020",
+    "id": 1256745968021778432,
+    "id_str": "1256745968021778432",
+    "text": "RT @Priortagonist1: @FelipePrioroFC Boca Juniors\n\nTE AMAMOS FELIPE PRIOR",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Priortagonist1",
+                "name": "ThePrior \ud83c\udf7a",
+                "id": 1240861643850088448,
+                "id_str": "1240861643850088448",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "FelipePrioroFC",
+                "name": "Felipe Prior FC\ud83c\udf7a\ud83e\uddd9\u200d\u2642\ufe0f",
+                "id": 1230300024585760770,
+                "id_str": "1230300024585760770",
+                "indices": [
+                    20,
+                    35
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 820505811709526016,
+        "id_str": "820505811709526016",
+        "name": "L\u00edvia F. Formozo \ud83d\ude4f\ud83c\udffb\ud83d\udd4a\u270c\ud83c\udffb\ud83c\udf7a\ud83d\udc26",
+        "screen_name": "liviaformozo",
+        "location": "Brasil",
+        "description": "Ga\u00facha. \nA alegria de fazer o bem \u00e9 a \u00fanica felicidade verdadeira. - Leon Tolst\u00f3i\n#PrioNation\n#Xavante\n#Corinthians \n#Paz",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 805,
+        "friends_count": 222,
+        "listed_count": 0,
+        "created_at": "Sun Jan 15 05:40:04 +0000 2017",
+        "favourites_count": 338370,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 54238,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245323605040418816/AFcMueKJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245323605040418816/AFcMueKJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820505811709526016/1585939087",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:32:51 +0000 2020",
+        "id": 1256743488693121029,
+        "id_str": "1256743488693121029",
+        "text": "@FelipePrioroFC Boca Juniors\n\nTE AMAMOS FELIPE PRIOR",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FelipePrioroFC",
+                    "name": "Felipe Prior FC\ud83c\udf7a\ud83e\uddd9\u200d\u2642\ufe0f",
+                    "id": 1230300024585760770,
+                    "id_str": "1230300024585760770",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1256742104228941826,
+        "in_reply_to_status_id_str": "1256742104228941826",
+        "in_reply_to_user_id": 1230300024585760770,
+        "in_reply_to_user_id_str": "1230300024585760770",
+        "in_reply_to_screen_name": "FelipePrioroFC",
+        "user": {
+            "id": 1240861643850088448,
+            "id_str": "1240861643850088448",
+            "name": "ThePrior \ud83c\udf7a",
+            "screen_name": "Priortagonist1",
+            "location": "Aqui",
+            "description": "\"Cad\u00ea o Alex pra fazer Photoshop\" \ud83d\ude1c\ud83d\ude1c\ud83d\ude1c",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 143,
+            "friends_count": 382,
+            "listed_count": 0,
+            "created_at": "Fri Mar 20 04:44:23 +0000 2020",
+            "favourites_count": 2538,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 732,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255512875461947392/pd0hjsjc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255512875461947392/pd0hjsjc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240861643850088448/1587160550",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

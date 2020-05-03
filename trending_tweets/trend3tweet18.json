@@ -1,0 +1,188 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745946165186560,
+    "id_str": "1256745946165186560",
+    "text": "RT @TurkKanii: T\u00fcrk olmak zordur, \u00e7\u00fcnk\u00fc D\u00fcnya ile sava\u015f\u0131rs\u0131n. T\u00fcrk olmamak daha zordur, \u00e7\u00fcnk\u00fc T\u00fcrk ile sava\u015f\u0131rs\u0131n.\n\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    116,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TurkKanii",
+                "name": "T\u00fcrk Kan\u0131",
+                "id": 2704063440,
+                "id_str": "2704063440",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 746752801800392704,
+        "id_str": "746752801800392704",
+        "name": "G\u00f6ksu K\u0131l\u0131\u00e7arslan",
+        "screen_name": "gokhzo",
+        "location": "Hogwarts",
+        "description": "Ye\u015fil sokak holiganlar\u0131ndan bozoklu T\u00dcRK m\u00fchendis",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 327,
+        "friends_count": 387,
+        "listed_count": 1,
+        "created_at": "Sat Jun 25 17:11:56 +0000 2016",
+        "favourites_count": 7759,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1776,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247924713361485825/ZLqBnehh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247924713361485825/ZLqBnehh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/746752801800392704/1498514233",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:05:59 +0000 2020",
+        "id": 1256676330562883586,
+        "id_str": "1256676330562883586",
+        "text": "T\u00fcrk olmak zordur, \u00e7\u00fcnk\u00fc D\u00fcnya ile sava\u015f\u0131rs\u0131n. T\u00fcrk olmamak daha zordur, \u00e7\u00fcnk\u00fc T\u00fcrk ile sava\u015f\u0131rs\u0131n.\n\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                    "indices": [
+                        101,
+                        121
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2704063440,
+            "id_str": "2704063440",
+            "name": "T\u00fcrk Kan\u0131",
+            "screen_name": "TurkKanii",
+            "location": "T\u00fcrkiye",
+            "description": "Damar\u0131nda var m\u0131 senin b\u00f6yle bol kan\u0131n? T\u00dcRK'\u00fcn KANI bir e\u015fidir lavl\u0131 volkan\u0131n!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 36300,
+            "friends_count": 31581,
+            "listed_count": 31,
+            "created_at": "Sun Aug 03 12:56:01 +0000 2014",
+            "favourites_count": 3136,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4562,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1019544222876172288/MhPk8m76_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019544222876172288/MhPk8m76_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 119,
+        "favorite_count": 822,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 119,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

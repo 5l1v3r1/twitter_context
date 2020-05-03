@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun May 03 00:41:52 +0000 2020",
+    "id": 1256745756297437184,
+    "id_str": "1256745756297437184",
+    "text": "#ya\u011fmur un ya\u011fmas\u0131 tesad\u00fcf bitkilerin i\u00e7indeki muazzam elektronlar\u0131n bir ama\u00e7 i\u00e7in hareket etmesi rasgele bi\u015fey\nins\u2026 https://t.co/7Hxsox0zic",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ya\u011fmur",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/7Hxsox0zic",
+                "expanded_url": "https://twitter.com/i/web/status/1256745756297437184",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1488044516,
+        "id_str": "1488044516",
+        "name": "ahmet soanci",
+        "screen_name": "AhmetSoanci",
+        "location": "",
+        "description": "\u015eimdi sen sabret. Bil ki Allah\u2019\u0131n vaadi ger\u00e7ektir. \u0130man etmeye yana\u015fmayanlar sak\u0131n seni tel\u00e2\u015fland\u0131r\u0131p yanl\u0131\u015f yapmaya sevketmesin!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1463,
+        "friends_count": 1745,
+        "listed_count": 2,
+        "created_at": "Thu Jun 06 15:39:56 +0000 2013",
+        "favourites_count": 4773,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11974,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1018061337652551682/xCVPY8lJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018061337652551682/xCVPY8lJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488044516/1493481025",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

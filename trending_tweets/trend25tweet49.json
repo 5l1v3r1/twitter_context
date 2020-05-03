@@ -1,0 +1,307 @@
+{
+    "created_at": "Sun May 03 00:42:33 +0000 2020",
+    "id": 1256745928914075653,
+    "id_str": "1256745928914075653",
+    "text": "RT @silvgarci: vergonha alheia total.. meu Deus vontade de por m\u00e1scara na cara inteira #OrePorBolsonaro",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    87,
+                    103
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "silvgarci",
+                "name": "Apatriota. HidroxicloroquinaprecoceJ\u00e1",
+                "id": 57586391,
+                "id_str": "57586391",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 55608202,
+        "id_str": "55608202",
+        "name": "Elwis Alencar",
+        "screen_name": "ElwisAlencar",
+        "location": "Embu - S\u00e3o Paulo ",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 243,
+        "friends_count": 160,
+        "listed_count": 2,
+        "created_at": "Fri Jul 10 16:51:19 +0000 2009",
+        "favourites_count": 25288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24728,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175931228933021697/OaxbpteD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175931228933021697/OaxbpteD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:36 +0000 2020",
+        "id": 1256745440046972936,
+        "id_str": "1256745440046972936",
+        "text": "vergonha alheia total.. meu Deus vontade de por m\u00e1scara na cara inteira #OrePorBolsonaro https://t.co/HroXUFzNfZ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OrePorBolsonaro",
+                    "indices": [
+                        72,
+                        88
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/HroXUFzNfZ",
+                    "expanded_url": "https://twitter.com/Rconstantino/status/1256728744015867904",
+                    "display_url": "twitter.com/Rconstantino/s\u2026",
+                    "indices": [
+                        89,
+                        112
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 57586391,
+            "id_str": "57586391",
+            "name": "Apatriota. HidroxicloroquinaprecoceJ\u00e1",
+            "screen_name": "silvgarci",
+            "location": "Sao Paulo, Brazil",
+            "description": "Mulher,prof de Yoga m\u00e3e apaixonada pelos filhos e netos,Conservadora,Crist\u00e3. ELE deixou as 99 para me e te  buscar, foi por Amor, Incondicional Amor",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 659,
+            "friends_count": 1111,
+            "listed_count": 2,
+            "created_at": "Fri Jul 17 08:03:13 +0000 2009",
+            "favourites_count": 12950,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 13510,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1239507488086646784/lkoDxbzY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239507488086646784/lkoDxbzY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57586391/1585837125",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "252C09",
+            "profile_sidebar_fill_color": "5E634A",
+            "profile_text_color": "252C09",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256728744015867904,
+        "quoted_status_id_str": "1256728744015867904",
+        "quoted_status": {
+            "created_at": "Sat May 02 23:34:16 +0000 2020",
+            "id": 1256728744015867904,
+            "id_str": "1256728744015867904",
+            "text": "O tucano prefeito de Manaus pedindo ajuda a Greta Thunberg, a pirralha hip\u00f3crita, \u00e9 a cara da decad\u00eancia esquerdist\u2026 https://t.co/roU3MtG58u",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/roU3MtG58u",
+                        "expanded_url": "https://twitter.com/i/web/status/1256728744015867904",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 33520195,
+                "id_str": "33520195",
+                "name": "Rodrigo Constantino",
+                "screen_name": "Rconstantino",
+                "location": "Weston, FL",
+                "description": "Economista, jornalista, liberal com vi\u00e9s conservador contra extremistas de todos os lados",
+                "url": "https://t.co/5d2nttb6HG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/5d2nttb6HG",
+                                "expanded_url": "https://www.gazetadopovo.com.br/rodrigo-constantino/",
+                                "display_url": "gazetadopovo.com.br/rodrigo-consta\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 361544,
+                "friends_count": 550,
+                "listed_count": 888,
+                "created_at": "Mon Apr 20 14:00:16 +0000 2009",
+                "favourites_count": 17671,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 26702,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2911557775/f8484da707de7dd36f9be70ad7e4359b_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2911557775/f8484da707de7dd36f9be70ad7e4359b_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33520195/1571765134",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 992,
+            "favorite_count": 7245,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "pt"
+        },
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256728744015867904,
+    "quoted_status_id_str": "1256728744015867904",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

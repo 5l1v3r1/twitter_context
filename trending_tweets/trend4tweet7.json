@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745948031660032,
+    "id_str": "1256745948031660032",
+    "text": "RT @mertdebruyne: Her \u015feyimiz, Fener'imiz sen \u00e7ok ya\u015fa. #Efsane113Ya\u015f\u0131nda https://t.co/OiSL7CTfMR",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Efsane113Ya\u015f\u0131nda",
+                "indices": [
+                    56,
+                    73
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mertdebruyne",
+                "name": "MERT",
+                "id": 1166470408205459457,
+                "id_str": "1166470408205459457",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256690323948011520,
+                "id_str": "1256690323948011520",
+                "indices": [
+                    74,
+                    97
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCpMP-XgAAKm61.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCpMP-XgAAKm61.jpg",
+                "url": "https://t.co/OiSL7CTfMR",
+                "display_url": "pic.twitter.com/OiSL7CTfMR",
+                "expanded_url": "https://twitter.com/mertdebruyne/status/1256690331590037510/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 582,
+                        "h": 534,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 582,
+                        "h": 534,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 582,
+                        "h": 534,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256690331590037510,
+                "source_status_id_str": "1256690331590037510",
+                "source_user_id": 1166470408205459457,
+                "source_user_id_str": "1166470408205459457"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256690323948011520,
+                "id_str": "1256690323948011520",
+                "indices": [
+                    74,
+                    97
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCpMP-XgAAKm61.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCpMP-XgAAKm61.jpg",
+                "url": "https://t.co/OiSL7CTfMR",
+                "display_url": "pic.twitter.com/OiSL7CTfMR",
+                "expanded_url": "https://twitter.com/mertdebruyne/status/1256690331590037510/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 582,
+                        "h": 534,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 582,
+                        "h": 534,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 582,
+                        "h": 534,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256690331590037510,
+                "source_status_id_str": "1256690331590037510",
+                "source_user_id": 1166470408205459457,
+                "source_user_id_str": "1166470408205459457"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1189207028599791616,
+        "id_str": "1189207028599791616",
+        "name": "Aykut Aslanba\u015f",
+        "screen_name": "AslanbasAykut",
+        "location": "",
+        "description": "Psikolojik Dan\u0131\u015fman Rehber \u00d6\u011fretmen Hep Projesi",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 179,
+        "friends_count": 211,
+        "listed_count": 0,
+        "created_at": "Tue Oct 29 15:47:13 +0000 2019",
+        "favourites_count": 1692,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 911,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205234443860021254/9VZmR1Q2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205234443860021254/9VZmR1Q2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1189207028599791616/1572513145",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:01:37 +0000 2020",
+        "id": 1256690331590037510,
+        "id_str": "1256690331590037510",
+        "text": "Her \u015feyimiz, Fener'imiz sen \u00e7ok ya\u015fa. #Efsane113Ya\u015f\u0131nda https://t.co/OiSL7CTfMR",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Efsane113Ya\u015f\u0131nda",
+                    "indices": [
+                        38,
+                        55
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256690323948011520,
+                    "id_str": "1256690323948011520",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCpMP-XgAAKm61.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCpMP-XgAAKm61.jpg",
+                    "url": "https://t.co/OiSL7CTfMR",
+                    "display_url": "pic.twitter.com/OiSL7CTfMR",
+                    "expanded_url": "https://twitter.com/mertdebruyne/status/1256690331590037510/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 582,
+                            "h": 534,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 582,
+                            "h": 534,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 582,
+                            "h": 534,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256690323948011520,
+                    "id_str": "1256690323948011520",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCpMP-XgAAKm61.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCpMP-XgAAKm61.jpg",
+                    "url": "https://t.co/OiSL7CTfMR",
+                    "display_url": "pic.twitter.com/OiSL7CTfMR",
+                    "expanded_url": "https://twitter.com/mertdebruyne/status/1256690331590037510/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 582,
+                            "h": 534,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 582,
+                            "h": 534,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 582,
+                            "h": 534,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1166470408205459457,
+            "id_str": "1166470408205459457",
+            "name": "MERT",
+            "screen_name": "mertdebruyne",
+            "location": "Mersin, T\u00fcrkiye",
+            "description": "alem-i cihandan b\u00fcy\u00fck Fener var",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 903,
+            "friends_count": 520,
+            "listed_count": 3,
+            "created_at": "Tue Aug 27 22:00:03 +0000 2019",
+            "favourites_count": 93539,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6589,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1183107300405530624/ZzmGrO2O_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183107300405530624/ZzmGrO2O_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166470408205459457/1582731508",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 54,
+        "favorite_count": 648,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 54,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

@@ -1,0 +1,226 @@
+{
+    "created_at": "Sun May 03 00:38:57 +0000 2020",
+    "id": 1256745022587834370,
+    "id_str": "1256745022587834370",
+    "text": "RT @Andreslp19: #AguilaEnVivo....\n\nEl de este hastag deber\u00eda haberlo pensado mejor, YO pens\u00e9 q eran las \u00c1guilas Negras del Uribestialismo A\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    16,
+                    29
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Andreslp19",
+                "name": "Andr\u00e9s \ud83d\udc7eE.T.\ud83d\udef8 Landaz\u00e1bal",
+                "id": 286748338,
+                "id_str": "286748338",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1178098376165990410,
+        "id_str": "1178098376165990410",
+        "name": "Andrea Acevedo",
+        "screen_name": "AndreaMaku",
+        "location": "Bucaramanga, Colombia",
+        "description": "@Unipamplona \ud83d\udc41\ufe0f\nLic. Lenguas Extranjeras Ingl\u00e9s - Franc\u00e9s \ud83d\udc69\u200d\ud83c\udfeb\nI love listening to Rock&Roll \ud83c\udfbc,  Training at Gym is my life \ud83d\udcaa\nCats \ud83d\udc31\ud83d\udc31& Food \ud83d\ude0a\ud83c\udf55\ud83c\udf55",
+        "url": "https://t.co/FeDUHgY2WM",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/FeDUHgY2WM",
+                        "expanded_url": "http://instagram.com/andreaacevedo53",
+                        "display_url": "instagram.com/andreaacevedo53",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 212,
+        "friends_count": 168,
+        "listed_count": 0,
+        "created_at": "Sun Sep 29 00:05:24 +0000 2019",
+        "favourites_count": 1029,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 668,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185750080692903936/wwtREy-3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185750080692903936/wwtREy-3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178098376165990410/1581896768",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:05:25 +0000 2020",
+        "id": 1256736586231939073,
+        "id_str": "1256736586231939073",
+        "text": "#AguilaEnVivo....\n\nEl de este hastag deber\u00eda haberlo pensado mejor, YO pens\u00e9 q eran las \u00c1guilas Negras del Uribesti\u2026 https://t.co/GTLpT55nSY",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AguilaEnVivo",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/GTLpT55nSY",
+                    "expanded_url": "https://twitter.com/i/web/status/1256736586231939073",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 286748338,
+            "id_str": "286748338",
+            "name": "Andr\u00e9s \ud83d\udc7eE.T.\ud83d\udef8 Landaz\u00e1bal",
+            "screen_name": "Andreslp19",
+            "location": "Bucaramanga, Colombia",
+            "description": "Arquitecto de la Universidad \nde Pamplona @Unipamplona\n  \nEspecialista en Construcci\u00f3n de\nProyectos\nUniversidad de\nSantander @udes_oficial\n\n@LaResistencia21",
+            "url": "https://t.co/gZxmCiebGi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/gZxmCiebGi",
+                            "expanded_url": "http://www.youtube.com/c/DarkSpike",
+                            "display_url": "youtube.com/c/DarkSpike",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1370,
+            "friends_count": 1364,
+            "listed_count": 1,
+            "created_at": "Sat Apr 23 16:28:14 +0000 2011",
+            "favourites_count": 10784,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12463,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1233184099101052928/MRkTCMZ6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233184099101052928/MRkTCMZ6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/286748338/1543845988",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

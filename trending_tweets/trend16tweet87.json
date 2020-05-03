@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:42:29 +0000 2020",
+    "id": 1256745912501665795,
+    "id_str": "1256745912501665795",
+    "text": "RT @ww_cironatico: Correto Ciro, lockdown nas grandes cidades e indeniza\u00e7\u00e3o justa ao povo brasileiro. Tudo o que o Capit\u00e3o Gripezinha n\u00e3o f\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ww_cironatico",
+                "name": "Mr. White Democrata \ud83c\udde7\ud83c\uddf7",
+                "id": 737513528,
+                "id_str": "737513528",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1040026190755586048,
+        "id_str": "1040026190755586048",
+        "name": "Sem paci\u00eancia \ud83c\udf39\ud83c\udde7\ud83c\uddf7",
+        "screen_name": "Louz1alouz",
+        "location": "",
+        "description": "Algu\u00e9m que quer um pa\u00eds mais justo e humano.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 352,
+        "friends_count": 266,
+        "listed_count": 1,
+        "created_at": "Wed Sep 12 23:55:41 +0000 2018",
+        "favourites_count": 39528,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6067,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040027221082206210/olLslXdx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040027221082206210/olLslXdx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040026190755586048/1548510171",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:02:37 +0000 2020",
+        "id": 1256735881261649920,
+        "id_str": "1256735881261649920",
+        "text": "Correto Ciro, lockdown nas grandes cidades e indeniza\u00e7\u00e3o justa ao povo brasileiro. Tudo o que o Capit\u00e3o Gripezinha n\u00e3o fez\n\n#CiroNaGloboNews",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        124,
+                        140
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 737513528,
+            "id_str": "737513528",
+            "name": "Mr. White Democrata \ud83c\udde7\ud83c\uddf7",
+            "screen_name": "ww_cironatico",
+            "location": "Albuquerque",
+            "description": "\ud83d\udc18 @ww_cironatico@mastodon.social                     \ud83d\ude9c\ud83c\udf39 Say my name.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2673,
+            "friends_count": 3344,
+            "listed_count": 5,
+            "created_at": "Sat Aug 04 22:16:53 +0000 2012",
+            "favourites_count": 86399,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11499,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080159268282814464/xW6TemxW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080159268282814464/xW6TemxW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/737513528/1543600485",
+            "profile_link_color": "650202",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 114,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,186 @@
+{
+    "created_at": "Sun May 03 00:42:33 +0000 2020",
+    "id": 1256745928817471488,
+    "id_str": "1256745928817471488",
+    "text": "RT @ggukreum: bro jeon jungkook is real",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ggukreum",
+                "name": "rach\u2077 \u1d47\u02b3\u1d52 vs finals!",
+                "id": 1115637931094360064,
+                "id_str": "1115637931094360064",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 909336298560774145,
+        "id_str": "909336298560774145",
+        "name": "\ud835\udc1a\ud835\udc26\ud835\udc1e\ud835\udc25\ud835\udc22\ud835\udc1a\u2077 \ud81a\uddf5 nsfr",
+        "screen_name": "M00NLlGHTJJK",
+        "location": "bts \u2022 txt \u2661",
+        "description": "#JUNGKOOK: \ud835\ude5e \ud835\ude59\ud835\ude64\ud835\ude63'\ud835\ude69 \ud835\ude69\ud835\ude5d\ud835\ude5e\ud835\ude63\ud835\ude60 \ud835\ude5e \ud835\ude58\ud835\ude56\ud835\ude63 \ud835\ude61\ud835\ude5e\ud835\ude6b\ud835\ude5a \ud835\ude6c\ud835\ude5e\ud835\ude69\ud835\ude5d\ud835\ude64\ud835\ude6a\ud835\ude69 \ud835\ude6e\ud835\ude64\ud835\ude6a // \ud83c\udff3\ufe0f\u200d\ud83c\udf08 she \u2022 her",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1722,
+        "friends_count": 2790,
+        "listed_count": 8,
+        "created_at": "Sun Sep 17 08:40:43 +0000 2017",
+        "favourites_count": 129723,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 96053,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253542128380030977/azMAG7fR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253542128380030977/azMAG7fR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/909336298560774145/1587702609",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:56:13 +0000 2020",
+        "id": 1256658771671052296,
+        "id_str": "1256658771671052296",
+        "text": "bro jeon jungkook is real",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1115637931094360064,
+            "id_str": "1115637931094360064",
+            "name": "rach\u2077 \u1d47\u02b3\u1d52 vs finals!",
+            "screen_name": "ggukreum",
+            "location": "\ud83d\udeab repost | archive \ud83d\udc47",
+            "description": "jungkook: \u1d4d\u1d52\u1d52\u1d48\u207f\u1da6\u1d4d\u02b0\u1d57 \u1d47\u02b3\u1d52 \u2022 hobi: \u02b8\u1d49\u1d43\u02b0 \u1d47\u02b3\u1d52",
+            "url": "https://t.co/SNjE9qfjRi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SNjE9qfjRi",
+                            "expanded_url": "https://twitter.com/ggukreum_twt?s=09",
+                            "display_url": "twitter.com/ggukreum_twt?s\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 157896,
+            "friends_count": 275,
+            "listed_count": 779,
+            "created_at": "Tue Apr 09 15:29:45 +0000 2019",
+            "favourites_count": 3277,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6478,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245517180415836160/cycSW6Yp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245517180415836160/cycSW6Yp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1115637931094360064/1585789410",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7611,
+        "favorite_count": 29658,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7611,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

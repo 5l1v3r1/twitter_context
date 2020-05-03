@@ -1,0 +1,173 @@
+{
+    "created_at": "Sun May 03 00:42:41 +0000 2020",
+    "id": 1256745961319215105,
+    "id_str": "1256745961319215105",
+    "text": "eu entrando no twitter e vendo a tag \"TE AMAMOS FELIPE PRIOR\" https://t.co/KIgy4mfYK8",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745956432908299,
+                "id_str": "1256745956432908299",
+                "indices": [
+                    62,
+                    85
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbyfIXkAsNuf-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbyfIXkAsNuf-.jpg",
+                "url": "https://t.co/KIgy4mfYK8",
+                "display_url": "pic.twitter.com/KIgy4mfYK8",
+                "expanded_url": "https://twitter.com/swan_gguk/status/1256745961319215105/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 372,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 760,
+                        "h": 416,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 760,
+                        "h": 416,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745956432908299,
+                "id_str": "1256745956432908299",
+                "indices": [
+                    62,
+                    85
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbyfIXkAsNuf-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbyfIXkAsNuf-.jpg",
+                "url": "https://t.co/KIgy4mfYK8",
+                "display_url": "pic.twitter.com/KIgy4mfYK8",
+                "expanded_url": "https://twitter.com/swan_gguk/status/1256745961319215105/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 372,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 760,
+                        "h": 416,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 760,
+                        "h": 416,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1203055515984711680,
+        "id_str": "1203055515984711680",
+        "name": "\u2730 KOO KOO\u2077\ud83c\udf1f",
+        "screen_name": "swan_gguk",
+        "location": "mi casa\ud83c\udfe1",
+        "description": "#\ud835\udc09\ud835\udc14\ud835\udc0d\ud835\udc06\ud835\udc0a\ud835\udc0e\ud835\udc0e\ud835\udc0a \uc804\uc815\uad6d : \ud835\uddfa\ud835\ude06 \ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\ude06 \ud835\uddef\ud835\uddfc\ud835\ude06 \u2605 #\ud835\udc01\ud835\udc00\ud835\udc0d\ud835\udc06\ud835\udc13\ud835\udc00\ud835\udc0d {fan account}\ud83d\udd4a",
+        "url": "https://t.co/NS1avHwQEr",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/NS1avHwQEr",
+                        "expanded_url": "https://gguk.xn--c6h",
+                        "display_url": "gguk.\u2661",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3039,
+        "friends_count": 4948,
+        "listed_count": 10,
+        "created_at": "Fri Dec 06 20:56:11 +0000 2019",
+        "favourites_count": 1681,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4559,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256253080603148294/yLc9nTJD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256253080603148294/yLc9nTJD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1203055515984711680/1588020620",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

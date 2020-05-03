@@ -1,0 +1,232 @@
+{
+    "created_at": "Sun May 03 00:42:18 +0000 2020",
+    "id": 1256745864707444737,
+    "id_str": "1256745864707444737",
+    "text": "RT @MadFckingWitch: Now the feds on #Insiders are openly going after @DanielAndrewsMP. They\u2019re saying he\u2019s a \u201cfailed leader\u201d. Do you suppor\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Insiders",
+                "indices": [
+                    36,
+                    45
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MadFckingWitch",
+                "name": "Mad Fucking Witches",
+                "id": 2277445532,
+                "id_str": "2277445532",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "DanielAndrewsMP",
+                "name": "Dan Andrews",
+                "id": 228535666,
+                "id_str": "228535666",
+                "indices": [
+                    69,
+                    85
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3109350722,
+        "id_str": "3109350722",
+        "name": "\ud83d\udca7Jude Nunga",
+        "screen_name": "BigVapingNunga",
+        "location": "",
+        "description": "Vaper, vaping advocate, gardener, dog lover, age is but a measure of time, not of life, love or mind.\ud83d\udca7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2751,
+        "friends_count": 2215,
+        "listed_count": 221,
+        "created_at": "Fri Mar 27 06:00:48 +0000 2015",
+        "favourites_count": 348976,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 273912,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1028284182953218050/vI4ryp6Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028284182953218050/vI4ryp6Q_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:31:05 +0000 2020",
+        "id": 1256727944560472064,
+        "id_str": "1256727944560472064",
+        "text": "Now the feds on #Insiders are openly going after @DanielAndrewsMP. They\u2019re saying he\u2019s a \u201cfailed leader\u201d. Do you su\u2026 https://t.co/29VsEcYbTZ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Insiders",
+                    "indices": [
+                        16,
+                        25
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DanielAndrewsMP",
+                    "name": "Dan Andrews",
+                    "id": 228535666,
+                    "id_str": "228535666",
+                    "indices": [
+                        49,
+                        65
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/29VsEcYbTZ",
+                    "expanded_url": "https://twitter.com/i/web/status/1256727944560472064",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2277445532,
+            "id_str": "2277445532",
+            "name": "Mad Fucking Witches",
+            "screen_name": "MadFckingWitch",
+            "location": "Australia",
+            "description": "Grand-daughters of the witches you couldn\u2019t burn ...",
+            "url": "https://t.co/vGEvpPBxxx",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/vGEvpPBxxx",
+                            "expanded_url": "https://www.patreon.com/MadFuckingWitches",
+                            "display_url": "patreon.com/MadFuckingWitc\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 19797,
+            "friends_count": 3172,
+            "listed_count": 40,
+            "created_at": "Sun Jan 05 10:36:20 +0000 2014",
+            "favourites_count": 56379,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 31227,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1024958378567589891/il685bEP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024958378567589891/il685bEP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2277445532/1451944565",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 98,
+        "favorite_count": 57,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 98,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

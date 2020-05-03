@@ -1,0 +1,124 @@
+{
+    "created_at": "Sun May 03 00:33:38 +0000 2020",
+    "id": 1256743685204643842,
+    "id_str": "1256743685204643842",
+    "text": "@ElderDiaz01 #AguilaEnVivo yo estoy en la plaza Alfonso L\u00f3pez pero ustedes ninestan preparados para est\u00e1 conversaci\u2026 https://t.co/3u8KMdWjHj",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AguilaEnVivo",
+                "indices": [
+                    13,
+                    26
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElderDiaz01",
+                "name": "Elder Dayan",
+                "id": 182488284,
+                "id_str": "182488284",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/3u8KMdWjHj",
+                "expanded_url": "https://twitter.com/i/web/status/1256743685204643842",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 182488284,
+    "in_reply_to_user_id_str": "182488284",
+    "in_reply_to_screen_name": "ElderDiaz01",
+    "user": {
+        "id": 206795410,
+        "id_str": "206795410",
+        "name": "M\u00aaCamila Noya S.",
+        "screen_name": "Mcamila_ns",
+        "location": "Barranquilla. \u2600",
+        "description": "Chef y m\u00fasica frustrada\ud83d\udc78\ud83c\udffb\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nB\u00e9ni - Be brave .\ud83d\udc51\ud83c\udf3b\ud83d\udc9c",
+        "url": "https://t.co/RJU0XBGg7H",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/RJU0XBGg7H",
+                        "expanded_url": "http://www.facebook.com/profile.php?id=610695387",
+                        "display_url": "facebook.com/profile.php?id\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 270,
+        "friends_count": 382,
+        "listed_count": 5,
+        "created_at": "Sat Oct 23 18:56:06 +0000 2010",
+        "favourites_count": 8839,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11727,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254709706855251973/HnsxNbpm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254709706855251973/HnsxNbpm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/206795410/1547222574",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

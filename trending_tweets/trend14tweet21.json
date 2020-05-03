@@ -1,0 +1,475 @@
+{
+    "created_at": "Sun May 03 00:36:52 +0000 2020",
+    "id": 1256744499767902208,
+    "id_str": "1256744499767902208",
+    "text": "RT @bernardoIopes: outra vida - armandinho https://t.co/v9SDVBtP5R",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bernardoIopes",
+                "name": "zion",
+                "id": 892156242055090178,
+                "id_str": "892156242055090178",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256643813130584065,
+                "id_str": "1256643813130584065",
+                "indices": [
+                    43,
+                    66
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256643813130584065/pu/img/xKeSKPa2bNPD-btV.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256643813130584065/pu/img/xKeSKPa2bNPD-btV.jpg",
+                "url": "https://t.co/v9SDVBtP5R",
+                "display_url": "pic.twitter.com/v9SDVBtP5R",
+                "expanded_url": "https://twitter.com/bernardoIopes/status/1256644193151221760/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256644193151221760,
+                "source_status_id_str": "1256644193151221760",
+                "source_user_id": 892156242055090178,
+                "source_user_id_str": "892156242055090178"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256643813130584065,
+                "id_str": "1256643813130584065",
+                "indices": [
+                    43,
+                    66
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256643813130584065/pu/img/xKeSKPa2bNPD-btV.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256643813130584065/pu/img/xKeSKPa2bNPD-btV.jpg",
+                "url": "https://t.co/v9SDVBtP5R",
+                "display_url": "pic.twitter.com/v9SDVBtP5R",
+                "expanded_url": "https://twitter.com/bernardoIopes/status/1256644193151221760/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256644193151221760,
+                "source_status_id_str": "1256644193151221760",
+                "source_user_id": 892156242055090178,
+                "source_user_id_str": "892156242055090178",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 117192,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256643813130584065/pu/vid/320x568/anKY4pwVyhYT4lyU.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256643813130584065/pu/vid/720x1280/Qiic7l8EcWqTbpvp.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256643813130584065/pu/pl/gcnZSCJUjogghxOp.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256643813130584065/pu/vid/360x640/p7MiaD_jzRXFO66U.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 892156242055090178,
+                        "id_str": "892156242055090178",
+                        "name": "zion",
+                        "screen_name": "bernardoIopes",
+                        "location": "RJ",
+                        "description": "situe-se entorno do que \u00e9 positivo",
+                        "url": "https://t.co/k53DqE3yEu",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/k53DqE3yEu",
+                                        "expanded_url": "https://www.instagram.com/lopesbernardo_/",
+                                        "display_url": "instagram.com/lopesbernardo_/",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 2563,
+                        "friends_count": 1781,
+                        "listed_count": 3,
+                        "created_at": "Mon Jul 31 22:53:18 +0000 2017",
+                        "favourites_count": 26651,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 684,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1256455736667889666/Xy8q_0D7_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256455736667889666/Xy8q_0D7_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/892156242055090178/1588128875",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 953632336020692993,
+        "id_str": "953632336020692993",
+        "name": "Duda",
+        "screen_name": "Duda__Santana__",
+        "location": "Petr\u00f3polis, Brasil",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2739,
+        "friends_count": 984,
+        "listed_count": 2,
+        "created_at": "Wed Jan 17 14:17:21 +0000 2018",
+        "favourites_count": 18050,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10546,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256732651056238594/-1s2B-jX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256732651056238594/-1s2B-jX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/953632336020692993/1587584667",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:58:17 +0000 2020",
+        "id": 1256644193151221760,
+        "id_str": "1256644193151221760",
+        "text": "outra vida - armandinho https://t.co/v9SDVBtP5R",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256643813130584065,
+                    "id_str": "1256643813130584065",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256643813130584065/pu/img/xKeSKPa2bNPD-btV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256643813130584065/pu/img/xKeSKPa2bNPD-btV.jpg",
+                    "url": "https://t.co/v9SDVBtP5R",
+                    "display_url": "pic.twitter.com/v9SDVBtP5R",
+                    "expanded_url": "https://twitter.com/bernardoIopes/status/1256644193151221760/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256643813130584065,
+                    "id_str": "1256643813130584065",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256643813130584065/pu/img/xKeSKPa2bNPD-btV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256643813130584065/pu/img/xKeSKPa2bNPD-btV.jpg",
+                    "url": "https://t.co/v9SDVBtP5R",
+                    "display_url": "pic.twitter.com/v9SDVBtP5R",
+                    "expanded_url": "https://twitter.com/bernardoIopes/status/1256644193151221760/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 117192,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256643813130584065/pu/vid/320x568/anKY4pwVyhYT4lyU.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256643813130584065/pu/vid/720x1280/Qiic7l8EcWqTbpvp.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256643813130584065/pu/pl/gcnZSCJUjogghxOp.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256643813130584065/pu/vid/360x640/p7MiaD_jzRXFO66U.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 892156242055090178,
+            "id_str": "892156242055090178",
+            "name": "zion",
+            "screen_name": "bernardoIopes",
+            "location": "RJ",
+            "description": "situe-se entorno do que \u00e9 positivo",
+            "url": "https://t.co/k53DqE3yEu",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/k53DqE3yEu",
+                            "expanded_url": "https://www.instagram.com/lopesbernardo_/",
+                            "display_url": "instagram.com/lopesbernardo_/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2563,
+            "friends_count": 1781,
+            "listed_count": 3,
+            "created_at": "Mon Jul 31 22:53:18 +0000 2017",
+            "favourites_count": 26651,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 684,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256455736667889666/Xy8q_0D7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256455736667889666/Xy8q_0D7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/892156242055090178/1588128875",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 70,
+        "favorite_count": 310,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 70,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

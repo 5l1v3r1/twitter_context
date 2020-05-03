@@ -1,0 +1,112 @@
+{
+    "created_at": "Sun May 03 00:43:01 +0000 2020",
+    "id": 1256746047574949889,
+    "id_str": "1256746047574949889",
+    "text": "#TheTitleOfTrumpsMemoir Forrest Trump",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 373060357,
+        "id_str": "373060357",
+        "name": "Judith Gonda",
+        "screen_name": "JudithGonda",
+        "location": "Los Angeles",
+        "description": "Author. Psychologist. Pom and pun lover. MURDER IN THE SECRET MAZE Available now! Order here: https://t.co/ESSOH3c04Z",
+        "url": "https://t.co/uMy0XcRJ7u",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/uMy0XcRJ7u",
+                        "expanded_url": "http://www.judithgonda.com",
+                        "display_url": "judithgonda.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ESSOH3c04Z",
+                        "expanded_url": "https://www.amazon.com/dp/B084HNMVGV/ref=cm_sw_r_tw_dp_U_x_NVTwEb5",
+                        "display_url": "amazon.com/dp/B084HNMVGV/\u2026",
+                        "indices": [
+                            94,
+                            117
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1654,
+        "friends_count": 1782,
+        "listed_count": 78,
+        "created_at": "Tue Sep 13 22:40:58 +0000 2011",
+        "favourites_count": 52988,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40530,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/851233884045950976/6Ciyv9x9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/851233884045950976/6Ciyv9x9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/373060357/1581102362",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:50 +0000 2020",
+    "id": 1256746000850403328,
+    "id_str": "1256746000850403328",
+    "text": "\u30aa\u30ec\u30a4\u30ab\u30eb\u30b3\u30b9\u306e\u7d50\u754c #nitiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    11,
+                    19
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://d.hatena.ne.jp/ABS104a/\" rel=\"nofollow\">Biyon Lite Ver</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 567227416,
+        "id_str": "567227416",
+        "name": "\u30d0\u30ea\u30fc",
+        "screen_name": "recobarry",
+        "location": "\u30c7\u30e5\u30a8\u30de\u30d7\u30ec\u30a4\u30b9:582397960",
+        "description": "Oculus Quest / Beat Saber / \u307f\u3093\u306f\u3084",
+        "url": "https://t.co/XQfQzponR9",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/XQfQzponR9",
+                        "expanded_url": "https://note.com/recobarry",
+                        "display_url": "note.com/recobarry",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 829,
+        "friends_count": 829,
+        "listed_count": 50,
+        "created_at": "Mon Apr 30 13:28:36 +0000 2012",
+        "favourites_count": 177499,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 116941,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/838109918037069824/Dpm0EhtH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/838109918037069824/Dpm0EhtH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/567227416/1564007826",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

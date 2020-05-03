@@ -1,0 +1,91 @@
+{
+    "created_at": "Sun May 03 00:35:31 +0000 2020",
+    "id": 1256744159580471297,
+    "id_str": "1256744159580471297",
+    "text": "Eu deixei aquela droga de vida\nVoc\u00ea me tirou daquela vida de droga\nAchei a paz que eu queria\nFoi Voc\u00ea quem deu\nMeu\u2026 https://t.co/0GZwjyNged",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/0GZwjyNged",
+                "expanded_url": "https://twitter.com/i/web/status/1256744159580471297",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 985563742044815366,
+        "id_str": "985563742044815366",
+        "name": "\u00a1Al\u00ea \u24df A WebCrente \ud83d\udd25",
+        "screen_name": "souale3",
+        "location": "Campo Grande, Brasil",
+        "description": "Born to announce the good news of Jesus!!!!\n23| R\u00e1dio & TV | Acd. Fisioterapia | IDE \ud83e\udd1ePalmeiras!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1532,
+        "friends_count": 2346,
+        "listed_count": 2,
+        "created_at": "Sun Apr 15 17:01:21 +0000 2018",
+        "favourites_count": 23251,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14182,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256451890407243778/HFMlm_IT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256451890407243778/HFMlm_IT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985563742044815366/1587236768",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

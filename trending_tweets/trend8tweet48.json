@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745945783341056,
+    "id_str": "1256745945783341056",
+    "text": "RT @TAEVERSACES: Jeon Jungkook.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TAEVERSACES",
+                "name": "KIMV.",
+                "id": 1190538019960279040,
+                "id_str": "1190538019960279040",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 76645275,
+        "id_str": "76645275",
+        "name": "Tricia",
+        "screen_name": "chocolatrish",
+        "location": "",
+        "description": "LeSinSet \u2764\n\nDragged to VIXX by Hongbin but ended up as Leo's slave.",
+        "url": "https://t.co/SOZlrsnB6u",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/SOZlrsnB6u",
+                        "expanded_url": "http://me2day.net/chocolatrish",
+                        "display_url": "me2day.net/chocolatrish",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 77,
+        "friends_count": 180,
+        "listed_count": 7,
+        "created_at": "Wed Sep 23 13:39:07 +0000 2009",
+        "favourites_count": 5069,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 32944,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1064884158323843073/UXWpaQbO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064884158323843073/UXWpaQbO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76645275/1541323938",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:06:16 +0000 2020",
+        "id": 1256661301083820033,
+        "id_str": "1256661301083820033",
+        "text": "Jeon Jungkook.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1190538019960279040,
+            "id_str": "1190538019960279040",
+            "name": "KIMV.",
+            "screen_name": "TAEVERSACES",
+            "location": "",
+            "description": "do you even see me? do you know who I am ? @K00KLEGEND",
+            "url": "https://t.co/bVbQJLuMPb",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/bVbQJLuMPb",
+                            "expanded_url": "https://twitter.com/i/events/1228352867976695808",
+                            "display_url": "twitter.com/i/events/12283\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22189,
+            "friends_count": 551,
+            "listed_count": 108,
+            "created_at": "Sat Nov 02 07:56:12 +0000 2019",
+            "favourites_count": 24701,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 17465,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256667581349416961/LS2pEb1R_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256667581349416961/LS2pEb1R_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1190538019960279040/1588408854",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 181,
+        "favorite_count": 494,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 181,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,135 @@
+{
+    "created_at": "Sun May 03 00:43:00 +0000 2020",
+    "id": 1256746044521619456,
+    "id_str": "1256746044521619456",
+    "text": "A Lulu t\u00e1 fechando nessa live, viadas. #LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    39,
+                    48
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 183637383,
+        "id_str": "183637383",
+        "name": "Nebulosa",
+        "screen_name": "LiliannyLylyan",
+        "location": "Alagoas",
+        "description": "n\u00e3o s\u00e3o piadas, \u00e9 apenas meu cotidiano",
+        "url": "https://t.co/6KnyX59ZSQ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6KnyX59ZSQ",
+                        "expanded_url": "http://www.lastfm.com.br/user/Helianderson",
+                        "display_url": "lastfm.com.br/user/Heliander\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 196,
+        "friends_count": 90,
+        "listed_count": 5,
+        "created_at": "Fri Aug 27 14:17:42 +0000 2010",
+        "favourites_count": 2478,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11897,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "030303",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936290104892645378/wWJpdlk7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936290104892645378/wWJpdlk7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/183637383/1396195560",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "87E6D9",
+        "profile_text_color": "081330",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3e14b84dab9abc7a",
+        "url": "https://api.twitter.com/1.1/geo/id/3e14b84dab9abc7a.json",
+        "place_type": "city",
+        "name": "Arapiraca",
+        "full_name": "Arapiraca, Brasil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -36.752875,
+                        -9.882293
+                    ],
+                    [
+                        -36.541737,
+                        -9.882293
+                    ],
+                    [
+                        -36.541737,
+                        -9.633872
+                    ],
+                    [
+                        -36.752875,
+                        -9.633872
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

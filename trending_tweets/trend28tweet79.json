@@ -1,0 +1,134 @@
+{
+    "created_at": "Sun May 03 00:42:15 +0000 2020",
+    "id": 1256745854947352577,
+    "id_str": "1256745854947352577",
+    "text": "\ud83c\udfdeHi, @MostRequestLive Could you please play #ON (feat. @Sia) by #BTS? We ARMY want to hear it!! #MostRequestedLive\ud83c\udf52\n\n@BTS_twt",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ON",
+                "indices": [
+                    44,
+                    47
+                ]
+            },
+            {
+                "text": "BTS",
+                "indices": [
+                    64,
+                    68
+                ]
+            },
+            {
+                "text": "MostRequestedLive",
+                "indices": [
+                    96,
+                    114
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MostRequestLive",
+                "name": "Most Requested Live",
+                "id": 108775893,
+                "id_str": "108775893",
+                "indices": [
+                    5,
+                    21
+                ]
+            },
+            {
+                "screen_name": "Sia",
+                "name": "sia",
+                "id": 23497233,
+                "id_str": "23497233",
+                "indices": [
+                    55,
+                    59
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    117,
+                    125
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 118025826,
+        "id_str": "118025826",
+        "name": "\ud83d\udc25\uc2a4\uc717\uc2a4\uc6fbjim\ud83d\udc25",
+        "screen_name": "juicy_sammy",
+        "location": "\ub300\ud55c\ubbfc\uad6d",
+        "description": "only BTS\ud83d\udc9c fan account \ubb34\ud55c\uc54c\ud2f0\uc694\uc815! \uc2e0\ucc9c\uc9c0\u274c \ub098\ud55c\ud14c \uac78\ub9ac\uba74 \uc885\ub41c\ub2e4 \uc624\ud0a4? \ub098\ub294 \ub2ec\ucf64\ud558\uc9c0\uc54a\uc544",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 393,
+        "friends_count": 387,
+        "listed_count": 2,
+        "created_at": "Sat Feb 27 10:42:07 +0000 2010",
+        "favourites_count": 40357,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 77816,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237175409801715713/Mv-iIU0H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237175409801715713/Mv-iIU0H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/118025826/1531751391",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

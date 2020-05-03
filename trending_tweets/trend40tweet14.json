@@ -1,0 +1,205 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745982827679746,
+    "id_str": "1256745982827679746",
+    "text": "Rafa faz tudo \u2764 #RafaADMXand https://t.co/AClEeBl5kB",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RafaADMXand",
+                "indices": [
+                    16,
+                    28
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/AClEeBl5kB",
+                "expanded_url": "https://twitter.com/BlindadosDaRK/status/1256731473215881218",
+                "display_url": "twitter.com/BlindadosDaRK/\u2026",
+                "indices": [
+                    29,
+                    52
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1208243982641303552,
+        "id_str": "1208243982641303552",
+        "name": "Monica kallimen \ud83e\uddda\u200d\u2640\ufe0f\ud83e\uddda\u200d\u2642\ufe0franu \ud83d\udc9e\ud83d\udc9e",
+        "screen_name": "Monica79439354",
+        "location": "",
+        "description": "ser feliz , aleluia arrepiei \ud83d\ude4f\ud83d\ude4f\ud83e\uddda\u200d\u2642\ufe0f\ud83e\uddda\u200d\u2640\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 113,
+        "friends_count": 364,
+        "listed_count": 0,
+        "created_at": "Sat Dec 21 04:33:27 +0000 2019",
+        "favourites_count": 7186,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2206,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254288365362515968/jYS55MSW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254288365362515968/jYS55MSW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1208243982641303552/1584636140",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256731473215881218,
+    "quoted_status_id_str": "1256731473215881218",
+    "quoted_status": {
+        "created_at": "Sat May 02 23:45:06 +0000 2020",
+        "id": 1256731473215881218,
+        "id_str": "1256731473215881218",
+        "text": "Pera... @rafakalimann_ consegue postar foto, fazer publi, postar stories , cuidar de 2 twitters , interagir no Inst\u2026 https://t.co/DLzEyjmwva",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rafakalimann_",
+                    "name": "Rafa Kalimann \u2728",
+                    "id": 1132789115425046528,
+                    "id_str": "1132789115425046528",
+                    "indices": [
+                        8,
+                        22
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DLzEyjmwva",
+                    "expanded_url": "https://twitter.com/i/web/status/1256731473215881218",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1241042814923915264,
+            "id_str": "1241042814923915264",
+            "name": "Blindados da RK",
+            "screen_name": "BlindadosDaRK",
+            "location": "",
+            "description": "Not\u00edcias 24hrs da nossa blindada, Rafa Kalimann!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1270,
+            "friends_count": 96,
+            "listed_count": 0,
+            "created_at": "Fri Mar 20 16:44:11 +0000 2020",
+            "favourites_count": 7244,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5730,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256317102249705479/VyUzGhcy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256317102249705479/VyUzGhcy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241042814923915264/1587588361",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 155,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

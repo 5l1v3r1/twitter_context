@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:44 +0000 2020",
+    "id": 1256745977395978249,
+    "id_str": "1256745977395978249",
+    "text": "O @cirogomes  fala muito, por que os outro babacas n\u00e3o sabem de nada. Se estudassem e tivessem verdadeiro conhecime\u2026 https://t.co/z8p47aJy0d",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cirogomes",
+                "name": "Ciro Gomes",
+                "id": 33374761,
+                "id_str": "33374761",
+                "indices": [
+                    2,
+                    12
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/z8p47aJy0d",
+                "expanded_url": "https://twitter.com/i/web/status/1256745977395978249",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 982880425,
+        "id_str": "982880425",
+        "name": "Junior Martins",
+        "screen_name": "eqjuniormartins",
+        "location": "",
+        "description": "IFES - Instituto Federal do Esp\u00edrito Santo - Engenharia  And all a matter of time! \u00c9 tudo uma quest\u00e3o de tempo!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 197,
+        "friends_count": 1292,
+        "listed_count": 3,
+        "created_at": "Sat Dec 01 16:26:44 +0000 2012",
+        "favourites_count": 5208,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2182,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234299382444503040/ZaGTJ8YU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234299382444503040/ZaGTJ8YU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/982880425/1436396995",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

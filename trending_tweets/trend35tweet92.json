@@ -1,0 +1,404 @@
+{
+    "created_at": "Sun May 03 00:41:03 +0000 2020",
+    "id": 1256745551825178627,
+    "id_str": "1256745551825178627",
+    "text": "RT @OceanPatriot9: #TheTitleOfTrumpsMemoir\n\n\" The Badass President \" https://t.co/kpnWvE2XaG",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    19,
+                    42
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "OceanPatriot9",
+                "name": "Ocean Patriot",
+                "id": 790589565211807744,
+                "id_str": "790589565211807744",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744645310234629,
+                "id_str": "1256744645310234629",
+                "indices": [
+                    69,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDamK0XQAU4O2W.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDamK0XQAU4O2W.jpg",
+                "url": "https://t.co/kpnWvE2XaG",
+                "display_url": "pic.twitter.com/kpnWvE2XaG",
+                "expanded_url": "https://twitter.com/OceanPatriot9/status/1256744657855414272/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 354,
+                        "h": 498,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 354,
+                        "h": 498,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 354,
+                        "h": 498,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744657855414272,
+                "source_status_id_str": "1256744657855414272",
+                "source_user_id": 790589565211807744,
+                "source_user_id_str": "790589565211807744"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744645310234629,
+                "id_str": "1256744645310234629",
+                "indices": [
+                    69,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDamK0XQAU4O2W.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDamK0XQAU4O2W.jpg",
+                "url": "https://t.co/kpnWvE2XaG",
+                "display_url": "pic.twitter.com/kpnWvE2XaG",
+                "expanded_url": "https://twitter.com/OceanPatriot9/status/1256744657855414272/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 354,
+                        "h": 498,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 354,
+                        "h": 498,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 354,
+                        "h": 498,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744657855414272,
+                "source_status_id_str": "1256744657855414272",
+                "source_user_id": 790589565211807744,
+                "source_user_id_str": "790589565211807744",
+                "video_info": {
+                    "aspect_ratio": [
+                        59,
+                        83
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDamK0XQAU4O2W.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 53575024,
+        "id_str": "53575024",
+        "name": "Qadet \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f Between the lightning and the thunder",
+        "screen_name": "MIhernan",
+        "location": "Michigan",
+        "description": "Qadet! I stand with President Trump, Gen Flynn, and Q.    #MAGA #KAG #Q #QANON #3Stars4GenFlynn.     \nBackup @mihdzrmz.                  \nhttps://t.co/ZFqfcGsBeT",
+        "url": "https://t.co/NFfP605PwN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/NFfP605PwN",
+                        "expanded_url": "http://Qproofs.com",
+                        "display_url": "Qproofs.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZFqfcGsBeT",
+                        "expanded_url": "http://gab.ai/mihernan",
+                        "display_url": "gab.ai/mihernan",
+                        "indices": [
+                            138,
+                            161
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 3009,
+        "friends_count": 3968,
+        "listed_count": 2,
+        "created_at": "Sat Jul 04 02:53:15 +0000 2009",
+        "favourites_count": 11906,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 83884,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/957510865607118849/mJKRt4Ya_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/957510865607118849/mJKRt4Ya_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53575024/1588446910",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:37:30 +0000 2020",
+        "id": 1256744657855414272,
+        "id_str": "1256744657855414272",
+        "text": "#TheTitleOfTrumpsMemoir\n\n\" The Badass President \" https://t.co/kpnWvE2XaG",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256744645310234629,
+                    "id_str": "1256744645310234629",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDamK0XQAU4O2W.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDamK0XQAU4O2W.jpg",
+                    "url": "https://t.co/kpnWvE2XaG",
+                    "display_url": "pic.twitter.com/kpnWvE2XaG",
+                    "expanded_url": "https://twitter.com/OceanPatriot9/status/1256744657855414272/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 354,
+                            "h": 498,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 354,
+                            "h": 498,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 354,
+                            "h": 498,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256744645310234629,
+                    "id_str": "1256744645310234629",
+                    "indices": [
+                        50,
+                        73
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDamK0XQAU4O2W.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDamK0XQAU4O2W.jpg",
+                    "url": "https://t.co/kpnWvE2XaG",
+                    "display_url": "pic.twitter.com/kpnWvE2XaG",
+                    "expanded_url": "https://twitter.com/OceanPatriot9/status/1256744657855414272/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 354,
+                            "h": 498,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 354,
+                            "h": 498,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 354,
+                            "h": 498,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            59,
+                            83
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXDamK0XQAU4O2W.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 790589565211807744,
+            "id_str": "790589565211807744",
+            "name": "Ocean Patriot",
+            "screen_name": "OceanPatriot9",
+            "location": "CA - FL - HI - TX, USA",
+            "description": "Scot American - UCSB Psychology - I \u2764\ufe0f America  #BlueLineMom x2- #PTSD - #Veterans - #Philanthropy - #Care - #BeKind - #K9 - #LawEnforcement",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22913,
+            "friends_count": 19444,
+            "listed_count": 29,
+            "created_at": "Mon Oct 24 16:23:35 +0000 2016",
+            "favourites_count": 77747,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 78970,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251995236240429056/dk1ruKzw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251995236240429056/dk1ruKzw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/790589565211807744/1585027215",
+            "profile_link_color": "F74B85",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

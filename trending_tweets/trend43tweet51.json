@@ -1,0 +1,281 @@
+{
+    "created_at": "Sun May 03 00:37:58 +0000 2020",
+    "id": 1256744777497710593,
+    "id_str": "1256744777497710593",
+    "text": "play ridin at my funeral #AwkwardFuneralSongs https://t.co/2pcILkakwL",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    25,
+                    45
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256154916973719552,
+                "id_str": "1256154916973719552",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256154916973719552/pu/img/uerOLeVgE068FPfY.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256154916973719552/pu/img/uerOLeVgE068FPfY.jpg",
+                "url": "https://t.co/2pcILkakwL",
+                "display_url": "pic.twitter.com/2pcILkakwL",
+                "expanded_url": "https://twitter.com/jwooiovebot/status/1256157234981031936/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256157234981031936,
+                "source_status_id_str": "1256157234981031936",
+                "source_user_id": 581655039,
+                "source_user_id_str": "581655039"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256154916973719552,
+                "id_str": "1256154916973719552",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256154916973719552/pu/img/uerOLeVgE068FPfY.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256154916973719552/pu/img/uerOLeVgE068FPfY.jpg",
+                "url": "https://t.co/2pcILkakwL",
+                "display_url": "pic.twitter.com/2pcILkakwL",
+                "expanded_url": "https://twitter.com/jwooiovebot/status/1256157234981031936/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256157234981031936,
+                "source_status_id_str": "1256157234981031936",
+                "source_user_id": 581655039,
+                "source_user_id_str": "581655039",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 140002,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256154916973719552/pu/vid/360x640/yoh_lao1hAI4bnEx.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256154916973719552/pu/pl/FgcJpQ-SYZTSBwWn.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256154916973719552/pu/vid/720x1280/QTCq4MJ8U2CPd_jP.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256154916973719552/pu/vid/320x568/xKZOWAVleXWaC5fS.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 581655039,
+                        "id_str": "581655039",
+                        "name": "sam \u21ba #GATEWAY | GA\ud83d\udccc",
+                        "screen_name": "jwooiovebot",
+                        "location": "alex \u2661 | he/him",
+                        "description": "##JISUNG: \uc774\uc81c \ub05d\uc5c6\uc774 \ubcfc\uc218 \uc788\uaca0\ub2e4\uc544 \uc88b\ub2e4\uc544",
+                        "url": "https://t.co/rMJErYq4zq",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/rMJErYq4zq",
+                                        "expanded_url": "http://curiouscat.me/ultjungwooo",
+                                        "display_url": "curiouscat.me/ultjungwooo",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 1701,
+                        "friends_count": 272,
+                        "listed_count": 67,
+                        "created_at": "Wed May 16 06:18:14 +0000 2012",
+                        "favourites_count": 79903,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 88764,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "020812",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1255631380718817280/SbaOYmwb_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255631380718817280/SbaOYmwb_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/581655039/1588204095",
+                        "profile_link_color": "91D2FA",
+                        "profile_sidebar_border_color": "2280A9",
+                        "profile_sidebar_fill_color": "020812",
+                        "profile_text_color": "2280A9",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 581655039,
+        "id_str": "581655039",
+        "name": "sam \u21ba #GATEWAY | GA\ud83d\udccc",
+        "screen_name": "jwooiovebot",
+        "location": "alex \u2661 | he/him",
+        "description": "##JISUNG: \uc774\uc81c \ub05d\uc5c6\uc774 \ubcfc\uc218 \uc788\uaca0\ub2e4\uc544 \uc88b\ub2e4\uc544",
+        "url": "https://t.co/rMJErYq4zq",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/rMJErYq4zq",
+                        "expanded_url": "http://curiouscat.me/ultjungwooo",
+                        "display_url": "curiouscat.me/ultjungwooo",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1701,
+        "friends_count": 272,
+        "listed_count": 67,
+        "created_at": "Wed May 16 06:18:14 +0000 2012",
+        "favourites_count": 79903,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 88764,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "020812",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255631380718817280/SbaOYmwb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255631380718817280/SbaOYmwb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/581655039/1588204095",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "2280A9",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "2280A9",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

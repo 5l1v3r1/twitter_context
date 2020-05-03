@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:41:43 +0000 2020",
+    "id": 1256745721581223937,
+    "id_str": "1256745721581223937",
+    "text": "RT @parkchiminism: \"this is a vengeance game CREATED by THE SILENT ONE\" god this is so obvious its jungkook. \"he risked his life for the PE\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "parkchiminism",
+                "name": "mimi\u2077 ; jimin and lana del rey \ud83c\udf4a enthusiast",
+                "id": 1072744729627029506,
+                "id_str": "1072744729627029506",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1072273979514281986,
+        "id_str": "1072273979514281986",
+        "name": "\ud835\udd1e\ud835\udd2b\ud835\udd1e.\u2077 // sometimes ia",
+        "screen_name": "kithmemyg",
+        "location": "\u291e she/her",
+        "description": "\u275b\ud835\uddc7\ud835\uddc8\ud835\uddcd \ud835\uddcc\ud835\uddc8 \ud835\udd2d\ud835\udd22\ud835\udd2f\ud835\udd23\ud835\udd22\ud835\udd20\ud835\udd31, \ud835\uddbb\ud835\uddce\ud835\uddcd \ud835\uddcc\ud835\uddc8 \ud835\udd1f\ud835\udd22\ud835\udd1e\ud835\udd32\ud835\udd31\ud835\udd26\ud835\udd23\ud835\udd32\ud835\udd29. \u2014 \uae40\uc11d\uc9c4",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1253,
+        "friends_count": 1271,
+        "listed_count": 18,
+        "created_at": "Mon Dec 10 23:36:53 +0000 2018",
+        "favourites_count": 16455,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15008,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256284349344907264/5AAF_uE1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256284349344907264/5AAF_uE1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072273979514281986/1588356505",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:50:09 +0000 2020",
+        "id": 1256732741854527489,
+        "id_str": "1256732741854527489",
+        "text": "\"this is a vengeance game CREATED by THE SILENT ONE\" god this is so obvious its jungkook. \"he risked his life for t\u2026 https://t.co/Eugd8JATrv",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Eugd8JATrv",
+                    "expanded_url": "https://twitter.com/i/web/status/1256732741854527489",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1072744729627029506,
+            "id_str": "1072744729627029506",
+            "name": "mimi\u2077 ; jimin and lana del rey \ud83c\udf4a enthusiast",
+            "screen_name": "parkchiminism",
+            "location": "Mariners Apartment Complex",
+            "description": "#HOBI: my big fat ass got all them boys hooked .  \n\nshe/her  // @vincentvingtae",
+            "url": "https://t.co/xwgZlr36eP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xwgZlr36eP",
+                            "expanded_url": "https://open.spotify.com/playlist/5XScpkxKjGhbKARPLSqlc1",
+                            "display_url": "open.spotify.com/playlist/5XScp\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1709,
+            "friends_count": 1605,
+            "listed_count": 38,
+            "created_at": "Wed Dec 12 06:47:28 +0000 2018",
+            "favourites_count": 53483,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 44407,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245319631465824256/DYwS4JzS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245319631465824256/DYwS4JzS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072744729627029506/1585742314",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

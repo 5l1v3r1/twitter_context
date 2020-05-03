@@ -1,0 +1,218 @@
+{
+    "created_at": "Sun May 03 00:42:20 +0000 2020",
+    "id": 1256745873561866247,
+    "id_str": "1256745873561866247",
+    "text": "RT @igzrap: For those who were wondering what May has in store: Murder Hornets. https://t.co/QP7teAEMrX",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "igzrap",
+                "name": "IGZ",
+                "id": 77548797,
+                "id_str": "77548797",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/QP7teAEMrX",
+                "expanded_url": "https://www.nytimes.com/2020/05/02/us/asian-giant-hornet-washington.html",
+                "display_url": "nytimes.com/2020/05/02/us/\u2026",
+                "indices": [
+                    80,
+                    103
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 378058459,
+        "id_str": "378058459",
+        "name": "Metal Goddess \ud83d\udd25\u2620\ufe0f",
+        "screen_name": "Madisatan",
+        "location": "",
+        "description": "walk with me in hell",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 596,
+        "friends_count": 421,
+        "listed_count": 15,
+        "created_at": "Thu Sep 22 15:32:15 +0000 2011",
+        "favourites_count": 2538,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 96494,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661385597559418884/_1-AYuts_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661385597559418884/_1-AYuts_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/378058459/1456072108",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:01:48 +0000 2020",
+        "id": 1256735675510120448,
+        "id_str": "1256735675510120448",
+        "text": "For those who were wondering what May has in store: Murder Hornets. https://t.co/QP7teAEMrX",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/QP7teAEMrX",
+                    "expanded_url": "https://www.nytimes.com/2020/05/02/us/asian-giant-hornet-washington.html",
+                    "display_url": "nytimes.com/2020/05/02/us/\u2026",
+                    "indices": [
+                        68,
+                        91
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 77548797,
+            "id_str": "77548797",
+            "name": "IGZ",
+            "screen_name": "igzrap",
+            "location": "Toronto",
+            "description": "Recording Artist, Entrepreneur, Business Owner, Creator | Do What You Gotta Do | Follow \u27a1\ufe0f https://t.co/PevTWFSCCs",
+            "url": "https://t.co/CYSMlt5L7g",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CYSMlt5L7g",
+                            "expanded_url": "http://itsIGZ.com",
+                            "display_url": "itsIGZ.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PevTWFSCCs",
+                            "expanded_url": "http://Instagram.com/itsIGZ",
+                            "display_url": "Instagram.com/itsIGZ",
+                            "indices": [
+                                91,
+                                114
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 165201,
+            "friends_count": 108252,
+            "listed_count": 864,
+            "created_at": "Sat Sep 26 19:03:22 +0000 2009",
+            "favourites_count": 1868,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 25877,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1181388661725782017/mS7wdjLH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181388661725782017/mS7wdjLH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/77548797/1582492971",
+            "profile_link_color": "E60000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

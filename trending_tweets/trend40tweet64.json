@@ -1,0 +1,182 @@
+{
+    "created_at": "Sun May 03 00:41:34 +0000 2020",
+    "id": 1256745682075090944,
+    "id_str": "1256745682075090944",
+    "text": "RT @SementinhaDaRK: Ainda tem live do alok daqui a pouco.. Rafaella minha filha, para de comandar meus passos \ud83d\ude02\ud83d\ude02 era no ppv, agora vai ser\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SementinhaDaRK",
+                "name": "M\u00e9lanie, cadela de ranu \u2728\ud83e\udd43",
+                "id": 1219075985074683904,
+                "id_str": "1219075985074683904",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1393429328,
+        "id_str": "1393429328",
+        "name": "[SUD]Carla Andr\u00e9a",
+        "screen_name": "mattos_andra",
+        "location": "Pindamonhangaba, Brasil",
+        "description": "F\u00e3 de B\u00e1rbara Evans ,D\u00e9bora Lyra ,Gleici ,Ana Clara  BBB18,Elana BBB 19 e Rafa Kalimann BBB 20",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 503,
+        "friends_count": 248,
+        "listed_count": 2,
+        "created_at": "Wed May 01 00:34:05 +0000 2013",
+        "favourites_count": 120338,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 103058,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/426477942714429440/F6UPP6id_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/426477942714429440/F6UPP6id_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:42 +0000 2020",
+        "id": 1256745463845474305,
+        "id_str": "1256745463845474305",
+        "text": "Ainda tem live do alok daqui a pouco.. Rafaella minha filha, para de comandar meus passos \ud83d\ude02\ud83d\ude02 era no ppv, agora vai\u2026 https://t.co/rmks1hY18v",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/rmks1hY18v",
+                    "expanded_url": "https://twitter.com/i/web/status/1256745463845474305",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1219075985074683904,
+            "id_str": "1219075985074683904",
+            "name": "M\u00e9lanie, cadela de ranu \u2728\ud83e\udd43",
+            "screen_name": "SementinhaDaRK",
+            "location": "Rio de Janeiro, Brasil",
+            "description": "Haja + amor, a come\u00e7ar em mim\n\n#TeamRafa #EspalheALuz",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 962,
+            "friends_count": 160,
+            "listed_count": 2,
+            "created_at": "Mon Jan 20 01:55:50 +0000 2020",
+            "favourites_count": 2214,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8430,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256252441189855232/zWXoW6NP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256252441189855232/zWXoW6NP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219075985074683904/1585900406",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

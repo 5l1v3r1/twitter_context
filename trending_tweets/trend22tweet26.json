@@ -1,0 +1,193 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745947482079232,
+    "id_str": "1256745947482079232",
+    "text": "RT @tanya_plibersek: If the Federal Government truly cared about helping disadvantaged kids, they wouldn\u2019t be starving public schools of fu\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tanya_plibersek",
+                "name": "Tanya Plibersek",
+                "id": 307755781,
+                "id_str": "307755781",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 246077517,
+        "id_str": "246077517",
+        "name": "SeanMc.",
+        "screen_name": "SeanNotShane",
+        "location": "Sydney",
+        "description": "Just into boring stuff, like public education and not completely wrecking the planet.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 194,
+        "friends_count": 368,
+        "listed_count": 12,
+        "created_at": "Wed Feb 02 02:32:10 +0000 2011",
+        "favourites_count": 9459,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10893,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/738277932276158465/SAr9YtZ2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/738277932276158465/SAr9YtZ2_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:51:28 +0000 2020",
+        "id": 1256733072373846017,
+        "id_str": "1256733072373846017",
+        "text": "If the Federal Government truly cared about helping disadvantaged kids, they wouldn\u2019t be starving public schools of funding #Insiders",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Insiders",
+                    "indices": [
+                        124,
+                        133
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 307755781,
+            "id_str": "307755781",
+            "name": "Tanya Plibersek",
+            "screen_name": "tanya_plibersek",
+            "location": "Sydney",
+            "description": "Shadow Minister for Education + Training, Member for Sydney. Authorised T Plibersek, ALP, Redfern.",
+            "url": "https://t.co/PN4iCoAWW5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PN4iCoAWW5",
+                            "expanded_url": "http://www.tanyaplibersek.com/",
+                            "display_url": "tanyaplibersek.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 243691,
+            "friends_count": 774,
+            "listed_count": 1225,
+            "created_at": "Mon May 30 07:10:44 +0000 2011",
+            "favourites_count": 700,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 6457,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/630893072851689473/D9QkfBkV_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/630893072851689473/D9QkfBkV_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/307755781/1463277591",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 120,
+        "favorite_count": 386,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 120,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

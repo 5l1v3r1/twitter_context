@@ -1,0 +1,217 @@
+{
+    "created_at": "Sun May 03 00:41:42 +0000 2020",
+    "id": 1256745717068111872,
+    "id_str": "1256745717068111872",
+    "text": "RT @gergerliogluof: \"Konser vermek istedi, izin verilmedi, \u00f6ld\u00fc\" denmesini mi istiyorsunuz??\n@TC_icisleri\n\nOlacak i\u015f zaman\u0131n ilerlemesine b\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gergerliogluof",
+                "name": "\u00d6mer Faruk Gergerlio\u011flu",
+                "id": 219459066,
+                "id_str": "219459066",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "TC_icisleri",
+                "name": "T.C. \u0130\u00e7i\u015fleri Bakanl\u0131\u011f\u0131 #EvdeHayatVar\ud83c\udfe0",
+                "id": 467645507,
+                "id_str": "467645507",
+                "indices": [
+                    93,
+                    105
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1184585452499750913,
+        "id_str": "1184585452499750913",
+        "name": "D\u0131rmanovi\u00e7",
+        "screen_name": "RmanovicD",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 18,
+        "listed_count": 0,
+        "created_at": "Wed Oct 16 21:42:50 +0000 2019",
+        "favourites_count": 922,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 204,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:01:48 +0000 2020",
+        "id": 1256660177467604992,
+        "id_str": "1256660177467604992",
+        "text": "\"Konser vermek istedi, izin verilmedi, \u00f6ld\u00fc\" denmesini mi istiyorsunuz??\n@TC_icisleri\n\nOlacak i\u015f zaman\u0131n ilerlemesi\u2026 https://t.co/lKXYDKwGFH",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TC_icisleri",
+                    "name": "T.C. \u0130\u00e7i\u015fleri Bakanl\u0131\u011f\u0131 #EvdeHayatVar\ud83c\udfe0",
+                    "id": 467645507,
+                    "id_str": "467645507",
+                    "indices": [
+                        73,
+                        85
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/lKXYDKwGFH",
+                    "expanded_url": "https://twitter.com/i/web/status/1256660177467604992",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 219459066,
+            "id_str": "219459066",
+            "name": "\u00d6mer Faruk Gergerlio\u011flu",
+            "screen_name": "gergerliogluof",
+            "location": "Kocaeli, T\u00fcrkiye",
+            "description": "HDP Kocaeli Milletvekili /\u0130nsan Haklar\u0131n\u0131 \u0130nceleme Komisyonu \u00dcyesi/  Deputy of Kocaeli/ Member of Human Rights Inquiry Committee/ for English @gergerlioglueng",
+            "url": "https://t.co/Yw7sC0OR3R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Yw7sC0OR3R",
+                            "expanded_url": "http://www.omerfarukgergerlioglu.com",
+                            "display_url": "omerfarukgergerlioglu.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 261584,
+            "friends_count": 1772,
+            "listed_count": 406,
+            "created_at": "Wed Nov 24 22:50:28 +0000 2010",
+            "favourites_count": 44285,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 50547,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1171875232677814277/X0PK7W1a_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171875232677814277/X0PK7W1a_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/219459066/1533469983",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 992,
+        "favorite_count": 1830,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 992,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

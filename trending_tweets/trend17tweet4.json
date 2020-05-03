@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:42:51 +0000 2020",
+    "id": 1256746005418192896,
+    "id_str": "1256746005418192896",
+    "text": "RT @_leila_77: Bodrumda kanunsuzca  sahile s\u0131f\u0131rlanan 45 milyonluk ev Y\u0131lmaz \u00d6zdil'e de\u011filde bir Akpartili birisine aid olsayd\u0131?\n\nAcaba kim\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_leila_77",
+                "name": "Leila",
+                "id": 1196442842278907904,
+                "id_str": "1196442842278907904",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 988105928238039040,
+        "id_str": "988105928238039040",
+        "name": "mehmetali",
+        "screen_name": "MehmetAliKOTAN6",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 395,
+        "friends_count": 731,
+        "listed_count": 0,
+        "created_at": "Sun Apr 22 17:23:06 +0000 2018",
+        "favourites_count": 29509,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8993,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233719731758170113/fd5b3E1k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233719731758170113/fd5b3E1k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/988105928238039040/1540994519",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:32:48 +0000 2020",
+        "id": 1256743475242041345,
+        "id_str": "1256743475242041345",
+        "text": "Bodrumda kanunsuzca  sahile s\u0131f\u0131rlanan 45 milyonluk ev Y\u0131lmaz \u00d6zdil'e de\u011filde bir Akpartili birisine aid olsayd\u0131?\u2026 https://t.co/buWf5lqpig",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/buWf5lqpig",
+                    "expanded_url": "https://twitter.com/i/web/status/1256743475242041345",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1196442842278907904,
+            "id_str": "1196442842278907904",
+            "name": "Leila",
+            "screen_name": "_leila_77",
+            "location": "",
+            "description": "D\u00fcnyada misafiriz elbet ; Amma bu topraklarda ev sahibiyiz. \ud83c\uddf9\ud83c\uddf7 #RTE \ud83c\uddf9\ud83c\uddf7",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6788,
+            "friends_count": 6306,
+            "listed_count": 2,
+            "created_at": "Mon Nov 18 14:59:53 +0000 2019",
+            "favourites_count": 9169,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3899,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245486415821012996/z4q8VLKH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245486415821012996/z4q8VLKH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196442842278907904/1585782076",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

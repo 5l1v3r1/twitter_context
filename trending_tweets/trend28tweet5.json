@@ -1,0 +1,247 @@
+{
+    "created_at": "Sun May 03 00:43:00 +0000 2020",
+    "id": 1256746042655150081,
+    "id_str": "1256746042655150081",
+    "text": "RT @hurricanekarla: Hi @OnAirRomeo!\u2764\ufe0f\u2764\ufe0fCould you please play #MyOhMy by Camila Cabello ft. DaBaby on #MostRequestedLive? Thank you! @MostRe\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MyOhMy",
+                "indices": [
+                    61,
+                    68
+                ]
+            },
+            {
+                "text": "MostRequestedLive",
+                "indices": [
+                    101,
+                    119
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "hurricanekarla",
+                "name": "flor",
+                "id": 798312222506319872,
+                "id_str": "798312222506319872",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "OnAirRomeo",
+                "name": "On Air Romeo",
+                "id": 21590830,
+                "id_str": "21590830",
+                "indices": [
+                    23,
+                    34
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 847941126606782465,
+        "id_str": "847941126606782465",
+        "name": "\ud83c\udf38 Grl Pwr \ud83d\udd25 thanks Camila ILY \u2764\u2728The Coven\ud83d\udd2e",
+        "screen_name": "DaarkParadise21",
+        "location": "Camilizerlandia\ud83c\udde6\ud83c\uddf7 ARG \ud83e\udd40\ud83d\udc8b\ud83d\udda4",
+        "description": "i'm feminist \ud83d\udc9a &\nI'm grateful with @LanaDelRey @LaurenJauregui @DemiLovato @camila_Cabello @halsey @FifthHarmony @LittleMix @avrilLavigne @AmyLeeEV @Dualipa",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1266,
+        "friends_count": 1887,
+        "listed_count": 3,
+        "created_at": "Fri Mar 31 22:38:13 +0000 2017",
+        "favourites_count": 115531,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43375,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250919364808724480/QPnIRw1u_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250919364808724480/QPnIRw1u_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/847941126606782465/1588353513",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:41:55 +0000 2020",
+        "id": 1256745768825827328,
+        "id_str": "1256745768825827328",
+        "text": "Hi @OnAirRomeo!\u2764\ufe0f\u2764\ufe0fCould you please play #MyOhMy by Camila Cabello ft. DaBaby on #MostRequestedLive? Thank you! @MostRequestLive \u2728\u2728\u2728",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MyOhMy",
+                    "indices": [
+                        41,
+                        48
+                    ]
+                },
+                {
+                    "text": "MostRequestedLive",
+                    "indices": [
+                        81,
+                        99
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "OnAirRomeo",
+                    "name": "On Air Romeo",
+                    "id": 21590830,
+                    "id_str": "21590830",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "MostRequestLive",
+                    "name": "Most Requested Live",
+                    "id": 108775893,
+                    "id_str": "108775893",
+                    "indices": [
+                        112,
+                        128
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 798312222506319872,
+            "id_str": "798312222506319872",
+            "name": "flor",
+            "screen_name": "hurricanekarla",
+            "location": "treat people with kindness ",
+            "description": "if i like it then that\u2019s what i get",
+            "url": "https://t.co/hPg9lg0coz",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/hPg9lg0coz",
+                            "expanded_url": "https://www.instagram.com/flordapiaggi/",
+                            "display_url": "instagram.com/flordapiaggi/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12635,
+            "friends_count": 1412,
+            "listed_count": 396,
+            "created_at": "Mon Nov 14 23:50:40 +0000 2016",
+            "favourites_count": 126496,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 150998,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1242273518810791937/SFiWZaE0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242273518810791937/SFiWZaE0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/798312222506319872/1585016267",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

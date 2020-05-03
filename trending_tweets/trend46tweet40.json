@@ -1,0 +1,238 @@
+{
+    "created_at": "Sun May 03 00:42:10 +0000 2020",
+    "id": 1256745833128538112,
+    "id_str": "1256745833128538112",
+    "text": "RT @toei_zero_one: \u3010\u6b21\u56de\u30bc\u30ed\u30ef\u30f3\u3011\n\u7b2c34\u8a71\u3044\u304b\u304c\u3067\u3057\u305f\u3067\u3057\u3087\u3046\u304b\u3002\n\n\u76ee\u899a\u3081\u308b\u300a\u6ec5\u300b\u306e\u672c\u80fd\n\u8a9e\u3089\u308c\u308b\u300a\u4ea1\u300b\u306e\u5922\n\u79d8\u3081\u305f\u308b\u300a\u8fc5\u300b\u306e\u6b63\u7fa9\n\u305d\u3057\u3066\u3001\u300a\u96f7\u300b\u306e\u5fa9\u6d3b\u2026\u2026\uff01\uff1f\n\nhttps://t.co/YOmC0XeyWs\n\n#\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3 #\u30bc\u30ed\u30ef\u30f3",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3",
+                "indices": [
+                    119,
+                    130
+                ]
+            },
+            {
+                "text": "\u30bc\u30ed\u30ef\u30f3",
+                "indices": [
+                    131,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "toei_zero_one",
+                "name": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3",
+                "id": 1143053726652882944,
+                "id_str": "1143053726652882944",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/YOmC0XeyWs",
+                "expanded_url": "http://kamen-rider-official.com/summaries/36",
+                "display_url": "kamen-rider-official.com/summaries/36",
+                "indices": [
+                    94,
+                    117
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4088282413,
+        "id_str": "4088282413",
+        "name": "\u6190\u4e00\u6717",
+        "screen_name": "doragoniccerezo",
+        "location": "",
+        "description": "\u5e1d\u4eac\u5927\u5b66\u6587\u5b66\u90e82\u5e74/J1\u30bb\u30ec\u30c3\u30bd\u5927\u962a\u306e\u30b5\u30dd\u30fc\u30bf\u30fc\u3067\u3042\u308a\u30d7\u30ed\u91ce\u7403\u57fc\u7389\u897f\u6b66\u30e9\u30a4\u30aa\u30f3\u30ba\u306e\u30d5\u30a1\u30f3\u3002\u8da3\u5473:\u30b2\u30fc\u30e0\u3001\u30b5\u30c3\u30ab\u30fc\u3001\u91ce\u7403\u306a\u3069\u306e\u30b9\u30dd\u30fc\u30c4\u89b3\u6226 \u597d\u304d\u306a\u9078\u624b:\u30b5\u30c3\u30ab\u30fc\u306f\u67ff\u8c37\u66dc\u4e00\u6717\u3001\u91ce\u7403\u306f\u68ee\u53cb\u54c9 \u597d\u304d\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8:LiSA \u5c0a\u656c\u3059\u308b\u4eba\u7269:\u3044\u308d\u3044\u308d\u3044\u308b\u304c\u6709\u540d\u306a\u4eba\u3092\u6319\u3052\u308b\u306a\u3089\u67ff\u8c37\u66dc\u4e00\u6717\u3068LiSA",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 201,
+        "friends_count": 849,
+        "listed_count": 13,
+        "created_at": "Sun Nov 01 07:09:19 +0000 2015",
+        "favourites_count": 204885,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 168826,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199977538547662849/y33kr-6G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199977538547662849/y33kr-6G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4088282413/1582343526",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:28:22 +0000 2020",
+        "id": 1256742362270720000,
+        "id_str": "1256742362270720000",
+        "text": "\u3010\u6b21\u56de\u30bc\u30ed\u30ef\u30f3\u3011\n\u7b2c34\u8a71\u3044\u304b\u304c\u3067\u3057\u305f\u3067\u3057\u3087\u3046\u304b\u3002\n\n\u76ee\u899a\u3081\u308b\u300a\u6ec5\u300b\u306e\u672c\u80fd\n\u8a9e\u3089\u308c\u308b\u300a\u4ea1\u300b\u306e\u5922\n\u79d8\u3081\u305f\u308b\u300a\u8fc5\u300b\u306e\u6b63\u7fa9\n\u305d\u3057\u3066\u3001\u300a\u96f7\u300b\u306e\u5fa9\u6d3b\u2026\u2026\uff01\uff1f\n\nhttps://t.co/YOmC0XeyWs\n\n#\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3 #\u30bc\u30ed\u30ef\u30f3",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3",
+                    "indices": [
+                        100,
+                        111
+                    ]
+                },
+                {
+                    "text": "\u30bc\u30ed\u30ef\u30f3",
+                    "indices": [
+                        112,
+                        117
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/YOmC0XeyWs",
+                    "expanded_url": "http://kamen-rider-official.com/summaries/36",
+                    "display_url": "kamen-rider-official.com/summaries/36",
+                    "indices": [
+                        75,
+                        98
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1143053726652882944,
+            "id_str": "1143053726652882944",
+            "name": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3",
+            "screen_name": "toei_zero_one",
+            "location": "",
+            "description": "\u4ee4\u548c\u521d\u306e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u300c\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bc\u30ed\u30ef\u30f3\u300d\u306e\u516c\u5f0fTwitter\u3067\u3059\u3002\u6bce\u9031\u65e5\u66dc\u5348\u524d9\u6642\u30c6\u30ec\u30d3\u671d\u65e5\u7cfb\u306b\u3066\u653e\u9001\u4e2d\uff01",
+            "url": "https://t.co/cqHGgQlPYY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cqHGgQlPYY",
+                            "expanded_url": "http://kamen-rider-official.com/",
+                            "display_url": "kamen-rider-official.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 163422,
+            "friends_count": 44,
+            "listed_count": 1035,
+            "created_at": "Mon Jun 24 07:10:20 +0000 2019",
+            "favourites_count": 61,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 466,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151329187908579328/HrS4F28r_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151329187908579328/HrS4F28r_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143053726652882944/1563333244",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2525,
+        "favorite_count": 3672,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2525,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "ja"
+}

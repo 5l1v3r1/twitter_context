@@ -1,0 +1,393 @@
+{
+    "created_at": "Sun May 03 00:32:51 +0000 2020",
+    "id": 1256743487279632384,
+    "id_str": "1256743487279632384",
+    "text": "RT @MunaNawabit1: #AwkwardFuneralSongs \nIf you\u2019re happy and you know it clap your hands https://t.co/JjoSfczcKr",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    18,
+                    38
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MunaNawabit1",
+                "name": "\ud83e\udd40\uaa91\uaa8a\uaa80\uaa96\ud83c\udde8\ud83c\udde6",
+                "id": 955478040158588928,
+                "id_str": "955478040158588928",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256721819442327552,
+                "id_str": "1256721819442327552",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDF1h1XsAAcWfw.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDF1h1XsAAcWfw.jpg",
+                "url": "https://t.co/JjoSfczcKr",
+                "display_url": "pic.twitter.com/JjoSfczcKr",
+                "expanded_url": "https://twitter.com/MunaNawabit1/status/1256721825775697921/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256721825775697921,
+                "source_status_id_str": "1256721825775697921",
+                "source_user_id": 955478040158588928,
+                "source_user_id_str": "955478040158588928"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256721819442327552,
+                "id_str": "1256721819442327552",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDF1h1XsAAcWfw.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDF1h1XsAAcWfw.jpg",
+                "url": "https://t.co/JjoSfczcKr",
+                "display_url": "pic.twitter.com/JjoSfczcKr",
+                "expanded_url": "https://twitter.com/MunaNawabit1/status/1256721825775697921/photo/1",
+                "type": "animated_gif",
+                "sizes": {
+                    "small": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256721825775697921,
+                "source_status_id_str": "1256721825775697921",
+                "source_user_id": 955478040158588928,
+                "source_user_id_str": "955478040158588928",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EXDF1h1XsAAcWfw.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 544690469,
+        "id_str": "544690469",
+        "name": "Leslie Nelson",
+        "screen_name": "Lesliecnelson",
+        "location": "Galveston Texas",
+        "description": "lives in Galveston, Texas-still loves the Seahawks",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 79,
+        "listed_count": 0,
+        "created_at": "Wed Apr 04 00:01:05 +0000 2012",
+        "favourites_count": 3772,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 656,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:06:46 +0000 2020",
+        "id": 1256721825775697921,
+        "id_str": "1256721825775697921",
+        "text": "#AwkwardFuneralSongs \nIf you\u2019re happy and you know it clap your hands https://t.co/JjoSfczcKr",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AwkwardFuneralSongs",
+                    "indices": [
+                        0,
+                        20
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256721819442327552,
+                    "id_str": "1256721819442327552",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDF1h1XsAAcWfw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDF1h1XsAAcWfw.jpg",
+                    "url": "https://t.co/JjoSfczcKr",
+                    "display_url": "pic.twitter.com/JjoSfczcKr",
+                    "expanded_url": "https://twitter.com/MunaNawabit1/status/1256721825775697921/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256721819442327552,
+                    "id_str": "1256721819442327552",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EXDF1h1XsAAcWfw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXDF1h1XsAAcWfw.jpg",
+                    "url": "https://t.co/JjoSfczcKr",
+                    "display_url": "pic.twitter.com/JjoSfczcKr",
+                    "expanded_url": "https://twitter.com/MunaNawabit1/status/1256721825775697921/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EXDF1h1XsAAcWfw.mp4"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 955478040158588928,
+            "id_str": "955478040158588928",
+            "name": "\ud83e\udd40\uaa91\uaa8a\uaa80\uaa96\ud83c\udde8\ud83c\udde6",
+            "screen_name": "MunaNawabit1",
+            "location": "Mississauga, Ontario",
+            "description": "Be your own kind of beautiful. Kindness is magic. Alt acc @GhostMuna Host of @321Action3 Co-host of @TagsTitanium Header by @pineapplepleas (No DMs please)",
+            "url": "https://t.co/XtuqTnFOyy",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/XtuqTnFOyy",
+                            "expanded_url": "https://twitter.com/search?q=muna%20nawabit&src=typed_query",
+                            "display_url": "twitter.com/search?q=muna%\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13643,
+            "friends_count": 10800,
+            "listed_count": 13,
+            "created_at": "Mon Jan 22 16:31:31 +0000 2018",
+            "favourites_count": 236567,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 70385,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1182545518360178688/anuoJtX0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182545518360178688/anuoJtX0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/955478040158588928/1582166664",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

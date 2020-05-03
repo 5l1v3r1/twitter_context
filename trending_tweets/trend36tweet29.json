@@ -1,0 +1,441 @@
+{
+    "created_at": "Sun May 03 00:42:26 +0000 2020",
+    "id": 1256745902359937026,
+    "id_str": "1256745902359937026",
+    "text": "RT @tlysem: Bi \u00e7ocu\u011fun s\u00fct bile i\u00e7emedi\u011fi d\u00fcnya yok olsun! \n\n#KopsunK\u0131yamet https://t.co/xbmFrNaeBI",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "KopsunK\u0131yamet",
+                "indices": [
+                    61,
+                    75
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tlysem",
+                "name": "T\u00fclay",
+                "id": 757263693633753088,
+                "id_str": "757263693633753088",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256539261219876864,
+                "id_str": "1256539261219876864",
+                "indices": [
+                    76,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXAfzPdXsAABBlu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXAfzPdXsAABBlu.jpg",
+                "url": "https://t.co/xbmFrNaeBI",
+                "display_url": "pic.twitter.com/xbmFrNaeBI",
+                "expanded_url": "https://twitter.com/tlysem/status/1256539269482545154/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 488,
+                        "h": 412,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 488,
+                        "h": 412,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 488,
+                        "h": 412,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256539269482545154,
+                "source_status_id_str": "1256539269482545154",
+                "source_user_id": 757263693633753088,
+                "source_user_id_str": "757263693633753088"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256539261219876864,
+                "id_str": "1256539261219876864",
+                "indices": [
+                    76,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXAfzPdXsAABBlu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXAfzPdXsAABBlu.jpg",
+                "url": "https://t.co/xbmFrNaeBI",
+                "display_url": "pic.twitter.com/xbmFrNaeBI",
+                "expanded_url": "https://twitter.com/tlysem/status/1256539269482545154/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 488,
+                        "h": 412,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 488,
+                        "h": 412,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 488,
+                        "h": 412,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256539269482545154,
+                "source_status_id_str": "1256539269482545154",
+                "source_user_id": 757263693633753088,
+                "source_user_id_str": "757263693633753088"
+            },
+            {
+                "id": 1256539266815086592,
+                "id_str": "1256539266815086592",
+                "indices": [
+                    76,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXAfzkTX0AAA8xM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXAfzkTX0AAA8xM.jpg",
+                "url": "https://t.co/xbmFrNaeBI",
+                "display_url": "pic.twitter.com/xbmFrNaeBI",
+                "expanded_url": "https://twitter.com/tlysem/status/1256539269482545154/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 706,
+                        "h": 431,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 415,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 706,
+                        "h": 431,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256539269482545154,
+                "source_status_id_str": "1256539269482545154",
+                "source_user_id": 757263693633753088,
+                "source_user_id_str": "757263693633753088"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1242550205159014400,
+        "id_str": "1242550205159014400",
+        "name": "Esma H\u00fcsna Karayel",
+        "screen_name": "KarayelHusna",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 133,
+        "friends_count": 272,
+        "listed_count": 0,
+        "created_at": "Tue Mar 24 20:34:03 +0000 2020",
+        "favourites_count": 2064,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3034,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242550702171447297/Y5d0EnU-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242550702171447297/Y5d0EnU-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242550205159014400/1585223366",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 11:01:21 +0000 2020",
+        "id": 1256539269482545154,
+        "id_str": "1256539269482545154",
+        "text": "Bi \u00e7ocu\u011fun s\u00fct bile i\u00e7emedi\u011fi d\u00fcnya yok olsun! \n\n#KopsunK\u0131yamet https://t.co/xbmFrNaeBI",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KopsunK\u0131yamet",
+                    "indices": [
+                        49,
+                        63
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256539261219876864,
+                    "id_str": "1256539261219876864",
+                    "indices": [
+                        64,
+                        87
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXAfzPdXsAABBlu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXAfzPdXsAABBlu.jpg",
+                    "url": "https://t.co/xbmFrNaeBI",
+                    "display_url": "pic.twitter.com/xbmFrNaeBI",
+                    "expanded_url": "https://twitter.com/tlysem/status/1256539269482545154/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 488,
+                            "h": 412,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 488,
+                            "h": 412,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 488,
+                            "h": 412,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256539261219876864,
+                    "id_str": "1256539261219876864",
+                    "indices": [
+                        64,
+                        87
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXAfzPdXsAABBlu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXAfzPdXsAABBlu.jpg",
+                    "url": "https://t.co/xbmFrNaeBI",
+                    "display_url": "pic.twitter.com/xbmFrNaeBI",
+                    "expanded_url": "https://twitter.com/tlysem/status/1256539269482545154/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 488,
+                            "h": 412,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 488,
+                            "h": 412,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 488,
+                            "h": 412,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256539266815086592,
+                    "id_str": "1256539266815086592",
+                    "indices": [
+                        64,
+                        87
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXAfzkTX0AAA8xM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXAfzkTX0AAA8xM.jpg",
+                    "url": "https://t.co/xbmFrNaeBI",
+                    "display_url": "pic.twitter.com/xbmFrNaeBI",
+                    "expanded_url": "https://twitter.com/tlysem/status/1256539269482545154/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 706,
+                            "h": 431,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 415,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 706,
+                            "h": 431,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 757263693633753088,
+            "id_str": "757263693633753088",
+            "name": "T\u00fclay",
+            "screen_name": "tlysem",
+            "location": "\u0130stanbul, izmir ",
+            "description": "*Temet Nosce* \nKitaplara, sanata ve do\u011faya a\u015f\u0131k\u2022 Evli\u2022\nAnne\u2022l\u00f6sev g\u00f6n\u00fcll\u00fcs\u00fc \u2022 Kemalist  #MustafaKemalAtat\u00fcrk #ATE\nhttps://t.co/R3uzaz1QDM\n\n#KUVVACITIM",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/R3uzaz1QDM",
+                            "expanded_url": "http://anitsayac.com",
+                            "display_url": "anitsayac.com",
+                            "indices": [
+                                114,
+                                137
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 3299,
+            "friends_count": 1580,
+            "listed_count": 5,
+            "created_at": "Sun Jul 24 17:18:28 +0000 2016",
+            "favourites_count": 31561,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11073,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255595410925723656/KqljSRId_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255595410925723656/KqljSRId_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/757263693633753088/1587244175",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 557,
+        "favorite_count": 3651,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 557,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

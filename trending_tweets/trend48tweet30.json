@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun May 03 00:40:51 +0000 2020",
+    "id": 1256745503779414019,
+    "id_str": "1256745503779414019",
+    "text": "RT @saviopr: Amoedo em 40 minutos j\u00e1 mudou toda a ideologia do Partido Novo. O que uma pandemia n\u00e3o faz. #edicao20",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "edicao20",
+                "indices": [
+                    105,
+                    114
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "saviopr",
+                "name": "Saviola \ud83e\uddec (de \ud83c\udfe0)",
+                "id": 55086505,
+                "id_str": "55086505",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1184309785044377600,
+        "id_str": "1184309785044377600",
+        "name": "vinicios",
+        "screen_name": "vinicios_silvap",
+        "location": "\u00c1gua Doce do Norte, ES",
+        "description": "jornalismo-ufes",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 85,
+        "friends_count": 367,
+        "listed_count": 0,
+        "created_at": "Wed Oct 16 03:27:22 +0000 2019",
+        "favourites_count": 18821,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1349,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235405986602631169/xCqxZnoR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235405986602631169/xCqxZnoR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184309785044377600/1572833001",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:30:16 +0000 2020",
+        "id": 1256742837783351297,
+        "id_str": "1256742837783351297",
+        "text": "Amoedo em 40 minutos j\u00e1 mudou toda a ideologia do Partido Novo. O que uma pandemia n\u00e3o faz. #edicao20",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "edicao20",
+                    "indices": [
+                        92,
+                        101
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 55086505,
+            "id_str": "55086505",
+            "name": "Saviola \ud83e\uddec (de \ud83c\udfe0)",
+            "screen_name": "saviopr",
+            "location": "",
+            "description": "Bi\u00f3logo geneticista, professor na UEPA, Remista, ateu,  social democrata, cin\u00e9filo, corredor e problematizador. Viciado em caf\u00e9 e not\u00edcias.",
+            "url": "https://t.co/ZBc8m54WDz",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZBc8m54WDz",
+                            "expanded_url": "http://instagram.com/saviola.r",
+                            "display_url": "instagram.com/saviola.r",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1565,
+            "friends_count": 1493,
+            "listed_count": 5,
+            "created_at": "Thu Jul 09 00:42:39 +0000 2009",
+            "favourites_count": 18291,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 19680,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1187065367660765184/U9bWNikn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187065367660765184/U9bWNikn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/55086505/1585072519",
+            "profile_link_color": "5F9AAB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "142734",
+            "profile_text_color": "B6AFAF",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

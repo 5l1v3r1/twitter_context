@@ -1,0 +1,264 @@
+{
+    "created_at": "Sun May 03 00:41:47 +0000 2020",
+    "id": 1256745737095798784,
+    "id_str": "1256745737095798784",
+    "text": "RT @ricklevy67: #COVID19 in children , the link in the transmission chain.\n\nhttps://t.co/NHSid36cqK\n#insiders @InsidersABC @David_Speers #a\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    16,
+                    24
+                ]
+            },
+            {
+                "text": "insiders",
+                "indices": [
+                    100,
+                    109
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ricklevy67",
+                "name": "Au Purrr , The ResistaCat",
+                "id": 927388044,
+                "id_str": "927388044",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "InsidersABC",
+                "name": "Insiders ABC",
+                "id": 1113341312,
+                "id_str": "1113341312",
+                "indices": [
+                    110,
+                    122
+                ]
+            },
+            {
+                "screen_name": "David_Speers",
+                "name": "David Speers",
+                "id": 46260680,
+                "id_str": "46260680",
+                "indices": [
+                    123,
+                    136
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/NHSid36cqK",
+                "expanded_url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30236-X/fulltext",
+                "display_url": "thelancet.com/journals/lanin\u2026",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 79597075,
+        "id_str": "79597075",
+        "name": "David Ollett",
+        "screen_name": "davidr8203",
+        "location": "Gerringong NSW Australia",
+        "description": "Also on facebook, Just search my name.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1192,
+        "friends_count": 1033,
+        "listed_count": 19,
+        "created_at": "Sun Oct 04 00:00:21 +0000 2009",
+        "favourites_count": 1538,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 142107,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1733111159/4c609871-f648-4e00-bae7-5c4145ef2e60_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1733111159/4c609871-f648-4e00-bae7-5c4145ef2e60_normal.png",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:29:03 +0000 2020",
+        "id": 1256727432259760130,
+        "id_str": "1256727432259760130",
+        "text": "#COVID19 in children , the link in the transmission chain.\n\nhttps://t.co/NHSid36cqK\n#insiders @InsidersABC\u2026 https://t.co/a2EfsCmAVt",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "text": "insiders",
+                    "indices": [
+                        84,
+                        93
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "InsidersABC",
+                    "name": "Insiders ABC",
+                    "id": 1113341312,
+                    "id_str": "1113341312",
+                    "indices": [
+                        94,
+                        106
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/NHSid36cqK",
+                    "expanded_url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30236-X/fulltext",
+                    "display_url": "thelancet.com/journals/lanin\u2026",
+                    "indices": [
+                        60,
+                        83
+                    ]
+                },
+                {
+                    "url": "https://t.co/a2EfsCmAVt",
+                    "expanded_url": "https://twitter.com/i/web/status/1256727432259760130",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        108,
+                        131
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 927388044,
+            "id_str": "927388044",
+            "name": "Au Purrr , The ResistaCat",
+            "screen_name": "ricklevy67",
+            "location": "",
+            "description": "Apiarist , Traveller, Love the out doors , Pensioner , Christian , Labor Voter, Human Rights , A Fair Go , Fishing and More",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4001,
+            "friends_count": 2571,
+            "listed_count": 120,
+            "created_at": "Mon Nov 05 11:16:34 +0000 2012",
+            "favourites_count": 74923,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 132929,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1206016875571736577/u-qaPQ1D_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206016875571736577/u-qaPQ1D_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/927388044/1569459936",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

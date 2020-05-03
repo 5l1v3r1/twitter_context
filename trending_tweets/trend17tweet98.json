@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:41:33 +0000 2020",
+    "id": 1256745676827955200,
+    "id_str": "1256745676827955200",
+    "text": "RT @islamialem_: \ufdfd\n\nG\u00f6k g\u00fcrlemesi O'na hamd ederek tespih eder. Melekler de O'nun korkusundan tespih ederler. O y\u0131ld\u0131r\u0131mlar g\u00f6nderir de onl\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "islamialem_",
+                "name": "\u00c2lem-i \u0130sl\u00e2m \u262a\ufe0e",
+                "id": 1117880742128816128,
+                "id_str": "1117880742128816128",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1244364819135897600,
+        "id_str": "1244364819135897600",
+        "name": "\ud83c\udf38\ud83d\udcabMisafir\ud83d\udcab\ud83c\udf38\ud83d\udd4b\ud83c\udf38RT",
+        "screen_name": "misafir2020",
+        "location": "",
+        "description": "\ud83c\uddf9\ud83c\uddf7Ezan \ud83c\uddf9\ud83c\uddf7Bayrak\ud83c\uddf9\ud83c\uddf7Vatan\nNe ev sahibiyim bu alem de,nede kirac\u0131, sadece bir \u00f6m\u00fcrl\u00fck misafirim ben,Geldi\u011fim saat belli Gidece\u011fim saat belli de\u011fil.@Akilkalpte",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 771,
+        "friends_count": 1139,
+        "listed_count": 0,
+        "created_at": "Sun Mar 29 20:44:40 +0000 2020",
+        "favourites_count": 4304,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3463,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244368216287334400/L6wvLgdY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244368216287334400/L6wvLgdY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244364819135897600/1585515151",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:40:38 +0000 2020",
+        "id": 1256715248612061185,
+        "id_str": "1256715248612061185",
+        "text": "\ufdfd\n\nG\u00f6k g\u00fcrlemesi O'na hamd ederek tespih eder. Melekler de O'nun korkusundan tespih ederler. O y\u0131ld\u0131r\u0131mlar g\u00f6nderir\u2026 https://t.co/IT0XXTgsax",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IT0XXTgsax",
+                    "expanded_url": "https://twitter.com/i/web/status/1256715248612061185",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1117880742128816128,
+            "id_str": "1117880742128816128",
+            "name": "\u00c2lem-i \u0130sl\u00e2m \u262a\ufe0e",
+            "screen_name": "islamialem_",
+            "location": "\u0130stanbul, T\u00fcrkiye",
+            "description": "\u00c2yet-i Ker\u00eeme, Had\u00ees-i \u015eer\u00eef, Du\u00e2 ve \u0130sl\u00e2m\u00ee S\u00f6zler",
+            "url": "https://t.co/EU5UeZpkbx",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EU5UeZpkbx",
+                            "expanded_url": "https://www.instagram.com/islamialem_/",
+                            "display_url": "instagram.com/islamialem_/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13731,
+            "friends_count": 16,
+            "listed_count": 7,
+            "created_at": "Mon Apr 15 20:01:52 +0000 2019",
+            "favourites_count": 10907,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2878,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1244666560867979267/XbvSjm-O_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244666560867979267/XbvSjm-O_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117880742128816128/1586991216",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 138,
+        "favorite_count": 872,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 138,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

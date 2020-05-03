@@ -1,0 +1,207 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745926829330432,
+    "id_str": "1256745926829330432",
+    "text": "RT @BTSPublicity: \"JEON JUNGKOOK\" is trending #1 Worldwide @BTS_twt",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BTSPublicity",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8 Publicity\u2122\u2077",
+                "id": 862145729472716801,
+                "id_str": "862145729472716801",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    59,
+                    67
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 857915458313273344,
+        "id_str": "857915458313273344",
+        "name": "nuu\u2077",
+        "screen_name": "lilbabiemochi",
+        "location": "\u263b",
+        "description": "\ubc29\ud0c4\ubc14\ub77c\uae30 \ud83c\udf3b Dream the impossible \u2728 \uc544\ud3ec\ubc29\ud3ec \ud83d\udc9c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 123,
+        "friends_count": 280,
+        "listed_count": 0,
+        "created_at": "Fri Apr 28 11:12:39 +0000 2017",
+        "favourites_count": 20062,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18210,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256662251794165761/GIjlzIeF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256662251794165761/GIjlzIeF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/857915458313273344/1587307734",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:23:54 +0000 2020",
+        "id": 1256665740322705408,
+        "id_str": "1256665740322705408",
+        "text": "\"JEON JUNGKOOK\" is trending #1 Worldwide @BTS_twt",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BTS_twt",
+                    "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                    "id": 335141638,
+                    "id_str": "335141638",
+                    "indices": [
+                        41,
+                        49
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 862145729472716801,
+            "id_str": "862145729472716801",
+            "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8 Publicity\u2122\u2077",
+            "screen_name": "BTSPublicity",
+            "location": "Worldwide",
+            "description": "for #BTS | our voting acc @btsvotingmetric | new layout: kingtandesign | 'Black Swan' MV out now on YouTube \u2193",
+            "url": "https://t.co/kkkoqNLevd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/kkkoqNLevd",
+                            "expanded_url": "https://youtu.be/0lapF4DQPKQ",
+                            "display_url": "youtu.be/0lapF4DQPKQ",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 150040,
+            "friends_count": 254,
+            "listed_count": 630,
+            "created_at": "Wed May 10 03:22:14 +0000 2017",
+            "favourites_count": 3584,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10593,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250545920388804608/DYd53Qmk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250545920388804608/DYd53Qmk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/862145729472716801/1587354813",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3905,
+        "favorite_count": 10570,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3905,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

@@ -1,0 +1,315 @@
+{
+    "created_at": "Sun May 03 00:42:35 +0000 2020",
+    "id": 1256745939580129281,
+    "id_str": "1256745939580129281",
+    "text": "RT @SehzadeVeliaht: \u015eim\u015fekler ayd\u0131nlat\u0131yorken \u0130stanbul'u,\nReis'ten nefis \u0130stanbul \u015fiiri...\n@RTErdogan \n#BuYoldanD\u00f6nmeyecegiz https://t.co/7\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BuYoldanD\u00f6nmeyecegiz",
+                "indices": [
+                    103,
+                    124
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SehzadeVeliaht",
+                "name": "Veliaht Sehzade \ud83c\uddf9\ud83c\uddf7",
+                "id": 1128044124446298113,
+                "id_str": "1128044124446298113",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "RTErdogan",
+                "name": "Recep Tayyip Erdo\u011fan",
+                "id": 68034431,
+                "id_str": "68034431",
+                "indices": [
+                    91,
+                    101
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 954427440,
+        "id_str": "954427440",
+        "name": "Vatan sevdal\u0131s\u0131",
+        "screen_name": "Vatansever1054",
+        "location": "",
+        "description": "#T\u00dcRK\u0130YEG\u00d6N\u00dcLL\u00dcLER\u0130 Cenab-\u0131 ALLAH hakk\u0131m\u0131zda en hay\u0131rl\u0131s\u0131 neyse hepimiz i\u00e7in onu nasip eder in\u015fallah.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 813,
+        "friends_count": 1248,
+        "listed_count": 2,
+        "created_at": "Sat Nov 17 22:31:32 +0000 2012",
+        "favourites_count": 8392,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27042,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253071117071388676/AZt1kExW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253071117071388676/AZt1kExW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954427440/1485194983",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:28:22 +0000 2020",
+        "id": 1256742361171996672,
+        "id_str": "1256742361171996672",
+        "text": "\u015eim\u015fekler ayd\u0131nlat\u0131yorken \u0130stanbul'u,\nReis'ten nefis \u0130stanbul \u015fiiri...\n@RTErdogan \n#BuYoldanD\u00f6nmeyecegiz https://t.co/7mERYtnfcl",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BuYoldanD\u00f6nmeyecegiz",
+                    "indices": [
+                        83,
+                        104
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RTErdogan",
+                    "name": "Recep Tayyip Erdo\u011fan",
+                    "id": 68034431,
+                    "id_str": "68034431",
+                    "indices": [
+                        71,
+                        81
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256740956591751168,
+                    "id_str": "1256740956591751168",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256740956591751168/pu/img/LSttymtT0Auq_dYo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256740956591751168/pu/img/LSttymtT0Auq_dYo.jpg",
+                    "url": "https://t.co/7mERYtnfcl",
+                    "display_url": "pic.twitter.com/7mERYtnfcl",
+                    "expanded_url": "https://twitter.com/SehzadeVeliaht/status/1256742361171996672/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256740956591751168,
+                    "id_str": "1256740956591751168",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256740956591751168/pu/img/LSttymtT0Auq_dYo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256740956591751168/pu/img/LSttymtT0Auq_dYo.jpg",
+                    "url": "https://t.co/7mERYtnfcl",
+                    "display_url": "pic.twitter.com/7mERYtnfcl",
+                    "expanded_url": "https://twitter.com/SehzadeVeliaht/status/1256742361171996672/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            20,
+                            11
+                        ],
+                        "duration_millis": 57920,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256740956591751168/pu/vid/490x270/umbVMq-lZioFKLxt.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256740956591751168/pu/pl/5zsofcXrKnauyW8q.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256740956591751168/pu/vid/640x352/V4Z88ZX9MsF_vEFy.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1128044124446298113,
+            "id_str": "1128044124446298113",
+            "name": "Veliaht Sehzade \ud83c\uddf9\ud83c\uddf7",
+            "screen_name": "SehzadeVeliaht",
+            "location": "\u0130stanbul, T\u00fcrkiye",
+            "description": "La \u011falibe \u0130llallah...\n\u00d6leceksek ADAM gibi \u00f6lelim...\n#T\u00fcrkiyeG\u00f6n\u00fcll\u00fcleri",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1031,
+            "friends_count": 1951,
+            "listed_count": 0,
+            "created_at": "Mon May 13 21:07:32 +0000 2019",
+            "favourites_count": 27636,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6104,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249692493618335745/jyvBNzoG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249692493618335745/jyvBNzoG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128044124446298113/1557783567",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

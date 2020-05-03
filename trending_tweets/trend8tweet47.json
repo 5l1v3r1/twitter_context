@@ -1,0 +1,491 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745946009833472,
+    "id_str": "1256745946009833472",
+    "text": "RT @stopshippingpls: jeon jungkook being the babiest when wearing that shirt https://t.co/XjkPaEEYIh",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "stopshippingpls",
+                "name": "busan baes\u2077 \ud83d\udc3e\ud83e\udd55",
+                "id": 914649029979594752,
+                "id_str": "914649029979594752",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256659863956045829,
+                "id_str": "1256659863956045829",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCNfPqXQAUQ_a5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCNfPqXQAUQ_a5.jpg",
+                "url": "https://t.co/XjkPaEEYIh",
+                "display_url": "pic.twitter.com/XjkPaEEYIh",
+                "expanded_url": "https://twitter.com/stopshippingpls/status/1256659899230142464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 843,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1438,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 477,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256659899230142464,
+                "source_status_id_str": "1256659899230142464",
+                "source_user_id": 914649029979594752,
+                "source_user_id_str": "914649029979594752"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256659863956045829,
+                "id_str": "1256659863956045829",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCNfPqXQAUQ_a5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCNfPqXQAUQ_a5.jpg",
+                "url": "https://t.co/XjkPaEEYIh",
+                "display_url": "pic.twitter.com/XjkPaEEYIh",
+                "expanded_url": "https://twitter.com/stopshippingpls/status/1256659899230142464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 843,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1438,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 477,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256659899230142464,
+                "source_status_id_str": "1256659899230142464",
+                "source_user_id": 914649029979594752,
+                "source_user_id_str": "914649029979594752"
+            },
+            {
+                "id": 1256659883992272898,
+                "id_str": "1256659883992272898",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCNgaTX0AI0BkV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCNgaTX0AI0BkV.jpg",
+                "url": "https://t.co/XjkPaEEYIh",
+                "display_url": "pic.twitter.com/XjkPaEEYIh",
+                "expanded_url": "https://twitter.com/stopshippingpls/status/1256659899230142464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1036,
+                        "h": 1157,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1036,
+                        "h": 1157,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 609,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256659899230142464,
+                "source_status_id_str": "1256659899230142464",
+                "source_user_id": 914649029979594752,
+                "source_user_id_str": "914649029979594752"
+            },
+            {
+                "id": 1256659893173583875,
+                "id_str": "1256659893173583875",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCNg8gXgAMEwhZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCNg8gXgAMEwhZ.jpg",
+                "url": "https://t.co/XjkPaEEYIh",
+                "display_url": "pic.twitter.com/XjkPaEEYIh",
+                "expanded_url": "https://twitter.com/stopshippingpls/status/1256659899230142464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 634,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 933,
+                        "h": 1001,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 933,
+                        "h": 1001,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256659899230142464,
+                "source_status_id_str": "1256659899230142464",
+                "source_user_id": 914649029979594752,
+                "source_user_id_str": "914649029979594752"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1024990209585242112,
+        "id_str": "1024990209585242112",
+        "name": "\u2077 PROD. & FT. SUGA",
+        "screen_name": "93lucids",
+        "location": "",
+        "description": "old acc got s worded",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 411,
+        "friends_count": 375,
+        "listed_count": 2,
+        "created_at": "Thu Aug 02 12:08:04 +0000 2018",
+        "favourites_count": 1553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1553,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252271413005697024/3Da_cwyS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252271413005697024/3Da_cwyS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1024990209585242112/1587278224",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:00:42 +0000 2020",
+        "id": 1256659899230142464,
+        "id_str": "1256659899230142464",
+        "text": "jeon jungkook being the babiest when wearing that shirt https://t.co/XjkPaEEYIh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256659863956045829,
+                    "id_str": "1256659863956045829",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCNfPqXQAUQ_a5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCNfPqXQAUQ_a5.jpg",
+                    "url": "https://t.co/XjkPaEEYIh",
+                    "display_url": "pic.twitter.com/XjkPaEEYIh",
+                    "expanded_url": "https://twitter.com/stopshippingpls/status/1256659899230142464/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 843,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1438,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 477,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256659863956045829,
+                    "id_str": "1256659863956045829",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCNfPqXQAUQ_a5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCNfPqXQAUQ_a5.jpg",
+                    "url": "https://t.co/XjkPaEEYIh",
+                    "display_url": "pic.twitter.com/XjkPaEEYIh",
+                    "expanded_url": "https://twitter.com/stopshippingpls/status/1256659899230142464/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 843,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1438,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 477,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256659883992272898,
+                    "id_str": "1256659883992272898",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCNgaTX0AI0BkV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCNgaTX0AI0BkV.jpg",
+                    "url": "https://t.co/XjkPaEEYIh",
+                    "display_url": "pic.twitter.com/XjkPaEEYIh",
+                    "expanded_url": "https://twitter.com/stopshippingpls/status/1256659899230142464/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1036,
+                            "h": 1157,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1036,
+                            "h": 1157,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 609,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256659893173583875,
+                    "id_str": "1256659893173583875",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCNg8gXgAMEwhZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCNg8gXgAMEwhZ.jpg",
+                    "url": "https://t.co/XjkPaEEYIh",
+                    "display_url": "pic.twitter.com/XjkPaEEYIh",
+                    "expanded_url": "https://twitter.com/stopshippingpls/status/1256659899230142464/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 634,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 933,
+                            "h": 1001,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 933,
+                            "h": 1001,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 914649029979594752,
+            "id_str": "914649029979594752",
+            "name": "busan baes\u2077 \ud83d\udc3e\ud83e\udd55",
+            "screen_name": "stopshippingpls",
+            "location": "jikook's heart",
+            "description": "\ud83d\udc30\ud83d\udc23 #\uc9c0\ubbfc #\uafb9  | GCF \n  @BTS_twt fan account",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 56248,
+            "friends_count": 490,
+            "listed_count": 513,
+            "created_at": "Mon Oct 02 00:31:36 +0000 2017",
+            "favourites_count": 66328,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 47142,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248796995273330696/QO-xfiEq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248796995273330696/QO-xfiEq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/914649029979594752/1586570915",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6083,
+        "favorite_count": 18845,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6083,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

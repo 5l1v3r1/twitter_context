@@ -1,0 +1,293 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745924833021956,
+    "id_str": "1256745924833021956",
+    "text": "RT @Almaharel: No one:\n\n2020: Release the MURDER HORNETS.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Almaharel",
+                "name": "Alma Har'el\ud83c\udf2a",
+                "id": 271248939,
+                "id_str": "271248939",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 60371021,
+        "id_str": "60371021",
+        "name": "\u25b3\u20d2\u20d8Melissa \u26af\u035b",
+        "screen_name": "_sitaa_",
+        "location": "On the dance floor",
+        "description": "This is your life; make it legen(wait for it)dary \ud83d\udcab. My life is one (1) huge typo \ud83e\udd23 \u263c Scorpio \u263d Libra \u21e1 Scorpio. Ee Dee Em \ud83c\udfb6. \ud83e\udd80\ud83c\uddec\ud83c\uddf9 IG:_sitaa_",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 990,
+        "friends_count": 978,
+        "listed_count": 16,
+        "created_at": "Sun Jul 26 19:03:25 +0000 2009",
+        "favourites_count": 28781,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 106900,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0E4BB3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248774810949345280/o3T5wCSH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248774810949345280/o3T5wCSH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60371021/1575344239",
+        "profile_link_color": "26E6ED",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:12:05 +0000 2020",
+        "id": 1256632565013737473,
+        "id_str": "1256632565013737473",
+        "text": "No one:\n\n2020: Release the MURDER HORNETS. https://t.co/64Mi3q8POS",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/64Mi3q8POS",
+                    "expanded_url": "https://twitter.com/ByMikeBaker/status/1256601113605705733",
+                    "display_url": "twitter.com/ByMikeBaker/st\u2026",
+                    "indices": [
+                        43,
+                        66
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 271248939,
+            "id_str": "271248939",
+            "name": "Alma Har'el\ud83c\udf2a",
+            "screen_name": "Almaharel",
+            "location": "Sleepy Hollow, CA",
+            "description": "Directress \ud83c\udfac @BombayBeach @iTunes | LoveTrue @Netflix | @HoneyBoyMovie @PrimeVideo | Founder of @FREETHEWORK",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33692,
+            "friends_count": 1598,
+            "listed_count": 218,
+            "created_at": "Thu Mar 24 04:11:59 +0000 2011",
+            "favourites_count": 5549,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 6707,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253026118539440129/xOZJFYcO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253026118539440129/xOZJFYcO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/271248939/1567860215",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256601113605705733,
+        "quoted_status_id_str": "1256601113605705733",
+        "quoted_status": {
+            "created_at": "Sat May 02 15:07:06 +0000 2020",
+            "id": 1256601113605705733,
+            "id_str": "1256601113605705733",
+            "text": "A new threat reaches the United States: A massive hornet with mandibles that rip bees to shreds and a stinger so po\u2026 https://t.co/5IS5l3UJjK",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/5IS5l3UJjK",
+                        "expanded_url": "https://twitter.com/i/web/status/1256601113605705733",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 178065733,
+                "id_str": "178065733",
+                "name": "Mike Baker",
+                "screen_name": "ByMikeBaker",
+                "location": "Washington/Oregon/Idaho/Alaska",
+                "description": "Correspondent for @nytimes, based in the Northwest. Reporting on coronavirus. Tips welcome via DM or Signal: 646-394-3002",
+                "url": "https://t.co/zySc5eZcsk",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/zySc5eZcsk",
+                                "expanded_url": "https://www.nytimes.com/by/mike-baker",
+                                "display_url": "nytimes.com/by/mike-baker",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28434,
+                "friends_count": 1380,
+                "listed_count": 984,
+                "created_at": "Fri Aug 13 19:47:08 +0000 2010",
+                "favourites_count": 3317,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 9181,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/890984076424826880/3jgdPGGn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/890984076424826880/3jgdPGGn_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/178065733/1417448065",
+                "profile_link_color": "1F98C7",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DAECF4",
+                "profile_text_color": "663B12",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8043,
+            "favorite_count": 14422,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 3522,
+        "favorite_count": 9310,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256601113605705733,
+    "quoted_status_id_str": "1256601113605705733",
+    "retweet_count": 3522,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

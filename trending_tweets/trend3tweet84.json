@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun May 03 00:42:09 +0000 2020",
+    "id": 1256745827529359363,
+    "id_str": "1256745827529359363",
+    "text": "Son arzumuz budur fani d\u00fcnyada:\n\"T\u00fcrk'\u00fcz, varaca\u011f\u0131z K\u0131z\u0131lelma'ya...\"\n\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc https://t.co/uysy4mJTnu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    70,
+                    90
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256745821900615685,
+                "id_str": "1256745821900615685",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbqp9XsAUhU1K.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbqp9XsAUhU1K.jpg",
+                "url": "https://t.co/uysy4mJTnu",
+                "display_url": "pic.twitter.com/uysy4mJTnu",
+                "expanded_url": "https://twitter.com/bekircan_eroglu/status/1256745827529359363/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 608,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 608,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256745821900615685,
+                "id_str": "1256745821900615685",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDbqp9XsAUhU1K.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDbqp9XsAUhU1K.jpg",
+                "url": "https://t.co/uysy4mJTnu",
+                "display_url": "pic.twitter.com/uysy4mJTnu",
+                "expanded_url": "https://twitter.com/bekircan_eroglu/status/1256745827529359363/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 608,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 608,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 967830103903391745,
+        "id_str": "967830103903391745",
+        "name": "Bekir Can Ero\u011flu",
+        "screen_name": "bekircan_eroglu",
+        "location": "Ankara, T\u00fcrkiye",
+        "description": "Gamzedeyim deva bulmam",
+        "url": "https://t.co/WjzBwfSXKq",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/WjzBwfSXKq",
+                        "expanded_url": "https://instagram.com/bekircan.eroglu?igshid=17ucluq5n8nbg",
+                        "display_url": "instagram.com/bekircan.erogl\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 323,
+        "friends_count": 199,
+        "listed_count": 0,
+        "created_at": "Sun Feb 25 18:34:13 +0000 2018",
+        "favourites_count": 6185,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 981,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256148891898204160/VQDLDaHY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256148891898204160/VQDLDaHY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/967830103903391745/1583404940",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "tr"
+}

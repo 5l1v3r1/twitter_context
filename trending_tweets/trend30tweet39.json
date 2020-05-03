@@ -1,0 +1,96 @@
+{
+    "created_at": "Sun May 03 00:37:21 +0000 2020",
+    "id": 1256744620639297539,
+    "id_str": "1256744620639297539",
+    "text": "Segunda tem #LiveProjetoSola\n\n#LiveDoResgate",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveProjetoSola",
+                "indices": [
+                    12,
+                    28
+                ]
+            },
+            {
+                "text": "LiveDoResgate",
+                "indices": [
+                    30,
+                    44
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 82700550,
+        "id_str": "82700550",
+        "name": "Gih Oliveira Rufino (em \ud83c\udfe0)",
+        "screen_name": "giholiveiru",
+        "location": "SP/ZL",
+        "description": "Entender a vontade de Deus nem sempre \u00e9 f\u00e1cil, mas crer que Ele est\u00e1 no comando e tem um plano pra nossa vida, faz a caminhada valer \u00e0 pena.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 89,
+        "friends_count": 206,
+        "listed_count": 1,
+        "created_at": "Thu Oct 15 20:06:40 +0000 2009",
+        "favourites_count": 205,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3089,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3120828054/c90d7130a74354b1bac33a3148ad063d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3120828054/c90d7130a74354b1bac33a3148ad063d_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82700550/1585255884",
+        "profile_link_color": "A10000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E8E8E8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

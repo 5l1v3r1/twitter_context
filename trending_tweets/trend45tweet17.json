@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:42:30 +0000 2020",
+    "id": 1256745917971120129,
+    "id_str": "1256745917971120129",
+    "text": "RT @ahmetsaymadi: Bir insan\u0131m\u0131z\u0131 daha kaybetmeyelim. \nTalepleri kar\u015f\u0131lans\u0131n! \n\u0130brahim G\u00f6k\u00e7ek ya\u015fas\u0131n!\n#SesiDuy\u0130brahimYASASIN",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYASASIN",
+                "indices": [
+                    102,
+                    124
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ahmetsaymadi",
+                "name": "Ahmet Saymadi",
+                "id": 276024870,
+                "id_str": "276024870",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 924156692,
+        "id_str": "924156692",
+        "name": "gokky",
+        "screen_name": "Gokdar",
+        "location": "\u0130stanbul-Konstantinopolis",
+        "description": "Bilgi University",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 117,
+        "friends_count": 372,
+        "listed_count": 0,
+        "created_at": "Sat Nov 03 22:29:15 +0000 2012",
+        "favourites_count": 840,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 80,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "03072D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240007338192445440/0KHTUH2__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240007338192445440/0KHTUH2__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/924156692/1584475765",
+        "profile_link_color": "723AA6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "030516",
+        "profile_text_color": "16818E",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:19:23 +0000 2020",
+        "id": 1256649502058053632,
+        "id_str": "1256649502058053632",
+        "text": "Bir insan\u0131m\u0131z\u0131 daha kaybetmeyelim. \nTalepleri kar\u015f\u0131lans\u0131n! \n\u0130brahim G\u00f6k\u00e7ek ya\u015fas\u0131n!\n#SesiDuy\u0130brahimYASASIN",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYASASIN",
+                    "indices": [
+                        84,
+                        106
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 276024870,
+            "id_str": "276024870",
+            "name": "Ahmet Saymadi",
+            "screen_name": "ahmetsaymadi",
+            "location": "\u0130stanbul",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 23926,
+            "friends_count": 484,
+            "listed_count": 130,
+            "created_at": "Sat Apr 02 13:59:53 +0000 2011",
+            "favourites_count": 3603,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 18434,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/959965522728235008/m18MqERz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/959965522728235008/m18MqERz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/276024870/1398324873",
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 40,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

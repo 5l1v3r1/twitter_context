@@ -1,0 +1,120 @@
+{
+    "created_at": "Sun May 03 00:42:35 +0000 2020",
+    "id": 1256745937281724419,
+    "id_str": "1256745937281724419",
+    "text": "@sta_130 #\u0631\u0645\u0636\u0627\u0646_\u0643\u0631\u064a\u0645\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n#\u0641\u0639\u0627\u0644\u064a\u0627\u062a_\u0631\u0648\u0642\u0627\u0646_\u0641\u064a_\u0631\u0645\u0636\u0627\u0646\n#\u062d\u0631\u0648\u0641_\u0631\u0648\u0642\u0627\u0646_\u0641\u064a_\u0631\u0645\u0636\u0627\u0646\n #\u0648\u0632\u064a\u0631_\u0627\u0644\u0645\u0627\u0644\u064a\u0647 \n\n\u0627\u0644\u0631\u0627\u062f\u0641\u0647",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u0631\u0645\u0636\u0627\u0646_\u0643\u0631\u064a\u0645",
+                "indices": [
+                    9,
+                    20
+                ]
+            },
+            {
+                "text": "\u0641\u0639\u0627\u0644\u064a\u0627\u062a_\u0631\u0648\u0642\u0627\u0646_\u0641\u064a_\u0631\u0645\u0636\u0627\u0646",
+                "indices": [
+                    34,
+                    57
+                ]
+            },
+            {
+                "text": "\u062d\u0631\u0648\u0641_\u0631\u0648\u0642\u0627\u0646_\u0641\u064a_\u0631\u0645\u0636\u0627\u0646",
+                "indices": [
+                    58,
+                    78
+                ]
+            },
+            {
+                "text": "\u0648\u0632\u064a\u0631_\u0627\u0644\u0645\u0627\u0644\u064a\u0647",
+                "indices": [
+                    80,
+                    93
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sta_130",
+                "name": "\u0631\u0648\u0642\u0627\u0646 \u0627\u0633\u0628\u0627\u0646\u064a \ud83c\uddf8\ud83c\udde6",
+                "id": 1069615404,
+                "id_str": "1069615404",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ar",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1256654217009344512,
+    "in_reply_to_status_id_str": "1256654217009344512",
+    "in_reply_to_user_id": 1069615404,
+    "in_reply_to_user_id_str": "1069615404",
+    "in_reply_to_screen_name": "sta_130",
+    "user": {
+        "id": 840342702633934848,
+        "id_str": "840342702633934848",
+        "name": "\u2022\u2022",
+        "screen_name": "roooos1255",
+        "location": "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 669,
+        "listed_count": 0,
+        "created_at": "Fri Mar 10 23:24:47 +0000 2017",
+        "favourites_count": 197,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 334,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253823279833513984/osrfuqZW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253823279833513984/osrfuqZW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ar"
+}

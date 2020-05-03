@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:41:43 +0000 2020",
+    "id": 1256745720008359936,
+    "id_str": "1256745720008359936",
+    "text": "RT @DorcasLarbi9: If #3MusicAwards20 is over dier, let get Bernard on the trend again na Ghana dier we like that dodo.\nWhen someone die noo\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3MusicAwards20",
+                "indices": [
+                    21,
+                    36
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DorcasLarbi9",
+                "name": "Obaadwo Nhyira Larbi",
+                "id": 409293466,
+                "id_str": "409293466",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1254672060107894790,
+        "id_str": "1254672060107894790",
+        "name": "Blarh Marvin \ud83e\udd18\ud83c\udfcb",
+        "screen_name": "blarh_marvin",
+        "location": "Sekondi Takoradi ",
+        "description": "Determination... A soldier\u2764\u2764 Never blame solely yourself for any misfortune of life, because no single raindrop is responsible for flood\u2763\u2763\n@Sarkodie @sarknation",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 661,
+        "friends_count": 1190,
+        "listed_count": 0,
+        "created_at": "Mon Apr 27 07:21:57 +0000 2020",
+        "favourites_count": 301,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 532,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254672192475992065/1Tr_nmCH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254672192475992065/1Tr_nmCH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254672060107894790/1588197434",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:34 +0000 2020",
+        "id": 1256745430878228482,
+        "id_str": "1256745430878228482",
+        "text": "If #3MusicAwards20 is over dier, let get Bernard on the trend again na Ghana dier we like that dodo.\nWhen someone d\u2026 https://t.co/ErBA4uFbLA",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3MusicAwards20",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ErBA4uFbLA",
+                    "expanded_url": "https://twitter.com/i/web/status/1256745430878228482",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 409293466,
+            "id_str": "409293466",
+            "name": "Obaadwo Nhyira Larbi",
+            "screen_name": "DorcasLarbi9",
+            "location": "Koforidua, Ghana",
+            "description": "Believe in FAITH & TIME\n\nI'm the shuga in ur chloroquine.\nur upcoming actress who is scared of the cam n the cam is afraid of her.\nur gud listerner.",
+            "url": "https://t.co/E6fYpUuJYB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/E6fYpUuJYB",
+                            "expanded_url": "http://joydaddymultimedia.com",
+                            "display_url": "joydaddymultimedia.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 132,
+            "friends_count": 500,
+            "listed_count": 0,
+            "created_at": "Thu Nov 10 14:53:16 +0000 2011",
+            "favourites_count": 1740,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 383,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1198653697208836101/_oi1P7-y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198653697208836101/_oi1P7-y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/409293466/1429284501",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

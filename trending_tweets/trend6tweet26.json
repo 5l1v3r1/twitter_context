@@ -1,0 +1,186 @@
+{
+    "created_at": "Sun May 03 00:39:56 +0000 2020",
+    "id": 1256745269993103362,
+    "id_str": "1256745269993103362",
+    "text": "RT @anaclaudrs: Gino e geno eh b\u00e3o demais",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "anaclaudrs",
+                "name": "Ana Cl\u00e1udia",
+                "id": 1091187407247024128,
+                "id_str": "1091187407247024128",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 238241780,
+        "id_str": "238241780",
+        "name": "Guilherme Bessa",
+        "screen_name": "guimorais13",
+        "location": "Pindamonhangaba, Brasil",
+        "description": "Como Gordura e Bebo Cerveja,\nF\u00e3 do Stallone, de Sertanejo, do Futebol e da Engenharia...",
+        "url": "https://t.co/xtk0xZ7FW7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/xtk0xZ7FW7",
+                        "expanded_url": "https://www.instagram.com/gmbessa/",
+                        "display_url": "instagram.com/gmbessa/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 760,
+        "friends_count": 566,
+        "listed_count": 0,
+        "created_at": "Fri Jan 14 18:12:38 +0000 2011",
+        "favourites_count": 12751,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3801,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969968565435629569/5arBLqxY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969968565435629569/5arBLqxY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/238241780/1451867696",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:14:45 +0000 2020",
+        "id": 1256738933054078981,
+        "id_str": "1256738933054078981",
+        "text": "Gino e geno eh b\u00e3o demais",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1091187407247024128,
+            "id_str": "1091187407247024128",
+            "name": "Ana Cl\u00e1udia",
+            "screen_name": "anaclaudrs",
+            "location": "",
+            "description": "Busquem conhecimento || TI - CEFET-MG V",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 260,
+            "friends_count": 321,
+            "listed_count": 0,
+            "created_at": "Fri Feb 01 04:12:05 +0000 2019",
+            "favourites_count": 2405,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1069,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256357304372539394/MF7vshj9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256357304372539394/MF7vshj9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091187407247024128/1588029012",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

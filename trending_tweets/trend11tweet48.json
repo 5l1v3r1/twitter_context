@@ -1,0 +1,491 @@
+{
+    "created_at": "Sun May 03 00:41:17 +0000 2020",
+    "id": 1256745612328001541,
+    "id_str": "1256745612328001541",
+    "text": "RT @huyh172: Infinity War \nEndgame\nAge of Ultron\nThe Avengers https://t.co/BHfoz3LtpS",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "huyh172",
+                "name": "huyh",
+                "id": 116883685,
+                "id_str": "116883685",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/BHfoz3LtpS",
+                "expanded_url": "https://twitter.com/DiscussingFilm/status/1256639591525896193",
+                "display_url": "twitter.com/DiscussingFilm\u2026",
+                "indices": [
+                    62,
+                    85
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1090535526,
+        "id_str": "1090535526",
+        "name": "Ryan Leger",
+        "screen_name": "RyanLeger2",
+        "location": "Toronto, Ontario",
+        "description": "Student. Aspiring screenwriter and filmmaker.",
+        "url": "https://t.co/RRg5UQngwY",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/RRg5UQngwY",
+                        "expanded_url": "http://chng.it/nhJmzCD4Kr",
+                        "display_url": "chng.it/nhJmzCD4Kr",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 180,
+        "friends_count": 1444,
+        "listed_count": 6,
+        "created_at": "Tue Jan 15 00:11:20 +0000 2013",
+        "favourites_count": 3583,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10069,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3633278864/65972f06059ca12e93ed5c1bd6f77222_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3633278864/65972f06059ca12e93ed5c1bd6f77222_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:41:06 +0000 2020",
+        "id": 1256745562730369031,
+        "id_str": "1256745562730369031",
+        "text": "Infinity War \nEndgame\nAge of Ultron\nThe Avengers https://t.co/BHfoz3LtpS",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/BHfoz3LtpS",
+                    "expanded_url": "https://twitter.com/DiscussingFilm/status/1256639591525896193",
+                    "display_url": "twitter.com/DiscussingFilm\u2026",
+                    "indices": [
+                        49,
+                        72
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 116883685,
+            "id_str": "116883685",
+            "name": "huyh",
+            "screen_name": "huyh172",
+            "location": "spring, Texas",
+            "description": "just a guy who plays video games on the internet",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 35,
+            "friends_count": 130,
+            "listed_count": 1,
+            "created_at": "Tue Feb 23 21:49:21 +0000 2010",
+            "favourites_count": 192,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5947,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/463703775295705088/cdRay_zl_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/463703775295705088/cdRay_zl_normal.jpeg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "0000FF",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256639591525896193,
+        "quoted_status_id_str": "1256639591525896193",
+        "quoted_status": {
+            "created_at": "Sat May 02 17:40:00 +0000 2020",
+            "id": 1256639591525896193,
+            "id_str": "1256639591525896193",
+            "text": "Now that we have determined the best Avengers film...\n\nRank all four Avengers films from best to worst. https://t.co/IHIuxrzgzb",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1256639575818153996,
+                        "id_str": "1256639575818153996",
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXB7CUdWsAwLrgV.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXB7CUdWsAwLrgV.jpg",
+                        "url": "https://t.co/IHIuxrzgzb",
+                        "display_url": "pic.twitter.com/IHIuxrzgzb",
+                        "expanded_url": "https://twitter.com/DiscussingFilm/status/1256639591525896193/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1256639575818153996,
+                        "id_str": "1256639575818153996",
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXB7CUdWsAwLrgV.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXB7CUdWsAwLrgV.jpg",
+                        "url": "https://t.co/IHIuxrzgzb",
+                        "display_url": "pic.twitter.com/IHIuxrzgzb",
+                        "expanded_url": "https://twitter.com/DiscussingFilm/status/1256639591525896193/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1256639576283721728,
+                        "id_str": "1256639576283721728",
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXB7CWMWsAAUeN8.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXB7CWMWsAAUeN8.jpg",
+                        "url": "https://t.co/IHIuxrzgzb",
+                        "display_url": "pic.twitter.com/IHIuxrzgzb",
+                        "expanded_url": "https://twitter.com/DiscussingFilm/status/1256639591525896193/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 750,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1256639582801723394,
+                        "id_str": "1256639582801723394",
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXB7CueXgAI1352.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXB7CueXgAI1352.jpg",
+                        "url": "https://t.co/IHIuxrzgzb",
+                        "display_url": "pic.twitter.com/IHIuxrzgzb",
+                        "expanded_url": "https://twitter.com/DiscussingFilm/status/1256639591525896193/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1256639583309234176,
+                        "id_str": "1256639583309234176",
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXB7CwXXgAAsICm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXB7CwXXgAAsICm.jpg",
+                        "url": "https://t.co/IHIuxrzgzb",
+                        "display_url": "pic.twitter.com/IHIuxrzgzb",
+                        "expanded_url": "https://twitter.com/DiscussingFilm/status/1256639591525896193/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1152,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 780460754910732288,
+                "id_str": "780460754910732288",
+                "name": "DiscussingFilm",
+                "screen_name": "DiscussingFilm",
+                "location": "press@discussingfilm.com",
+                "description": "Your leading source in quick reliable news and one of a kind content. Home for healthy and liberating discussion on all things pop culture.",
+                "url": "https://t.co/ojGSqhkrfP",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ojGSqhkrfP",
+                                "expanded_url": "http://discussingfilm.net/",
+                                "display_url": "discussingfilm.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 67890,
+                "friends_count": 431,
+                "listed_count": 432,
+                "created_at": "Mon Sep 26 17:35:19 +0000 2016",
+                "favourites_count": 2658,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 19596,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1191180251159810049/w5JjDw1j_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191180251159810049/w5JjDw1j_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/780460754910732288/1572834478",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 182,
+            "favorite_count": 1716,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256639591525896193,
+    "quoted_status_id_str": "1256639591525896193",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

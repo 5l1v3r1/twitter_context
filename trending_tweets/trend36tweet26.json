@@ -1,0 +1,146 @@
+{
+    "created_at": "Sun May 03 00:42:30 +0000 2020",
+    "id": 1256745916033306624,
+    "id_str": "1256745916033306624",
+    "text": "@kemalk71 #GeceyeBirNot \n#KopsunK\u0131yamet\n#pazar",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "GeceyeBirNot",
+                "indices": [
+                    10,
+                    23
+                ]
+            },
+            {
+                "text": "KopsunK\u0131yamet",
+                "indices": [
+                    25,
+                    39
+                ]
+            },
+            {
+                "text": "pazar",
+                "indices": [
+                    40,
+                    46
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kemalk71",
+                "name": "Kemal K.",
+                "id": 1112769738,
+                "id_str": "1112769738",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1256739790998974470,
+    "in_reply_to_status_id_str": "1256739790998974470",
+    "in_reply_to_user_id": 1112769738,
+    "in_reply_to_user_id_str": "1112769738",
+    "in_reply_to_screen_name": "kemalk71",
+    "user": {
+        "id": 922141463642853376,
+        "id_str": "922141463642853376",
+        "name": "@Habere_Yorum",
+        "screen_name": "Habere_Yorum",
+        "location": "\ud83c\udf0fT\u00fcrkiye\ud83c\udf0f",
+        "description": "HabereYorum https://t.co/ZL779fy8JF & https://t.co/JMMIzVmQhh",
+        "url": "https://t.co/54myLyCY7i",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/54myLyCY7i",
+                        "expanded_url": "https://www.youtube.com/channel/UC5K576Mx5iaUELOpwU-4tQA",
+                        "display_url": "youtube.com/channel/UC5K57\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZL779fy8JF",
+                        "expanded_url": "http://habereyorum-bayrak.blogspot.com",
+                        "display_url": "habereyorum-bayrak.blogspot.com",
+                        "indices": [
+                            12,
+                            35
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/JMMIzVmQhh",
+                        "expanded_url": "http://facebook.com/HABEREYORUM/",
+                        "display_url": "facebook.com/HABEREYORUM/",
+                        "indices": [
+                            38,
+                            61
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 5882,
+        "friends_count": 5810,
+        "listed_count": 6,
+        "created_at": "Sun Oct 22 16:43:52 +0000 2017",
+        "favourites_count": 39760,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22532,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1182767520983506944/eaTzcHNo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182767520983506944/eaTzcHNo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/922141463642853376/1586884509",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

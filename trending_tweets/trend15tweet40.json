@@ -1,0 +1,198 @@
+{
+    "created_at": "Sun May 03 00:42:23 +0000 2020",
+    "id": 1256745886912258050,
+    "id_str": "1256745886912258050",
+    "text": "RT @Sergeant1730: #Bitlis mekanlar\u0131 cennet olsun. Y\u0131llard\u0131r bu yi\u011fitlerin \u00f6zl\u00fck haklar\u0131ndaki s\u0131k\u0131nt\u0131lar\u0131 g\u00f6rmezden gelen yetkililer hangi y\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    18,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Sergeant1730",
+                "name": "Sergeant",
+                "id": 1097888645363761152,
+                "id_str": "1097888645363761152",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1243944253874671618,
+        "id_str": "1243944253874671618",
+        "name": "Bekir",
+        "screen_name": "Bekirkarali91",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 82,
+        "friends_count": 115,
+        "listed_count": 0,
+        "created_at": "Sat Mar 28 16:53:24 +0000 2020",
+        "favourites_count": 1613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1705,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243944520523415552/15W6SEGu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243944520523415552/15W6SEGu_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:11:19 +0000 2020",
+        "id": 1256677672450764801,
+        "id_str": "1256677672450764801",
+        "text": "#Bitlis mekanlar\u0131 cennet olsun. Y\u0131llard\u0131r bu yi\u011fitlerin \u00f6zl\u00fck haklar\u0131ndaki s\u0131k\u0131nt\u0131lar\u0131 g\u00f6rmezden gelen yetkililer h\u2026 https://t.co/1GSy43BlUR",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1GSy43BlUR",
+                    "expanded_url": "https://twitter.com/i/web/status/1256677672450764801",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1097888645363761152,
+            "id_str": "1097888645363761152",
+            "name": "Sergeant",
+            "screen_name": "Sergeant1730",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 77,
+            "friends_count": 42,
+            "listed_count": 0,
+            "created_at": "Tue Feb 19 16:00:25 +0000 2019",
+            "favourites_count": 2973,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1569,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1097970388305432576/dfHrnxBk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097970388305432576/dfHrnxBk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097888645363761152/1550611513",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

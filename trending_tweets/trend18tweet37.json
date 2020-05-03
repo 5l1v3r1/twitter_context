@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:53 +0000 2020",
+    "id": 1256746011835285505,
+    "id_str": "1256746011835285505",
+    "text": "\u307c\u308d\u8ca0\u3051\u3060 #nitiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    6,
+                    14
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 72728619,
+        "id_str": "72728619",
+        "name": "\u307f\u3065\u306a@\u6765\u6d77\ud83c\udf46\ud83c\udf6c",
+        "screen_name": "kamo__negi",
+        "location": "\u4fe1\u5dde",
+        "description": "\u540d\u53d6\u3055\u306a\u3092\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002V\u30c1\u30e5\u30fc\u30d0\u2015\u597d\u304d\u306a\u4eba\u3002\u305f\u307e\u306b\u5b9f\u6cc1\u30c4\u30a4\u30fc\u30c8\u30022010\u5e74\uff13\u6708\u304b\u3089\u611b\u82b1\u306e\u30ab\u30ec\u30b7\u3060\u3063\u305f\u308a\u4eca\u306f\u6a2a\u9808\u8cc0\u93ae\u5b88\u5e9c\u3067\u63d0\u7763\u3060\u3063\u305f\u308a\u3002\u5e83\u5cf6\u65c5\u884c\u304c\u3057\u305f\u3044",
+        "url": "https://t.co/vNcKH5nC8S",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/vNcKH5nC8S",
+                        "expanded_url": "http://miduna.hatenablog.com/",
+                        "display_url": "miduna.hatenablog.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 168,
+        "friends_count": 541,
+        "listed_count": 18,
+        "created_at": "Wed Sep 09 01:33:53 +0000 2009",
+        "favourites_count": 1424,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35931,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/468780298960785409/MMSE0ZtD_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/468780298960785409/MMSE0ZtD_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/72728619/1466692133",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

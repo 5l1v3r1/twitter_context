@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:39:45 +0000 2020",
+    "id": 1256745225848066053,
+    "id_str": "1256745225848066053",
+    "text": "RT @justIiklouiss: se imaginan de la joyita q nos estar\u00edamos perdiendo si Louis no inclu\u00eda Always you en el \u00e1lbum? no le podria perdonar ja\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "justIiklouiss",
+                "name": "L\u03c5\u2113\u03b9",
+                "id": 964593752827346944,
+                "id_str": "964593752827346944",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1213191992533868545,
+        "id_str": "1213191992533868545",
+        "name": "\u03b1\u0572\u0535\u0585\u0572\u04bdll\u03b1 c\u0585\u0572 \u056a\u0585s l",
+        "screen_name": "taeelreygucci",
+        "location": "Hope World ",
+        "description": "You're the habit that I can't break - Louis Tomlinson\ud83d\udc96",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1023,
+        "friends_count": 1451,
+        "listed_count": 4,
+        "created_at": "Fri Jan 03 20:15:12 +0000 2020",
+        "favourites_count": 5827,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2750,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254852271411773441/aOpHZwQ2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254852271411773441/aOpHZwQ2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1213191992533868545/1588015048",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:09:38 +0000 2020",
+        "id": 1256707446917214211,
+        "id_str": "1256707446917214211",
+        "text": "se imaginan de la joyita q nos estar\u00edamos perdiendo si Louis no inclu\u00eda Always you en el \u00e1lbum? no le podria perdon\u2026 https://t.co/GssTsQ3D8G",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/GssTsQ3D8G",
+                    "expanded_url": "https://twitter.com/i/web/status/1256707446917214211",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 964593752827346944,
+            "id_str": "964593752827346944",
+            "name": "L\u03c5\u2113\u03b9",
+            "screen_name": "justIiklouiss",
+            "location": "princess park",
+            "description": "\ud835\ude35\ud835\ude33\ud835\ude22\ud835\ude24\ud835\ude2c \ud835\udfeb \ud835\ude30\ud835\ude27 \ud835\ude38\ud835\ude22\ud835\ude2d\ud835\ude2d\ud835\ude34 \ud835\ude22\ud835\ude2f\ud835\ude25 \ud835\ude27\ud835\ude2a\ud835\ude2f\ud835\ude26 \ud835\ude2d\ud835\ude2a\ud835\ude2f\ud835\ude26",
+            "url": "https://t.co/uom7Zc8fQ6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/uom7Zc8fQ6",
+                            "expanded_url": "https://Harry.xn--c6h/",
+                            "display_url": "Harry.\u2661",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10256,
+            "friends_count": 5830,
+            "listed_count": 40,
+            "created_at": "Fri Feb 16 20:14:06 +0000 2018",
+            "favourites_count": 17105,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 16480,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253351063115239426/6FnK5WWi_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253351063115239426/6FnK5WWi_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/964593752827346944/1587661550",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 57,
+        "favorite_count": 104,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 57,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

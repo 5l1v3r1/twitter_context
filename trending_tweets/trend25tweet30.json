@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:42:44 +0000 2020",
+    "id": 1256745974577410054,
+    "id_str": "1256745974577410054",
+    "text": "RT @WiLLBarbudo: Pessoal t\u00f4 restrito por 3 dias j\u00e1 se passaram 2, t\u00f4 conseguindo seguir ao poucos, assim q normalizar sigo todos Taokey? Bo\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "WiLLBarbudo",
+                "name": "Will\ud83c\udde7\ud83c\uddf7Barbudo Patriota\ud83c\udde7\ud83c\uddf7",
+                "id": 1161809157034598400,
+                "id_str": "1161809157034598400",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1094220302094090240,
+        "id_str": "1094220302094090240",
+        "name": "Vilma Ferreira \ud83d\udcaf% \ud83c\udde7\ud83c\uddf7\ud83d\udc99\ud83d\udc9b\ud83d\udc9a",
+        "screen_name": "VilmaFe44464577",
+        "location": "",
+        "description": "Patriotas 100%",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4646,
+        "friends_count": 5107,
+        "listed_count": 0,
+        "created_at": "Sat Feb 09 13:03:44 +0000 2019",
+        "favourites_count": 79587,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 73448,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256641637054283779/E5CYclSU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256641637054283779/E5CYclSU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1094220302094090240/1587317422",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:39:51 +0000 2020",
+        "id": 1256745249990475778,
+        "id_str": "1256745249990475778",
+        "text": "Pessoal t\u00f4 restrito por 3 dias j\u00e1 se passaram 2, t\u00f4 conseguindo seguir ao poucos, assim q normalizar sigo todos Tao\u2026 https://t.co/NfYTEWiQ5F",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/NfYTEWiQ5F",
+                    "expanded_url": "https://twitter.com/i/web/status/1256745249990475778",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1256649861627285507,
+        "in_reply_to_status_id_str": "1256649861627285507",
+        "in_reply_to_user_id": 1161809157034598400,
+        "in_reply_to_user_id_str": "1161809157034598400",
+        "in_reply_to_screen_name": "WiLLBarbudo",
+        "user": {
+            "id": 1161809157034598400,
+            "id_str": "1161809157034598400",
+            "name": "Will\ud83c\udde7\ud83c\uddf7Barbudo Patriota\ud83c\udde7\ud83c\uddf7",
+            "screen_name": "WiLLBarbudo",
+            "location": "",
+            "description": "Barbudo\ud83e\uddd4\ud83c\udffb Bolsonarista e Direita Raiz \ud83c\udde7\ud83c\uddf7\nTricolor Paulista \ud83c\uddfe\ud83c\uddea",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9608,
+            "friends_count": 9748,
+            "listed_count": 0,
+            "created_at": "Thu Aug 15 01:17:43 +0000 2019",
+            "favourites_count": 8524,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5542,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1210220297179320320/FSnUoXoY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210220297179320320/FSnUoXoY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161809157034598400/1574272607",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

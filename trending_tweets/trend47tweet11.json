@@ -1,0 +1,192 @@
+{
+    "created_at": "Sun May 03 00:39:10 +0000 2020",
+    "id": 1256745079089307650,
+    "id_str": "1256745079089307650",
+    "text": "RT @1deadxcnco: Imag\u00ednense cuando se acabe la pandemia y podamos ver a Louis AS\u00cd de feliz en su tour cantando est\u00e1 joyita \n#TeamAlwaysYou #\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TeamAlwaysYou",
+                "indices": [
+                    123,
+                    137
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "1deadxcnco",
+                "name": ",,",
+                "id": 884802973532119040,
+                "id_str": "884802973532119040",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1448874638,
+        "id_str": "1448874638",
+        "name": "Walls \u2740",
+        "screen_name": "ampapayne",
+        "location": "ot5",
+        "description": "-Uno, dos,tres, cuatro, cinco-gritaron agitando sus manos unidas.Ser\u00edan cinco, por siempre, ellos cinco\u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3095,
+        "friends_count": 4999,
+        "listed_count": 9,
+        "created_at": "Wed May 22 12:52:45 +0000 2013",
+        "favourites_count": 136147,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 72363,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1223513109433810944/GeJCjwD-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223513109433810944/GeJCjwD-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1448874638/1587918831",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:10:42 +0000 2020",
+        "id": 1256722816084447234,
+        "id_str": "1256722816084447234",
+        "text": "Imag\u00ednense cuando se acabe la pandemia y podamos ver a Louis AS\u00cd de feliz en su tour cantando est\u00e1 joyita\u2026 https://t.co/3jyuqqRIJb",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3jyuqqRIJb",
+                    "expanded_url": "https://twitter.com/i/web/status/1256722816084447234",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        107,
+                        130
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 884802973532119040,
+            "id_str": "884802973532119040",
+            "name": ",,",
+            "screen_name": "1deadxcnco",
+            "location": "",
+            "description": "Amando a 1d y CNCO 24/7.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1296,
+            "friends_count": 1131,
+            "listed_count": 5,
+            "created_at": "Tue Jul 11 15:54:02 +0000 2017",
+            "favourites_count": 15397,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 30253,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256406983793655811/Dbwh5RHN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256406983793655811/Dbwh5RHN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/884802973532119040/1586243407",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

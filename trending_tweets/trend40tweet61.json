@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun May 03 00:41:37 +0000 2020",
+    "id": 1256745694297235456,
+    "id_str": "1256745694297235456",
+    "text": "RT @rafakalimann_: Minhas adms que lutem porque agora eu sou ADM tamb\u00e9m #RafaADMXand Tchau.. \ud83d\ude1b",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RafaADMXand",
+                "indices": [
+                    72,
+                    84
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rafakalimann_",
+                "name": "Rafa Kalimann \u2728",
+                "id": 1132789115425046528,
+                "id_str": "1132789115425046528",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 812668225351782401,
+        "id_str": "812668225351782401",
+        "name": "Geane Carlos \ud83d\udc9a",
+        "screen_name": "geane21_jb",
+        "location": "",
+        "description": "Belieber \ud83d\udc9c\nTourina\ud83d\udc03\nCurto todo tipo de m\u00fasica, mas o meu estilo preferido \u00e9 pop\ud83d\ude0d\ud83c\udfa7\nCurto s\u00e9ries\ud83d\ude0de a minha preferida \u00e9 LUCIFER\ud83d\ude08",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 351,
+        "friends_count": 362,
+        "listed_count": 0,
+        "created_at": "Sat Dec 24 14:36:18 +0000 2016",
+        "favourites_count": 52436,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25755,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199095124036374532/iJaKaHve_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199095124036374532/iJaKaHve_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/812668225351782401/1583729164",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:42:59 +0000 2020",
+        "id": 1256730937758568449,
+        "id_str": "1256730937758568449",
+        "text": "Minhas adms que lutem porque agora eu sou ADM tamb\u00e9m #RafaADMXand Tchau.. \ud83d\ude1b",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "RafaADMXand",
+                    "indices": [
+                        53,
+                        65
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1132789115425046528,
+            "id_str": "1132789115425046528",
+            "name": "Rafa Kalimann \u2728",
+            "screen_name": "rafakalimann_",
+            "location": "",
+            "description": "BBB20 | PERFIL OFICIAL | Digital Influencer e Empres\u00e1ria | \ud83d\udce7 Contato: rafaella@rafaellakalimann.com",
+            "url": "https://t.co/2pX1Cxwg1R",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2pX1Cxwg1R",
+                            "expanded_url": "http://instagram.com/rafakalimann",
+                            "display_url": "instagram.com/rafakalimann",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1156133,
+            "friends_count": 2701,
+            "listed_count": 181,
+            "created_at": "Sun May 26 23:22:26 +0000 2019",
+            "favourites_count": 2623,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 6701,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1221152247993851904/Qwu2QQz-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221152247993851904/Qwu2QQz-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132789115425046528/1579539808",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 584,
+        "favorite_count": 10893,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 584,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

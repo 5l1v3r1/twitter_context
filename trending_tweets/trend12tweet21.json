@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:42:15 +0000 2020",
+    "id": 1256745854246850561,
+    "id_str": "1256745854246850561",
+    "text": "RT @YokohamaNoHito: \uff03\u30b3\u30ed\u30ca\u62e1\u6563\u306e\u3053\u306e\u6642\u671f\u306b\u3053\u3093\u306a\u30a6\u30b9\u30e9\u99ac\u9e7f\u52a9\u3051\u306a\u304d\u3083\u3044\u3051\u306a\u3044\u306e\u304c\u8179\u7acb\u305f\u3057\u3044\n\u5165\u5c71\u7981\u6b62\u306e\u6803\u6728\u306e\u5c71\u3067\u906d\u96e3\n\u5ddd\u5d0e\u306e\uff12\uff15\u6b73\u3001\u30d8\u30ea\u3067\u6551\u51fa https://t.co/0Q2c4W6F3H",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b3\u30ed\u30ca\u62e1\u6563\u306e\u3053\u306e\u6642\u671f\u306b\u3053\u3093\u306a\u30a6\u30b9\u30e9\u99ac\u9e7f\u52a9\u3051\u306a\u304d\u3083\u3044\u3051\u306a\u3044\u306e\u304c\u8179\u7acb\u305f\u3057\u3044",
+                "indices": [
+                    20,
+                    56
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "YokohamaNoHito",
+                "name": "\u6a2a\u6d5c\u306e\u4eba(\u611b\u79f0\u30a8\u30eb)",
+                "id": 184026992,
+                "id_str": "184026992",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256740295783276544,
+                "id_str": "1256740295783276544",
+                "indices": [
+                    83,
+                    106
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWo_kU4AAZaEI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWo_kU4AAZaEI.jpg",
+                "url": "https://t.co/0Q2c4W6F3H",
+                "display_url": "pic.twitter.com/0Q2c4W6F3H",
+                "expanded_url": "https://twitter.com/YokohamaNoHito/status/1256741000313057281/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 563,
+                        "h": 563,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 563,
+                        "h": 563,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 563,
+                        "h": 563,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256741000313057281,
+                "source_status_id_str": "1256741000313057281",
+                "source_user_id": 184026992,
+                "source_user_id_str": "184026992"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256740295783276544,
+                "id_str": "1256740295783276544",
+                "indices": [
+                    83,
+                    106
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWo_kU4AAZaEI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWo_kU4AAZaEI.jpg",
+                "url": "https://t.co/0Q2c4W6F3H",
+                "display_url": "pic.twitter.com/0Q2c4W6F3H",
+                "expanded_url": "https://twitter.com/YokohamaNoHito/status/1256741000313057281/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 563,
+                        "h": 563,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 563,
+                        "h": 563,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 563,
+                        "h": 563,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256741000313057281,
+                "source_status_id_str": "1256741000313057281",
+                "source_user_id": 184026992,
+                "source_user_id_str": "184026992"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4273312109,
+        "id_str": "4273312109",
+        "name": "\u30b5\u30a4\u30b3\u30d1\u30b9\u5b89\u500d\u306b\u6012\u308c\u308b\u502d\u306e\u30d0\u30fc\u30d5\u30d0\u30ea\u3010\u4e16\u76f4\u3057\uff06\u30ea\u30bb\u30c3\u30c8\uff1d2020\u5e74\u301c\u3011",
+        "screen_name": "Japan_Baahubali",
+        "location": "\u65e5\u672c \u6771\u4eac\u90fd",
+        "description": "\u79c1\u306f\u3001\u6620\u753b\u597d\u304d\u306e\u65e5\u672c\u4eba\uff1d\u6f22\u3067\u3059\u304c\u3001\u3042\u306e\u798f\u4e00\u306e\u5927\u707d\u5bb3\u304b\u308910\u5e74\u5f8c\uff1d2021\u5e74\u9803\u304b\u3089\u306e\u3001\u56fd\u5185\u3067\u306e\u5185\u90e8\u30fb\u5916\u90e8\u88ab\u7206\u3001PC\u30fb\u30b9\u30de\u30db\u7b49\u306e\u96fb\u78c1\u6ce2\u3001\u85ac\u7269\uff06\u98df\u54c1\u6dfb\u52a0\u7269\u306a\u3069\u306e\u5f71\u97ff\u306b\u3088\u308b\u3001\u8def\u4e0a\u3084\u99c5\u69cb\u5185\u30fb\u96fb\u8eca\u5185\uff06\u8eca\u5185\u3067\u306e\u7a81\u7136\u6b7b\u306e\u7206\u5897(\uff1d\u65e5\u672c\u4eba\u306e\u6dd8\u6c70)\u3068\u3001\u540c\u5e74\u8fba\u308a\u304b\u3089\u306e\u3001\u5730\u7403\u4e0a\u306e\u30df\u30cb\u6c37\u6cb3\u671f\u3078\u306e\u79fb\u884c(\uff1d\u4eba\u985e\u306e\u6dd8\u6c70)\u306b\u3001\u4eca\u304b\u3089\u3068\u3066\u3082\u6182\u616e\u3057\u3066\u3044\u307e\u3059\u3002",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2673,
+        "friends_count": 3758,
+        "listed_count": 29,
+        "created_at": "Wed Nov 25 10:09:15 +0000 2015",
+        "favourites_count": 196478,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 251455,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1019911942687748096/Bf4y-dmC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019911942687748096/Bf4y-dmC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4273312109/1466830777",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:22:58 +0000 2020",
+        "id": 1256741000313057281,
+        "id_str": "1256741000313057281",
+        "text": "\uff03\u30b3\u30ed\u30ca\u62e1\u6563\u306e\u3053\u306e\u6642\u671f\u306b\u3053\u3093\u306a\u30a6\u30b9\u30e9\u99ac\u9e7f\u52a9\u3051\u306a\u304d\u3083\u3044\u3051\u306a\u3044\u306e\u304c\u8179\u7acb\u305f\u3057\u3044\n\u5165\u5c71\u7981\u6b62\u306e\u6803\u6728\u306e\u5c71\u3067\u906d\u96e3\n\u5ddd\u5d0e\u306e\uff12\uff15\u6b73\u3001\u30d8\u30ea\u3067\u6551\u51fa https://t.co/0Q2c4W6F3H",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30b3\u30ed\u30ca\u62e1\u6563\u306e\u3053\u306e\u6642\u671f\u306b\u3053\u3093\u306a\u30a6\u30b9\u30e9\u99ac\u9e7f\u52a9\u3051\u306a\u304d\u3083\u3044\u3051\u306a\u3044\u306e\u304c\u8179\u7acb\u305f\u3057\u3044",
+                    "indices": [
+                        0,
+                        36
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256740295783276544,
+                    "id_str": "1256740295783276544",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWo_kU4AAZaEI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWo_kU4AAZaEI.jpg",
+                    "url": "https://t.co/0Q2c4W6F3H",
+                    "display_url": "pic.twitter.com/0Q2c4W6F3H",
+                    "expanded_url": "https://twitter.com/YokohamaNoHito/status/1256741000313057281/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 563,
+                            "h": 563,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 563,
+                            "h": 563,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 563,
+                            "h": 563,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256740295783276544,
+                    "id_str": "1256740295783276544",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWo_kU4AAZaEI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWo_kU4AAZaEI.jpg",
+                    "url": "https://t.co/0Q2c4W6F3H",
+                    "display_url": "pic.twitter.com/0Q2c4W6F3H",
+                    "expanded_url": "https://twitter.com/YokohamaNoHito/status/1256741000313057281/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 563,
+                            "h": 563,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 563,
+                            "h": 563,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 563,
+                            "h": 563,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 184026992,
+            "id_str": "184026992",
+            "name": "\u6a2a\u6d5c\u306e\u4eba(\u611b\u79f0\u30a8\u30eb)",
+            "screen_name": "YokohamaNoHito",
+            "location": "\u6a2a\u6d5c\u30fb\u5186\u6d77\u5c71\u306e\u8fd1\u6240",
+            "description": "\uff13\u670829\u65e5\u306b15\u5e74\u76ee\u306e\u611b\u8eca\u30a8\u30eb\u30b0\u30e9\u30f3\u30c9\u304b\u3089\u65b0\uff2e\uff22ox\u306b\u5909\u308f\u308a\u307e\u3059\u3002\u30a8\u30f3\u30b8\u30f3\u304c\u7d04\u516d\u5206\u306e\u4e00\u3069\u3061\u3089\u3082\uff24\uff2f\uff28\uff23\uff083500\u304c660\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc\uff09\u76f8\u5909\u308f\u3089\u305a\u9577\u8ddd\u96e2\u30c9\u30e9\u30a4\u30d6\u3092\u3059\u308b\u306e\u304c\u597d\u304d\u306a\u3001\u662d\u548c\u306e\u6a2a\u6d5c\u751f\u307e\u308c\u6a2a\u6d5c\u80b2\u3061\u6a2a\u6d5c\u5728\u4f4f\u306e\u81ea\u7531\u306a\u65c5\u4eba\u3002\u8da3\u5473\uff1a\u6e29\u6cc9\u30fb\u65c5\uff0f\u65c5\u5148\u3067\u306e\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3068\u5165\u6d74\u30fb\u98a8\u5149\u660e\u5a9a\u306a\u5834\u6240\u306e\u6563\u7b56\u3068\u571f\u5730\u306e\u4eba\u3068\u306e\u3075\u308c\u3042\u3044\u304c\u597d\u304d\u3067\u3059\u3002",
+            "url": "http://t.co/b5TzFwDi9A",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/b5TzFwDi9A",
+                            "expanded_url": "http://twipple.jp/user/YokohamaNoHito2",
+                            "display_url": "twipple.jp/user/YokohamaN\u2026",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 294688,
+            "friends_count": 330101,
+            "listed_count": 753,
+            "created_at": "Sat Aug 28 14:11:37 +0000 2010",
+            "favourites_count": 29035,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 62588,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/656339028120219648/MvWepcQE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/656339028120219648/MvWepcQE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/184026992/1413763597",
+            "profile_link_color": "082FF5",
+            "profile_sidebar_border_color": "1F30CF",
+            "profile_sidebar_fill_color": "A1FFC7",
+            "profile_text_color": "541303",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "ja"
+}

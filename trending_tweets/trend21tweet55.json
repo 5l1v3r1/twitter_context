@@ -1,0 +1,242 @@
+{
+    "created_at": "Sun May 03 00:42:05 +0000 2020",
+    "id": 1256745813776257025,
+    "id_str": "1256745813776257025",
+    "text": "RT @GhanaMusic: .@3MusicAwards Live Updates #3MusicAwards20\n Best Rap Performance of the year - \nCongrats @sarkodie Who Da Man",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3MusicAwards20",
+                "indices": [
+                    44,
+                    59
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GhanaMusic",
+                "name": "Ghana Music",
+                "id": 28601191,
+                "id_str": "28601191",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "3musicAwards",
+                "name": "#3MusicAwards20",
+                "id": 878281219481505792,
+                "id_str": "878281219481505792",
+                "indices": [
+                    17,
+                    30
+                ]
+            },
+            {
+                "screen_name": "sarkodie",
+                "name": "Sarkodie",
+                "id": 32339364,
+                "id_str": "32339364",
+                "indices": [
+                    106,
+                    115
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1204017720532119553,
+        "id_str": "1204017720532119553",
+        "name": "W\u00edk\u00ed_Wan\ud83d\udc51\ud83d\udc26\ud83d\udc26",
+        "screen_name": "Wikisarkcess",
+        "location": "Upper East, Ghana",
+        "description": "Don't think too hard,just have fun with it!\u2764\ufe0f\u2764\ufe0f\nI love music \ud83d\ude80\ud83d\ude80\ud83d\udc51\nI love sarkodie \ud83d\udc51 The Greatest Of All Time\u2708\ufe0f\u2708\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 110,
+        "friends_count": 142,
+        "listed_count": 0,
+        "created_at": "Mon Dec 09 12:40:00 +0000 2019",
+        "favourites_count": 8606,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6230,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240253523964682241/7hmv_lMr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240253523964682241/7hmv_lMr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:08:13 +0000 2020",
+        "id": 1256737291239936001,
+        "id_str": "1256737291239936001",
+        "text": ".@3MusicAwards Live Updates #3MusicAwards20\n Best Rap Performance of the year - \nCongrats @sarkodie Who Da Man",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3MusicAwards20",
+                    "indices": [
+                        28,
+                        43
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "3musicAwards",
+                    "name": "#3MusicAwards20",
+                    "id": 878281219481505792,
+                    "id_str": "878281219481505792",
+                    "indices": [
+                        1,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "sarkodie",
+                    "name": "Sarkodie",
+                    "id": 32339364,
+                    "id_str": "32339364",
+                    "indices": [
+                        90,
+                        99
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 28601191,
+            "id_str": "28601191",
+            "name": "Ghana Music",
+            "screen_name": "GhanaMusic",
+            "location": "Ghana",
+            "description": "The largest source of Ghanaian music videos, music news, biographies, reviews, interviews, photos and more! Download, listen to, stream music from #GhanaMusic",
+            "url": "https://t.co/BXhkmk5Xo6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BXhkmk5Xo6",
+                            "expanded_url": "https://ghanamusic.com",
+                            "display_url": "ghanamusic.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 160055,
+            "friends_count": 691,
+            "listed_count": 192,
+            "created_at": "Fri Apr 03 16:47:29 +0000 2009",
+            "favourites_count": 97,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 55780,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "CFCFCF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/994252187487358977/LwDynroi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/994252187487358977/LwDynroi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/28601191/1568500130",
+            "profile_link_color": "B50202",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "066990",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 95,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

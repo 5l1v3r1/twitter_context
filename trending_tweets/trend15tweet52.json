@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:42:20 +0000 2020",
+    "id": 1256745873561837568,
+    "id_str": "1256745873561837568",
+    "text": "RT @CK_Samsun: #Bitlis \u2019te hain ter\u00f6r \u00f6rg\u00fct\u00fc ile \u00e7\u0131kan \u00e7at\u0131\u015fmada \u015fehadet \u015ferbeti i\u00e7en Mehmet\u00e7iklerimize Y\u00fcce Mevla\u2019mdan rahmet, yaral\u0131 aske\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Bitlis",
+                "indices": [
+                    15,
+                    22
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CK_Samsun",
+                "name": "\u00c7i\u011fdem KARAASLAN #EvdeKalT\u00fcrkiye",
+                "id": 244107189,
+                "id_str": "244107189",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1081644760081809413,
+        "id_str": "1081644760081809413",
+        "name": "Embiya Y\u0131ld\u0131z",
+        "screen_name": "embiyayildizz",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 65,
+        "friends_count": 103,
+        "listed_count": 0,
+        "created_at": "Sat Jan 05 20:13:01 +0000 2019",
+        "favourites_count": 1133,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 192,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1095339940773130240/eVmAd8TQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095339940773130240/eVmAd8TQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:11:58 +0000 2020",
+        "id": 1256677835084836864,
+        "id_str": "1256677835084836864",
+        "text": "#Bitlis \u2019te hain ter\u00f6r \u00f6rg\u00fct\u00fc ile \u00e7\u0131kan \u00e7at\u0131\u015fmada \u015fehadet \u015ferbeti i\u00e7en Mehmet\u00e7iklerimize Y\u00fcce Mevla\u2019mdan rahmet, ya\u2026 https://t.co/48yz6azCeR",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bitlis",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/48yz6azCeR",
+                    "expanded_url": "https://twitter.com/i/web/status/1256677835084836864",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 244107189,
+            "id_str": "244107189",
+            "name": "\u00c7i\u011fdem KARAASLAN #EvdeKalT\u00fcrkiye",
+            "screen_name": "CK_Samsun",
+            "location": "",
+            "description": "AK Parti Genel Ba\u015fkan Yard\u0131mc\u0131s\u0131 / \u00c7evre,\u015eehir ve K\u00fclt\u00fcr Ba\u015fkan\u0131 / Samsun Milletvekili / Kentsel Tasar\u0131mc\u0131-Peyzaj Y\u00fcksek Mimar\u0131 \ud83c\uddf9\ud83c\uddf7",
+            "url": "https://t.co/BTG7LeabbE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BTG7LeabbE",
+                            "expanded_url": "http://www.sehrim2023.com",
+                            "display_url": "sehrim2023.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 117608,
+            "friends_count": 237,
+            "listed_count": 144,
+            "created_at": "Fri Jan 28 14:48:51 +0000 2011",
+            "favourites_count": 1752,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5552,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1155488676073365504/qz6HCa9n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155488676073365504/qz6HCa9n_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/244107189/1520800632",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 47,
+        "favorite_count": 323,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 47,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

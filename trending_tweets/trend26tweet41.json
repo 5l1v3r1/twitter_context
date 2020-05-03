@@ -1,0 +1,507 @@
+{
+    "created_at": "Sun May 03 00:42:12 +0000 2020",
+    "id": 1256745842846900225,
+    "id_str": "1256745842846900225",
+    "text": "RT @elis_arts: Comidas fict\u00edcias que eu adoraria comer\n#OSegredoNaFloresta https://t.co/S1Fo7U92zp",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    55,
+                    74
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elis_arts",
+                "name": "\u2022elis\u2022//VE MEU FIXADO PORFAVOR\ud83e\udd7a\ud83e\udd7a",
+                "id": 1211348800373051392,
+                "id_str": "1211348800373051392",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256727820698558470,
+                "id_str": "1256727820698558470",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDLS2QWoAYhSrG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDLS2QWoAYhSrG.jpg",
+                "url": "https://t.co/S1Fo7U92zp",
+                "display_url": "pic.twitter.com/S1Fo7U92zp",
+                "expanded_url": "https://twitter.com/elis_arts/status/1256727837190610949/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 375,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 500,
+                        "h": 375,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 500,
+                        "h": 375,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256727837190610949,
+                "source_status_id_str": "1256727837190610949",
+                "source_user_id": 1211348800373051392,
+                "source_user_id_str": "1211348800373051392"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256727820698558470,
+                "id_str": "1256727820698558470",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDLS2QWoAYhSrG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDLS2QWoAYhSrG.jpg",
+                "url": "https://t.co/S1Fo7U92zp",
+                "display_url": "pic.twitter.com/S1Fo7U92zp",
+                "expanded_url": "https://twitter.com/elis_arts/status/1256727837190610949/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 375,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 500,
+                        "h": 375,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 500,
+                        "h": 375,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256727837190610949,
+                "source_status_id_str": "1256727837190610949",
+                "source_user_id": 1211348800373051392,
+                "source_user_id_str": "1211348800373051392"
+            },
+            {
+                "id": 1256727828407693312,
+                "id_str": "1256727828407693312",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDLTS-WsAA8b9K.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDLTS-WsAA8b9K.jpg",
+                "url": "https://t.co/S1Fo7U92zp",
+                "display_url": "pic.twitter.com/S1Fo7U92zp",
+                "expanded_url": "https://twitter.com/elis_arts/status/1256727837190610949/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 736,
+                        "h": 414,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 736,
+                        "h": 414,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256727837190610949,
+                "source_status_id_str": "1256727837190610949",
+                "source_user_id": 1211348800373051392,
+                "source_user_id_str": "1211348800373051392"
+            },
+            {
+                "id": 1256727833398968321,
+                "id_str": "1256727833398968321",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDLTlkXgAEIREE.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDLTlkXgAEIREE.png",
+                "url": "https://t.co/S1Fo7U92zp",
+                "display_url": "pic.twitter.com/S1Fo7U92zp",
+                "expanded_url": "https://twitter.com/elis_arts/status/1256727837190610949/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256727837190610949,
+                "source_status_id_str": "1256727837190610949",
+                "source_user_id": 1211348800373051392,
+                "source_user_id_str": "1211348800373051392"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 890224395255525376,
+        "id_str": "890224395255525376",
+        "name": "Nihinilist_Cat",
+        "screen_name": "caue_gonzales",
+        "location": "Amparo, Brasil",
+        "description": "Keep Calm & Listen To Emo Shit\nthe life is a fucking STD, but doesnt think so much, just keep scrooling my dear",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 480,
+        "friends_count": 1425,
+        "listed_count": 0,
+        "created_at": "Wed Jul 26 14:56:50 +0000 2017",
+        "favourites_count": 135,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3632,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1215111816373833728/3C_Pmyib_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215111816373833728/3C_Pmyib_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/890224395255525376/1581181717",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:30:39 +0000 2020",
+        "id": 1256727837190610949,
+        "id_str": "1256727837190610949",
+        "text": "Comidas fict\u00edcias que eu adoraria comer\n#OSegredoNaFloresta https://t.co/S1Fo7U92zp",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        40,
+                        59
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256727820698558470,
+                    "id_str": "1256727820698558470",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDLS2QWoAYhSrG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDLS2QWoAYhSrG.jpg",
+                    "url": "https://t.co/S1Fo7U92zp",
+                    "display_url": "pic.twitter.com/S1Fo7U92zp",
+                    "expanded_url": "https://twitter.com/elis_arts/status/1256727837190610949/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 500,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 375,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256727820698558470,
+                    "id_str": "1256727820698558470",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDLS2QWoAYhSrG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDLS2QWoAYhSrG.jpg",
+                    "url": "https://t.co/S1Fo7U92zp",
+                    "display_url": "pic.twitter.com/S1Fo7U92zp",
+                    "expanded_url": "https://twitter.com/elis_arts/status/1256727837190610949/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 500,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 375,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256727828407693312,
+                    "id_str": "1256727828407693312",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDLTS-WsAA8b9K.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDLTS-WsAA8b9K.jpg",
+                    "url": "https://t.co/S1Fo7U92zp",
+                    "display_url": "pic.twitter.com/S1Fo7U92zp",
+                    "expanded_url": "https://twitter.com/elis_arts/status/1256727837190610949/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 736,
+                            "h": 414,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 414,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1256727833398968321,
+                    "id_str": "1256727833398968321",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDLTlkXgAEIREE.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDLTlkXgAEIREE.png",
+                    "url": "https://t.co/S1Fo7U92zp",
+                    "display_url": "pic.twitter.com/S1Fo7U92zp",
+                    "expanded_url": "https://twitter.com/elis_arts/status/1256727837190610949/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1211348800373051392,
+            "id_str": "1211348800373051392",
+            "name": "\u2022elis\u2022//VE MEU FIXADO PORFAVOR\ud83e\udd7a\ud83e\udd7a",
+            "screen_name": "elis_arts",
+            "location": "",
+            "description": "desenhos, variedades, humor & piadas \n\ud83c\udde7\ud83c\uddf7||\ud83e\udd20",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 166,
+            "friends_count": 151,
+            "listed_count": 0,
+            "created_at": "Sun Dec 29 18:10:53 +0000 2019",
+            "favourites_count": 495,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 493,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253327477159587840/VUMnYQ0f_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253327477159587840/VUMnYQ0f_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1211348800373051392/1581264248",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 120,
+        "favorite_count": 453,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 120,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

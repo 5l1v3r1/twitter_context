@@ -1,0 +1,225 @@
+{
+    "created_at": "Sun May 03 00:38:00 +0000 2020",
+    "id": 1256744784984543232,
+    "id_str": "1256744784984543232",
+    "text": "RT @griegriegrie: \u518d\u5c31\u8077\u3057\u3066\u7b11\u9854\u3067\u30aa\u30ed\u30ca\u30df\u30f3C\u306eCM\u306b\u51fa\u6f14\u3059\u308b\u30c8\u30ea\u30aa\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\u3000#nitiasa",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nitiasa",
+                "indices": [
+                    66,
+                    74
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "griegriegrie",
+                "name": "\u3061\u3085\u308b\u307f\u5973\u5150",
+                "id": 103154533,
+                "id_str": "103154533",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4737426576,
+        "id_str": "4737426576",
+        "name": "\u30e0\u30ca\u30f3\u30c1\u30e7\u7686\u6708\uff20\u30bd\u30ed\u30e2\u30f3\u738b",
+        "screen_name": "minazukikoshou",
+        "location": "\u5317\u6d77\u9053",
+        "description": "\u30b2\u30fc\u30e0\u5927\u597d\u304d\u306a\u4eba(20\u2191) \u30e1\u30ae\u30c972/\u30b5\u30e0\u30b9\u30d4/\u30a8\u30af\u30d02/\u30b0\u30e9\u30d6\u30eb/PSO2/\u6e7e\u5cb8/FGO\u3092\u3084\u3063\u3066\u305f\u308a\u3057\u307e\u3059 \u30a2\u30a4\u30b3\u30f3\u306f\u536f\u4f50\u3055\u3093(@natoucurry)\u304b\u3089\u304a\u501f\u308a\u3057\u3066\u307e\u3059 \u8cea\u554f\u7bb1\u2192https://t.co/909qKGxvwE",
+        "url": "https://t.co/3EMRGeShw5",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/3EMRGeShw5",
+                        "expanded_url": "https://www.nicovideo.jp/my/mylist/#/63273635",
+                        "display_url": "nicovideo.jp/my/mylist/#/63\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/909qKGxvwE",
+                        "expanded_url": "https://peing.net/minazukikoshou",
+                        "display_url": "peing.net/minazukikoshou",
+                        "indices": [
+                            92,
+                            115
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 2044,
+        "friends_count": 4969,
+        "listed_count": 40,
+        "created_at": "Sun Jan 10 08:59:30 +0000 2016",
+        "favourites_count": 199380,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 272396,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191547446909816832/GwwOXg-M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191547446909816832/GwwOXg-M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4737426576/1575025024",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:28:02 +0000 2020",
+        "id": 1256742277566705665,
+        "id_str": "1256742277566705665",
+        "text": "\u518d\u5c31\u8077\u3057\u3066\u7b11\u9854\u3067\u30aa\u30ed\u30ca\u30df\u30f3C\u306eCM\u306b\u51fa\u6f14\u3059\u308b\u30c8\u30ea\u30aa\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\uff57\u3000#nitiasa",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nitiasa",
+                    "indices": [
+                        48,
+                        56
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 103154533,
+            "id_str": "103154533",
+            "name": "\u3061\u3085\u308b\u307f\u5973\u5150",
+            "screen_name": "griegriegrie",
+            "location": "",
+            "description": "\u30cb\u30c1\u30a2\u30b5\u30ad\u30c3\u30ba\u3002\u3057\u304b\u3057\u5b9f\u306f\u2026\u2026\u2026",
+            "url": "https://t.co/ukAUqlDNOh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ukAUqlDNOh",
+                            "expanded_url": "http://touch.pixiv.net/member_illust.php?id=609985",
+                            "display_url": "touch.pixiv.net/member_illust.\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3233,
+            "friends_count": 564,
+            "listed_count": 0,
+            "created_at": "Sat Jan 09 02:34:10 +0000 2010",
+            "favourites_count": 10089,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 101777,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1534602402/loveeeen_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1534602402/loveeeen_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/103154533/1409414918",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

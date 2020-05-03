@@ -1,0 +1,199 @@
+{
+    "created_at": "Sun May 03 00:33:29 +0000 2020",
+    "id": 1256743647065841664,
+    "id_str": "1256743647065841664",
+    "text": "RT @SunGazer008: #awkwardfuneralsongs no joke... the funeral director messed up on the CD and played The Devil Went Down to Georgia at my l\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "awkwardfuneralsongs",
+                "indices": [
+                    17,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SunGazer008",
+                "name": "Sunny",
+                "id": 1180830655627890689,
+                "id_str": "1180830655627890689",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 325688284,
+        "id_str": "325688284",
+        "name": "Grace Murphy",
+        "screen_name": "GraceMurphy2",
+        "location": "Glasgow, UK",
+        "description": "Happily married with 2 grown-up sons. Love art, music & painting. People & animals more important than things. Interested in politics, comedy & disability.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15211,
+        "friends_count": 10431,
+        "listed_count": 606,
+        "created_at": "Tue Jun 28 18:14:51 +0000 2011",
+        "favourites_count": 95337,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 689480,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/889651107546398724/rBz1hAWc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/889651107546398724/rBz1hAWc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/325688284/1451317434",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:23:33 +0000 2020",
+        "id": 1256726047866916865,
+        "id_str": "1256726047866916865",
+        "text": "#awkwardfuneralsongs no joke... the funeral director messed up on the CD and played The Devil Went Down to Georgia\u2026 https://t.co/dsOTjlR9Z7",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "awkwardfuneralsongs",
+                    "indices": [
+                        0,
+                        20
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dsOTjlR9Z7",
+                    "expanded_url": "https://twitter.com/i/web/status/1256726047866916865",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1180830655627890689,
+            "id_str": "1180830655627890689",
+            "name": "Sunny",
+            "screen_name": "SunGazer008",
+            "location": "",
+            "description": "I enjoy laughing, having fun, photography/videography, and being myself. I believe no one should ever feel alone and want to help others as much as I can.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 115,
+            "friends_count": 109,
+            "listed_count": 0,
+            "created_at": "Sun Oct 06 13:02:37 +0000 2019",
+            "favourites_count": 1835,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1163,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1187099778959720449/4stAZNO0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187099778959720449/4stAZNO0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1180830655627890689/1570979905",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 47,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

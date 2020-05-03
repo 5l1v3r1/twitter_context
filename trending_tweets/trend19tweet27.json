@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745982282399744,
+    "id_str": "1256745982282399744",
+    "text": "RT @huwairini_ali: #\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627 https://t.co/AR0aIRDjvY",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627",
+                "indices": [
+                    19,
+                    40
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "huwairini_ali",
+                "name": "\u0639\u0644\u064a \u0627\u0644\u0647\u0648\u064a\u0631\u064a\u0646\u064a",
+                "id": 773990023,
+                "id_str": "773990023",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744839305138180,
+                "id_str": "1256744839305138180",
+                "indices": [
+                    41,
+                    64
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaxdgWkAQ4QoO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaxdgWkAQ4QoO.jpg",
+                "url": "https://t.co/AR0aIRDjvY",
+                "display_url": "pic.twitter.com/AR0aIRDjvY",
+                "expanded_url": "https://twitter.com/huwairini_ali/status/1256744851011485699/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 567,
+                        "h": 1008,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 567,
+                        "h": 1008,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744851011485699,
+                "source_status_id_str": "1256744851011485699",
+                "source_user_id": 773990023,
+                "source_user_id_str": "773990023"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744839305138180,
+                "id_str": "1256744839305138180",
+                "indices": [
+                    41,
+                    64
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaxdgWkAQ4QoO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaxdgWkAQ4QoO.jpg",
+                "url": "https://t.co/AR0aIRDjvY",
+                "display_url": "pic.twitter.com/AR0aIRDjvY",
+                "expanded_url": "https://twitter.com/huwairini_ali/status/1256744851011485699/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 567,
+                        "h": 1008,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 567,
+                        "h": 1008,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744851011485699,
+                "source_status_id_str": "1256744851011485699",
+                "source_user_id": 773990023,
+                "source_user_id_str": "773990023"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 454547115,
+        "id_str": "454547115",
+        "name": "\u0633\u0644\u0637\u0627\u0646 \u0633\u0639\u064a\u062f \u0627\u0644\u062b\u0628\u064a\u062a\u064a.",
+        "screen_name": "AlOtaeby9009",
+        "location": "Kingdom of Saudi Arabia",
+        "description": "\u200f\u0623\u062d\u0628\u0643 \u0643\u062b\u0631 \u0645\u0627\u064a \u0639\u064a\u0646\u064a \u0648\u0643\u062b\u0631 \u0645\u0627 \u062a\u0631\u0645\u0634 \u0644\u0643 \u0648\u0644\u0647  \u200f          \u0648\u0627\u0639\u0634\u0642\u0643 \u0643\u062b\u0631 \u0639\u0634\u0642 \u0627\u0644\u0628\u062f\u0648 \u0644\u0644\u0628\u0644 \u0648\u0644\u0644\u0643\u064a\u0641 \u0628\u0631\u0627\u062f \u0648\u062f\u0644\u0647",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 411,
+        "friends_count": 875,
+        "listed_count": 0,
+        "created_at": "Wed Jan 04 03:36:12 +0000 2012",
+        "favourites_count": 704,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2380,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075147281320550401/KTq6endt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075147281320550401/KTq6endt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/454547115/1506547250",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:38:16 +0000 2020",
+        "id": 1256744851011485699,
+        "id_str": "1256744851011485699",
+        "text": "#\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627 https://t.co/AR0aIRDjvY",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u0633\u0645\u0639\u0627_\u0648\u0637\u0627\u0639\u0647_\u064a\u0627\u062d\u0643\u0648\u0645\u062a\u0646\u0627",
+                    "indices": [
+                        0,
+                        21
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256744839305138180,
+                    "id_str": "1256744839305138180",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDaxdgWkAQ4QoO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDaxdgWkAQ4QoO.jpg",
+                    "url": "https://t.co/AR0aIRDjvY",
+                    "display_url": "pic.twitter.com/AR0aIRDjvY",
+                    "expanded_url": "https://twitter.com/huwairini_ali/status/1256744851011485699/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 567,
+                            "h": 1008,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 567,
+                            "h": 1008,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256744839305138180,
+                    "id_str": "1256744839305138180",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDaxdgWkAQ4QoO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDaxdgWkAQ4QoO.jpg",
+                    "url": "https://t.co/AR0aIRDjvY",
+                    "display_url": "pic.twitter.com/AR0aIRDjvY",
+                    "expanded_url": "https://twitter.com/huwairini_ali/status/1256744851011485699/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 567,
+                            "h": 1008,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 567,
+                            "h": 1008,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 773990023,
+            "id_str": "773990023",
+            "name": "\u0639\u0644\u064a \u0627\u0644\u0647\u0648\u064a\u0631\u064a\u0646\u064a",
+            "screen_name": "huwairini_ali",
+            "location": "\u0627\u0644\u0631\u064a\u0627\u0636, \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+            "description": "\u0645\u0645\u062b\u0644 \u0648\u0645\u062e\u0631\u062c \u0645\u0633\u0631\u062d\u064a - \u0645\u0646 \u0627\u0648\u0627\u0626\u0644 \u0627\u0644\u0645\u062a\u062e\u0631\u062c\u064a\u0646 \u0639\u0627\u0645 1985 \u0645 \u0645\u0646 \u062c\u0627\u0645\u0639\u0629 Columbia College Hollywood \u062a\u062e\u0635\u0635 \u0627\u062e\u0631\u0627\u062c \u0633\u064a\u0646\u0645\u0627\u0626\u064a",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 515126,
+            "friends_count": 12,
+            "listed_count": 512,
+            "created_at": "Wed Aug 22 16:10:24 +0000 2012",
+            "favourites_count": 218,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1302,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1213375500737024000/o04hBDj-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213375500737024000/o04hBDj-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/773990023/1464369772",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+}

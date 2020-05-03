@@ -1,0 +1,112 @@
+{
+    "created_at": "Sun May 03 00:43:13 +0000 2020",
+    "id": 1256746098800103425,
+    "id_str": "1256746098800103425",
+    "text": "@CervezaAguila @CaryLu2905 Estamos tomando Cerveza \u00c1guila y Ya hicimos nuestro Aporte. Animamos a los dem\u00e1s a que s\u2026 https://t.co/1MQ28bCRXc",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CervezaAguila",
+                "name": "Cerveza Aguila",
+                "id": 95684520,
+                "id_str": "95684520",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "CaryLu2905",
+                "name": "CaryLu",
+                "id": 136852202,
+                "id_str": "136852202",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/1MQ28bCRXc",
+                "expanded_url": "https://twitter.com/i/web/status/1256746098800103425",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256744108175036416,
+    "in_reply_to_status_id_str": "1256744108175036416",
+    "in_reply_to_user_id": 95684520,
+    "in_reply_to_user_id_str": "95684520",
+    "in_reply_to_screen_name": "CervezaAguila",
+    "user": {
+        "id": 145490757,
+        "id_str": "145490757",
+        "name": "Jeysson Renteria",
+        "screen_name": "JeyssonRenteria",
+        "location": "Colombia",
+        "description": "Soy un Negro Feliz...  Orgullosamente Chocoano",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 363,
+        "friends_count": 456,
+        "listed_count": 1,
+        "created_at": "Wed May 19 03:09:49 +0000 2010",
+        "favourites_count": 7610,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3877,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/891679974310256640/suH3uheB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/891679974310256640/suH3uheB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/145490757/1575776919",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,281 @@
+{
+    "created_at": "Sun May 03 00:40:50 +0000 2020",
+    "id": 1256745497634750465,
+    "id_str": "1256745497634750465",
+    "text": "RT @DBP_GenelMerkez: Helin\u2019i kaybettik, yar\u0131n  \u00e7ok  ge\u00e7  olmadan \u0130brahim\u2019i ya\u015fatmak bizim elimizde.\n#SesiDuy\u0130brahimYA\u015eASIN https://t.co/fSj\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                "indices": [
+                    100,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DBP_GenelMerkez",
+                "name": "DBP",
+                "id": 220706699,
+                "id_str": "220706699",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2827673206,
+        "id_str": "2827673206",
+        "name": "Baro",
+        "screen_name": "gewdan123",
+        "location": "T\u00fcrkiye",
+        "description": "''\u015eerefli bir \u00f6l\u00fcm ya\u015faman\u0131n en g\u00fczel ifadesidir.''",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 811,
+        "friends_count": 882,
+        "listed_count": 1,
+        "created_at": "Mon Oct 13 15:59:58 +0000 2014",
+        "favourites_count": 3760,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1544,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/791377756881838080/A4eAWxbp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/791377756881838080/A4eAWxbp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2827673206/1438815040",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:05:15 +0000 2020",
+        "id": 1256645945376325632,
+        "id_str": "1256645945376325632",
+        "text": "Helin\u2019i kaybettik, yar\u0131n  \u00e7ok  ge\u00e7  olmadan \u0130brahim\u2019i ya\u015fatmak bizim elimizde.\n#SesiDuy\u0130brahimYA\u015eASIN https://t.co/fSjble7dd5",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                    "indices": [
+                        79,
+                        101
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256645936345997314,
+                    "id_str": "1256645936345997314",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCA0jRXYAIdzX5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCA0jRXYAIdzX5.jpg",
+                    "url": "https://t.co/fSjble7dd5",
+                    "display_url": "pic.twitter.com/fSjble7dd5",
+                    "expanded_url": "https://twitter.com/DBP_GenelMerkez/status/1256645945376325632/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 782,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 782,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256645936345997314,
+                    "id_str": "1256645936345997314",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCA0jRXYAIdzX5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCA0jRXYAIdzX5.jpg",
+                    "url": "https://t.co/fSjble7dd5",
+                    "display_url": "pic.twitter.com/fSjble7dd5",
+                    "expanded_url": "https://twitter.com/DBP_GenelMerkez/status/1256645945376325632/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 720,
+                            "h": 782,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 782,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 626,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 220706699,
+            "id_str": "220706699",
+            "name": "DBP",
+            "screen_name": "DBP_GenelMerkez",
+            "location": "Diyarbak\u0131r",
+            "description": "Demokratik B\u00f6lgeler Partisi Genel Merkezi Kurumsal Hesab\u0131 - Malpera Ferm\u00ee ya Navenda Gi\u015ft\u00ee ya Partiya Her\u00eam\u00ean Demokrat\u00eek",
+            "url": "https://t.co/BqevIYaDZQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BqevIYaDZQ",
+                            "expanded_url": "http://www.dbp.ogr.tr",
+                            "display_url": "dbp.ogr.tr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 105912,
+            "friends_count": 107,
+            "listed_count": 312,
+            "created_at": "Sun Nov 28 16:12:12 +0000 2010",
+            "favourites_count": 1512,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 32401,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/717990583663521792/OHhiOSWM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/717990583663521792/OHhiOSWM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/220706699/1519280990",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FAEF7B",
+            "profile_text_color": "061C05",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 61,
+        "favorite_count": 142,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 61,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

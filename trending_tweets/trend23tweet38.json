@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun May 03 00:42:47 +0000 2020",
+    "id": 1256745986766053379,
+    "id_str": "1256745986766053379",
+    "text": "@mapantaleaoo me segueeeeee #mansaodaspocs\n#mansaodaspocs #mansaodaspo #mansaodaspocscs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mansaodaspocs",
+                "indices": [
+                    28,
+                    42
+                ]
+            },
+            {
+                "text": "mansaodaspocs",
+                "indices": [
+                    43,
+                    57
+                ]
+            },
+            {
+                "text": "mansaodaspo",
+                "indices": [
+                    58,
+                    70
+                ]
+            },
+            {
+                "text": "mansaodaspocscs",
+                "indices": [
+                    71,
+                    87
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mapantaleaoo",
+                "name": "Marcella Pantale\u00e3o",
+                "id": 2893856357,
+                "id_str": "2893856357",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2893856357,
+    "in_reply_to_user_id_str": "2893856357",
+    "in_reply_to_screen_name": "mapantaleaoo",
+    "user": {
+        "id": 1227257955675987968,
+        "id_str": "1227257955675987968",
+        "name": "Luiza",
+        "screen_name": "lu_macro",
+        "location": "Es",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 132,
+        "friends_count": 175,
+        "listed_count": 0,
+        "created_at": "Tue Feb 11 15:48:09 +0000 2020",
+        "favourites_count": 2313,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 798,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243450546838736897/KtJtLtiB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243450546838736897/KtJtLtiB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227257955675987968/1587650074",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

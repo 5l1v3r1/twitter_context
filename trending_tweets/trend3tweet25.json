@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:42:35 +0000 2020",
+    "id": 1256745938145685504,
+    "id_str": "1256745938145685504",
+    "text": "RT @TTAgrup: Ta\u015f k\u0131r\u0131l\u0131r, tun\u00e7 erir ama T\u00fcrkl\u00fck ebedidir. \n\nMustafa Kemal Atat\u00fcrk\n\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc https://t.co/qTb6ZnaR4o",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                "indices": [
+                    83,
+                    103
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TTAgrup",
+                "name": "TTA Grup",
+                "id": 3825678327,
+                "id_str": "3825678327",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256714895166517248,
+                "id_str": "1256714895166517248",
+                "indices": [
+                    104,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC_ie5XsAAXEil.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC_ie5XsAAXEil.jpg",
+                "url": "https://t.co/qTb6ZnaR4o",
+                "display_url": "pic.twitter.com/qTb6ZnaR4o",
+                "expanded_url": "https://twitter.com/TTAgrup/status/1256714898517655553/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 599,
+                        "h": 348,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 599,
+                        "h": 348,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 599,
+                        "h": 348,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256714898517655553,
+                "source_status_id_str": "1256714898517655553",
+                "source_user_id": 3825678327,
+                "source_user_id_str": "3825678327"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256714895166517248,
+                "id_str": "1256714895166517248",
+                "indices": [
+                    104,
+                    127
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC_ie5XsAAXEil.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC_ie5XsAAXEil.jpg",
+                "url": "https://t.co/qTb6ZnaR4o",
+                "display_url": "pic.twitter.com/qTb6ZnaR4o",
+                "expanded_url": "https://twitter.com/TTAgrup/status/1256714898517655553/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 599,
+                        "h": 348,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 599,
+                        "h": 348,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 599,
+                        "h": 348,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256714898517655553,
+                "source_status_id_str": "1256714898517655553",
+                "source_user_id": 3825678327,
+                "source_user_id_str": "3825678327"
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1089519686994280449,
+        "id_str": "1089519686994280449",
+        "name": "Mustafa",
+        "screen_name": "Mustafa82941987",
+        "location": "",
+        "description": "T\u00fcrk, T\u00fcrk\u00e7\u00fc, Atat\u00fcrk\u00e7\u00fc, Tarih Merakl\u0131s\u0131, Kuvay\u0131 Milliye Mensubu, Muay Thai sporcusu , Fenerbah\u00e7e",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 119,
+        "friends_count": 388,
+        "listed_count": 0,
+        "created_at": "Sun Jan 27 13:45:10 +0000 2019",
+        "favourites_count": 63501,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8343,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229544728192016384/aarqiLRB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229544728192016384/aarqiLRB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089519686994280449/1548624885",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:39:15 +0000 2020",
+        "id": 1256714898517655553,
+        "id_str": "1256714898517655553",
+        "text": "Ta\u015f k\u0131r\u0131l\u0131r, tun\u00e7 erir ama T\u00fcrkl\u00fck ebedidir. \n\nMustafa Kemal Atat\u00fcrk\n\n#3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc https://t.co/qTb6ZnaR4o",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3May\u0131sT\u00fcrk\u00e7\u00fclerG\u00fcn\u00fc",
+                    "indices": [
+                        70,
+                        90
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256714895166517248,
+                    "id_str": "1256714895166517248",
+                    "indices": [
+                        91,
+                        114
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC_ie5XsAAXEil.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC_ie5XsAAXEil.jpg",
+                    "url": "https://t.co/qTb6ZnaR4o",
+                    "display_url": "pic.twitter.com/qTb6ZnaR4o",
+                    "expanded_url": "https://twitter.com/TTAgrup/status/1256714898517655553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 599,
+                            "h": 348,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 599,
+                            "h": 348,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 599,
+                            "h": 348,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256714895166517248,
+                    "id_str": "1256714895166517248",
+                    "indices": [
+                        91,
+                        114
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC_ie5XsAAXEil.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC_ie5XsAAXEil.jpg",
+                    "url": "https://t.co/qTb6ZnaR4o",
+                    "display_url": "pic.twitter.com/qTb6ZnaR4o",
+                    "expanded_url": "https://twitter.com/TTAgrup/status/1256714898517655553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 599,
+                            "h": 348,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 599,
+                            "h": 348,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 599,
+                            "h": 348,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3825678327,
+            "id_str": "3825678327",
+            "name": "TTA Grup",
+            "screen_name": "TTAgrup",
+            "location": "T\u00fcrk\u00e7\u00fclerin Sesi",
+            "description": "T\u00fcrk'\u00fcz, T\u00fcrk\u00e7\u00fcy\u00fcz, Atat\u00fcrk\u00e7\u00fcy\u00fcz",
+            "url": "https://t.co/Tm9JoLXfmG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Tm9JoLXfmG",
+                            "expanded_url": "http://instagram.com/ttagrup",
+                            "display_url": "instagram.com/ttagrup",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 200093,
+            "friends_count": 41,
+            "listed_count": 181,
+            "created_at": "Wed Sep 30 16:42:53 +0000 2015",
+            "favourites_count": 26809,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9056,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/929406711240232962/W1UJ4vtz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/929406711240232962/W1UJ4vtz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3825678327/1559039767",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1992,
+        "favorite_count": 9312,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1992,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

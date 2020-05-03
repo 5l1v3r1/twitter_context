@@ -1,0 +1,206 @@
+{
+    "created_at": "Sun May 03 00:42:00 +0000 2020",
+    "id": 1256745792527794177,
+    "id_str": "1256745792527794177",
+    "text": "RT @OkulAcikcom: RAHAT UYU ATA'M SEN\u0130N FENER'\u0130N S\u00d6NMEZ!\n\n3 May\u0131s 1918'de kul\u00fcb\u00fcm\u00fcz\u00fc ziyaret eden Ulu \u00d6nderimiz Gazi Mustafa Kemal Atat\u00fcrk'\u00fc\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "OkulAcikcom",
+                "name": "OKUL A\u00c7IK - #EvdeKal \ud83c\udfe0",
+                "id": 518673971,
+                "id_str": "518673971",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1172226239186251777,
+        "id_str": "1172226239186251777",
+        "name": "Fatih \u00d6KTEN",
+        "screen_name": "dirkuyt29",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 243,
+        "friends_count": 987,
+        "listed_count": 0,
+        "created_at": "Thu Sep 12 19:11:39 +0000 2019",
+        "favourites_count": 47056,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12777,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:31:52 +0000 2020",
+        "id": 1256697942074961921,
+        "id_str": "1256697942074961921",
+        "text": "RAHAT UYU ATA'M SEN\u0130N FENER'\u0130N S\u00d6NMEZ!\n\n3 May\u0131s 1918'de kul\u00fcb\u00fcm\u00fcz\u00fc ziyaret eden Ulu \u00d6nderimiz Gazi Mustafa Kemal At\u2026 https://t.co/jSXjv3kttB",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/jSXjv3kttB",
+                    "expanded_url": "https://twitter.com/i/web/status/1256697942074961921",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 518673971,
+            "id_str": "518673971",
+            "name": "OKUL A\u00c7IK - #EvdeKal \ud83c\udfe0",
+            "screen_name": "OkulAcikcom",
+            "location": "Okul A\u00e7\u0131k Trib\u00fcn\u00fc",
+            "description": "Fenerbah\u00e7e'nin itici g\u00fcc\u00fc ve cefak\u00e2r trib\u00fcn\u00fc! https://t.co/tfNgalG2HB",
+            "url": "https://t.co/opoKALlWzb",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/opoKALlWzb",
+                            "expanded_url": "https://www.youtube.com/c/OKULA\u00c7IKTVCOM",
+                            "display_url": "youtube.com/c/OKULA\u00c7IKTVCOM",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/tfNgalG2HB",
+                            "expanded_url": "https://www.instagram.com/okulaciktr",
+                            "display_url": "instagram.com/okulaciktr",
+                            "indices": [
+                                46,
+                                69
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 176671,
+            "friends_count": 18,
+            "listed_count": 127,
+            "created_at": "Thu Mar 08 17:00:14 +0000 2012",
+            "favourites_count": 362,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14642,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "CDCBCF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246895491981418503/uV90_8qH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246895491981418503/uV90_8qH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/518673971/1586118412",
+            "profile_link_color": "13212A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 312,
+        "favorite_count": 2002,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 312,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

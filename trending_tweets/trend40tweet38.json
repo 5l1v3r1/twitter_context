@@ -1,0 +1,232 @@
+{
+    "created_at": "Sun May 03 00:42:09 +0000 2020",
+    "id": 1256745826963140608,
+    "id_str": "1256745826963140608",
+    "text": "RT @PortalRanu: A @manugavassi poderia dar a senha dela pra @rafakalimann_ no dia da live dela tamb\u00e9m n\u00e9? imagina a resenha #RafaADMXand ht\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RafaADMXand",
+                "indices": [
+                    124,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PortalRanu",
+                "name": "Portal Ranu \ud83e\udd43",
+                "id": 1231096457102594048,
+                "id_str": "1231096457102594048",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "manugavassi",
+                "name": "Manu Gavassi \ud83e\uddda\ud83c\udffc\u200d\u2640\ufe0f",
+                "id": 31547933,
+                "id_str": "31547933",
+                "indices": [
+                    18,
+                    30
+                ]
+            },
+            {
+                "screen_name": "rafakalimann_",
+                "name": "Rafa Kalimann \u2728",
+                "id": 1132789115425046528,
+                "id_str": "1132789115425046528",
+                "indices": [
+                    60,
+                    74
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1255110092476866561,
+        "id_str": "1255110092476866561",
+        "name": "PANDORA",
+        "screen_name": "pandoranascimen",
+        "location": "Macei\u00f3, Brasil",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 6,
+        "listed_count": 0,
+        "created_at": "Tue Apr 28 12:22:28 +0000 2020",
+        "favourites_count": 1551,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1229,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:53:34 +0000 2020",
+        "id": 1256733601942683649,
+        "id_str": "1256733601942683649",
+        "text": "A @manugavassi poderia dar a senha dela pra @rafakalimann_ no dia da live dela tamb\u00e9m n\u00e9? imagina a resenha\u2026 https://t.co/EQGdznXYY7",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "manugavassi",
+                    "name": "Manu Gavassi \ud83e\uddda\ud83c\udffc\u200d\u2640\ufe0f",
+                    "id": 31547933,
+                    "id_str": "31547933",
+                    "indices": [
+                        2,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "rafakalimann_",
+                    "name": "Rafa Kalimann \u2728",
+                    "id": 1132789115425046528,
+                    "id_str": "1132789115425046528",
+                    "indices": [
+                        44,
+                        58
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/EQGdznXYY7",
+                    "expanded_url": "https://twitter.com/i/web/status/1256733601942683649",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1231096457102594048,
+            "id_str": "1231096457102594048",
+            "name": "Portal Ranu \ud83e\udd43",
+            "screen_name": "PortalRanu",
+            "location": "",
+            "description": "Seu primeiro e melhor portal sobre a cantora e atriz Manu Gavassi e a digital influencer Rafa Kalimann. Ative as nossas notifica\u00e7\u00f5es e nos siga no Instagram!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 63676,
+            "friends_count": 307,
+            "listed_count": 31,
+            "created_at": "Sat Feb 22 06:00:58 +0000 2020",
+            "favourites_count": 3621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6381,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256639417143431168/urWUPFj5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256639417143431168/urWUPFj5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231096457102594048/1588441169",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 234,
+        "favorite_count": 1441,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 234,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:42:17 +0000 2020",
+    "id": 1256745862736347143,
+    "id_str": "1256745862736347143",
+    "text": "RT @EduMasterPE: Pipooooooooca! Pipocaaaaaaa! \n\"\u00c9 tr\u00eas re\u00e1u.\"\nPra quem t\u00e1 assistindo os gladiadores na frente da PF.\nOu para quem est\u00e1 na R\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EduMasterPE",
+                "name": "\ud835\udcd9\ud835\udcf8\ud835\udcfc\ud835\udcee \ud835\udcd4\ud835\udced\ud835\udcfe\ud835\udcea\ud835\udcfb\ud835\udced\ud835\udcf8",
+                "id": 1159208222,
+                "id_str": "1159208222",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2855741271,
+        "id_str": "2855741271",
+        "name": "Rosane Carvalho Haddad \ud83d\udea9\ud83c\udf1f\ud83d\udea9\ud83d\udc93\ud83d\udea9\ud83c\udf1f",
+        "screen_name": "rosanecarvalh19",
+        "location": "Brasil  Rio Grande do Sul ",
+        "description": "\ud83d\udea9\ud83c\udf1f\ud83d\udea9\ud83c\udf1fPT \ud83d\udea9SDV sigo tds vcs tbm \ud83d\udea9\ud83c\udf1f\n\ud83d\udea9Direita tds Bloqueados \ud83d\udea9\ud83c\udd97",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3201,
+        "friends_count": 5001,
+        "listed_count": 8,
+        "created_at": "Sat Nov 01 22:44:38 +0000 2014",
+        "favourites_count": 58379,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 72581,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256731975014068225/SJgM7UNW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256731975014068225/SJgM7UNW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2855741271/1586281570",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:46:19 +0000 2020",
+        "id": 1256671381447680000,
+        "id_str": "1256671381447680000",
+        "text": "Pipooooooooca! Pipocaaaaaaa! \n\"\u00c9 tr\u00eas re\u00e1u.\"\nPra quem t\u00e1 assistindo os gladiadores na frente da PF.\nOu para quem es\u2026 https://t.co/9w7sJyuHf5",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9w7sJyuHf5",
+                    "expanded_url": "https://twitter.com/i/web/status/1256671381447680000",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1159208222,
+            "id_str": "1159208222",
+            "name": "\ud835\udcd9\ud835\udcf8\ud835\udcfc\ud835\udcee \ud835\udcd4\ud835\udced\ud835\udcfe\ud835\udcea\ud835\udcfb\ud835\udced\ud835\udcf8",
+            "screen_name": "EduMasterPE",
+            "location": "A 100 m do para\u00edso, Brasil",
+            "description": "\ud83d\udc4d\u270a\u270c\ufe0f\ud83d\udcaa\u2764\ufe0f\u2648\ufe0f\nN\u00e3o persigo ningu\u00e9m, mas se acredito que mere\u00e7a ser respondido, entrei para isso: ler e talvez responder.\nSigam-me os bons. Gosto de boa companhia.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4471,
+            "friends_count": 4874,
+            "listed_count": 1,
+            "created_at": "Fri Feb 08 05:20:30 +0000 2013",
+            "favourites_count": 7426,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12419,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1106006046475210754/-WFF1qIv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106006046475210754/-WFF1qIv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1159208222/1574015498",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 206,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:41:50 +0000 2020",
+    "id": 1256745751100743682,
+    "id_str": "1256745751100743682",
+    "text": "RT @Ioversrodrigo: if y'all are here wondering what he did he defended lil huddy who is racist i'm not sure if noah knows about it and i do\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ioversrodrigo",
+                "name": "maheen ISA DAY",
+                "id": 1199006945124012032,
+                "id_str": "1199006945124012032",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1099561781238919168,
+        "id_str": "1099561781238919168",
+        "name": "kia\u2077 27",
+        "screen_name": "koryinthehous",
+        "location": "",
+        "description": "\u2606\u00b7 \u02d6\u00b0 cashapp: $kiathekiddd | i want to give namjoon that gawk gawk two hand twist slobbery spit suck-him-til-he-yell 3000",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 470,
+        "friends_count": 1974,
+        "listed_count": 4,
+        "created_at": "Sun Feb 24 06:48:52 +0000 2019",
+        "favourites_count": 118155,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39793,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238561916219424769/eUreTXH8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238561916219424769/eUreTXH8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099561781238919168/1581287946",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:08:39 +0000 2020",
+        "id": 1256677001928290308,
+        "id_str": "1256677001928290308",
+        "text": "if y'all are here wondering what he did he defended lil huddy who is racist i'm not sure if noah knows about it and\u2026 https://t.co/XQCmiQqNCw",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XQCmiQqNCw",
+                    "expanded_url": "https://twitter.com/i/web/status/1256677001928290308",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1199006945124012032,
+            "id_str": "1199006945124012032",
+            "name": "maheen ISA DAY",
+            "screen_name": "Ioversrodrigo",
+            "location": "she/her | sbgc",
+            "description": "#LYDIA: i don't wanna be safe, i wanna save stiles",
+            "url": "https://t.co/3Ivin4Qr55",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/3Ivin4Qr55",
+                            "expanded_url": "https://curiouscat.me/Ioversrodrigo",
+                            "display_url": "curiouscat.me/Ioversrodrigo",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 967,
+            "friends_count": 135,
+            "listed_count": 69,
+            "created_at": "Mon Nov 25 16:48:41 +0000 2019",
+            "favourites_count": 11133,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7719,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256740836819324928/04C97rJv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256740836819324928/04C97rJv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199006945124012032/1588465358",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 144,
+        "favorite_count": 2819,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 144,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

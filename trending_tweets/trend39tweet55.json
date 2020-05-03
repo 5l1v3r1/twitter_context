@@ -1,0 +1,354 @@
+{
+    "created_at": "Sun May 03 00:42:34 +0000 2020",
+    "id": 1256745934672867329,
+    "id_str": "1256745934672867329",
+    "text": "RT @JoseLui83127697: Se suman? \ud83d\udc47 \ud83d\udc47\n#TodosContraLaMentiraM https://t.co/R2QO7A1yMJ",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TodosContraLaMentiraM",
+                "indices": [
+                    35,
+                    57
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JoseLui83127697",
+                "name": "JoseLuisMendes\u270c\u0000FFF",
+                "id": 3866879241,
+                "id_str": "3866879241",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256740720817442816,
+                "id_str": "1256740720817442816",
+                "indices": [
+                    58,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDXBu8XkAA1oVM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDXBu8XkAA1oVM.jpg",
+                "url": "https://t.co/R2QO7A1yMJ",
+                "display_url": "pic.twitter.com/R2QO7A1yMJ",
+                "expanded_url": "https://twitter.com/JoseLui83127697/status/1256740724399378434/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 738,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 738,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 465,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740724399378434,
+                "source_status_id_str": "1256740724399378434",
+                "source_user_id": 3866879241,
+                "source_user_id_str": "3866879241"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256740720817442816,
+                "id_str": "1256740720817442816",
+                "indices": [
+                    58,
+                    81
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDXBu8XkAA1oVM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDXBu8XkAA1oVM.jpg",
+                "url": "https://t.co/R2QO7A1yMJ",
+                "display_url": "pic.twitter.com/R2QO7A1yMJ",
+                "expanded_url": "https://twitter.com/JoseLui83127697/status/1256740724399378434/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 738,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 738,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 465,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740724399378434,
+                "source_status_id_str": "1256740724399378434",
+                "source_user_id": 3866879241,
+                "source_user_id_str": "3866879241"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 482555179,
+        "id_str": "482555179",
+        "name": "Ana Maria Loza Pretz",
+        "screen_name": "AnaMariaLozaPre",
+        "location": "Argentina",
+        "description": "Soy de Chile y actualmente vivo en Buenos Aires. Me gustan las frases celebres. Followme y I followback",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 165,
+        "friends_count": 170,
+        "listed_count": 1,
+        "created_at": "Sat Feb 04 01:51:52 +0000 2012",
+        "favourites_count": 1306,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1890,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1803450399/640606_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1803450399/640606_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:21:52 +0000 2020",
+        "id": 1256740724399378434,
+        "id_str": "1256740724399378434",
+        "text": "Se suman? \ud83d\udc47 \ud83d\udc47\n#TodosContraLaMentiraM https://t.co/R2QO7A1yMJ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TodosContraLaMentiraM",
+                    "indices": [
+                        14,
+                        36
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256740720817442816,
+                    "id_str": "1256740720817442816",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDXBu8XkAA1oVM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDXBu8XkAA1oVM.jpg",
+                    "url": "https://t.co/R2QO7A1yMJ",
+                    "display_url": "pic.twitter.com/R2QO7A1yMJ",
+                    "expanded_url": "https://twitter.com/JoseLui83127697/status/1256740724399378434/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 738,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 738,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 465,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256740720817442816,
+                    "id_str": "1256740720817442816",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDXBu8XkAA1oVM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDXBu8XkAA1oVM.jpg",
+                    "url": "https://t.co/R2QO7A1yMJ",
+                    "display_url": "pic.twitter.com/R2QO7A1yMJ",
+                    "expanded_url": "https://twitter.com/JoseLui83127697/status/1256740724399378434/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 738,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 738,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 465,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3866879241,
+            "id_str": "3866879241",
+            "name": "JoseLuisMendes\u270c\u0000FFF",
+            "screen_name": "JoseLui83127697",
+            "location": "Rosario, Argentina",
+            "description": "\u270c\u0000\ud83d\udc4d\ud83d\udc9asoy colectivero, ex tachero de Rosario y sobre todo Kirchnerista.Hoy2020  feliz porque volvimos a ser  gobierno para todos y todas y todes \u270c\ud83e\udd42",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1643,
+            "friends_count": 2717,
+            "listed_count": 1,
+            "created_at": "Mon Oct 05 01:54:08 +0000 2015",
+            "favourites_count": 22117,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17900,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248626439210930178/_1IIL9Yt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248626439210930178/_1IIL9Yt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3866879241/1558721403",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

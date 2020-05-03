@@ -1,0 +1,217 @@
+{
+    "created_at": "Sun May 03 00:42:21 +0000 2020",
+    "id": 1256745880331235328,
+    "id_str": "1256745880331235328",
+    "text": "RT @asahi: \u5165\u5c71\u7981\u6b62\u306e\u6803\u6728\u306e\u5c71\u3067\u906d\u96e3\u3000\u5ddd\u5d0e\u306e25\u6b73\u3001\u30d8\u30ea\u3067\u6551\u51fa https://t.co/1tv6GOZD75",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "asahi",
+                "name": "\u671d\u65e5\u65b0\u805e(asahi shimbun\uff09",
+                "id": 42816371,
+                "id_str": "42816371",
+                "indices": [
+                    3,
+                    9
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/1tv6GOZD75",
+                "expanded_url": "http://www.asahi.com/articles/ASN5323PNN52UUHB00K.html?ref=tw_asahi",
+                "display_url": "asahi.com/articles/ASN53\u2026",
+                "indices": [
+                    37,
+                    60
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2789936732,
+        "id_str": "2789936732",
+        "name": "\u3061\u30fc\ufe0e\ufe0e\u263a\ufe0e\u2661",
+        "screen_name": "hrs_tmk",
+        "location": "\u306a\u3089\u306c\u3082\u306e\u306f\u306a\u3089\u306c\u306e\u3067\u3059",
+        "description": "\u4e80\u68a8\u548c\u4e5f \u2665 ONE OK ROCK \u2665 \u65b0\u7530\u771f\u5263\u4f51 \u2665 \uff90\uff86\uff81\uff6d\uff71\uff80\uff9e\uff6f\uff78\uff7d \u2665 \u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u2665 \u8352\u57ce \u2665 \u72ac\u7cfb\u72ac\u9854\u9f3b\u30d5\u30a7\u30c1\u3067\u3059\u3002\u203b\u753b\u50cf\u306e\u8ee2\u8f09\u306f\u7981\u6b62\u3067\u3059\u203b\u30d5\u30a9\u30ed\u30fc\u27b3\u5171\u901a\u306a\u3044\u65b9\u3001\u77e5\u3089\u306a\u3044\u65b9\u306f\uff8c\uff9e\uff9b\uff6f\uff78\u3057\u307e\u3059(*\u00b4\uff65\u4eba\uff65*)\u3042\u3057\u304b\u3089\u305a\u2026",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 78,
+        "friends_count": 118,
+        "listed_count": 1,
+        "created_at": "Thu Sep 04 14:58:44 +0000 2014",
+        "favourites_count": 22160,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29702,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256397760493830145/Ymzx7Wwt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256397760493830145/Ymzx7Wwt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2789936732/1568532916",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:46:03 +0000 2020",
+        "id": 1256701512417374214,
+        "id_str": "1256701512417374214",
+        "text": "\u5165\u5c71\u7981\u6b62\u306e\u6803\u6728\u306e\u5c71\u3067\u906d\u96e3\u3000\u5ddd\u5d0e\u306e25\u6b73\u3001\u30d8\u30ea\u3067\u6551\u51fa https://t.co/1tv6GOZD75",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1tv6GOZD75",
+                    "expanded_url": "http://www.asahi.com/articles/ASN5323PNN52UUHB00K.html?ref=tw_asahi",
+                    "display_url": "asahi.com/articles/ASN53\u2026",
+                    "indices": [
+                        26,
+                        49
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.hornetcrm.jp/\" rel=\"nofollow\">hornet</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 42816371,
+            "id_str": "42816371",
+            "name": "\u671d\u65e5\u65b0\u805e(asahi shimbun\uff09",
+            "screen_name": "asahi",
+            "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+            "description": "\u671d\u65e5\u65b0\u805e\u793e\u304c\u904b\u55b6\u3059\u308b\u516c\u5f0f\u30cb\u30e5\u30fc\u30b9\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u3059\u3002\u6700\u65b0\u306e\u30cb\u30e5\u30fc\u30b9\u901f\u5831\u3084\u65ec\u306e\u8a71\u984c\u3092\u914d\u4fe1\u3057\u307e\u3059\u3002\u671d\u65e5\u65b0\u805e\u793e\u304b\u3089\u306e\u304a\u77e5\u3089\u305b\u3084\u304a\u5f97\u306a\u60c5\u5831\u3082\u6642\u3005\u6d41\u308c\u307e\u3059\u3002Facebook\u30da\u30fc\u30b8\u306f http://t.co/qKDxsI6YnX \u3067\u3059\u3002",
+            "url": "http://t.co/KAw1Ty80Mq",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/KAw1Ty80Mq",
+                            "expanded_url": "http://www.asahi.com",
+                            "display_url": "asahi.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/qKDxsI6YnX",
+                            "expanded_url": "http://www.facebook.com/asahicom",
+                            "display_url": "facebook.com/asahicom",
+                            "indices": [
+                                84,
+                                106
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1265794,
+            "friends_count": 313,
+            "listed_count": 42956,
+            "created_at": "Wed May 27 04:37:57 +0000 2009",
+            "favourites_count": 27,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 303028,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/266385410/aicon_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/266385410/aicon_normal.png",
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1057,
+        "favorite_count": 683,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1057,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

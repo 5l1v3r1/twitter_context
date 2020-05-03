@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun May 03 00:37:30 +0000 2020",
+    "id": 1256744657830268928,
+    "id_str": "1256744657830268928",
+    "text": "O Ciro agora quase mandou um \"d\u00e1 bilh\u00e3o\". #Edicao20",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Edicao20",
+                "indices": [
+                    42,
+                    51
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4691163769,
+        "id_str": "4691163769",
+        "name": "Alison Rodrigues (de \ud83c\udfe0)",
+        "screen_name": "AlisonRSoares",
+        "location": "Brasil",
+        "description": "Doido. Em breve @aoSoleSombra\nhttps://t.co/IKc9tnAMkv",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/IKc9tnAMkv",
+                        "expanded_url": "https://medium.com/@AlisonRodrigues",
+                        "display_url": "medium.com/@AlisonRodrigu\u2026",
+                        "indices": [
+                            30,
+                            53
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 97,
+        "friends_count": 792,
+        "listed_count": 0,
+        "created_at": "Fri Jan 01 18:59:26 +0000 2016",
+        "favourites_count": 7977,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7956,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1189401340298047489/pPZ5a5RH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189401340298047489/pPZ5a5RH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4691163769/1509017732",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

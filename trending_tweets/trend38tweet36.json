@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:41:38 +0000 2020",
+    "id": 1256745698978148352,
+    "id_str": "1256745698978148352",
+    "text": "QUE HIZO #noahschnappisoverparty",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "noahschnappisoverparty",
+                "indices": [
+                    9,
+                    32
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1254146656678838274,
+        "id_str": "1254146656678838274",
+        "name": "cam\u2077",
+        "screen_name": "wbhobito",
+        "location": "",
+        "description": "let us light up the night",
+        "url": "https://t.co/L4ZwRisl2a",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/L4ZwRisl2a",
+                        "expanded_url": "http://taekook.xn--c6h",
+                        "display_url": "taekook.\u2661",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 55,
+        "friends_count": 120,
+        "listed_count": 0,
+        "created_at": "Sat Apr 25 20:34:08 +0000 2020",
+        "favourites_count": 972,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 507,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254500398863396869/ADHoZs4f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254500398863396869/ADHoZs4f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254146656678838274/1587931176",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

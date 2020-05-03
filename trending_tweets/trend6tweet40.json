@@ -1,0 +1,186 @@
+{
+    "created_at": "Sun May 03 00:38:15 +0000 2020",
+    "id": 1256744848276799488,
+    "id_str": "1256744848276799488",
+    "text": "RT @Gabiiraissa_: quero ir no show do gino e geno",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Gabiiraissa_",
+                "name": "gabi",
+                "id": 979103354474389505,
+                "id_str": "979103354474389505",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 969269999033516032,
+        "id_str": "969269999033516032",
+        "name": "Thays",
+        "screen_name": "Thaysscristina2",
+        "location": "",
+        "description": "\u2764\ufe0f\ud83d\udc8d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 153,
+        "friends_count": 109,
+        "listed_count": 0,
+        "created_at": "Thu Mar 01 17:55:50 +0000 2018",
+        "favourites_count": 1301,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3192,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251382471251419136/-bKAOpHH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251382471251419136/-bKAOpHH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969269999033516032/1587682360",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:13:25 +0000 2020",
+        "id": 1256738598340235268,
+        "id_str": "1256738598340235268",
+        "text": "quero ir no show do gino e geno",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 979103354474389505,
+            "id_str": "979103354474389505",
+            "name": "gabi",
+            "screen_name": "Gabiiraissa_",
+            "location": "Bras\u00edlia, Brasil ",
+            "description": "",
+            "url": "https://t.co/eXzouGqI0N",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/eXzouGqI0N",
+                            "expanded_url": "http://instagram.com/gabiraissa._",
+                            "display_url": "instagram.com/gabiraissa._",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 467,
+            "friends_count": 356,
+            "listed_count": 0,
+            "created_at": "Wed Mar 28 21:10:05 +0000 2018",
+            "favourites_count": 17087,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 19089,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256373450031214602/OAn-13fk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256373450031214602/OAn-13fk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/979103354474389505/1587908154",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,544 @@
+{
+    "created_at": "Sun May 03 00:42:34 +0000 2020",
+    "id": 1256745933016006658,
+    "id_str": "1256745933016006658",
+    "text": "RT @taerieland: it only took 1 min 37 seconds for jeon jungkook to save 2020. what have YOU done successfully \n\nhttps://t.co/zUh2ng2meC",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "taerieland",
+                "name": "\u273f \ud835\udc5a\ud835\udc5c\ud835\udc57\ud835\udc56\ud835\udc61\ud835\udc5c\u2077 \ud83e\udd5f",
+                "id": 3233778294,
+                "id_str": "3233778294",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256648739587887104,
+                "id_str": "1256648739587887104",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256648739587887104/pu/img/FWlNkIk24EFReMjd.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256648739587887104/pu/img/FWlNkIk24EFReMjd.jpg",
+                "url": "https://t.co/zUh2ng2meC",
+                "display_url": "pic.twitter.com/zUh2ng2meC",
+                "expanded_url": "https://twitter.com/BTS_twt/status/1256648835272605697/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 960,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256648835272605697,
+                "source_status_id_str": "1256648835272605697",
+                "source_user_id": 335141638,
+                "source_user_id_str": "335141638"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256648739587887104,
+                "id_str": "1256648739587887104",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256648739587887104/pu/img/FWlNkIk24EFReMjd.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256648739587887104/pu/img/FWlNkIk24EFReMjd.jpg",
+                "url": "https://t.co/zUh2ng2meC",
+                "display_url": "pic.twitter.com/zUh2ng2meC",
+                "expanded_url": "https://twitter.com/BTS_twt/status/1256648835272605697/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 960,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256648835272605697,
+                "source_status_id_str": "1256648835272605697",
+                "source_user_id": 335141638,
+                "source_user_id_str": "335141638",
+                "video_info": {
+                    "aspect_ratio": [
+                        3,
+                        4
+                    ],
+                    "duration_millis": 96903,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256648739587887104/pu/vid/320x426/NHdBTBUtu-K7MXHZ.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256648739587887104/pu/vid/360x480/ekNjkR7SQ2Ig02FG.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256648739587887104/pu/pl/CbJVO9bSWKtEYHcC.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256648739587887104/pu/vid/720x960/Rb7GoD9rEJoDNx8y.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 335141638,
+                        "id_str": "335141638",
+                        "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                        "screen_name": "BTS_twt",
+                        "location": "",
+                        "description": "Hi! We are BTS!!",
+                        "url": "https://t.co/BP579N8Xkk",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/BP579N8Xkk",
+                                        "expanded_url": "http://btsblog.ibighit.com",
+                                        "display_url": "btsblog.ibighit.com",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 25383645,
+                        "friends_count": 133,
+                        "listed_count": 69541,
+                        "created_at": "Thu Jul 14 06:32:56 +0000 2011",
+                        "favourites_count": 193,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 12255,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "FFFFFF",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1229058123094056961/QTkQZkBj_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229058123094056961/QTkQZkBj_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/335141638/1581519781",
+                        "profile_link_color": "FF0000",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "EFEFEF",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "regular"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3299669567,
+        "id_str": "3299669567",
+        "name": "Avonlea\u2077 \ud83e\udd70\ud83d\udc9cBTS METLIFE & ATEEZ NEWARK",
+        "screen_name": "Avonlea_e",
+        "location": "Delulu land",
+        "description": "I made this just to stalk my favorite people. *cough* BTS *cough*\ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f\ud83d\ude02 Yoongi biased & OT7 Stan ATEEZ account @Avonlea_e11 Multi Stan in the making",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 716,
+        "friends_count": 1716,
+        "listed_count": 5,
+        "created_at": "Tue May 26 19:32:34 +0000 2015",
+        "favourites_count": 16430,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14930,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245758295023005698/bzpfrHNd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245758295023005698/bzpfrHNd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3299669567/1585846898",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:39:14 +0000 2020",
+        "id": 1256654496727543808,
+        "id_str": "1256654496727543808",
+        "text": "it only took 1 min 37 seconds for jeon jungkook to save 2020. what have YOU done successfully \n\nhttps://t.co/zUh2ng2meC",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256648739587887104,
+                    "id_str": "1256648739587887104",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256648739587887104/pu/img/FWlNkIk24EFReMjd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256648739587887104/pu/img/FWlNkIk24EFReMjd.jpg",
+                    "url": "https://t.co/zUh2ng2meC",
+                    "display_url": "pic.twitter.com/zUh2ng2meC",
+                    "expanded_url": "https://twitter.com/BTS_twt/status/1256648835272605697/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1256648835272605697,
+                    "source_status_id_str": "1256648835272605697",
+                    "source_user_id": 335141638,
+                    "source_user_id_str": "335141638"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256648739587887104,
+                    "id_str": "1256648739587887104",
+                    "indices": [
+                        96,
+                        119
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256648739587887104/pu/img/FWlNkIk24EFReMjd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256648739587887104/pu/img/FWlNkIk24EFReMjd.jpg",
+                    "url": "https://t.co/zUh2ng2meC",
+                    "display_url": "pic.twitter.com/zUh2ng2meC",
+                    "expanded_url": "https://twitter.com/BTS_twt/status/1256648835272605697/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1256648835272605697,
+                    "source_status_id_str": "1256648835272605697",
+                    "source_user_id": 335141638,
+                    "source_user_id_str": "335141638",
+                    "video_info": {
+                        "aspect_ratio": [
+                            3,
+                            4
+                        ],
+                        "duration_millis": 96903,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256648739587887104/pu/vid/320x426/NHdBTBUtu-K7MXHZ.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256648739587887104/pu/vid/360x480/ekNjkR7SQ2Ig02FG.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256648739587887104/pu/pl/CbJVO9bSWKtEYHcC.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256648739587887104/pu/vid/720x960/Rb7GoD9rEJoDNx8y.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false,
+                        "source_user": {
+                            "id": 335141638,
+                            "id_str": "335141638",
+                            "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                            "screen_name": "BTS_twt",
+                            "location": "",
+                            "description": "Hi! We are BTS!!",
+                            "url": "https://t.co/BP579N8Xkk",
+                            "entities": {
+                                "url": {
+                                    "urls": [
+                                        {
+                                            "url": "https://t.co/BP579N8Xkk",
+                                            "expanded_url": "http://btsblog.ibighit.com",
+                                            "display_url": "btsblog.ibighit.com",
+                                            "indices": [
+                                                0,
+                                                23
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "description": {
+                                    "urls": []
+                                }
+                            },
+                            "protected": false,
+                            "followers_count": 25383645,
+                            "friends_count": 133,
+                            "listed_count": 69541,
+                            "created_at": "Thu Jul 14 06:32:56 +0000 2011",
+                            "favourites_count": 193,
+                            "utc_offset": null,
+                            "time_zone": null,
+                            "geo_enabled": true,
+                            "verified": true,
+                            "statuses_count": 12255,
+                            "lang": null,
+                            "contributors_enabled": false,
+                            "is_translator": false,
+                            "is_translation_enabled": false,
+                            "profile_background_color": "FFFFFF",
+                            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                            "profile_background_tile": false,
+                            "profile_image_url": "http://pbs.twimg.com/profile_images/1229058123094056961/QTkQZkBj_normal.jpg",
+                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229058123094056961/QTkQZkBj_normal.jpg",
+                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/335141638/1581519781",
+                            "profile_link_color": "FF0000",
+                            "profile_sidebar_border_color": "FFFFFF",
+                            "profile_sidebar_fill_color": "EFEFEF",
+                            "profile_text_color": "333333",
+                            "profile_use_background_image": true,
+                            "has_extended_profile": false,
+                            "default_profile": false,
+                            "default_profile_image": false,
+                            "following": false,
+                            "follow_request_sent": false,
+                            "notifications": false,
+                            "translator_type": "regular"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3233778294,
+            "id_str": "3233778294",
+            "name": "\u273f \ud835\udc5a\ud835\udc5c\ud835\udc57\ud835\udc56\ud835\udc61\ud835\udc5c\u2077 \ud83e\udd5f",
+            "screen_name": "taerieland",
+            "location": "",
+            "description": "\ud83d\udc8c #\u20de\ud835\ude8b\ud835\ude8a\ud835\ude97\ud835\ude90\ud835\ude9d\ud835\ude8a\ud835\ude97; \ud835\ude9d\ud835\ude91\ud835\ude8e \ud835\uddfa\ud835\uddee\ud835\uddf4\ud835\uddf6\ud835\uddf0 \ud835\ude00\ud835\uddf5\ud835\uddfc\ud835\uddfd \ud835\udea0\ud835\ude92\ud835\ude95\ud835\ude95 \ud835\ude8c\ud835\ude98\ud835\ude96\ud835\ude8f\ud835\ude98\ud835\ude9b\ud835\ude9d \ud835\udea2\ud835\ude98\ud835\ude9e \u2665 \ud835\ude90\ud835\ude98\ud835\ude9d\ud835\udffd \u2665\u300e \ud835\udff7\ud835\udfff, \ud835\ude9c\ud835\ude98\ud835\ude8f\ud835\ude9d/\ud835\ude91\ud835\ude8a\ud835\ude9b\ud835\ude8d \ud835\ude9c\ud835\ude9d\ud835\ude8a\ud835\ude97, \ud835\ude8f\ud835\ude8a\ud835\ude97 \ud835\ude8a\ud835\ude8c\ud835\ude8c\ud835\ude98\ud835\ude9e\ud835\ude97\ud835\ude9d, \ud835\ude98\ud835\ude9d\ud835\udffd \u300f",
+            "url": "https://t.co/HfG00iaxan",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/HfG00iaxan",
+                            "expanded_url": "http://armymulti-aniceoneiswear.xn--p3h",
+                            "display_url": "armymulti-aniceoneiswear.\u2605",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10611,
+            "friends_count": 5278,
+            "listed_count": 124,
+            "created_at": "Tue Jun 02 17:32:37 +0000 2015",
+            "favourites_count": 74341,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 65765,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256609635542450176/ATBxBAOE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256609635542450176/ATBxBAOE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3233778294/1588434052",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 312,
+        "favorite_count": 903,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 312,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

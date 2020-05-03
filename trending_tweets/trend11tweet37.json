@@ -1,0 +1,472 @@
+{
+    "created_at": "Sun May 03 00:41:32 +0000 2020",
+    "id": 1256745675464851457,
+    "id_str": "1256745675464851457",
+    "text": "RT @gomezkid24: One of my favorite scenes from Age of Ultron https://t.co/KOQ0GmlA2y",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gomezkid24",
+                "name": "Damian Gomez",
+                "id": 2262268176,
+                "id_str": "2262268176",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256675280992649216,
+                "id_str": "1256675280992649216",
+                "indices": [
+                    61,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256675280992649216/pu/img/WbCXt46jl0jLqFSY.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256675280992649216/pu/img/WbCXt46jl0jLqFSY.jpg",
+                "url": "https://t.co/KOQ0GmlA2y",
+                "display_url": "pic.twitter.com/KOQ0GmlA2y",
+                "expanded_url": "https://twitter.com/gomezkid24/status/1256675313242632192/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256675313242632192,
+                "source_status_id_str": "1256675313242632192",
+                "source_user_id": 2262268176,
+                "source_user_id_str": "2262268176"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256675280992649216,
+                "id_str": "1256675280992649216",
+                "indices": [
+                    61,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256675280992649216/pu/img/WbCXt46jl0jLqFSY.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256675280992649216/pu/img/WbCXt46jl0jLqFSY.jpg",
+                "url": "https://t.co/KOQ0GmlA2y",
+                "display_url": "pic.twitter.com/KOQ0GmlA2y",
+                "expanded_url": "https://twitter.com/gomezkid24/status/1256675313242632192/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256675313242632192,
+                "source_status_id_str": "1256675313242632192",
+                "source_user_id": 2262268176,
+                "source_user_id_str": "2262268176",
+                "video_info": {
+                    "aspect_ratio": [
+                        4,
+                        3
+                    ],
+                    "duration_millis": 7058,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256675280992649216/pu/vid/360x270/g1GqFfFmn3RQx-o0.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256675280992649216/pu/vid/480x360/ZH6RwZVZLpK8vl5m.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256675280992649216/pu/pl/Z3DAnzM5BhXrrMJU.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256675280992649216/pu/vid/960x720/SEU7vE-K7Jw5i8Rq.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 2262268176,
+                        "id_str": "2262268176",
+                        "name": "Damian Gomez",
+                        "screen_name": "gomezkid24",
+                        "location": "",
+                        "description": "22",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 197,
+                        "friends_count": 577,
+                        "listed_count": 1,
+                        "created_at": "Thu Dec 26 03:50:42 +0000 2013",
+                        "favourites_count": 387,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 2806,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "131516",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1234011454098923520/6hPk0vNY_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234011454098923520/6hPk0vNY_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2262268176/1583046233",
+                        "profile_link_color": "009999",
+                        "profile_sidebar_border_color": "000000",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1028868338536140800,
+        "id_str": "1028868338536140800",
+        "name": "\ud83d\udc7eXeno\ud83d\udc7e",
+        "screen_name": "RagdollXeno",
+        "location": "Alien Hive ",
+        "description": "\u2642\ufe0fThe offical Xeno-Ragdoll twitter page\ud83d\udd8cArtist and Gamer\ud83d\udd79\u270fBeginner comic book writer\u270f\u25b6\ufe0fAnd Noob Youtuber https://t.co/BKobbmjSjD I welcome you all!",
+        "url": "https://t.co/D0LA8pkX8l",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/D0LA8pkX8l",
+                        "expanded_url": "https://www.youtube.com/channel/UC_uFfWA9XZDL7GLxD-czjOA",
+                        "display_url": "youtube.com/channel/UC_uFf\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BKobbmjSjD",
+                        "expanded_url": "http://Xeno-Ragdoll.DeviantArt.com",
+                        "display_url": "Xeno-Ragdoll.DeviantArt.com",
+                        "indices": [
+                            105,
+                            128
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 52,
+        "friends_count": 160,
+        "listed_count": 0,
+        "created_at": "Mon Aug 13 04:58:22 +0000 2018",
+        "favourites_count": 7630,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7632,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255036345304653824/znmM6sUP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255036345304653824/znmM6sUP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1028868338536140800/1534136867",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:01:57 +0000 2020",
+        "id": 1256675313242632192,
+        "id_str": "1256675313242632192",
+        "text": "One of my favorite scenes from Age of Ultron https://t.co/KOQ0GmlA2y",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256675280992649216,
+                    "id_str": "1256675280992649216",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256675280992649216/pu/img/WbCXt46jl0jLqFSY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256675280992649216/pu/img/WbCXt46jl0jLqFSY.jpg",
+                    "url": "https://t.co/KOQ0GmlA2y",
+                    "display_url": "pic.twitter.com/KOQ0GmlA2y",
+                    "expanded_url": "https://twitter.com/gomezkid24/status/1256675313242632192/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256675280992649216,
+                    "id_str": "1256675280992649216",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256675280992649216/pu/img/WbCXt46jl0jLqFSY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256675280992649216/pu/img/WbCXt46jl0jLqFSY.jpg",
+                    "url": "https://t.co/KOQ0GmlA2y",
+                    "display_url": "pic.twitter.com/KOQ0GmlA2y",
+                    "expanded_url": "https://twitter.com/gomezkid24/status/1256675313242632192/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            4,
+                            3
+                        ],
+                        "duration_millis": 7058,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256675280992649216/pu/vid/360x270/g1GqFfFmn3RQx-o0.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256675280992649216/pu/vid/480x360/ZH6RwZVZLpK8vl5m.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1256675280992649216/pu/pl/Z3DAnzM5BhXrrMJU.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1256675280992649216/pu/vid/960x720/SEU7vE-K7Jw5i8Rq.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2262268176,
+            "id_str": "2262268176",
+            "name": "Damian Gomez",
+            "screen_name": "gomezkid24",
+            "location": "",
+            "description": "22",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 197,
+            "friends_count": 577,
+            "listed_count": 1,
+            "created_at": "Thu Dec 26 03:50:42 +0000 2013",
+            "favourites_count": 387,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2806,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1234011454098923520/6hPk0vNY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234011454098923520/6hPk0vNY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2262268176/1583046233",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 103,
+        "favorite_count": 520,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 103,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "en"
+}

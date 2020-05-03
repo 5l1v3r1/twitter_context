@@ -1,0 +1,194 @@
+{
+    "created_at": "Sun May 03 00:34:10 +0000 2020",
+    "id": 1256743821586694149,
+    "id_str": "1256743821586694149",
+    "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23 greek song #AwkwardFuneralSongs https://t.co/lp5HTFHPzC",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    15,
+                    35
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256743606154641408,
+                "id_str": "1256743606154641408",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743606154641408/pu/img/5QGm_5YPMKj7N8pI.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743606154641408/pu/img/5QGm_5YPMKj7N8pI.jpg",
+                "url": "https://t.co/lp5HTFHPzC",
+                "display_url": "pic.twitter.com/lp5HTFHPzC",
+                "expanded_url": "https://twitter.com/NayderlinS/status/1256743821586694149/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 334,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 334,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 334,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256743606154641408,
+                "id_str": "1256743606154641408",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256743606154641408/pu/img/5QGm_5YPMKj7N8pI.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256743606154641408/pu/img/5QGm_5YPMKj7N8pI.jpg",
+                "url": "https://t.co/lp5HTFHPzC",
+                "display_url": "pic.twitter.com/lp5HTFHPzC",
+                "expanded_url": "https://twitter.com/NayderlinS/status/1256743821586694149/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 334,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 334,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 334,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        320,
+                        167
+                    ],
+                    "duration_millis": 30467,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743606154641408/pu/pl/_o6BG_tbUk20-T1k.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743606154641408/pu/vid/516x270/PXZkInjX9FxIYEJ-.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1256743606154641408/pu/vid/640x334/gdBg8UZUKx800SFE.mp4?tag=10"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1015290053260652544,
+        "id_str": "1015290053260652544",
+        "name": "Orion Pax",
+        "screen_name": "NayderlinS",
+        "location": "Papua New Guinea",
+        "description": "I hunt therefore i am",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 38,
+        "friends_count": 472,
+        "listed_count": 0,
+        "created_at": "Fri Jul 06 17:43:06 +0000 2018",
+        "favourites_count": 190,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3923,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240156582761111553/OGsr6yv4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240156582761111553/OGsr6yv4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015290053260652544/1530944148",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

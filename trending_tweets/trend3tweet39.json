@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:42:28 +0000 2020",
+    "id": 1256745909288931331,
+    "id_str": "1256745909288931331",
+    "text": "RT @turuksozu: ''Ya\u015famak i\u00e7in evvela insan\u0131n bir mefk\u00fbresi olmal\u0131. Mefk\u00fbre t\u00fckenmez vecdlerin, \u00fcmitlerin menba\u0131d\u0131r.'' \n\nZiya G\u00f6kalp\n\n#3May\u0131\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "turuksozu",
+                "name": "T\u00fcrk S\u00f6z\u00fc",
+                "id": 953773973749354501,
+                "id_str": "953773973749354501",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 714541087,
+        "id_str": "714541087",
+        "name": "Cevat'\u0131n Ali",
+        "screen_name": "alioger88",
+        "location": "konya",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 150,
+        "friends_count": 169,
+        "listed_count": 0,
+        "created_at": "Tue Jul 24 16:20:38 +0000 2012",
+        "favourites_count": 4927,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2528,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199478632479105024/v-BvW2X9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199478632479105024/v-BvW2X9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/714541087/1552464535",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:45:09 +0000 2020",
+        "id": 1256686185138790403,
+        "id_str": "1256686185138790403",
+        "text": "''Ya\u015famak i\u00e7in evvela insan\u0131n bir mefk\u00fbresi olmal\u0131. Mefk\u00fbre t\u00fckenmez vecdlerin, \u00fcmitlerin menba\u0131d\u0131r.'' \n\nZiya G\u00f6kal\u2026 https://t.co/0fS8C7h827",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0fS8C7h827",
+                    "expanded_url": "https://twitter.com/i/web/status/1256686185138790403",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 953773973749354501,
+            "id_str": "953773973749354501",
+            "name": "T\u00fcrk S\u00f6z\u00fc",
+            "screen_name": "turuksozu",
+            "location": "Scientia potentia est. ",
+            "description": "Edebiyat, k\u00fclt\u00fcr, sanat, tarih, kitap, mimar\u00ee, jeopolitik, uygarl\u0131k  | Makale, bilgi, al\u0131nt\u0131, s\u00f6z, kareler...",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 37870,
+            "friends_count": 32005,
+            "listed_count": 38,
+            "created_at": "Wed Jan 17 23:40:10 +0000 2018",
+            "favourites_count": 7219,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1277,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1243637355363401732/FYUQsD_C_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243637355363401732/FYUQsD_C_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/953773973749354501/1575753380",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 142,
+        "favorite_count": 892,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 142,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

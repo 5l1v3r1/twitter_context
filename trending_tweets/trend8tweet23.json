@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:42:42 +0000 2020",
+    "id": 1256745965412900864,
+    "id_str": "1256745965412900864",
+    "text": "RT @JungkookTimes2: \ud83c\udf0e | JEON JUNGKOOK is currently trending at #1 worldwide along with Never Not. Also HIS VOICE and HIS TATTOOS are trendi\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JungkookTimes2",
+                "name": "Jungkook Times\u2728",
+                "id": 1091577619642904576,
+                "id_str": "1091577619642904576",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 333716159,
+        "id_str": "333716159",
+        "name": "Honey.liebeslied97\ud83d\udc30\ud83c\udf38\ud83c\udf3a",
+        "screen_name": "YumenoSekai97",
+        "location": "Chile",
+        "description": "Oh I can\u2019t call ya I can\u2019t hol\u2019 ya Oh I can\u2019t And yes you know yes you know...\ud83d\udc95\n\nI'd rather die than live without passion \ud83e\udd74\n \ud83d\udc9c | \ud83c\udf6f | \ud83c\udde8\ud83c\uddf1 |\ud83c\udfb5|\ud83c\udfbb",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 690,
+        "friends_count": 321,
+        "listed_count": 3,
+        "created_at": "Mon Jul 11 23:51:00 +0000 2011",
+        "favourites_count": 275721,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 166287,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234270998003843073/Ok6P9a5u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234270998003843073/Ok6P9a5u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/333716159/1583655880",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:36:39 +0000 2020",
+        "id": 1256653848845770752,
+        "id_str": "1256653848845770752",
+        "text": "\ud83c\udf0e | JEON JUNGKOOK is currently trending at #1 worldwide along with Never Not. Also HIS VOICE and HIS TATTOOS are tr\u2026 https://t.co/1jUk7CyTdV",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1jUk7CyTdV",
+                    "expanded_url": "https://twitter.com/i/web/status/1256653848845770752",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1091577619642904576,
+            "id_str": "1091577619642904576",
+            "name": "Jungkook Times\u2728",
+            "screen_name": "JungkookTimes2",
+            "location": "",
+            "description": "Fan account dedicated to #JUNGKOOK (#\uc815\uad6d) | trans, news, updates, charts (KOR-ENG) | IG: jungkooktimes | Team: @JungkookTimes | Member of @TheGoldenUnion",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 35949,
+            "friends_count": 31,
+            "listed_count": 347,
+            "created_at": "Sat Feb 02 06:02:39 +0000 2019",
+            "favourites_count": 257,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7311,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1189887259207774208/hBdlNiRp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189887259207774208/hBdlNiRp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091577619642904576/1549087869",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1251,
+        "favorite_count": 2799,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1251,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

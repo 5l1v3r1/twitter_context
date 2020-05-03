@@ -1,0 +1,201 @@
+{
+    "created_at": "Sun May 03 00:35:13 +0000 2020",
+    "id": 1256744084548485127,
+    "id_str": "1256744084548485127",
+    "text": "Agora mandem aqui fotos de vcs p\u00f3s live!!!! Vamos fazer um \u00e1lbum e postar no nosso Instagram!!!! \ud83e\udd18\u2026 https://t.co/VsE4UkATuj",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/VsE4UkATuj",
+                "expanded_url": "https://twitter.com/i/web/status/1256744084548485127",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    100,
+                    123
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 16455380,
+        "id_str": "16455380",
+        "name": "Banda Resgate",
+        "screen_name": "bandaresgate",
+        "location": "S\u00e3o Paulo / Brasil",
+        "description": "O Rock passa por aqui!!",
+        "url": "https://t.co/SpPFpFT04H",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/SpPFpFT04H",
+                        "expanded_url": "https://linktr.ee/bandaresgate",
+                        "display_url": "linktr.ee/bandaresgate",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 80090,
+        "friends_count": 14,
+        "listed_count": 456,
+        "created_at": "Thu Sep 25 18:51:19 +0000 2008",
+        "favourites_count": 696,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 10028,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "5C5857",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080485855633002496/ThdDHphr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080485855633002496/ThdDHphr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16455380/1546442921",
+        "profile_link_color": "19856A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "0D0D0D",
+        "profile_text_color": "948E94",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1256686292110397441,
+    "quoted_status_id_str": "1256686292110397441",
+    "quoted_status": {
+        "created_at": "Sat May 02 20:45:34 +0000 2020",
+        "id": 1256686292110397441,
+        "id_str": "1256686292110397441",
+        "text": "Mandem neste tu\u00edte fotos de vcs preparados pra live!!!! \ud83d\ude0d",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 16455380,
+            "id_str": "16455380",
+            "name": "Banda Resgate",
+            "screen_name": "bandaresgate",
+            "location": "S\u00e3o Paulo / Brasil",
+            "description": "O Rock passa por aqui!!",
+            "url": "https://t.co/SpPFpFT04H",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SpPFpFT04H",
+                            "expanded_url": "https://linktr.ee/bandaresgate",
+                            "display_url": "linktr.ee/bandaresgate",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 80090,
+            "friends_count": 14,
+            "listed_count": 456,
+            "created_at": "Thu Sep 25 18:51:19 +0000 2008",
+            "favourites_count": 696,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 10028,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "5C5857",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080485855633002496/ThdDHphr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080485855633002496/ThdDHphr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16455380/1546442921",
+            "profile_link_color": "19856A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "0D0D0D",
+            "profile_text_color": "948E94",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 155,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "retweet_count": 1,
+    "favorite_count": 38,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

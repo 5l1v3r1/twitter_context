@@ -1,0 +1,209 @@
+{
+    "created_at": "Sun May 03 00:42:22 +0000 2020",
+    "id": 1256745882915045379,
+    "id_str": "1256745882915045379",
+    "text": "RT @Dogu_Perincek: 3 May\u0131s \u201cT\u00fcrk\u00e7\u00fcler G\u00fcn\u00fc\u201d olarak kabul ediliyor.\nT\u00fcrk\u00e7\u00fcl\u00fck, daha do\u011fru bir tan\u0131mla T\u00fcrk Milliyet\u00e7ili\u011fi, \n\u0130lkel de\u011fil, \u00e7a\u011f\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Dogu_Perincek",
+                "name": "Do\u011fu Perin\u00e7ek",
+                "id": 345231050,
+                "id_str": "345231050",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 366666290,
+        "id_str": "366666290",
+        "name": "Sevim Ercan",
+        "screen_name": "sevberlin",
+        "location": "Berlin",
+        "description": "H\u0131zl\u0131 haber Ajans\u0131. \u0130lkeli ve farkl\u0131, \u00f6zel, etkileyici Berlin, Almanya, T\u00fcrkiye ve D\u00fcnya haberleri.",
+        "url": "http://t.co/LhwAerr2Av",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/LhwAerr2Av",
+                        "expanded_url": "http://www.berlinturk.com",
+                        "display_url": "berlinturk.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1457,
+        "friends_count": 4888,
+        "listed_count": 19,
+        "created_at": "Fri Sep 02 15:59:29 +0000 2011",
+        "favourites_count": 8027,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18592,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1554800122/Sevim_Ercan_MECLis_foto_1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1554800122/Sevim_Ercan_MECLis_foto_1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/366666290/1382179436",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:58:29 +0000 2020",
+        "id": 1256659340808851456,
+        "id_str": "1256659340808851456",
+        "text": "3 May\u0131s \u201cT\u00fcrk\u00e7\u00fcler G\u00fcn\u00fc\u201d olarak kabul ediliyor.\nT\u00fcrk\u00e7\u00fcl\u00fck, daha do\u011fru bir tan\u0131mla T\u00fcrk Milliyet\u00e7ili\u011fi, \n\u0130lkel de\u011fil\u2026 https://t.co/d7xwfROBfC",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/d7xwfROBfC",
+                    "expanded_url": "https://twitter.com/i/web/status/1256659340808851456",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 345231050,
+            "id_str": "345231050",
+            "name": "Do\u011fu Perin\u00e7ek",
+            "screen_name": "Dogu_Perincek",
+            "location": "\u0130stanbul",
+            "description": "Vatan Partisi Genel Ba\u015fkan\u0131",
+            "url": "https://t.co/KefIhPOwVj",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/KefIhPOwVj",
+                            "expanded_url": "http://www.vatanpartisi.org.tr",
+                            "display_url": "vatanpartisi.org.tr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 197766,
+            "friends_count": 50,
+            "listed_count": 451,
+            "created_at": "Sat Jul 30 07:35:55 +0000 2011",
+            "favourites_count": 214,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 7176,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1156570974973825025/Zci6JZVp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156570974973825025/Zci6JZVp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/345231050/1572283169",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 470,
+        "favorite_count": 1806,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 470,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:32:47 +0000 2020",
+    "id": 1256743471265824769,
+    "id_str": "1256743471265824769",
+    "text": "Hymn 43\n#AwkwardFuneralSongs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    8,
+                    28
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1403361253,
+        "id_str": "1403361253",
+        "name": "Leigo\u2026U have 5 mins to reach minimum safe distance",
+        "screen_name": "yieldright",
+        "location": "between the Velvet Lies",
+        "description": "Defending the faith til the adults r in charge 'My mind is a raging torrent, flooded w/rivulets of thought cascading into a waterfall of creative alternatives.'",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1792,
+        "friends_count": 1816,
+        "listed_count": 23,
+        "created_at": "Sat May 04 20:40:34 +0000 2013",
+        "favourites_count": 63952,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 32298,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255832894062366721/wK-JPxfJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255832894062366721/wK-JPxfJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403361253/1496779303",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

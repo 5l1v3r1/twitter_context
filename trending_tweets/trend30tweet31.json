@@ -1,0 +1,220 @@
+{
+    "created_at": "Sun May 03 00:38:16 +0000 2020",
+    "id": 1256744849782513664,
+    "id_str": "1256744849782513664",
+    "text": "RT @bandaresgate: OLHA A\u00cd A NOVIDADE\n\nESSA SEMANA SAI M\u00daSICA NOVAAAAAAAAAHHH\n\n\"A Dor\" - Can\u00e7\u00e3o composta no meio da pandemia e cada um gravo\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bandaresgate",
+                "name": "Banda Resgate",
+                "id": 16455380,
+                "id_str": "16455380",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1186812661335547905,
+        "id_str": "1186812661335547905",
+        "name": "Vit\u00f3ria",
+        "screen_name": "vritorias",
+        "location": "S\u00e3o Paulo - SP",
+        "description": "Hate is always foolish and love, is always wise.\nMost unusual girl\nWebcrente\nINFP-T\nhttps://t.co/GyFXE2x5t6",
+        "url": "https://t.co/GoX9NqiSlM",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/GoX9NqiSlM",
+                        "expanded_url": "https://medium.com/@vixma",
+                        "display_url": "medium.com/@vixma",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/GyFXE2x5t6",
+                        "expanded_url": "http://instagram.com/galaxyd3fender/",
+                        "display_url": "instagram.com/galaxyd3fender/",
+                        "indices": [
+                            84,
+                            107
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 96,
+        "friends_count": 245,
+        "listed_count": 1,
+        "created_at": "Wed Oct 23 01:12:54 +0000 2019",
+        "favourites_count": 4735,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3658,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248855902465273856/7sZPINXv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248855902465273856/7sZPINXv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186812661335547905/1584933002",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:22:49 +0000 2020",
+        "id": 1256740963709521920,
+        "id_str": "1256740963709521920",
+        "text": "OLHA A\u00cd A NOVIDADE\n\nESSA SEMANA SAI M\u00daSICA NOVAAAAAAAAAHHH\n\n\"A Dor\" - Can\u00e7\u00e3o composta no meio da pandemia e cada um\u2026 https://t.co/aTM6MEJfRt",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/aTM6MEJfRt",
+                    "expanded_url": "https://twitter.com/i/web/status/1256740963709521920",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 16455380,
+            "id_str": "16455380",
+            "name": "Banda Resgate",
+            "screen_name": "bandaresgate",
+            "location": "S\u00e3o Paulo / Brasil",
+            "description": "O Rock passa por aqui!!",
+            "url": "https://t.co/SpPFpFT04H",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SpPFpFT04H",
+                            "expanded_url": "https://linktr.ee/bandaresgate",
+                            "display_url": "linktr.ee/bandaresgate",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 80090,
+            "friends_count": 14,
+            "listed_count": 456,
+            "created_at": "Thu Sep 25 18:51:19 +0000 2008",
+            "favourites_count": 696,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 10028,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "5C5857",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080485855633002496/ThdDHphr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080485855633002496/ThdDHphr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16455380/1546442921",
+            "profile_link_color": "19856A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "0D0D0D",
+            "profile_text_color": "948E94",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 152,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

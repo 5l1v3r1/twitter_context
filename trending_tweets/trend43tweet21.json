@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun May 03 00:40:52 +0000 2020",
+    "id": 1256745506228879362,
+    "id_str": "1256745506228879362",
+    "text": "RT @stilljustAmy83: Grandma Got Run Over By A Reindeer\n #AwkwardFuneralSongs",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    56,
+                    76
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "stilljustAmy83",
+                "name": "nAmyste 6ft away from y\u2019all \ud83d\ude37\u26a1\ufe0f\ud83d\udc9e\u26be\ufe0f",
+                "id": 1213657610378825729,
+                "id_str": "1213657610378825729",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 266671239,
+        "id_str": "266671239",
+        "name": "christina cjv",
+        "screen_name": "CV_81",
+        "location": "Ohio, USA",
+        "description": "hashtag game addict I love a good book movies TV shows nature the paranormal star trek and I am an Aquarius",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5939,
+        "friends_count": 4880,
+        "listed_count": 256,
+        "created_at": "Tue Mar 15 16:19:19 +0000 2011",
+        "favourites_count": 1668,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 305475,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256059420078981120/YYEorBMH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256059420078981120/YYEorBMH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/266671239/1588212843",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:02:13 +0000 2020",
+        "id": 1256720677928919047,
+        "id_str": "1256720677928919047",
+        "text": "Grandma Got Run Over By A Reindeer\n #AwkwardFuneralSongs",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AwkwardFuneralSongs",
+                    "indices": [
+                        36,
+                        56
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1213657610378825729,
+            "id_str": "1213657610378825729",
+            "name": "nAmyste 6ft away from y\u2019all \ud83d\ude37\u26a1\ufe0f\ud83d\udc9e\u26be\ufe0f",
+            "screen_name": "stilljustAmy83",
+            "location": "waiting for you...",
+            "description": "can\u2019t. busy eating Oreos in my blanket fort\u2728(was @justAmy83)\u2728host of @AhHaTags \u2728MS warrior\ud83e\udde1\u2728blissfully introverted\u2728all of me belongs to @Johnsense38 \u2728",
+            "url": "https://t.co/8j2dXfS5pg",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8j2dXfS5pg",
+                            "expanded_url": "https://twitter.com/search?q=from%3A%40stilljustAmy83%20-filter%3Areplies&src=typed_query",
+                            "display_url": "twitter.com/search?q=from%\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1177,
+            "friends_count": 1123,
+            "listed_count": 5,
+            "created_at": "Sun Jan 05 03:05:09 +0000 2020",
+            "favourites_count": 12841,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11492,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253158693664886784/9r7yhsWp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253158693664886784/9r7yhsWp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1213657610378825729/1587073945",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 87,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

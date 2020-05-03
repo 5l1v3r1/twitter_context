@@ -1,0 +1,368 @@
+{
+    "created_at": "Sun May 03 00:42:49 +0000 2020",
+    "id": 1256745997339955200,
+    "id_str": "1256745997339955200",
+    "text": "RT @MFatini: Moro \u00e9 s\u00f3rdido, quem em s\u00e3 consci\u00eancia, agindo sob lisura gravaria as conversas com o presidente? Cuidado quem.mandou fazer is\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MFatini",
+                "name": "Mozinha Pedroso Bolsonaro38",
+                "id": 306168215,
+                "id_str": "306168215",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1111331798032805889,
+        "id_str": "1111331798032805889",
+        "name": "Valter Bolsonaro Guedes Araujo Pereira Alves",
+        "screen_name": "loddi_a",
+        "location": "S\u00e3o Jos\u00e9 dos Campos, Brasil",
+        "description": "Brasil Acima de Tudo   Deus Acima de Todos\ud83d\udc16\ud83d\udc9a\ud83c\udfa3",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1970,
+        "friends_count": 2457,
+        "listed_count": 0,
+        "created_at": "Thu Mar 28 18:18:43 +0000 2019",
+        "favourites_count": 51138,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20195,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167248784168050688/K0qJ7bcA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167248784168050688/K0qJ7bcA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:40:47 +0000 2020",
+        "id": 1256715285278711808,
+        "id_str": "1256715285278711808",
+        "text": "Moro \u00e9 s\u00f3rdido, quem em s\u00e3 consci\u00eancia, agindo sob lisura gravaria as conversas com o presidente? Cuidado quem.mand\u2026 https://t.co/BYdTR3wVtn",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/BYdTR3wVtn",
+                    "expanded_url": "https://twitter.com/i/web/status/1256715285278711808",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 306168215,
+            "id_str": "306168215",
+            "name": "Mozinha Pedroso Bolsonaro38",
+            "screen_name": "MFatini",
+            "location": "Votuporanga SP",
+            "description": "patriota sempre, conservadora, \nn\u00e3o respondo dm, n\u00e3o tenho humor para esquerdistas, globalistas, isl\u00e2micos, corruptos\nBrasil acima de tudo, Deus acima de tods",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2291,
+            "friends_count": 2592,
+            "listed_count": 1,
+            "created_at": "Fri May 27 12:11:54 +0000 2011",
+            "favourites_count": 18561,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 26574,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1140752945702678529/8KvL9z0T_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140752945702678529/8KvL9z0T_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/306168215/1468437390",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256709448971714562,
+        "quoted_status_id_str": "1256709448971714562",
+        "quoted_status": {
+            "created_at": "Sat May 02 22:17:35 +0000 2020",
+            "id": 1256709448971714562,
+            "id_str": "1256709448971714562",
+            "text": "Bras\u00edlia continua na rua agora! \u00c9 o povo de Bolsonaro que n\u00e3o est\u00e1 mais aguentando tanta corrup\u00e7\u00e3o. https://t.co/d1sov8UpFi",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1256706568126595076,
+                        "id_str": "1256706568126595076",
+                        "indices": [
+                            100,
+                            123
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256706568126595076/pu/img/20QQPqPUcgqbSW_T.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256706568126595076/pu/img/20QQPqPUcgqbSW_T.jpg",
+                        "url": "https://t.co/d1sov8UpFi",
+                        "display_url": "pic.twitter.com/d1sov8UpFi",
+                        "expanded_url": "https://twitter.com/JurandirBraga1/status/1256709448971714562/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 426,
+                                "h": 240,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 426,
+                                "h": 240,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 426,
+                                "h": 240,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1256706568126595076,
+                        "id_str": "1256706568126595076",
+                        "indices": [
+                            100,
+                            123
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256706568126595076/pu/img/20QQPqPUcgqbSW_T.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256706568126595076/pu/img/20QQPqPUcgqbSW_T.jpg",
+                        "url": "https://t.co/d1sov8UpFi",
+                        "display_url": "pic.twitter.com/d1sov8UpFi",
+                        "expanded_url": "https://twitter.com/JurandirBraga1/status/1256709448971714562/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 426,
+                                "h": 240,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 426,
+                                "h": 240,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 426,
+                                "h": 240,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                71,
+                                40
+                            ],
+                            "duration_millis": 140000,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1256706568126595076/pu/pl/9Ka9hV4sFLiaRGRV.m3u8?tag=10"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1256706568126595076/pu/vid/426x240/GKcrxGUTjqXo-m8p.mp4?tag=10"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1038818496879185921,
+                "id_str": "1038818496879185921",
+                "name": "Jurandir Braga\ud83c\udde7\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1#direita",
+                "screen_name": "JurandirBraga1",
+                "location": "Fortaleza, Brasil",
+                "description": "Direita, Crist\u00e3o, radical ao extremo, amante dos cavalos e patriota acima de tudo!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 26842,
+                "friends_count": 25580,
+                "listed_count": 14,
+                "created_at": "Sun Sep 09 15:56:44 +0000 2018",
+                "favourites_count": 38205,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 19113,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1256742544207208448/J6XfOrCE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256742544207208448/J6XfOrCE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1038818496879185921/1556185600",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1453,
+            "favorite_count": 3424,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        },
+        "retweet_count": 10,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256709448971714562,
+    "quoted_status_id_str": "1256709448971714562",
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

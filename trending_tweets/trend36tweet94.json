@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:41:01 +0000 2020",
+    "id": 1256745542568247308,
+    "id_str": "1256745542568247308",
+    "text": "RT @gsahinn74: \u0130ki kelimeyi bir araya getiremeyen s\u00f6zde Millet Vekilleri taraf\u0131ndan y\u00f6netiliyoruz.Belirli bir se\u00e7ilme standard\u0131 bile yok. E\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gsahinn74",
+                "name": "g\u00f6khan",
+                "id": 910194263987716099,
+                "id_str": "910194263987716099",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 957354440817815552,
+        "id_str": "957354440817815552",
+        "name": "\ud83d\udd4a\ud83d\udd4a\ud83d\udd4a\ud83d\udd4a",
+        "screen_name": "ismail63720546",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1272,
+        "friends_count": 2127,
+        "listed_count": 0,
+        "created_at": "Sat Jan 27 20:47:40 +0000 2018",
+        "favourites_count": 4387,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4528,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245850433438056449/VqaCokgP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245850433438056449/VqaCokgP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 14:27:38 +0000 2020",
+        "id": 1256591181926064130,
+        "id_str": "1256591181926064130",
+        "text": "\u0130ki kelimeyi bir araya getiremeyen s\u00f6zde Millet Vekilleri taraf\u0131ndan y\u00f6netiliyoruz.Belirli bir se\u00e7ilme standard\u0131 bi\u2026 https://t.co/SoiDYyrhYW",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/SoiDYyrhYW",
+                    "expanded_url": "https://twitter.com/i/web/status/1256591181926064130",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 910194263987716099,
+            "id_str": "910194263987716099",
+            "name": "g\u00f6khan",
+            "screen_name": "gsahinn74",
+            "location": "Adana, T\u00fcrkiye",
+            "description": "#MustafaKemalAtat\u00fcrk #T\u00fcrkiyeCumhuriyeti \ud83c\uddf9\ud83c\uddf7\nYazd\u0131klar\u0131m sonsuz Sayg\u0131 i\u00e7erir\nBEN insani y\u00f6nden Sayg\u0131m\u0131 g\u00f6steririm SEN anlamak istedi\u011fin \u015fekilde Anlars\u0131n",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5629,
+            "friends_count": 5346,
+            "listed_count": 1,
+            "created_at": "Tue Sep 19 17:29:57 +0000 2017",
+            "favourites_count": 29997,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 11029,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249567447025360896/qbrdj_PD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249567447025360896/qbrdj_PD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/910194263987716099/1505847904",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 58,
+        "favorite_count": 243,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

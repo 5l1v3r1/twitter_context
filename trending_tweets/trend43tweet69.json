@@ -1,0 +1,89 @@
+{
+    "created_at": "Sun May 03 00:34:01 +0000 2020",
+    "id": 1256743784009863169,
+    "id_str": "1256743784009863169",
+    "text": "#AwkwardFuneralSongs See You on the Other Side",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AwkwardFuneralSongs",
+                "indices": [
+                    0,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 766475952,
+        "id_str": "766475952",
+        "name": "A Lembie",
+        "screen_name": "supernettie44",
+        "location": "New York, USA",
+        "description": "Saving America by chlorinating one gene pool at a time and advocating for the mandatory sterilization of 90% of Wal-Mart shoppers.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 117,
+        "friends_count": 155,
+        "listed_count": 0,
+        "created_at": "Sat Aug 18 22:22:51 +0000 2012",
+        "favourites_count": 3709,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2974,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/931361969155792897/8e2u3sZW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/931361969155792897/8e2u3sZW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/766475952/1504409338",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

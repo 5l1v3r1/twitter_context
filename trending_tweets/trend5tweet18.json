@@ -1,0 +1,114 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745944550432768,
+    "id_str": "1256745944550432768",
+    "text": "It\u2019s \u201cmurder hornets\u201d out here now? God is on our neck \ud83d\ude2d",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 349425344,
+        "id_str": "349425344",
+        "name": "TrinidadJames",
+        "screen_name": "JamesLujanIII",
+        "location": "Universe 6",
+        "description": "PoloLtd.|#NGA|#Canes| \ud83d\udce6ST| \ud83d\udcb0dad| I-25|",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 278,
+        "friends_count": 520,
+        "listed_count": 1,
+        "created_at": "Sat Aug 06 02:37:38 +0000 2011",
+        "favourites_count": 9884,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15347,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245575469392482307/vb4ZDsTb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245575469392482307/vb4ZDsTb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/349425344/1583954913",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "e21c8e4914eef2b3",
+        "url": "https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json",
+        "place_type": "admin",
+        "name": "Colorado",
+        "full_name": "Colorado, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -109.060257,
+                        36.992427
+                    ],
+                    [
+                        -102.041524,
+                        36.992427
+                    ],
+                    [
+                        -102.041524,
+                        41.003445
+                    ],
+                    [
+                        -109.060257,
+                        41.003445
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

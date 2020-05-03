@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:21 +0000 2020",
+    "id": 1256745878557208577,
+    "id_str": "1256745878557208577",
+    "text": "RT @JRabisc: Cellbit: Christopher vc morreu\n#OSegredoNaFloresta https://t.co/kbUs4ENDMc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OSegredoNaFloresta",
+                "indices": [
+                    44,
+                    63
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JRabisc",
+                "name": "Jh_rabisc com -11 de sanidade",
+                "id": 1249124073273245698,
+                "id_str": "1249124073273245698",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1254229015621238785,
+                "id_str": "1254229015621238785",
+                "indices": [
+                    64,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWfqpP8XgAECI4n.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWfqpP8XgAECI4n.jpg",
+                "url": "https://t.co/kbUs4ENDMc",
+                "display_url": "pic.twitter.com/kbUs4ENDMc",
+                "expanded_url": "https://twitter.com/JRabisc/status/1254229018330779649/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1254229018330779649,
+                "source_status_id_str": "1254229018330779649",
+                "source_user_id": 1249124073273245698,
+                "source_user_id_str": "1249124073273245698"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254229015621238785,
+                "id_str": "1254229015621238785",
+                "indices": [
+                    64,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWfqpP8XgAECI4n.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWfqpP8XgAECI4n.jpg",
+                "url": "https://t.co/kbUs4ENDMc",
+                "display_url": "pic.twitter.com/kbUs4ENDMc",
+                "expanded_url": "https://twitter.com/JRabisc/status/1254229018330779649/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1254229018330779649,
+                "source_status_id_str": "1254229018330779649",
+                "source_user_id": 1249124073273245698,
+                "source_user_id_str": "1249124073273245698"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 889529659830001664,
+        "id_str": "889529659830001664",
+        "name": "Danilo",
+        "screen_name": "Eidaniloderio",
+        "location": "Star City",
+        "description": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 lgBt, b de bolacha",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 71,
+        "friends_count": 376,
+        "listed_count": 0,
+        "created_at": "Mon Jul 24 16:56:12 +0000 2017",
+        "favourites_count": 7300,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1825,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243371850069131264/TOWIiiY-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243371850069131264/TOWIiiY-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/889529659830001664/1545625264",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 26 02:01:15 +0000 2020",
+        "id": 1254229018330779649,
+        "id_str": "1254229018330779649",
+        "text": "Cellbit: Christopher vc morreu\n#OSegredoNaFloresta https://t.co/kbUs4ENDMc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OSegredoNaFloresta",
+                    "indices": [
+                        31,
+                        50
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1254229015621238785,
+                    "id_str": "1254229015621238785",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWfqpP8XgAECI4n.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWfqpP8XgAECI4n.jpg",
+                    "url": "https://t.co/kbUs4ENDMc",
+                    "display_url": "pic.twitter.com/kbUs4ENDMc",
+                    "expanded_url": "https://twitter.com/JRabisc/status/1254229018330779649/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254229015621238785,
+                    "id_str": "1254229015621238785",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWfqpP8XgAECI4n.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWfqpP8XgAECI4n.jpg",
+                    "url": "https://t.co/kbUs4ENDMc",
+                    "display_url": "pic.twitter.com/kbUs4ENDMc",
+                    "expanded_url": "https://twitter.com/JRabisc/status/1254229018330779649/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1249124073273245698,
+            "id_str": "1249124073273245698",
+            "name": "Jh_rabisc com -11 de sanidade",
+            "screen_name": "JRabisc",
+            "location": "",
+            "description": "\u270f s\u00f3 mais um artista frustrado\n\u270flvl 18\n\u270finsta:",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12,
+            "friends_count": 77,
+            "listed_count": 0,
+            "created_at": "Sat Apr 11 23:56:27 +0000 2020",
+            "favourites_count": 391,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 131,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256354749143752704/BL1z-lW9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256354749143752704/BL1z-lW9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249124073273245698/1586651684",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 42,
+        "favorite_count": 192,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

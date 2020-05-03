@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:12 +0000 2020",
+    "id": 1256745841550917634,
+    "id_str": "1256745841550917634",
+    "text": "RT @igoralvss: #OrePorBolsonaro  kkkkkkk sim, to orando pra esse the monio voltar de onde ele veio https://t.co/PmryFwTvpc",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "OrePorBolsonaro",
+                "indices": [
+                    15,
+                    31
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "igoralvss",
+                "name": "Igor Alves",
+                "id": 314222654,
+                "id_str": "314222654",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256729112657506305,
+                "id_str": "1256729112657506305",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDMeDLXsAEzq40.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDMeDLXsAEzq40.jpg",
+                "url": "https://t.co/PmryFwTvpc",
+                "display_url": "pic.twitter.com/PmryFwTvpc",
+                "expanded_url": "https://twitter.com/igoralvss/status/1256729120026898437/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 623,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 623,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 588,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256729120026898437,
+                "source_status_id_str": "1256729120026898437",
+                "source_user_id": 314222654,
+                "source_user_id_str": "314222654"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256729112657506305,
+                "id_str": "1256729112657506305",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDMeDLXsAEzq40.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDMeDLXsAEzq40.jpg",
+                "url": "https://t.co/PmryFwTvpc",
+                "display_url": "pic.twitter.com/PmryFwTvpc",
+                "expanded_url": "https://twitter.com/igoralvss/status/1256729120026898437/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 623,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 623,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 588,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256729120026898437,
+                "source_status_id_str": "1256729120026898437",
+                "source_user_id": 314222654,
+                "source_user_id_str": "314222654"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3078790332,
+        "id_str": "3078790332",
+        "name": "Vida da Demi \ud83e\udd43\ud83e\uddda\ud83c\udffc\u200d\u2640\ufe0f",
+        "screen_name": "fagundesj18",
+        "location": "Taubat\u00e9, Brasil",
+        "description": "18 years.\nTaubateana.\nDemi minha vida.\nF\u00e3 de FRIENDS, TVD, TW e GG.\n\n\ud83d\ude0b\u270c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 195,
+        "friends_count": 102,
+        "listed_count": 3,
+        "created_at": "Sat Mar 14 01:25:44 +0000 2015",
+        "favourites_count": 13959,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6010,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255441303447445505/lYCzls4x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255441303447445505/lYCzls4x_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3078790332/1588155502",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:35:45 +0000 2020",
+        "id": 1256729120026898437,
+        "id_str": "1256729120026898437",
+        "text": "#OrePorBolsonaro  kkkkkkk sim, to orando pra esse the monio voltar de onde ele veio https://t.co/PmryFwTvpc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "OrePorBolsonaro",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256729112657506305,
+                    "id_str": "1256729112657506305",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDMeDLXsAEzq40.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDMeDLXsAEzq40.jpg",
+                    "url": "https://t.co/PmryFwTvpc",
+                    "display_url": "pic.twitter.com/PmryFwTvpc",
+                    "expanded_url": "https://twitter.com/igoralvss/status/1256729120026898437/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 623,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 623,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 588,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256729112657506305,
+                    "id_str": "1256729112657506305",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDMeDLXsAEzq40.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDMeDLXsAEzq40.jpg",
+                    "url": "https://t.co/PmryFwTvpc",
+                    "display_url": "pic.twitter.com/PmryFwTvpc",
+                    "expanded_url": "https://twitter.com/igoralvss/status/1256729120026898437/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 623,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 623,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 588,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 314222654,
+            "id_str": "314222654",
+            "name": "Igor Alves",
+            "screen_name": "igoralvss",
+            "location": "Niter\u00f3i, Rj",
+            "description": "\u201cBrasil acima de tudo, Lady Gaga acima de todos.\u201d",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 235,
+            "friends_count": 578,
+            "listed_count": 2,
+            "created_at": "Thu Jun 09 22:24:26 +0000 2011",
+            "favourites_count": 18254,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 20979,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253802288826769408/jebYbbjs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253802288826769408/jebYbbjs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/314222654/1585193596",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 45,
+        "favorite_count": 291,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

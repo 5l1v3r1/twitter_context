@@ -1,0 +1,113 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745946307796992,
+    "id_str": "1256745946307796992",
+    "text": "J\u00e1 tenho follow de alguns deles #mansaodaspocs s\u00f3 falta o da Yuri Gab da @mapantaleaoo",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mansaodaspocs",
+                "indices": [
+                    32,
+                    46
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mapantaleaoo",
+                "name": "Marcella Pantale\u00e3o",
+                "id": 2893856357,
+                "id_str": "2893856357",
+                "indices": [
+                    73,
+                    86
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3874417341,
+        "id_str": "3874417341",
+        "name": "LG6 is coming",
+        "screen_name": "leofig2016",
+        "location": "Morro da Fuma\u00e7a Brasil",
+        "description": "why you so obsessed with me?",
+        "url": "https://t.co/uXkVW9tutG",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/uXkVW9tutG",
+                        "expanded_url": "https://curiouscat.me/leofig2016",
+                        "display_url": "curiouscat.me/leofig2016",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Mon Oct 05 21:11:16 +0000 2015",
+        "favourites_count": 14,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17699,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253465785969803265/5DwZj4sE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253465785969803265/5DwZj4sE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3874417341/1586139192",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:41:38 +0000 2020",
+    "id": 1256745700827824128,
+    "id_str": "1256745700827824128",
+    "text": "RT @tweetsdaluh: Pra quem j\u00e1 teve um cora\u00e7\u00e3o quebrado.. Um trincadin n\u00e9 nada \ud83d\ude29\n\n #JeMBrahmaLive",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    81,
+                    95
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tweetsdaluh",
+                "name": "Luh \ud83c\udf3b",
+                "id": 53248122,
+                "id_str": "53248122",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1217178410335834119,
+        "id_str": "1217178410335834119",
+        "name": "Z\u00ebt\u00eb \u00c4r\u00e4\u0171j\u00f6 \ud83c\udf49\ud83d\udc78\ud83c\udffc",
+        "screen_name": "zettynhaa",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 438,
+        "friends_count": 1428,
+        "listed_count": 0,
+        "created_at": "Tue Jan 14 20:16:13 +0000 2020",
+        "favourites_count": 13442,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8787,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240691027813502976/YWncVeVR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240691027813502976/YWncVeVR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1217178410335834119/1579054280",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:55:35 +0000 2020",
+        "id": 1256719011703906305,
+        "id_str": "1256719011703906305",
+        "text": "Pra quem j\u00e1 teve um cora\u00e7\u00e3o quebrado.. Um trincadin n\u00e9 nada \ud83d\ude29\n\n #JeMBrahmaLive",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        64,
+                        78
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 53248122,
+            "id_str": "53248122",
+            "name": "Luh \ud83c\udf3b",
+            "screen_name": "tweetsdaluh",
+            "location": "",
+            "description": "GDB/Let\u2019s bora \ud83d\ude80\u2764\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4834,
+            "friends_count": 280,
+            "listed_count": 55,
+            "created_at": "Fri Jul 03 01:07:00 +0000 2009",
+            "favourites_count": 23911,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 18524,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFEF7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256375991838048258/uK21HAMh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256375991838048258/uK21HAMh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/53248122/1588355464",
+            "profile_link_color": "A36F5D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "1C1C1C",
+            "profile_text_color": "A19B9E",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

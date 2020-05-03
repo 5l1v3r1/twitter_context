@@ -1,0 +1,289 @@
+{
+    "created_at": "Sun May 03 00:42:59 +0000 2020",
+    "id": 1256746036892184581,
+    "id_str": "1256746036892184581",
+    "text": "RT @galeano196: @raul_lucarini @EsterLinaLanzi @clarincom @C5N @pagina12 #todosContraLaMentiraM",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "todosContraLaMentiraM",
+                "indices": [
+                    73,
+                    95
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "galeano196",
+                "name": "Laura",
+                "id": 1244633242516545537,
+                "id_str": "1244633242516545537",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "raul_lucarini",
+                "name": "\ud835\udd7d\ud835\udd86\u00fa\ud835\udd91 \ud835\udd77\ud835\udd9a\ud835\udd88\ud835\udd86\ud835\udd97\ud835\udd8e\ud835\udd93\ud835\udd8e",
+                "id": 3434404877,
+                "id_str": "3434404877",
+                "indices": [
+                    16,
+                    30
+                ]
+            },
+            {
+                "screen_name": "EsterLinaLanzi",
+                "name": "La paz es el camino",
+                "id": 187344626,
+                "id_str": "187344626",
+                "indices": [
+                    31,
+                    46
+                ]
+            },
+            {
+                "screen_name": "clarincom",
+                "name": "Clar\u00edn",
+                "id": 8105922,
+                "id_str": "8105922",
+                "indices": [
+                    47,
+                    57
+                ]
+            },
+            {
+                "screen_name": "C5N",
+                "name": "C5N",
+                "id": 152325528,
+                "id_str": "152325528",
+                "indices": [
+                    58,
+                    62
+                ]
+            },
+            {
+                "screen_name": "pagina12",
+                "name": "P\u00e1gina|12",
+                "id": 775474080715767808,
+                "id_str": "775474080715767808",
+                "indices": [
+                    63,
+                    72
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 187344626,
+        "id_str": "187344626",
+        "name": "La paz es el camino",
+        "screen_name": "EsterLinaLanzi",
+        "location": "San Nicol\u00e1s, Pcia Bs.As.",
+        "description": "El proyecto Nacional y Popular es el q nos salva del Poder financiero Internacional.\nTengo 70 a\u00f1os, casada, 3 hijos.\nNo dialogo con agresivos, s\u00ed con opositores",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 37971,
+        "friends_count": 38031,
+        "listed_count": 92,
+        "created_at": "Sun Sep 05 23:55:53 +0000 2010",
+        "favourites_count": 164874,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1035691,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205559026056073216/OpteJ3OQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205559026056073216/OpteJ3OQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187344626/1513391393",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:46:05 +0000 2020",
+        "id": 1256731720470183941,
+        "id_str": "1256731720470183941",
+        "text": "@raul_lucarini @EsterLinaLanzi @clarincom @C5N @pagina12 #todosContraLaMentiraM",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "todosContraLaMentiraM",
+                    "indices": [
+                        57,
+                        79
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "raul_lucarini",
+                    "name": "\ud835\udd7d\ud835\udd86\u00fa\ud835\udd91 \ud835\udd77\ud835\udd9a\ud835\udd88\ud835\udd86\ud835\udd97\ud835\udd8e\ud835\udd93\ud835\udd8e",
+                    "id": 3434404877,
+                    "id_str": "3434404877",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "EsterLinaLanzi",
+                    "name": "La paz es el camino",
+                    "id": 187344626,
+                    "id_str": "187344626",
+                    "indices": [
+                        15,
+                        30
+                    ]
+                },
+                {
+                    "screen_name": "clarincom",
+                    "name": "Clar\u00edn",
+                    "id": 8105922,
+                    "id_str": "8105922",
+                    "indices": [
+                        31,
+                        41
+                    ]
+                },
+                {
+                    "screen_name": "C5N",
+                    "name": "C5N",
+                    "id": 152325528,
+                    "id_str": "152325528",
+                    "indices": [
+                        42,
+                        46
+                    ]
+                },
+                {
+                    "screen_name": "pagina12",
+                    "name": "P\u00e1gina|12",
+                    "id": 775474080715767808,
+                    "id_str": "775474080715767808",
+                    "indices": [
+                        47,
+                        56
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1256368551969112067,
+        "in_reply_to_status_id_str": "1256368551969112067",
+        "in_reply_to_user_id": 3434404877,
+        "in_reply_to_user_id_str": "3434404877",
+        "in_reply_to_screen_name": "raul_lucarini",
+        "user": {
+            "id": 1244633242516545537,
+            "id_str": "1244633242516545537",
+            "name": "Laura",
+            "screen_name": "galeano196",
+            "location": "",
+            "description": "curiosa",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 239,
+            "friends_count": 416,
+            "listed_count": 0,
+            "created_at": "Mon Mar 30 14:31:26 +0000 2020",
+            "favourites_count": 1134,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 236,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1244633588706037763/20aRqRPf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244633588706037763/20aRqRPf_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+}

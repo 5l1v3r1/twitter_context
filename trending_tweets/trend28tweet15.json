@@ -1,0 +1,247 @@
+{
+    "created_at": "Sun May 03 00:42:53 +0000 2020",
+    "id": 1256746014670757889,
+    "id_str": "1256746014670757889",
+    "text": "RT @ringsxkarla: \ud83e\udd70\ud83e\udd70 hi @OnAirRomeo! could you please play #MyOhMy by Camila Cabello ft. DaBaby on #MostRequestedLive? we would be so happy!\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MyOhMy",
+                "indices": [
+                    58,
+                    65
+                ]
+            },
+            {
+                "text": "MostRequestedLive",
+                "indices": [
+                    98,
+                    116
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ringsxkarla",
+                "name": "Ala\ud83c\udf3b CAMILA FOLLOW ME PLS",
+                "id": 1916169380,
+                "id_str": "1916169380",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "OnAirRomeo",
+                "name": "On Air Romeo",
+                "id": 21590830,
+                "id_str": "21590830",
+                "indices": [
+                    23,
+                    34
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1067945741686136833,
+        "id_str": "1067945741686136833",
+        "name": "Heidy",
+        "screen_name": "Heidy10076211",
+        "location": "Miami , Fl",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 97,
+        "friends_count": 216,
+        "listed_count": 0,
+        "created_at": "Thu Nov 29 00:58:01 +0000 2018",
+        "favourites_count": 19790,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15023,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242282396369772546/4Lb4cq0g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242282396369772546/4Lb4cq0g_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067945741686136833/1572920124",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:33:56 +0000 2020",
+        "id": 1256743760551165952,
+        "id_str": "1256743760551165952",
+        "text": "\ud83e\udd70\ud83e\udd70 hi @OnAirRomeo! could you please play #MyOhMy by Camila Cabello ft. DaBaby on #MostRequestedLive? we would be so happy! @MostRequestLive",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MyOhMy",
+                    "indices": [
+                        41,
+                        48
+                    ]
+                },
+                {
+                    "text": "MostRequestedLive",
+                    "indices": [
+                        81,
+                        99
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "OnAirRomeo",
+                    "name": "On Air Romeo",
+                    "id": 21590830,
+                    "id_str": "21590830",
+                    "indices": [
+                        6,
+                        17
+                    ]
+                },
+                {
+                    "screen_name": "MostRequestLive",
+                    "name": "Most Requested Live",
+                    "id": 108775893,
+                    "id_str": "108775893",
+                    "indices": [
+                        123,
+                        139
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1916169380,
+            "id_str": "1916169380",
+            "name": "Ala\ud83c\udf3b CAMILA FOLLOW ME PLS",
+            "screen_name": "ringsxkarla",
+            "location": "Buenos Aires, Argentina",
+            "description": "in a world where you can\u2019t be anything, be nice\u2728\ud83e\ude90 20/10/2018 Never Be The Same Tour\ud83d\udc7d\ud83d\udc9c",
+            "url": "https://t.co/fU4J2vUVRh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fU4J2vUVRh",
+                            "expanded_url": "https://youtu.be/Ph54wQG8ynk",
+                            "display_url": "youtu.be/Ph54wQG8ynk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1445,
+            "friends_count": 1214,
+            "listed_count": 20,
+            "created_at": "Sun Sep 29 04:45:54 +0000 2013",
+            "favourites_count": 22116,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 21792,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251157488700809220/g4Cs3_P5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251157488700809220/g4Cs3_P5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916169380/1587072197",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

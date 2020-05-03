@@ -1,0 +1,212 @@
+{
+    "created_at": "Sun May 03 00:41:47 +0000 2020",
+    "id": 1256745737314021376,
+    "id_str": "1256745737314021376",
+    "text": "RT @iamsamuelpagge: We Were All Here When SHATTA WALE Won 11 Awards During The #3MusicAwards Last Year\n\nWe Heard Alot Of Evil Things Sark F\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "3MusicAwards",
+                "indices": [
+                    79,
+                    92
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "iamsamuelpagge",
+                "name": "UCC SHATTA WALE\ud83c\uddec\ud83c\udded\ud83e\udde0",
+                "id": 746097521831907332,
+                "id_str": "746097521831907332",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1136656456726568961,
+        "id_str": "1136656456726568961",
+        "name": "ZAHEER\ud83d\udc51\ud83c\udf0d",
+        "screen_name": "Glock873",
+        "location": "Accra, Ghana",
+        "description": "You can't change destiny.... Try it,  you die.. \ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d Just be you.. and how Allah wants you to be... Huncholove\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1251,
+        "friends_count": 2949,
+        "listed_count": 0,
+        "created_at": "Thu Jun 06 15:29:52 +0000 2019",
+        "favourites_count": 49707,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 43727,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253996859321917442/uaBM2FAt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253996859321917442/uaBM2FAt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136656456726568961/1564661947",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:31:51 +0000 2020",
+        "id": 1256713038750724108,
+        "id_str": "1256713038750724108",
+        "text": "We Were All Here When SHATTA WALE Won 11 Awards During The #3MusicAwards Last Year\n\nWe Heard Alot Of Evil Things Sa\u2026 https://t.co/24nkJZXm6Z",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "3MusicAwards",
+                    "indices": [
+                        59,
+                        72
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/24nkJZXm6Z",
+                    "expanded_url": "https://twitter.com/i/web/status/1256713038750724108",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 746097521831907332,
+            "id_str": "746097521831907332",
+            "name": "UCC SHATTA WALE\ud83c\uddec\ud83c\udded\ud83e\udde0",
+            "screen_name": "iamsamuelpagge",
+            "location": "Here",
+            "description": "SON OF MERCY\ud83d\ude4f\ud83c\udffe\n#PERSCOBA'15'...|UCC| |MAIN ACCOUNT| FC BARCAL\u26bd\ufe0fNA\u2665\ufe0f| Instagram & Snapchat- Mrpagge | & Facebook- Samuel Pagge",
+            "url": "https://t.co/A1GFEZILCT",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/A1GFEZILCT",
+                            "expanded_url": "https://youtu.be/a5p4QOAFU9Q",
+                            "display_url": "youtu.be/a5p4QOAFU9Q",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10944,
+            "friends_count": 4819,
+            "listed_count": 2,
+            "created_at": "Thu Jun 23 21:48:05 +0000 2016",
+            "favourites_count": 1844,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 15246,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1237660975085617153/uw4qQF0M_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237660975085617153/uw4qQF0M_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/746097521831907332/1466719970",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 57,
+        "favorite_count": 308,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 57,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

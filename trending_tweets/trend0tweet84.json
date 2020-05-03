@@ -1,0 +1,423 @@
+{
+    "created_at": "Sun May 03 00:41:03 +0000 2020",
+    "id": 1256745554190700545,
+    "id_str": "1256745554190700545",
+    "text": "RT @jorgeemateus: Algu\u00e9m correndo o risco de fazer isso? #LiveJeM #JeMBrahmaLive #FiqueEmCasa e Cante #Comigo https://t.co/PJdi8Swa28",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveJeM",
+                "indices": [
+                    57,
+                    65
+                ]
+            },
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    66,
+                    80
+                ]
+            },
+            {
+                "text": "FiqueEmCasa",
+                "indices": [
+                    81,
+                    93
+                ]
+            },
+            {
+                "text": "Comigo",
+                "indices": [
+                    102,
+                    109
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jorgeemateus",
+                "name": "Jorge & Mateus",
+                "id": 41043596,
+                "id_str": "41043596",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256709260601446400,
+                "id_str": "1256709260601446400",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC6aggX0AAI7N9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC6aggX0AAI7N9.jpg",
+                "url": "https://t.co/PJdi8Swa28",
+                "display_url": "pic.twitter.com/PJdi8Swa28",
+                "expanded_url": "https://twitter.com/jorgeemateus/status/1256709274165825541/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1242,
+                        "h": 878,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 848,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 481,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256709274165825541,
+                "source_status_id_str": "1256709274165825541",
+                "source_user_id": 41043596,
+                "source_user_id_str": "41043596"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256709260601446400,
+                "id_str": "1256709260601446400",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXC6aggX0AAI7N9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXC6aggX0AAI7N9.jpg",
+                "url": "https://t.co/PJdi8Swa28",
+                "display_url": "pic.twitter.com/PJdi8Swa28",
+                "expanded_url": "https://twitter.com/jorgeemateus/status/1256709274165825541/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1242,
+                        "h": 878,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 848,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 481,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256709274165825541,
+                "source_status_id_str": "1256709274165825541",
+                "source_user_id": 41043596,
+                "source_user_id_str": "41043596"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2233413920,
+        "id_str": "2233413920",
+        "name": "Sophya \ud83e\udd40",
+        "screen_name": "AnaSophie98",
+        "location": "Santo Ant\u00f3nio dos Cavaleiros ",
+        "description": "21y || 2660 || Marina D\u2019Or 2k16 || ESHTE || GLAT",
+        "url": "https://t.co/Wvl3yOSPqS",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Wvl3yOSPqS",
+                        "expanded_url": "http://diariodeumamelodramatica.tumblr.com/",
+                        "display_url": "diariodeumamelodramatica.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 556,
+        "friends_count": 412,
+        "listed_count": 1,
+        "created_at": "Fri Dec 06 19:10:19 +0000 2013",
+        "favourites_count": 21035,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 44031,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239667145379909632/mMMi-ncL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239667145379909632/mMMi-ncL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2233413920/1560169355",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:16:54 +0000 2020",
+        "id": 1256709274165825541,
+        "id_str": "1256709274165825541",
+        "text": "Algu\u00e9m correndo o risco de fazer isso? #LiveJeM #JeMBrahmaLive #FiqueEmCasa e Cante #Comigo https://t.co/PJdi8Swa28",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LiveJeM",
+                    "indices": [
+                        39,
+                        47
+                    ]
+                },
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        48,
+                        62
+                    ]
+                },
+                {
+                    "text": "FiqueEmCasa",
+                    "indices": [
+                        63,
+                        75
+                    ]
+                },
+                {
+                    "text": "Comigo",
+                    "indices": [
+                        84,
+                        91
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256709260601446400,
+                    "id_str": "1256709260601446400",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC6aggX0AAI7N9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC6aggX0AAI7N9.jpg",
+                    "url": "https://t.co/PJdi8Swa28",
+                    "display_url": "pic.twitter.com/PJdi8Swa28",
+                    "expanded_url": "https://twitter.com/jorgeemateus/status/1256709274165825541/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1242,
+                            "h": 878,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 481,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256709260601446400,
+                    "id_str": "1256709260601446400",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXC6aggX0AAI7N9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXC6aggX0AAI7N9.jpg",
+                    "url": "https://t.co/PJdi8Swa28",
+                    "display_url": "pic.twitter.com/PJdi8Swa28",
+                    "expanded_url": "https://twitter.com/jorgeemateus/status/1256709274165825541/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1242,
+                            "h": 878,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 481,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 41043596,
+            "id_str": "41043596",
+            "name": "Jorge & Mateus",
+            "screen_name": "jorgeemateus",
+            "location": "Brasil",
+            "description": "Jorge & Mateus",
+            "url": "https://t.co/LsYLCF6u8j",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LsYLCF6u8j",
+                            "expanded_url": "http://www.jorgeemateus.com.br",
+                            "display_url": "jorgeemateus.com.br",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8100047,
+            "friends_count": 104,
+            "listed_count": 3126,
+            "created_at": "Tue May 19 03:19:53 +0000 2009",
+            "favourites_count": 1605,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 17592,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255626935356592128/cHnw80WZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255626935356592128/cHnw80WZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41043596/1588199732",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1424,
+        "favorite_count": 10933,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1424,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

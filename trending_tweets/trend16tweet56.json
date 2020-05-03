@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745947587137536,
+    "id_str": "1256745947587137536",
+    "text": "RT @PNDnaVeia: Conversinha mole do Amoedo agora.\n#CiroNaGloboNews https://t.co/h23Dyg6qHG",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    49,
+                    65
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PNDnaVeia",
+                "name": "PNDnaVeia\ud83c\udf39",
+                "id": 763813502842769408,
+                "id_str": "763813502842769408",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256743725365186561,
+                "id_str": "1256743725365186561",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZwnwX0AELvpv.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZwnwX0AELvpv.png",
+                "url": "https://t.co/h23Dyg6qHG",
+                "display_url": "pic.twitter.com/h23Dyg6qHG",
+                "expanded_url": "https://twitter.com/PNDnaVeia/status/1256743734559072257/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 764,
+                        "h": 230,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 205,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 764,
+                        "h": 230,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743734559072257,
+                "source_status_id_str": "1256743734559072257",
+                "source_user_id": 763813502842769408,
+                "source_user_id_str": "763813502842769408"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256743725365186561,
+                "id_str": "1256743725365186561",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDZwnwX0AELvpv.png",
+                "media_url_https": "https://pbs.twimg.com/media/EXDZwnwX0AELvpv.png",
+                "url": "https://t.co/h23Dyg6qHG",
+                "display_url": "pic.twitter.com/h23Dyg6qHG",
+                "expanded_url": "https://twitter.com/PNDnaVeia/status/1256743734559072257/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 764,
+                        "h": 230,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 205,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 764,
+                        "h": 230,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256743734559072257,
+                "source_status_id_str": "1256743734559072257",
+                "source_user_id": 763813502842769408,
+                "source_user_id_str": "763813502842769408"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 870795510,
+        "id_str": "870795510",
+        "name": "Carlos Mendes",
+        "screen_name": "Mendes89Mendes",
+        "location": "",
+        "description": "pai do Joaquim, e apaixonado por eng civil, matem\u00e1tica, Corinthians e Paysandu",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 133,
+        "listed_count": 0,
+        "created_at": "Tue Oct 09 23:57:48 +0000 2012",
+        "favourites_count": 1182,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 404,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/990705613469569026/ylmvRLIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/990705613469569026/ylmvRLIp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/870795510/1457925439",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:33:50 +0000 2020",
+        "id": 1256743734559072257,
+        "id_str": "1256743734559072257",
+        "text": "Conversinha mole do Amoedo agora.\n#CiroNaGloboNews https://t.co/h23Dyg6qHG",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        34,
+                        50
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256743725365186561,
+                    "id_str": "1256743725365186561",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDZwnwX0AELvpv.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDZwnwX0AELvpv.png",
+                    "url": "https://t.co/h23Dyg6qHG",
+                    "display_url": "pic.twitter.com/h23Dyg6qHG",
+                    "expanded_url": "https://twitter.com/PNDnaVeia/status/1256743734559072257/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 764,
+                            "h": 230,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 205,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 764,
+                            "h": 230,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256743725365186561,
+                    "id_str": "1256743725365186561",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDZwnwX0AELvpv.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDZwnwX0AELvpv.png",
+                    "url": "https://t.co/h23Dyg6qHG",
+                    "display_url": "pic.twitter.com/h23Dyg6qHG",
+                    "expanded_url": "https://twitter.com/PNDnaVeia/status/1256743734559072257/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 764,
+                            "h": 230,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 205,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 764,
+                            "h": 230,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 763813502842769408,
+            "id_str": "763813502842769408",
+            "name": "PNDnaVeia\ud83c\udf39",
+            "screen_name": "PNDnaVeia",
+            "location": "",
+            "description": "#ProjetoNacionalDeDesenvolvimento",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1200,
+            "friends_count": 1514,
+            "listed_count": 3,
+            "created_at": "Thu Aug 11 19:05:04 +0000 2016",
+            "favourites_count": 20139,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9652,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1143868547782852608/vHGIv9JC_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143868547782852608/vHGIv9JC_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/763813502842769408/1563725460",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

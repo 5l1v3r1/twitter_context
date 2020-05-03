@@ -1,0 +1,102 @@
+{
+    "created_at": "Sun May 03 00:42:27 +0000 2020",
+    "id": 1256745903412727808,
+    "id_str": "1256745903412727808",
+    "text": "#ya\u011fmur bizi temizlemez senin suyun.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ya\u011fmur",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1928485201,
+        "id_str": "1928485201",
+        "name": "Erhan Korkut",
+        "screen_name": "ErhanKorkut1988",
+        "location": "\u00fcsk\u00fcdar",
+        "description": "M\u0130GROS PERSONEL\u0130-\nBE\u015e\u0130KTA\u015e TARAFTARI\nBA\u015eINA BELA OLSADA EDEB\u0130YAT SEVER\nUNFLOW PROGRAMI VAR",
+        "url": "https://t.co/vumgXkNlBm",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/vumgXkNlBm",
+                        "expanded_url": "http://www.facebook.com/erhan.korkut.357",
+                        "display_url": "facebook.com/erhan.korkut.3\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 879,
+        "friends_count": 935,
+        "listed_count": 0,
+        "created_at": "Wed Oct 02 22:45:43 +0000 2013",
+        "favourites_count": 7679,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3420,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253774858351247360/sCYCLov8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253774858351247360/sCYCLov8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928485201/1586313179",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

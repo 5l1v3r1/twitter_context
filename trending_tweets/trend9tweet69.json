@@ -1,0 +1,338 @@
+{
+    "created_at": "Sun May 03 00:42:37 +0000 2020",
+    "id": 1256745947847106561,
+    "id_str": "1256745947847106561",
+    "text": "RT @jwngcookies: N\u00c3O D\u00c1 CARA EU AMO ELE DEMAIS\n\nTE AMAMOS FELIPE PRIOR https://t.co/wFc8CzEYvN",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jwngcookies",
+                "name": "Beca \ud83c\udf7a",
+                "id": 738121785045057536,
+                "id_str": "738121785045057536",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256744377684197377,
+                "id_str": "1256744377684197377",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaWl1WAAEANp2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaWl1WAAEANp2.jpg",
+                "url": "https://t.co/wFc8CzEYvN",
+                "display_url": "pic.twitter.com/wFc8CzEYvN",
+                "expanded_url": "https://twitter.com/jwngcookies/status/1256744385494032388/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 572,
+                        "h": 322,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 572,
+                        "h": 322,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 572,
+                        "h": 322,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744385494032388,
+                "source_status_id_str": "1256744385494032388",
+                "source_user_id": 738121785045057536,
+                "source_user_id_str": "738121785045057536"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256744377684197377,
+                "id_str": "1256744377684197377",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDaWl1WAAEANp2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDaWl1WAAEANp2.jpg",
+                "url": "https://t.co/wFc8CzEYvN",
+                "display_url": "pic.twitter.com/wFc8CzEYvN",
+                "expanded_url": "https://twitter.com/jwngcookies/status/1256744385494032388/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 572,
+                        "h": 322,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 572,
+                        "h": 322,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 572,
+                        "h": 322,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256744385494032388,
+                "source_status_id_str": "1256744385494032388",
+                "source_user_id": 738121785045057536,
+                "source_user_id_str": "738121785045057536"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2597090178,
+        "id_str": "2597090178",
+        "name": "Bianca Fernanda",
+        "screen_name": "biah_silva321",
+        "location": "Brasil",
+        "description": "Follow your Dreams\u2764\u2764",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 353,
+        "friends_count": 924,
+        "listed_count": 1,
+        "created_at": "Tue Jul 01 00:08:12 +0000 2014",
+        "favourites_count": 6002,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10930,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083184467580194816/42PgZ0yS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083184467580194816/42PgZ0yS_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:36:25 +0000 2020",
+        "id": 1256744385494032388,
+        "id_str": "1256744385494032388",
+        "text": "N\u00c3O D\u00c1 CARA EU AMO ELE DEMAIS\n\nTE AMAMOS FELIPE PRIOR https://t.co/wFc8CzEYvN",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256744377684197377,
+                    "id_str": "1256744377684197377",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDaWl1WAAEANp2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDaWl1WAAEANp2.jpg",
+                    "url": "https://t.co/wFc8CzEYvN",
+                    "display_url": "pic.twitter.com/wFc8CzEYvN",
+                    "expanded_url": "https://twitter.com/jwngcookies/status/1256744385494032388/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 572,
+                            "h": 322,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 572,
+                            "h": 322,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 572,
+                            "h": 322,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256744377684197377,
+                    "id_str": "1256744377684197377",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDaWl1WAAEANp2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDaWl1WAAEANp2.jpg",
+                    "url": "https://t.co/wFc8CzEYvN",
+                    "display_url": "pic.twitter.com/wFc8CzEYvN",
+                    "expanded_url": "https://twitter.com/jwngcookies/status/1256744385494032388/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 572,
+                            "h": 322,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 572,
+                            "h": 322,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 572,
+                            "h": 322,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 738121785045057536,
+            "id_str": "738121785045057536",
+            "name": "Beca \ud83c\udf7a",
+            "screen_name": "jwngcookies",
+            "location": "\u2640\ufe0f",
+            "description": "\"Ah vai dormir mano\" \ud83d\udc7a\n\nx salvando user x",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1411,
+            "friends_count": 588,
+            "listed_count": 2,
+            "created_at": "Wed Jun 01 21:35:22 +0000 2016",
+            "favourites_count": 29661,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 20435,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256603853153357832/mJPDR6Fj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256603853153357832/mJPDR6Fj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/738121785045057536/1587155694",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 47,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+}

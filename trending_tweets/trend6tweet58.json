@@ -1,0 +1,94 @@
+{
+    "created_at": "Sun May 03 00:36:39 +0000 2020",
+    "id": 1256744443295731720,
+    "id_str": "1256744443295731720",
+    "text": "Quem n\u00e3o tiver vendo Gino e Geno nem fala comigo.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1642030226,
+        "id_str": "1642030226",
+        "name": ".Bruno H\u00f6fn \ud83c\udf92\ud83c\udf33\ud83c\udf0e",
+        "screen_name": "BrunoHofn",
+        "location": "Central Perk \u2615",
+        "description": "Stay Home \ud83c\udfe1| Geography\ud83c\udf0e | Paleontology \ud83e\udd95 | Travel \ud83c\udf92| Geografia\ud83c\udf0e | Paleontologia \ud83e\udd95 | Arte \ud83c\udfa8 | Fotografia\ud83d\udcf7 | Natureza\ud83c\udf33| M\u00fasica \ud83c\udfb7| F1\ud83c\udfc1|  #WeTheNorth",
+        "url": "https://t.co/6bKI2ObOy9",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6bKI2ObOy9",
+                        "expanded_url": "http://brunohofn.tumblr.com",
+                        "display_url": "brunohofn.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 43307,
+        "friends_count": 38959,
+        "listed_count": 42,
+        "created_at": "Sat Aug 03 04:25:23 +0000 2013",
+        "favourites_count": 15992,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7412,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253982399307960321/g7xt-tE8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253982399307960321/g7xt-tE8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642030226/1588443955",
+        "profile_link_color": "062E94",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

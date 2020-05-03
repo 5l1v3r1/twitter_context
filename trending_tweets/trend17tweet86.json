@@ -1,0 +1,105 @@
+{
+    "created_at": "Sun May 03 00:41:47 +0000 2020",
+    "id": 1256745735225303042,
+    "id_str": "1256745735225303042",
+    "text": "Ya\u011fmur da var, \n\u00e7ok sevdi\u011fim r\u00fczg\u00e2r da.\nDaha uyanmad\u0131 kom\u015fular, \nbug\u00fcn g\u00fcnlerden pazar \nVe ben seni \u00e7ok \u00f6zledim..\u2026 https://t.co/lAwlgt6Ej3",
+    "truncated": true,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/lAwlgt6Ej3",
+                "expanded_url": "https://twitter.com/i/web/status/1256745735225303042",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 922185837479153664,
+        "id_str": "922185837479153664",
+        "name": "\u015eA\u0130RE HANIM\ud83c\udf19 diyin.",
+        "screen_name": "erdevirsenanur",
+        "location": "Sancaktepe, \u0130stanbul",
+        "description": "/\u015eiir A\u015f\u0131\u011f\u0131/ /\u015eiir K\u0131z\u0131m\u2019a \u00d6\u011f\u00fct/ \n/Bir \u015eaire'nin dilinden Gurbet/ \n/Biraz da Siyaset/ \ud83c\uddf9\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7\n  Ben T\u00fcrk\u00e7\u00fcy\u00fcm Siyaset\u00e7i de\u011fil! \ud83c\uddf9\ud83c\uddf7\n  @erdevir_senanur",
+        "url": "https://t.co/XHX2ItCrf6",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/XHX2ItCrf6",
+                        "expanded_url": "http://instagram.com/senanurerdevir",
+                        "display_url": "instagram.com/senanurerdevir",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4531,
+        "friends_count": 3739,
+        "listed_count": 5,
+        "created_at": "Sun Oct 22 19:40:11 +0000 2017",
+        "favourites_count": 54872,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1255,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256111273768558592/j_dd-f_8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256111273768558592/j_dd-f_8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/922185837479153664/1586895802",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tr"
+}

@@ -1,0 +1,184 @@
+{
+    "created_at": "Sun May 03 00:40:51 +0000 2020",
+    "id": 1256745502248439808,
+    "id_str": "1256745502248439808",
+    "text": "RT @Livs88888007: A CADA BOCA QUE A MINHA BOCA P\u00d5E A L\u00cdNGUA, A CADA ROUPA QUE A MINHA M\u00c3O BOBA TIRAAA, SE VAI DESCENDO A POSI\u00c7\u00c3O NO RANKING\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Livs88888007",
+                "name": "Livs",
+                "id": 1085308017514565633,
+                "id_str": "1085308017514565633",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 825556573175046144,
+        "id_str": "825556573175046144",
+        "name": "YAGUIN",
+        "screen_name": "yagoaraujo01",
+        "location": "Rio Branco, Brasil",
+        "description": "Apenas mais um bosta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstagram: yago_araujo10",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 376,
+        "friends_count": 952,
+        "listed_count": 0,
+        "created_at": "Sun Jan 29 04:09:59 +0000 2017",
+        "favourites_count": 9926,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9009,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256709311658708992/bRDal4Ja_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256709311658708992/bRDal4Ja_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/825556573175046144/1526356578",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 21:56:14 +0000 2020",
+        "id": 1256704075074342914,
+        "id_str": "1256704075074342914",
+        "text": "A CADA BOCA QUE A MINHA BOCA P\u00d5E A L\u00cdNGUA, A CADA ROUPA QUE A MINHA M\u00c3O BOBA TIRAAA, SE VAI DESCENDO A POSI\u00c7\u00c3O NO R\u2026 https://t.co/YFZsV3W8Qh",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/YFZsV3W8Qh",
+                    "expanded_url": "https://twitter.com/i/web/status/1256704075074342914",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1085308017514565633,
+            "id_str": "1085308017514565633",
+            "name": "Livs",
+            "screen_name": "Livs88888007",
+            "location": "em algum lugar do mundo",
+            "description": "sei l\u00e1",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 124,
+            "friends_count": 325,
+            "listed_count": 0,
+            "created_at": "Tue Jan 15 22:49:30 +0000 2019",
+            "favourites_count": 1503,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 939,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1236600876753719297/HOuyqAM4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236600876753719297/HOuyqAM4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085308017514565633/1585627366",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 51,
+        "favorite_count": 78,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 51,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

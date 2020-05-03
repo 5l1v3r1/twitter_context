@@ -1,0 +1,197 @@
+{
+    "created_at": "Sun May 03 00:42:17 +0000 2020",
+    "id": 1256745862807662592,
+    "id_str": "1256745862807662592",
+    "text": "RT @TTAgrup: Bundan sonra 3 May\u0131s T\u00fcrk\u00e7\u00fclerin g\u00fcn\u00fcd\u00fcr. Ona bir bayram diyemeyece\u011fiz.\n\u00c7\u00fcnk\u00fc y\u0131llarca s\u00fcren b\u00fcy\u00fck \u0131st\u0131rab\u0131m\u0131z o g\u00fcn ba\u015flam\u0131\u015ft\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TTAgrup",
+                "name": "TTA Grup",
+                "id": 3825678327,
+                "id_str": "3825678327",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3346514962,
+        "id_str": "3346514962",
+        "name": "Burak Akkurt",
+        "screen_name": "Burrakkrt",
+        "location": "Kilis, T\u00fcrkiye",
+        "description": "Varl\u0131\u011f\u0131m T\u00fcrk varl\u0131\u011f\u0131na arma\u011fan olsun.  \n@Fenerbahce",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 529,
+        "friends_count": 526,
+        "listed_count": 1,
+        "created_at": "Fri Jun 26 12:05:32 +0000 2015",
+        "favourites_count": 37747,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3899,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1178761960751542277/dnlAnsRg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178761960751542277/dnlAnsRg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3346514962/1576878523",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 18:25:47 +0000 2020",
+        "id": 1256651111324319747,
+        "id_str": "1256651111324319747",
+        "text": "Bundan sonra 3 May\u0131s T\u00fcrk\u00e7\u00fclerin g\u00fcn\u00fcd\u00fcr. Ona bir bayram diyemeyece\u011fiz.\n\u00c7\u00fcnk\u00fc y\u0131llarca s\u00fcren b\u00fcy\u00fck \u0131st\u0131rab\u0131m\u0131z o g\u00fc\u2026 https://t.co/UfmKcDgMpv",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/UfmKcDgMpv",
+                    "expanded_url": "https://twitter.com/i/web/status/1256651111324319747",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3825678327,
+            "id_str": "3825678327",
+            "name": "TTA Grup",
+            "screen_name": "TTAgrup",
+            "location": "T\u00fcrk\u00e7\u00fclerin Sesi",
+            "description": "T\u00fcrk'\u00fcz, T\u00fcrk\u00e7\u00fcy\u00fcz, Atat\u00fcrk\u00e7\u00fcy\u00fcz",
+            "url": "https://t.co/Tm9JoLXfmG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Tm9JoLXfmG",
+                            "expanded_url": "http://instagram.com/ttagrup",
+                            "display_url": "instagram.com/ttagrup",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 200093,
+            "friends_count": 41,
+            "listed_count": 181,
+            "created_at": "Wed Sep 30 16:42:53 +0000 2015",
+            "favourites_count": 26809,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9056,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/929406711240232962/W1UJ4vtz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/929406711240232962/W1UJ4vtz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3825678327/1559039767",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 819,
+        "favorite_count": 4728,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 819,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

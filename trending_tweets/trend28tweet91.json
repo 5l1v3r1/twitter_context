@@ -1,0 +1,141 @@
+{
+    "created_at": "Sun May 03 00:42:06 +0000 2020",
+    "id": 1256745815562956800,
+    "id_str": "1256745815562956800",
+    "text": "@CCNewsLatam @OnAirRomeo @MostRequestLive Hi dear @OnAirRomeo! Could you please play #MyOhMy by Camila Cabello ft.\u2026 https://t.co/fzxXymuhnt",
+    "truncated": true,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MyOhMy",
+                "indices": [
+                    85,
+                    92
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CCNewsLatam",
+                "name": "Camila Cabello Latam",
+                "id": 1208881349534334976,
+                "id_str": "1208881349534334976",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "OnAirRomeo",
+                "name": "On Air Romeo",
+                "id": 21590830,
+                "id_str": "21590830",
+                "indices": [
+                    13,
+                    24
+                ]
+            },
+            {
+                "screen_name": "MostRequestLive",
+                "name": "Most Requested Live",
+                "id": 108775893,
+                "id_str": "108775893",
+                "indices": [
+                    25,
+                    41
+                ]
+            },
+            {
+                "screen_name": "OnAirRomeo",
+                "name": "On Air Romeo",
+                "id": 21590830,
+                "id_str": "21590830",
+                "indices": [
+                    50,
+                    61
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/fzxXymuhnt",
+                "expanded_url": "https://twitter.com/i/web/status/1256745815562956800",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1256739217968955394,
+    "in_reply_to_status_id_str": "1256739217968955394",
+    "in_reply_to_user_id": 1208881349534334976,
+    "in_reply_to_user_id_str": "1208881349534334976",
+    "in_reply_to_screen_name": "CCNewsLatam",
+    "user": {
+        "id": 777707767469662209,
+        "id_str": "777707767469662209",
+        "name": "\u064b",
+        "screen_name": "prfctbug",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8547,
+        "friends_count": 3657,
+        "listed_count": 57,
+        "created_at": "Mon Sep 19 03:15:55 +0000 2016",
+        "favourites_count": 201903,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 54923,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252299044711469060/daiAe14B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252299044711469060/daiAe14B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/777707767469662209/1587406332",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

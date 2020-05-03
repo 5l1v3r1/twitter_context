@@ -1,0 +1,211 @@
+{
+    "created_at": "Sun May 03 00:42:53 +0000 2020",
+    "id": 1256746013324242944,
+    "id_str": "1256746013324242944",
+    "text": "RT @ProfPCDoherty: #Insiders Interesting how we use \"schools\" as a homogeneous entity. Realities may be different re both teaching &amp; COVID-\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Insiders",
+                "indices": [
+                    19,
+                    28
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ProfPCDoherty",
+                "name": "Prof. Peter Doherty",
+                "id": 602403521,
+                "id_str": "602403521",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2556840441,
+        "id_str": "2556840441",
+        "name": "Femequality",
+        "screen_name": "Tan3User",
+        "location": "Victoria, Australia",
+        "description": "Retired teacher, grandmother. Other interests include international politics, the arts, architecture, history. RT not endorsement.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2517,
+        "friends_count": 3273,
+        "listed_count": 54,
+        "created_at": "Wed May 21 03:59:54 +0000 2014",
+        "favourites_count": 55206,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 32932,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685763106568458241/ptTR0IBS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685763106568458241/ptTR0IBS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2556840441/1452333386",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:35:59 +0000 2020",
+        "id": 1256729178910556160,
+        "id_str": "1256729178910556160",
+        "text": "#Insiders Interesting how we use \"schools\" as a homogeneous entity. Realities may be different re both teaching &amp; C\u2026 https://t.co/bKGE9pcP4o",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Insiders",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/bKGE9pcP4o",
+                    "expanded_url": "https://twitter.com/i/web/status/1256729178910556160",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 602403521,
+            "id_str": "602403521",
+            "name": "Prof. Peter Doherty",
+            "screen_name": "ProfPCDoherty",
+            "location": "Melbourne and Memphis",
+            "description": "Immunologist, Nobel laureate and author of THE BEGINNERS GUIDE TO WINNING THE NOBEL PRIZE, SENTINEL CHICKENS/THEIR FATE, PANDEMICS & THE KNOWLEDGE WARS",
+            "url": "http://t.co/ZJHx7AjOzW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ZJHx7AjOzW",
+                            "expanded_url": "http://www.peterdoherty.com.au",
+                            "display_url": "peterdoherty.com.au",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33753,
+            "friends_count": 828,
+            "listed_count": 427,
+            "created_at": "Fri Jun 08 02:50:47 +0000 2012",
+            "favourites_count": 20,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 19024,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2288539564/Peter_Doherty_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2288539564/Peter_Doherty_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 112,
+        "favorite_count": 346,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 112,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

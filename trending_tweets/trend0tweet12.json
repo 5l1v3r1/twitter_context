@@ -1,0 +1,232 @@
+{
+    "created_at": "Sun May 03 00:42:28 +0000 2020",
+    "id": 1256745909238497280,
+    "id_str": "1256745909238497280",
+    "text": "RT @BrahmaCerveja: A geladeira da #JeMBrahmaLive j\u00e1 t\u00e1 devidamente autografada pelo Jorge e Mateus! E a\u00ed? Ela t\u00e1 s\u00f3 esperando o seu tweet!\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JeMBrahmaLive",
+                "indices": [
+                    34,
+                    48
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BrahmaCerveja",
+                "name": "Brahma (de \ud83c\udfe0)",
+                "id": 92842904,
+                "id_str": "92842904",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 75920923,
+        "id_str": "75920923",
+        "name": "Jiih Clement",
+        "screen_name": "adm_Jiih",
+        "location": "Bahia, Brasil",
+        "description": "\ud83d\udcadLute como uma garota\n.\n\ud83c\udf93Administradora de Empresa. \u2764Apaixonada por finan\u00e7as\n.\n\ud83d\udcaaFitness \n...\nem constru\u00e7\u00e3o.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 133,
+        "friends_count": 82,
+        "listed_count": 1,
+        "created_at": "Mon Sep 21 00:57:41 +0000 2009",
+        "favourites_count": 100,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10076,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248642818207354882/_54XEeAW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248642818207354882/_54XEeAW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75920923/1413653980",
+        "profile_link_color": "F5276C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:03:03 +0000 2020",
+        "id": 1256735990288433154,
+        "id_str": "1256735990288433154",
+        "text": "A geladeira da #JeMBrahmaLive j\u00e1 t\u00e1 devidamente autografada pelo Jorge e Mateus! E a\u00ed? Ela t\u00e1 s\u00f3 esperando o seu tw\u2026 https://t.co/oyQvmGiXJp",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JeMBrahmaLive",
+                    "indices": [
+                        15,
+                        29
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/oyQvmGiXJp",
+                    "expanded_url": "https://twitter.com/i/web/status/1256735990288433154",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 92842904,
+            "id_str": "92842904",
+            "name": "Brahma (de \ud83c\udfe0)",
+            "screen_name": "BrahmaCerveja",
+            "location": "",
+            "description": "Regulamento:https://t.co/qZwiyAv35W Conte\u00fado 18+. N\u00e3o compartilhe com menores de idade. Regras de engajamento: https://t.co/9dvlxfOidk Beba com modera\u00e7\u00e3o.",
+            "url": "https://t.co/qZwiyAv35W",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/qZwiyAv35W",
+                            "expanded_url": "https://bit.ly/geladeirabrahma",
+                            "display_url": "bit.ly/geladeirabrahma",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/qZwiyAv35W",
+                            "expanded_url": "https://bit.ly/geladeirabrahma",
+                            "display_url": "bit.ly/geladeirabrahma",
+                            "indices": [
+                                12,
+                                35
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/9dvlxfOidk",
+                            "expanded_url": "http://goo.gl/W9xcWW",
+                            "display_url": "goo.gl/W9xcWW",
+                            "indices": [
+                                111,
+                                134
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 97292,
+            "friends_count": 6811,
+            "listed_count": 471,
+            "created_at": "Thu Nov 26 21:52:25 +0000 2009",
+            "favourites_count": 5001,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 24961,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "A62219",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1238565964406575105/gQBXu_Af_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238565964406575105/gQBXu_Af_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/92842904/1584652879",
+            "profile_link_color": "A62219",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C31512",
+            "profile_text_color": "780B16",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 29,
+        "favorite_count": 458,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

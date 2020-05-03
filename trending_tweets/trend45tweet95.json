@@ -1,0 +1,207 @@
+{
+    "created_at": "Sun May 03 00:40:03 +0000 2020",
+    "id": 1256745299709747201,
+    "id_str": "1256745299709747201",
+    "text": "RT @HergelePostasi: \u00d6lmek i\u00e7in bu eylemi yapm\u0131yorum sadece t\u00fcrk\u00fc s\u00f6ylemek istiyorum\" diyen \u0130brahim G\u00f6k\u00e7ek konser yasaklar\u0131n\u0131n kald\u0131r\u0131lmas\u0131\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HergelePostasi",
+                "name": "Hergele Postas\u0131",
+                "id": 3878831483,
+                "id_str": "3878831483",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 950075714,
+        "id_str": "950075714",
+        "name": "Ven\u00fcs",
+        "screen_name": "aksam90",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 78,
+        "friends_count": 274,
+        "listed_count": 2,
+        "created_at": "Thu Nov 15 16:47:57 +0000 2012",
+        "favourites_count": 5988,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8547,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625030119032246272/r1WPotwt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625030119032246272/r1WPotwt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/950075714/1422534698",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 17:17:21 +0000 2020",
+        "id": 1256633892540485632,
+        "id_str": "1256633892540485632",
+        "text": "\u00d6lmek i\u00e7in bu eylemi yapm\u0131yorum sadece t\u00fcrk\u00fc s\u00f6ylemek istiyorum\" diyen \u0130brahim G\u00f6k\u00e7ek konser yasaklar\u0131n\u0131n kald\u0131r\u0131lm\u2026 https://t.co/3guojqtWMN",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3guojqtWMN",
+                    "expanded_url": "https://twitter.com/i/web/status/1256633892540485632",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3878831483,
+            "id_str": "3878831483",
+            "name": "Hergele Postas\u0131",
+            "screen_name": "HergelePostasi",
+            "location": "Beyaz\u0131t, \u0130stanbul",
+            "description": "Tohum altta nefes nefese; kula\u011f\u0131 g\u00f6k g\u00fcr\u00fclt\u00fcs\u00fcnde... \u0130stanbul \u00dcniversitesi Haber Portal\u0131\n\n\nhttps://t.co/n93XhOXbiR",
+            "url": "https://t.co/BJrWLQzpbF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BJrWLQzpbF",
+                            "expanded_url": "https://www.facebook.com/cayhanee",
+                            "display_url": "facebook.com/cayhanee",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/n93XhOXbiR",
+                            "expanded_url": "http://instagram.com/hergelepostasi",
+                            "display_url": "instagram.com/hergelepostasi",
+                            "indices": [
+                                91,
+                                114
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 73273,
+            "friends_count": 36059,
+            "listed_count": 149,
+            "created_at": "Tue Oct 06 08:18:03 +0000 2015",
+            "favourites_count": 4829,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11751,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1236614507256066048/-APkjIZE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236614507256066048/-APkjIZE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3878831483/1525642270",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 159,
+        "favorite_count": 246,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 159,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

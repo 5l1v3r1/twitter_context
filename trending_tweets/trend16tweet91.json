@@ -1,0 +1,355 @@
+{
+    "created_at": "Sun May 03 00:42:28 +0000 2020",
+    "id": 1256745908433272832,
+    "id_str": "1256745908433272832",
+    "text": "RT @pedro_haz: Ciro: a\nEu:\n\n #CiroNaGloboNews https://t.co/1X9BUan5pQ",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    29,
+                    45
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pedro_haz",
+                "name": "PH",
+                "id": 165053355,
+                "id_str": "165053355",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256740006267420672,
+                "id_str": "1256740006267420672",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWYJCXgAANWwG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWYJCXgAANWwG.jpg",
+                "url": "https://t.co/1X9BUan5pQ",
+                "display_url": "pic.twitter.com/1X9BUan5pQ",
+                "expanded_url": "https://twitter.com/pedro_haz/status/1256740011917139973/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 415,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 611,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1000,
+                        "h": 611,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740011917139973,
+                "source_status_id_str": "1256740011917139973",
+                "source_user_id": 165053355,
+                "source_user_id_str": "165053355"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256740006267420672,
+                "id_str": "1256740006267420672",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXDWYJCXgAANWwG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXDWYJCXgAANWwG.jpg",
+                "url": "https://t.co/1X9BUan5pQ",
+                "display_url": "pic.twitter.com/1X9BUan5pQ",
+                "expanded_url": "https://twitter.com/pedro_haz/status/1256740011917139973/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 415,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 611,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1000,
+                        "h": 611,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256740011917139973,
+                "source_status_id_str": "1256740011917139973",
+                "source_user_id": 165053355,
+                "source_user_id_str": "165053355"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1734129416,
+        "id_str": "1734129416",
+        "name": "Tata",
+        "screen_name": "thaispachecof",
+        "location": "",
+        "description": "God is fighting for us",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 263,
+        "friends_count": 370,
+        "listed_count": 0,
+        "created_at": "Fri Sep 06 05:39:53 +0000 2013",
+        "favourites_count": 4301,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10663,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8A9194",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1223827097728229377/9l50BZyC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223827097728229377/9l50BZyC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734129416/1580618095",
+        "profile_link_color": "414445",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:19:02 +0000 2020",
+        "id": 1256740011917139973,
+        "id_str": "1256740011917139973",
+        "text": "Ciro: a\nEu:\n\n #CiroNaGloboNews https://t.co/1X9BUan5pQ",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        14,
+                        30
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256740006267420672,
+                    "id_str": "1256740006267420672",
+                    "indices": [
+                        31,
+                        54
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWYJCXgAANWwG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWYJCXgAANWwG.jpg",
+                    "url": "https://t.co/1X9BUan5pQ",
+                    "display_url": "pic.twitter.com/1X9BUan5pQ",
+                    "expanded_url": "https://twitter.com/pedro_haz/status/1256740011917139973/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 415,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 611,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1000,
+                            "h": 611,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256740006267420672,
+                    "id_str": "1256740006267420672",
+                    "indices": [
+                        31,
+                        54
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXDWYJCXgAANWwG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXDWYJCXgAANWwG.jpg",
+                    "url": "https://t.co/1X9BUan5pQ",
+                    "display_url": "pic.twitter.com/1X9BUan5pQ",
+                    "expanded_url": "https://twitter.com/pedro_haz/status/1256740011917139973/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 415,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 611,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1000,
+                            "h": 611,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 165053355,
+            "id_str": "165053355",
+            "name": "PH",
+            "screen_name": "pedro_haz",
+            "location": "",
+            "description": "how you doin\u2019?",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 230,
+            "friends_count": 403,
+            "listed_count": 9,
+            "created_at": "Sat Jul 10 13:19:44 +0000 2010",
+            "favourites_count": 84863,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4249,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1131667193576468485/95mXTC-9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131667193576468485/95mXTC-9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/165053355/1585720656",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 30,
+        "favorite_count": 111,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "pt"
+}

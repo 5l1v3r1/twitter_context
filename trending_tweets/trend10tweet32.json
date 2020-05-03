@@ -1,0 +1,131 @@
+{
+    "created_at": "Sun May 03 00:40:56 +0000 2020",
+    "id": 1256745520950734848,
+    "id_str": "1256745520950734848",
+    "text": "\u3057\u304b\u3057\u552f\u963f\u3055\u3093\n\u512a\u79c0\u306a\u6280\u8853\u8005\u304c\u6545\u306b\u4ed8\u304f\u65b9\u4ed8\u304f\u65b9\u306b\n\u60aa\u3044\u3053\u3068\u3055\u305b\u3089\u308c\u3066\u308b\u306a\u3041\n\n\uff08\u524d\u56de\u307e\u3067\u306fZAIA\u793e\u9577\u306e\u5143\u3067\u30d2\u30e5\u30fc\u30de\u30ae\u30a2\u7834\u58ca\u30dd\u30b8\u30b7\u30e7\u30f3\u2192\u4eca\u56de\u306f\u7d50\u679c\u7684\u306bZAIA\u30b9\u30da\u30c3\u30af\u306e\u30cf\u30c3\u30ad\u30f3\u30b0\u3001\u66b4\u8d70\u306b\u52a0\u62c5\u3057\u305f\uff09\n\n\u512a\u308c\u305f\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3092\u60aa\u7528\u3055\u308c\u308b\u30dd\u30b8\u30b7\u30e7\u30f3\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 19853533,
+        "id_str": "19853533",
+        "name": "\u77e2\u91ce\u30c8\u30b7\u30ce\u30ea@\u30bc\u30ed\u5ac12\u5dfb\u767a\u58f2\u4e2d\uff01",
+        "screen_name": "hosimaki",
+        "location": "mail\u2192hosimaki@gmail.com",
+        "description": "\u300c\u9632\u5fa1\u529b\u30bc\u30ed\u306e\u5ac1\u300d\u5546\u696d\u5358\u884c\u672c\uff12\u5dfb\u767a\u58f2\u4e2d\uff01\u2192 https://t.co/5WOvQu2Csd \uff11\u5dfb\u2192https://t.co/B7JqLkpkya \u30bc\u30ed\u5ac1\u306f\u6bce\u9031\u91d1\u66dc\u65e517\u6642\u66f4\u65b0\u3002FANBOX\u2192https://t.co/MAKDvrVh5y\u3000 \nHP\u2192https://t.co/hXpMAcMKbm",
+        "url": "https://t.co/UUx8iOW7ks",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/UUx8iOW7ks",
+                        "expanded_url": "https://www.youtube.com/channel/UChFkFNAPi46XvOXRMYFIIQw",
+                        "display_url": "youtube.com/channel/UChFkF\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/5WOvQu2Csd",
+                        "expanded_url": "http://amzn.to/31Jwwui",
+                        "display_url": "amzn.to/31Jwwui",
+                        "indices": [
+                            22,
+                            45
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/B7JqLkpkya",
+                        "expanded_url": "http://amzn.to/2P6Xc3m",
+                        "display_url": "amzn.to/2P6Xc3m",
+                        "indices": [
+                            49,
+                            72
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/MAKDvrVh5y",
+                        "expanded_url": "https://hosimaki.fanbox.cc/",
+                        "display_url": "hosimaki.fanbox.cc",
+                        "indices": [
+                            95,
+                            118
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/hXpMAcMKbm",
+                        "expanded_url": "http://hosimakiproject.com",
+                        "display_url": "hosimakiproject.com",
+                        "indices": [
+                            124,
+                            147
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 200763,
+        "friends_count": 1834,
+        "listed_count": 2803,
+        "created_at": "Sun Feb 01 10:52:30 +0000 2009",
+        "favourites_count": 6267,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 107141,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253852197676146688/Cwss7d0I_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253852197676146688/Cwss7d0I_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19853533/1548855893",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

@@ -1,0 +1,140 @@
+{
+    "created_at": "Sun May 03 00:34:28 +0000 2020",
+    "id": 1256743897411153921,
+    "id_str": "1256743897411153921",
+    "text": "\u3086\u3063\u3053\u306e\u6b63\u4f53\u306f\u30d7\u30ea\u30a6\u30b9\u3067\u3059\u306d\u3002\uff11\uff10\uff10\uff05\u30d7\u30ea\u30a6\u30b9\u3067\u9593\u9055\u3044\u3042\u308a\u307e\u305b\u3093\u3002\n#\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c #shindanmaker\nhttps://t.co/YqFzvHRu5l\n\u30d7\u30ea\u30a6\u30b9\u3063\u3066\u8eca\u304b\u3088\uff01\u5feb\u9069\u306a\u8d70\u308a\u3092\u304a\u5c4a\u3051\uff01\u3063\u3066\uff1f\u610f\u5473\u5206\u304b\u3089\u3093\uff08\u7b11\uff09",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u3042\u306a\u305f\u306e\u6b63\u4f53\u306f\u7d76\u5bfe\u306b\u3053\u308c",
+                "indices": [
+                    34,
+                    47
+                ]
+            },
+            {
+                "text": "shindanmaker",
+                "indices": [
+                    48,
+                    61
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/YqFzvHRu5l",
+                "expanded_url": "https://shindanmaker.com/984766",
+                "display_url": "shindanmaker.com/984766",
+                "indices": [
+                    62,
+                    85
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1056567628620132352,
+        "id_str": "1056567628620132352",
+        "name": "\u3086\u3063\u3053\uff08\u82b1\u4e38&\u6587\u30a2\u30cb\u89b3\u3088\u3046\uff01\uff09",
+        "screen_name": "qqU3Knicz0tHQNa",
+        "location": "\u65e5\u672c \u5bae\u57ce",
+        "description": "\u3068\u3046\u3089\u3076\u306e\u4f3d\u7f85\u304f\u3093\u63a8\u3057\u306e30\u4ee3\u5be9\u795e\u8005\u3067\u3059\u3002\u5200\u30df\u30e5\u3082\u5200\u30b9\u30c6\u3082\u4e21\u65b9\u597d\u304d\u3067\u3001\u5200\u5263\u7537\u58eb\u7686\u3093\u306a\u597d\u304d\u3067\u3059\u3002\u7279\u306b\u62e1\u6a39\u3055\u3093\u3084\u9bdb\u9020\u3055\u3093\u3001\u8352\u7267\u304f\u3093\u3001\u96c5\u6210\u304f\u3093\u304c\u597d\u304d\u306a\u306e\u3067\u3001\u5fdc\u63f4\u3057\u3066\u3044\u307e\u3059\uff01\u307e\u305f\u3001\u53f8\u66f8\u3067\u3082\u3042\u308b\u306e\u3067\u3001\u6587\u30a2\u30eb\u3082\u3084\u3063\u3066\u307e\u3059\u3002\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\uff01",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 87,
+        "friends_count": 183,
+        "listed_count": 0,
+        "created_at": "Sun Oct 28 15:25:27 +0000 2018",
+        "favourites_count": 22611,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5431,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1095876717216915456/siW3JLhe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095876717216915456/siW3JLhe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056567628620132352/1578111430",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "1cff59592a4767e9",
+        "url": "https://api.twitter.com/1.1/geo/id/1cff59592a4767e9.json",
+        "place_type": "admin",
+        "name": "Miyagi-ken",
+        "full_name": "Miyagi-ken, Japan",
+        "country_code": "JP",
+        "country": "Japan",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        140.274688,
+                        37.773841
+                    ],
+                    [
+                        141.675449,
+                        37.773841
+                    ],
+                    [
+                        141.675449,
+                        39.00299
+                    ],
+                    [
+                        140.274688,
+                        39.00299
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+}

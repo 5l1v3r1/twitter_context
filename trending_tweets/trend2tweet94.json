@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745919279779846,
+    "id_str": "1256745919279779846",
+    "text": "RT @enveryan: Sen bu kurtlar sofras\u0131ndan\n\u00c7\u0131kamazsan ona yanar\u0131m\n\u015eerefli bayra\u011f\u0131 burca\nDikemezsen ona yanar\u0131m\n\nOy yi\u011fidim, oy civan\u0131m\nT\u00fcketm\u2026",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "enveryan",
+                "name": "Enveryan",
+                "id": 2744539514,
+                "id_str": "2744539514",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3431889125,
+        "id_str": "3431889125",
+        "name": "ibrahim Feyzio\u011flu",
+        "screen_name": "IFeyzioglu",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 207,
+        "listed_count": 0,
+        "created_at": "Wed Aug 19 19:12:04 +0000 2015",
+        "favourites_count": 1058,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 608,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640879740367302657/eJos4ffC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640879740367302657/eJos4ffC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 22:34:38 +0000 2020",
+        "id": 1256713737622323201,
+        "id_str": "1256713737622323201",
+        "text": "Sen bu kurtlar sofras\u0131ndan\n\u00c7\u0131kamazsan ona yanar\u0131m\n\u015eerefli bayra\u011f\u0131 burca\nDikemezsen ona yanar\u0131m\n\nOy yi\u011fidim, oy civa\u2026 https://t.co/EjwTUtSAF2",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/EjwTUtSAF2",
+                    "expanded_url": "https://twitter.com/i/web/status/1256713737622323201",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2744539514,
+            "id_str": "2744539514",
+            "name": "Enveryan",
+            "screen_name": "enveryan",
+            "location": "\u0130stanbul",
+            "description": "T\u00fcrkiyeli & from Turkey | Akademisyen | Malatyal\u0131",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 91681,
+            "friends_count": 570,
+            "listed_count": 154,
+            "created_at": "Tue Aug 19 10:25:58 +0000 2014",
+            "favourites_count": 24020,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 16747,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1247627521526583297/pjlGAd0r_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247627521526583297/pjlGAd0r_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2744539514/1555438793",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 167,
+        "favorite_count": 528,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 167,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

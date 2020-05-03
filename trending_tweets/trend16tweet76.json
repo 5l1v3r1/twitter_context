@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:42:32 +0000 2020",
+    "id": 1256745926321979393,
+    "id_str": "1256745926321979393",
+    "text": "RT @Pres_Ciro2022: Que diabo de pergunta \u00e9 essa kkkkkkk\n Se fode ai Amoedo\n\n#CiroNaGloboNews",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CiroNaGloboNews",
+                "indices": [
+                    76,
+                    92
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Pres_Ciro2022",
+                "name": "Ciro Pomes\ud83c\udf39 \ud83c\udde7\ud83c\uddf7",
+                "id": 1084545603575656449,
+                "id_str": "1084545603575656449",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 220713154,
+        "id_str": "220713154",
+        "name": "Rony Santos \ud83c\udde7\ud83c\uddf7\ud83c\udf39\ud83c\uddf3\ud83c\uddf1",
+        "screen_name": "ronysant",
+        "location": "Limoeiro do Norte, Brasil",
+        "description": "#CIRO2022",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 533,
+        "friends_count": 1420,
+        "listed_count": 1,
+        "created_at": "Sun Nov 28 16:35:00 +0000 2010",
+        "favourites_count": 10687,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6191,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256731275823644672/IKjl_ZD-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256731275823644672/IKjl_ZD-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/220713154/1585445254",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:40:54 +0000 2020",
+        "id": 1256745514659459072,
+        "id_str": "1256745514659459072",
+        "text": "Que diabo de pergunta \u00e9 essa kkkkkkk\n Se fode ai Amoedo\n\n#CiroNaGloboNews",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CiroNaGloboNews",
+                    "indices": [
+                        57,
+                        73
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1084545603575656449,
+            "id_str": "1084545603575656449",
+            "name": "Ciro Pomes\ud83c\udf39 \ud83c\udde7\ud83c\uddf7",
+            "screen_name": "Pres_Ciro2022",
+            "location": "Brasil",
+            "description": "Esse perfil \u00e9 dedicado a defender Ciro Ferreira Gomes, Leonel de Moura Brizola, o trabalhismo e esse grandioso pa\u00eds.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1471,
+            "friends_count": 735,
+            "listed_count": 1,
+            "created_at": "Sun Jan 13 20:19:56 +0000 2019",
+            "favourites_count": 18857,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4847,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1236853351662465024/jHHmDIzp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236853351662465024/jHHmDIzp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084545603575656449/1582167824",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

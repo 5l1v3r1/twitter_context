@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:42:29 +0000 2020",
+    "id": 1256745913290067968,
+    "id_str": "1256745913290067968",
+    "text": "RT @maato_maato: \u653f\u5e9c\u306e\u30af\u30e9\u30b9\u30bf\u30fc\u611f\u67d3\u9632\u5fa1\u304c\u6210\u529f\u3057\u3066\u3044\u308b\u4e8b\u3092\u7d76\u5bfe\u306b\u8a55\u4fa1\u3057\u306a\u3044\u982d\u306e\u304a\u304b\u3057\u3044\u756a\u7d44\n\u5ca1\u7530\u6674\u6075\u6c0f\u3092\u4f7f\u3044\u7d9a\u3051\u308b\u982d\u306e\u304a\u304b\u3057\u3044\u4eba\u9078\n#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                "indices": [
+                    75,
+                    85
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "maato_maato",
+                "name": "\u3072\u3068\u307f\u30de\u30f3(\u7b4b\u8089\u30de\u30fc\u30c8\u30de\u30f3)",
+                "id": 152938454,
+                "id_str": "152938454",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1491846698,
+        "id_str": "1491846698",
+        "name": "\u97f3\u901f\u306e\u8cb4\u516c\u5b50",
+        "screen_name": "senna_tetsu",
+        "location": "\u65e5\u672c",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1186,
+        "friends_count": 441,
+        "listed_count": 12,
+        "created_at": "Sat Jun 08 03:02:15 +0000 2013",
+        "favourites_count": 109545,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 327241,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/709684906197004288/lFdYDGIZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/709684906197004288/lFdYDGIZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491846698/1482730381",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:13:03 +0000 2020",
+        "id": 1256723408135401472,
+        "id_str": "1256723408135401472",
+        "text": "\u653f\u5e9c\u306e\u30af\u30e9\u30b9\u30bf\u30fc\u611f\u67d3\u9632\u5fa1\u304c\u6210\u529f\u3057\u3066\u3044\u308b\u4e8b\u3092\u7d76\u5bfe\u306b\u8a55\u4fa1\u3057\u306a\u3044\u982d\u306e\u304a\u304b\u3057\u3044\u756a\u7d44\n\u5ca1\u7530\u6674\u6075\u6c0f\u3092\u4f7f\u3044\u7d9a\u3051\u308b\u982d\u306e\u304a\u304b\u3057\u3044\u4eba\u9078\n#\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u30b5\u30f3\u30c7\u30fc\u30e2\u30fc\u30cb\u30f3\u30b0",
+                    "indices": [
+                        58,
+                        68
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ja",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 152938454,
+            "id_str": "152938454",
+            "name": "\u3072\u3068\u307f\u30de\u30f3(\u7b4b\u8089\u30de\u30fc\u30c8\u30de\u30f3)",
+            "screen_name": "maato_maato",
+            "location": "\u65e5\u672c",
+            "description": "\u3068\u3046\u307b\u3050\u4f4f\u307e\u3044\uff0f\u306d\u3053\u597d\u304d\uff0f\u3068\u3046\u307b\u3050\u5927\u597d\u304d\uff0f\u717d\u3063\u3066\u3082\u671f\u5f85\u306e\u53cd\u5fdc\u306f\u3057\u307e\u305b\u3093\u306e\u3067\u5ff5\u306e\u305f\u3081",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1181,
+            "friends_count": 816,
+            "listed_count": 28,
+            "created_at": "Mon Jun 07 07:42:48 +0000 2010",
+            "favourites_count": 38268,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 86241,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1244608824356397056/Bnp0TqM7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244608824356397056/Bnp0TqM7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/152938454/1585572894",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 50,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+}

@@ -1,0 +1,235 @@
+{
+    "created_at": "Sun May 03 00:42:13 +0000 2020",
+    "id": 1256745846542082049,
+    "id_str": "1256745846542082049",
+    "text": "RT @CelticWombat: A Cockwork Orange #TheTitleOfTrumpsMemoir",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CelticWombat",
+                "name": "Phil",
+                "id": 2539528830,
+                "id_str": "2539528830",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 10038642,
+        "id_str": "10038642",
+        "name": "Donna Mugavero",
+        "screen_name": "MsInformation",
+        "location": "Bethlehem, PA",
+        "description": "Geologic Universe, vault-keeper. Sheer Brick, principal. LM&N, designer. WDIY, programmer. Empty Set, diva. Bethlehem Mounties, media.",
+        "url": "http://t.co/wxlpJ0IjAZ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/wxlpJ0IjAZ",
+                        "expanded_url": "http://about.me/donnamugavero",
+                        "display_url": "about.me/donnamugavero",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3473,
+        "friends_count": 757,
+        "listed_count": 302,
+        "created_at": "Wed Nov 07 17:38:59 +0000 2007",
+        "favourites_count": 100401,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 45666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/884079773231853568/lo30rjOK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/884079773231853568/lo30rjOK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10038642/1499627530",
+        "profile_link_color": "6AA26E",
+        "profile_sidebar_border_color": "D1D1E5",
+        "profile_sidebar_fill_color": "D1D1E5",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun May 03 00:05:36 +0000 2020",
+        "id": 1256736631488303104,
+        "id_str": "1256736631488303104",
+        "text": "A Cockwork Orange #TheTitleOfTrumpsMemoir",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        18,
+                        41
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2539528830,
+            "id_str": "2539528830",
+            "name": "Phil",
+            "screen_name": "CelticWombat",
+            "location": "San Francisco, CA",
+            "description": "You\u2019ve wanted to be a hero your entire life so here\u2019s your chance - #StayHome",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5767,
+            "friends_count": 373,
+            "listed_count": 46,
+            "created_at": "Sun Jun 01 12:52:23 +0000 2014",
+            "favourites_count": 56502,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 8660,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251958267007234049/i-E0-SlD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251958267007234049/i-E0-SlD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2539528830/1561441314",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "5a110d312052166f",
+            "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+            "place_type": "city",
+            "name": "San Francisco",
+            "full_name": "San Francisco, CA",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.514926,
+                            37.708075
+                        ],
+                        [
+                            -122.357031,
+                            37.708075
+                        ],
+                        [
+                            -122.357031,
+                            37.833238
+                        ],
+                        [
+                            -122.514926,
+                            37.833238
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+}

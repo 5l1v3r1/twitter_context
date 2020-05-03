@@ -1,0 +1,362 @@
+{
+    "created_at": "Sun May 03 00:42:20 +0000 2020",
+    "id": 1256745874820157442,
+    "id_str": "1256745874820157442",
+    "text": "RT @DisplacedEnt: When people tell me Age of Ultron was a trash movie https://t.co/AI2HgbZK6h",
+    "truncated": false,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DisplacedEnt",
+                "name": "Displaced",
+                "id": 1236002228449787904,
+                "id_str": "1236002228449787904",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256663578930745346,
+                "id_str": "1256663578930745346",
+                "indices": [
+                    70,
+                    93
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCQ3fBWkAIgjeb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCQ3fBWkAIgjeb.jpg",
+                "url": "https://t.co/AI2HgbZK6h",
+                "display_url": "pic.twitter.com/AI2HgbZK6h",
+                "expanded_url": "https://twitter.com/DisplacedEnt/status/1256663585599688706/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 933,
+                        "h": 654,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 933,
+                        "h": 654,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256663585599688706,
+                "source_status_id_str": "1256663585599688706",
+                "source_user_id": 1236002228449787904,
+                "source_user_id_str": "1236002228449787904"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256663578930745346,
+                "id_str": "1256663578930745346",
+                "indices": [
+                    70,
+                    93
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCQ3fBWkAIgjeb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCQ3fBWkAIgjeb.jpg",
+                "url": "https://t.co/AI2HgbZK6h",
+                "display_url": "pic.twitter.com/AI2HgbZK6h",
+                "expanded_url": "https://twitter.com/DisplacedEnt/status/1256663585599688706/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 477,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 933,
+                        "h": 654,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 933,
+                        "h": 654,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256663585599688706,
+                "source_status_id_str": "1256663585599688706",
+                "source_user_id": 1236002228449787904,
+                "source_user_id_str": "1236002228449787904"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3810243559,
+        "id_str": "3810243559",
+        "name": "E",
+        "screen_name": "iMnotEbony",
+        "location": "",
+        "description": "PLAY GLORIAAAA!!!!!!!!!",
+        "url": "https://t.co/rqlOrvbuOP",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/rqlOrvbuOP",
+                        "expanded_url": "http://www.jasonkander.com/thankyou",
+                        "display_url": "jasonkander.com/thankyou",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 775,
+        "friends_count": 1039,
+        "listed_count": 16,
+        "created_at": "Wed Oct 07 03:48:16 +0000 2015",
+        "favourites_count": 79715,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 54453,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226221869466112001/kRPStN14_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226221869466112001/kRPStN14_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3810243559/1583608848",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:15:21 +0000 2020",
+        "id": 1256663585599688706,
+        "id_str": "1256663585599688706",
+        "text": "When people tell me Age of Ultron was a trash movie https://t.co/AI2HgbZK6h",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256663578930745346,
+                    "id_str": "1256663578930745346",
+                    "indices": [
+                        52,
+                        75
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCQ3fBWkAIgjeb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCQ3fBWkAIgjeb.jpg",
+                    "url": "https://t.co/AI2HgbZK6h",
+                    "display_url": "pic.twitter.com/AI2HgbZK6h",
+                    "expanded_url": "https://twitter.com/DisplacedEnt/status/1256663585599688706/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 933,
+                            "h": 654,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 933,
+                            "h": 654,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256663578930745346,
+                    "id_str": "1256663578930745346",
+                    "indices": [
+                        52,
+                        75
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCQ3fBWkAIgjeb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCQ3fBWkAIgjeb.jpg",
+                    "url": "https://t.co/AI2HgbZK6h",
+                    "display_url": "pic.twitter.com/AI2HgbZK6h",
+                    "expanded_url": "https://twitter.com/DisplacedEnt/status/1256663585599688706/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 477,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 933,
+                            "h": 654,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 933,
+                            "h": 654,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1236002228449787904,
+            "id_str": "1236002228449787904",
+            "name": "Displaced",
+            "screen_name": "DisplacedEnt",
+            "location": "",
+            "description": "shits boring follow to be not bored tryna revolutionize the game \ud83d\udc68\ud83c\udffe\u200d\ud83d\udd2c                   https://t.co/39SueMgHZJ",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/39SueMgHZJ",
+                            "expanded_url": "https://www.youtube.com/channel/UCIa6WaxOf8o_O3JTnwxQa5g",
+                            "display_url": "youtube.com/channel/UCIa6W\u2026",
+                            "indices": [
+                                88,
+                                111
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 4,
+            "friends_count": 11,
+            "listed_count": 0,
+            "created_at": "Fri Mar 06 18:54:58 +0000 2020",
+            "favourites_count": 243,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 144,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249505267349422081/HE1WsNT-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249505267349422081/HE1WsNT-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236002228449787904/1587461323",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 111,
+        "favorite_count": 1103,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 111,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

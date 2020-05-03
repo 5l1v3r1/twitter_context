@@ -1,0 +1,395 @@
+{
+    "created_at": "Sun May 03 00:41:24 +0000 2020",
+    "id": 1256745641289682950,
+    "id_str": "1256745641289682950",
+    "text": "RT @DavaStarr: Disinfectants and Idiocy. This is the cover \ud83d\udc47\ud83c\udffd\n#TheTitleOfTrumpsMemoir https://t.co/6BiRAziXoT",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TheTitleOfTrumpsMemoir",
+                "indices": [
+                    62,
+                    85
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DavaStarr",
+                "name": "DavaStarr",
+                "id": 895069690694782976,
+                "id_str": "895069690694782976",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1256676613363838978,
+                "id_str": "1256676613363838978",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCcuMEXsAIr0x5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCcuMEXsAIr0x5.jpg",
+                "url": "https://t.co/6BiRAziXoT",
+                "display_url": "pic.twitter.com/6BiRAziXoT",
+                "expanded_url": "https://twitter.com/DavaStarr/status/1256676618304700417/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256676618304700417,
+                "source_status_id_str": "1256676618304700417",
+                "source_user_id": 895069690694782976,
+                "source_user_id_str": "895069690694782976"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1256676613363838978,
+                "id_str": "1256676613363838978",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/EXCcuMEXsAIr0x5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EXCcuMEXsAIr0x5.jpg",
+                "url": "https://t.co/6BiRAziXoT",
+                "display_url": "pic.twitter.com/6BiRAziXoT",
+                "expanded_url": "https://twitter.com/DavaStarr/status/1256676618304700417/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1256676618304700417,
+                "source_status_id_str": "1256676618304700417",
+                "source_user_id": 895069690694782976,
+                "source_user_id_str": "895069690694782976"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 731558842971111424,
+        "id_str": "731558842971111424",
+        "name": "Robert Putyra",
+        "screen_name": "RobertPutyra",
+        "location": "Chicago, IL",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 116,
+        "listed_count": 0,
+        "created_at": "Sat May 14 18:56:34 +0000 2016",
+        "favourites_count": 656,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 893,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 20:07:08 +0000 2020",
+        "id": 1256676618304700417,
+        "id_str": "1256676618304700417",
+        "text": "Disinfectants and Idiocy. This is the cover \ud83d\udc47\ud83c\udffd\n#TheTitleOfTrumpsMemoir https://t.co/6BiRAziXoT",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TheTitleOfTrumpsMemoir",
+                    "indices": [
+                        47,
+                        70
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1256676613363838978,
+                    "id_str": "1256676613363838978",
+                    "indices": [
+                        71,
+                        94
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCcuMEXsAIr0x5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCcuMEXsAIr0x5.jpg",
+                    "url": "https://t.co/6BiRAziXoT",
+                    "display_url": "pic.twitter.com/6BiRAziXoT",
+                    "expanded_url": "https://twitter.com/DavaStarr/status/1256676618304700417/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1256676613363838978,
+                    "id_str": "1256676613363838978",
+                    "indices": [
+                        71,
+                        94
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EXCcuMEXsAIr0x5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EXCcuMEXsAIr0x5.jpg",
+                    "url": "https://t.co/6BiRAziXoT",
+                    "display_url": "pic.twitter.com/6BiRAziXoT",
+                    "expanded_url": "https://twitter.com/DavaStarr/status/1256676618304700417/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 895069690694782976,
+            "id_str": "895069690694782976",
+            "name": "DavaStarr",
+            "screen_name": "DavaStarr",
+            "location": "Right Here Mofo, DM 4 Promo \ud83d\udcb0",
+            "description": "@DirtyThirtyTags\ud83d\udc8b #Hashtags #Promos https://t.co/VmLzAtFZXn https://t.co/3UCvzeoCcH https://t.co/ghAxBtpA05",
+            "url": "https://t.co/9daYcXfpGS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9daYcXfpGS",
+                            "expanded_url": "https://twitter.com/search?q=from%3Adavastarr%20-filter%3Areplies&",
+                            "display_url": "twitter.com/search?q=from%\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VmLzAtFZXn",
+                            "expanded_url": "https://www.amazon.com/hz/wishlist/ls/3T8XUN2MWTNSO?ref_=wl_share",
+                            "display_url": "amazon.com/hz/wishlist/ls\u2026",
+                            "indices": [
+                                36,
+                                59
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/3UCvzeoCcH",
+                            "expanded_url": "http://DavaStarr.Podbean.com",
+                            "display_url": "DavaStarr.Podbean.com",
+                            "indices": [
+                                60,
+                                83
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/ghAxBtpA05",
+                            "expanded_url": "http://cash.app/DavaStarr",
+                            "display_url": "cash.app/DavaStarr",
+                            "indices": [
+                                84,
+                                107
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 5261,
+            "friends_count": 3043,
+            "listed_count": 37,
+            "created_at": "Tue Aug 08 23:50:18 +0000 2017",
+            "favourites_count": 140970,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 121958,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256430075051900929/pVMI5EvM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256430075051900929/pVMI5EvM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/895069690694782976/1563640854",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 263,
+        "favorite_count": 1344,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 263,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}

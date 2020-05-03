@@ -1,0 +1,189 @@
+{
+    "created_at": "Sun May 03 00:40:17 +0000 2020",
+    "id": 1256745360619438081,
+    "id_str": "1256745360619438081",
+    "text": "RT @deryyayaren: \u00d6zg\u00fcrce \u015fark\u0131 s\u00f6yleyebilmek i\u00e7in daha ka\u00e7 can verilmesi laz\u0131m #SesiDuy\u0130brahimYA\u015eASIN",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                "indices": [
+                    79,
+                    101
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "deryyayaren",
+                "name": "Derya",
+                "id": 1234063083036913665,
+                "id_str": "1234063083036913665",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1246755032344772608,
+        "id_str": "1246755032344772608",
+        "name": "Ahmet Y\u0131lmaz EREM",
+        "screen_name": "A10Erm",
+        "location": "Tatvan, Bitlis",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 140,
+        "friends_count": 144,
+        "listed_count": 0,
+        "created_at": "Sun Apr 05 11:02:38 +0000 2020",
+        "favourites_count": 1475,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256702781940998144/oZTrP9Au_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256702781940998144/oZTrP9Au_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246755032344772608/1588375228",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 23:13:09 +0000 2020",
+        "id": 1256723430050877442,
+        "id_str": "1256723430050877442",
+        "text": "\u00d6zg\u00fcrce \u015fark\u0131 s\u00f6yleyebilmek i\u00e7in daha ka\u00e7 can verilmesi laz\u0131m #SesiDuy\u0130brahimYA\u015eASIN",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYA\u015eASIN",
+                    "indices": [
+                        62,
+                        84
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1234063083036913665,
+            "id_str": "1234063083036913665",
+            "name": "Derya",
+            "screen_name": "deryyayaren",
+            "location": "",
+            "description": "freewomen",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 23,
+            "friends_count": 95,
+            "listed_count": 0,
+            "created_at": "Sun Mar 01 10:29:16 +0000 2020",
+            "favourites_count": 208,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256734019108159488/TISoDQvM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256734019108159488/TISoDQvM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234063083036913665/1585606406",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "tr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

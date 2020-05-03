@@ -1,0 +1,135 @@
+{
+    "created_at": "Sun May 03 00:42:31 +0000 2020",
+    "id": 1256745922492534784,
+    "id_str": "1256745922492534784",
+    "text": "E n\u00e3o h\u00e1 tempo que volte amor... Vamos viver tudo que h\u00e1 pra viver, vamos nos permitir. \u2764\ufe0f #LIVELULU",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LIVELULU",
+                "indices": [
+                    91,
+                    100
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 26262276,
+        "id_str": "26262276",
+        "name": "Feer",
+        "screen_name": "FeerMedeiros",
+        "location": "S\u00e3o Paulo, Brasil",
+        "description": "CORINTHIANS!",
+        "url": "https://t.co/UVifDNzKig",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/UVifDNzKig",
+                        "expanded_url": "http://www.facebook.com/FeeerMedeiros",
+                        "display_url": "facebook.com/FeeerMedeiros",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1569,
+        "friends_count": 1093,
+        "listed_count": 19,
+        "created_at": "Tue Mar 24 15:56:11 +0000 2009",
+        "favourites_count": 31750,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 46766,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1117908042522271744/xvZ9nkWZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117908042522271744/xvZ9nkWZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26262276/1463575791",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "32e64dedd065063f",
+        "url": "https://api.twitter.com/1.1/geo/id/32e64dedd065063f.json",
+        "place_type": "city",
+        "name": "Osasco",
+        "full_name": "Osasco, Brasil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -46.821862,
+                        -23.607363
+                    ],
+                    [
+                        -46.747106,
+                        -23.607363
+                    ],
+                    [
+                        -46.747106,
+                        -23.459503
+                    ],
+                    [
+                        -46.821862,
+                        -23.459503
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}

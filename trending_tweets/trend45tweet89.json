@@ -1,0 +1,381 @@
+{
+    "created_at": "Sun May 03 00:40:16 +0000 2020",
+    "id": 1256745356274151425,
+    "id_str": "1256745356274151425",
+    "text": "RT @cesuradalet: #SesiDuy\u0130brahimYASASIN \n\u00d6ld\u00fcrmeyi de\u011fil,\nYa\u015fatmay\u0131 se\u00e7in.",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SesiDuy\u0130brahimYASASIN",
+                "indices": [
+                    17,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cesuradalet",
+                "name": "Kemal Karanfil",
+                "id": 2918296534,
+                "id_str": "2918296534",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "tr"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4179131757,
+        "id_str": "4179131757",
+        "name": "hicran",
+        "screen_name": "NeHazinBirEkim",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 477,
+        "friends_count": 326,
+        "listed_count": 0,
+        "created_at": "Fri Nov 13 14:01:36 +0000 2015",
+        "favourites_count": 9042,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11376,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239996927216943105/jec4cr1j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239996927216943105/jec4cr1j_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat May 02 19:28:33 +0000 2020",
+        "id": 1256666908566437893,
+        "id_str": "1256666908566437893",
+        "text": "#SesiDuy\u0130brahimYASASIN \n\u00d6ld\u00fcrmeyi de\u011fil,\nYa\u015fatmay\u0131 se\u00e7in. https://t.co/ZcOUozbIKu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SesiDuy\u0130brahimYASASIN",
+                    "indices": [
+                        0,
+                        22
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ZcOUozbIKu",
+                    "expanded_url": "https://twitter.com/zeyzey_72/status/1256648062770073605",
+                    "display_url": "twitter.com/zeyzey_72/stat\u2026",
+                    "indices": [
+                        58,
+                        81
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "tr"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2918296534,
+            "id_str": "2918296534",
+            "name": "Kemal Karanfil",
+            "screen_name": "cesuradalet",
+            "location": "",
+            "description": "Proje hakim olmay\u0131 reddeden Sulh Ceza Hakimi, Former Judge,\n\u00dcst\u00fcnlerin de\u011fil, HUKUKUN \u00dcST\u00dcNL\u00dc\u011e\u00dc,\nTarafs\u0131z ve Ba\u011f\u0131ms\u0131z Yarg\u0131",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 28597,
+            "friends_count": 2204,
+            "listed_count": 47,
+            "created_at": "Fri Dec 12 19:25:20 +0000 2014",
+            "favourites_count": 45763,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10683,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205369929589043200/u-L-lXoe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205369929589043200/u-L-lXoe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2918296534/1569437901",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1256648062770073605,
+        "quoted_status_id_str": "1256648062770073605",
+        "quoted_status": {
+            "created_at": "Sat May 02 18:13:40 +0000 2020",
+            "id": 1256648062770073605,
+            "id_str": "1256648062770073605",
+            "text": "Helinim gitti \nMustafa da\n\u0130brahim G\u0130TMES\u0130N\n\nT\u00dcRK\u00dcLER SUSMASIN\u203c\n\n#SesiDuyIbrahimYASASIN https://t.co/2xnY8Vfqrr",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SesiDuyIbrahimYASASIN",
+                        "indices": [
+                            64,
+                            86
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1256648048375205889,
+                        "id_str": "1256648048375205889",
+                        "indices": [
+                            87,
+                            110
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXCCvfMXkAEjmvO.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXCCvfMXkAEjmvO.jpg",
+                        "url": "https://t.co/2xnY8Vfqrr",
+                        "display_url": "pic.twitter.com/2xnY8Vfqrr",
+                        "expanded_url": "https://twitter.com/zeyzey_72/status/1256648062770073605/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 358,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 358,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 338,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1256648048375205889,
+                        "id_str": "1256648048375205889",
+                        "indices": [
+                            87,
+                            110
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EXCCvfMXkAEjmvO.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EXCCvfMXkAEjmvO.jpg",
+                        "url": "https://t.co/2xnY8Vfqrr",
+                        "display_url": "pic.twitter.com/2xnY8Vfqrr",
+                        "expanded_url": "https://twitter.com/zeyzey_72/status/1256648062770073605/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 358,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 358,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 338,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "tr"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1191765372032208897,
+                "id_str": "1191765372032208897",
+                "name": "ZEYZEY",
+                "screen_name": "zeyzey_72",
+                "location": " \u00calih",
+                "description": "BAT\u00dc #g\u00fclistandokunerde\n           \n\n \nhttps://t.co/UBqPp3iyiH",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/UBqPp3iyiH",
+                                "expanded_url": "http://antisayac.com",
+                                "display_url": "antisayac.com",
+                                "indices": [
+                                    39,
+                                    62
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1362,
+                "friends_count": 933,
+                "listed_count": 0,
+                "created_at": "Tue Nov 05 17:13:13 +0000 2019",
+                "favourites_count": 2392,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1280,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1253046825491337216/OldDQ3N4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253046825491337216/OldDQ3N4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1191765372032208897/1587036398",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 348,
+            "favorite_count": 1059,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "tr"
+        },
+        "retweet_count": 136,
+        "favorite_count": 200,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1256648062770073605,
+    "quoted_status_id_str": "1256648062770073605",
+    "retweet_count": 136,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "tr"
+}

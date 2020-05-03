@@ -1,0 +1,135 @@
+{
+    "created_at": "Sun May 03 00:42:46 +0000 2020",
+    "id": 1256745986036301830,
+    "id_str": "1256745986036301830",
+    "text": "Est\u00e1 apenas na segunda m\u00fasica e j\u00e1 uma das melhores live que j\u00e1 vi. #LiveLulu",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LiveLulu",
+                "indices": [
+                    68,
+                    77
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 49676037,
+        "id_str": "49676037",
+        "name": "Lanielly Silva \u26a1\ufe0f",
+        "screen_name": "lanysilva",
+        "location": "Recife, Pernambuco, Brasil",
+        "description": "",
+        "url": "https://t.co/lGDMKJxo02",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/lGDMKJxo02",
+                        "expanded_url": "http://instagram.com/lanielly.silva",
+                        "display_url": "instagram.com/lanielly.silva",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 328,
+        "friends_count": 282,
+        "listed_count": 4,
+        "created_at": "Mon Jun 22 16:17:21 +0000 2009",
+        "favourites_count": 624,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11776,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248742784732971009/aLYC7GGl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248742784732971009/aLYC7GGl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49676037/1586128997",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "f207b85be9f1513e",
+        "url": "https://api.twitter.com/1.1/geo/id/f207b85be9f1513e.json",
+        "place_type": "city",
+        "name": "Recife",
+        "full_name": "Recife, Brazil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -35.019805,
+                        -8.157554
+                    ],
+                    [
+                        -34.858893,
+                        -8.157554
+                    ],
+                    [
+                        -34.858893,
+                        -7.929652
+                    ],
+                    [
+                        -35.019805,
+                        -7.929652
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+}
